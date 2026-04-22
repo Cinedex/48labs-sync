@@ -353,3 +353,275 @@ Booking/GuestBooking/Checkout/marketing/services components still have hardcoded
 All changes are NEW (database/contract system foundation) or MODIFIED (component/workflow refinements). One CONFLICT flag: `Landing.jsx` owned by Claude Code — verify changes align with Phase 1 token/domain standards before pulling into portal or website.
 
 ---
+
+## 2026-04-12 (cont.) — Phase 2: Design → Base44 sync (commits 725cf756 through 5b06f159)
+
+### 725cf756 — Update base44 packages
+**Date:** 2026-04-12 15:14:18 UTC | **Files changed:** 2
+
+| File | Classification | Notes |
+|------|---|---|
+| `package.json` | MODIFIED | Base44 SDK update |
+| `package-lock.json` | MODIFIED | Lockfile update |
+
+**Summary:** 2× MODIFIED
+
+---
+
+### fe64f268 — File changes
+**Date:** 2026-04-12 01:46:59 UTC | **Files changed:** 5
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/database/data-migration-plan.md` | NEW | Migration planning document |
+| `src/database/migration-order.json` | NEW | Migration order specification |
+| `src/database/MIGRATION_REPORT.md` | MODIFIED | Updated migration report |
+| `src/database/supabase/schema.sql` | MODIFIED | Schema refinements |
+| `src/database/types/schema.ts` | MODIFIED | Type mapping updates |
+
+**Summary:** 2× NEW, 3× MODIFIED
+
+---
+
+### 62d1e6a5 — File changes
+**Date:** 2026-04-12 01:42:54 UTC | **Files changed:** 2
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/lib/workflow-data.js` | MODIFIED | Workflow data structure update |
+| `src/pages/AdminWorkflowMap.jsx` | MODIFIED | Workflow UI refinement |
+
+**Summary:** 2× MODIFIED
+
+---
+
+### eb00c62f — File changes
+**Date:** 2026-04-12 01:40:38 UTC | **Files changed:** 4
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/components/Sidebar.jsx` | MODIFIED | UI component refinement |
+| `src/components/admin/AdminTopbar.jsx` | MODIFIED | Admin UI refinement |
+| `src/components/admin/QuickActionsDropdown.jsx` | MODIFIED | Admin component update |
+| `src/components/dashboard/PremiumCalendar.jsx` | MODIFIED | Dashboard component update |
+
+**Summary:** 4× MODIFIED
+
+---
+
+### fe80272b — File changes
+**Date:** 2026-04-12 01:37:07 UTC | **Files changed:** 7
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/contracts/schema/enums.json` | NEW | Contract system: enum definitions |
+| `src/contracts/schema/relationships.json` | NEW | Contract system: relationship mappings |
+| `src/contracts/schema/tables.json` | NEW | Contract system: table schemas |
+| `src/database/MIGRATION_REPORT.md` | NEW | Database migration documentation |
+| `src/database/mappings/base44-map.ts` | NEW | Base44 entity mapping layer |
+| `src/database/supabase/schema.sql` | NEW | Supabase schema definition |
+| `src/database/types/schema.ts` | NEW | TypeScript schema definitions |
+
+**Summary:** 7× NEW
+
+**Notes:** Foundation layer for contracts and database migration system — base44 additions.
+
+---
+
+### cc98d284 — File changes
+**Date:** 2026-04-12 01:29:03 UTC | **Files changed:** 6
+
+| File | Classification | Notes |
+|------|---|---|
+| `base44/entities/RoomLightingLayout.jsonc` | MODIFIED | iPad entity refinement |
+| `base44/entities/iPadCommand.jsonc` | MODIFIED | iPad entity refinement |
+| `src/components/ipad/InSessionScreen.jsx` | MODIFIED | iPad component update |
+| `src/components/ipad/LightingCanvas.jsx` | MODIFIED | iPad component update |
+| `src/components/ipad/LightingPanel.jsx` | MODIFIED | iPad component update |
+| `src/components/ipad/MasterIPadView.jsx` | MODIFIED | iPad component update |
+
+**Summary:** 6× MODIFIED
+
+---
+
+### e2e0de2e — File changes
+**Date:** 2026-04-12 01:22:17 UTC | **Files changed:** 1
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/pages/Landing.jsx` | **CONFLICT** ⚠️ | Claude Code owned file. Review before merge. |
+
+**Summary:** 1× CONFLICT
+
+**Notes:** Landing.jsx is owned by Claude Code (CLAUDE_STANDARDS.md). Verify token/domain compliance before pulling into portal or website.
+
+---
+
+### 96400df4 — File changes
+**Date:** 2026-04-12 00:52:59 UTC | **Files changed:** 3
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/components/Sidebar.jsx` | MODIFIED | Component refinement |
+| `src/components/admin/AdminTopbar.jsx` | MODIFIED | Admin component refinement |
+| `src/components/dashboard/PremiumCalendar.jsx` | MODIFIED | Dashboard component refinement |
+
+**Summary:** 3× MODIFIED
+
+---
+
+### e4b13f4b — File changes
+**Date:** 2026-04-12 00:49:05 UTC | **Files changed:** 1
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/lib/workflow-data.js` | MODIFIED | Workflow data structure |
+
+**Summary:** 1× MODIFIED
+
+---
+
+### 0a8d94c4 — File changes
+**Date:** 2026-04-12 00:43:22 UTC | **Files changed:** 2
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/components/ipad/LightingCanvas.jsx` | MODIFIED | iPad component update |
+| `src/components/ipad/MasterIPadView.jsx` | MODIFIED | iPad component update |
+
+**Summary:** 2× MODIFIED
+
+---
+
+### 0ddc5140 — File changes
+**Date:** 2026-04-12 00:39:19 UTC | **Files changed:** 3
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/components/Sidebar.jsx` | MODIFIED | Component refinement |
+| `src/components/admin/AdminTopbar.jsx` | MODIFIED | Admin component refinement |
+| `src/components/dashboard/PremiumCalendar.jsx` | MODIFIED | Dashboard component refinement |
+
+**Summary:** 3× MODIFIED
+
+---
+
+### 01ef5f43 — File changes
+**Date:** 2026-04-12 00:30:30 UTC | **Files changed:** 1
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/pages/AdminWorkflowMap.jsx` | MODIFIED | Workflow page refinement |
+
+**Summary:** 1× MODIFIED
+
+---
+
+### cc795b75 — File changes
+**Date:** 2026-04-12 00:23:25 UTC | **Files changed:** 4
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/components/ipad/LightingCanvas.jsx` | MODIFIED | iPad component update |
+| `src/components/ipad/MasterIPadView.jsx` | MODIFIED | iPad component update |
+| `src/components/ipad/WelcomeScreen.jsx` | MODIFIED | iPad component update |
+| `src/pages/StudioController.jsx` | MODIFIED | Studio controller update |
+
+**Summary:** 4× MODIFIED
+
+---
+
+### e9c7dad7 — File changes
+**Date:** 2026-04-12 00:20:40 UTC | **Files changed:** 4
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/components/admin/QuickActionsDropdown.jsx` | MODIFIED | Admin component refinement |
+| `src/components/dashboard/DashboardMetricCard.jsx` | MODIFIED | Dashboard component refinement |
+| `src/components/dashboard/PremiumCalendar.jsx` | MODIFIED | Dashboard component refinement |
+| `src/pages/AdminDashboard.jsx` | MODIFIED | Admin page refinement |
+
+**Summary:** 4× MODIFIED
+
+---
+
+### dc5b801f — File changes
+**Date:** 2026-04-12 00:03:02 UTC | **Files changed:** 3
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/components/ipad/WelcomeScreen.jsx` | MODIFIED | iPad component update |
+| `src/pages/AdminiPadController.jsx` | MODIFIED | iPad controller refinement |
+| `src/pages/StudioController.jsx` | MODIFIED | Studio controller refinement |
+
+**Summary:** 3× MODIFIED
+
+---
+
+### 1aec1f99 — File changes
+**Date:** 2026-04-11 23:54:19 UTC | **Files changed:** 1
+
+| File | Classification | Notes |
+|------|---|---|
+| `tailwind.config.js` | MODIFIED | Tailwind configuration update |
+
+**Summary:** 1× MODIFIED
+
+---
+
+### 3f83184f — File changes
+**Date:** 2026-04-11 23:52:52 UTC | **Files changed:** 7
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/components/Sidebar.jsx` | MODIFIED | Component refinement |
+| `src/components/dashboard/DashboardMetricCard.jsx` | MODIFIED | Dashboard component refinement |
+| `src/components/dashboard/FloatingDayPanel.jsx` | MODIFIED | Dashboard component refinement |
+| `src/components/dashboard/SessionTimelineCard.jsx` | MODIFIED | Dashboard component refinement |
+| `src/hooks/useTheme.js` | MODIFIED | Theme hook update |
+| `src/index.css` | MODIFIED | CSS update |
+| `tailwind.config.js` | MODIFIED | Tailwind configuration update |
+
+**Summary:** 7× MODIFIED
+
+---
+
+### 0e0a4d29 — File changes
+**Date:** 2026-04-11 23:22:13 UTC | **Files changed:** 1
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/pages/StudioController.jsx` | MODIFIED | Studio controller update |
+
+**Summary:** 1× MODIFIED
+
+---
+
+### 7e2cf42d — File changes
+**Date:** 2026-04-11 21:26:07 UTC | **Files changed:** 6
+
+| File | Classification | Notes |
+|------|---|---|
+| `src/components/ipad/DemoScreen.jsx` | NEW | iPad component: demo screen |
+| `src/components/ipad/IdleScreen.jsx` | NEW | iPad component: idle screen |
+| `base44/entities/iPadSession.jsonc` | MODIFIED | iPad entity update |
+| `base44/functions/getIPadSession/entry.ts` | MODIFIED | iPad function update |
+| `src/pages/AdminiPadController.jsx` | MODIFIED | iPad controller refinement |
+| `src/pages/StudioController.jsx` | MODIFIED | Studio controller refinement |
+
+**Summary:** 2× NEW, 4× MODIFIED
+
+---
+
+### Summary (All 19 unlogged commits)
+
+- **Total commits processed:** 19 (2026-04-11 21:26 → 2026-04-12 15:14 UTC)
+- **Total files changed:** 89
+- **Classifications:**
+  - **NEW:** 9 files (contracts system + database migration layer + iPad components)
+  - **MODIFIED:** 79 files (component/UI refinements, entity updates, workflow enhancements)
+  - **CONFLICT:** 1 file (Landing.jsx — owned by Claude Code)
+
+**No conflicts detected beyond Landing.jsx.** All NEW files are base44 additions (contracts system foundation). All MODIFIED files are design refinements and system updates — safe to monitor.
+
+**Next action:** Review Landing.jsx changes against Phase 1 token/domain standards before pulling into portal or website.

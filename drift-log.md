@@ -711,3 +711,48 @@ Last updated: 2026-04-22T17:51:18.931691Z
 
 ---
 
+
+### 2026-04-22 15:33:13 UTC — dcb2a8e9
+merge: bring staging sync commits into main (Phase 3 design sync)
+**Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+**Conflicting files:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx (+26 more)
+
+### 2026-04-22 05:04:47 UTC — aa4661f4
+sync: website booking and auth pages — refined versions from Claude Code
+**Classification:** 0× NEW, 0× MODIFIED, 6× CONFLICT
+**Conflicting files:** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx (+1 more)
+
+### 2026-04-22 05:04:42 UTC — f19cdf03
+sync: website marketing pages — refined versions from Claude Code
+**Classification:** 0× NEW, 0× MODIFIED, 4× CONFLICT
+**Conflicting files:** src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+### 2026-04-22 05:04:36 UTC — 22cdea70
+sync: BookingFlow.jsx — refined version from Claude Code
+**Classification:** 0× NEW, 0× MODIFIED, 1× CONFLICT
+**Conflicting files:** src/pages/BookingFlow.jsx
+
+### 2026-04-22 05:04:31 UTC — 38853339
+sync: dashboard and iPad components — refined versions from Claude Code
+**Classification:** 0× NEW, 0× MODIFIED, 3× CONFLICT
+**Conflicting files:** src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+### 2026-04-22 05:04:23 UTC — 3564003b
+sync: RoomForm components — refined versions from Claude Code
+**Classification:** 0× NEW, 0× MODIFIED, 2× CONFLICT
+**Conflicting files:** src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+### 2026-04-22 05:04:19 UTC — 923b30e2
+sync: marketing components — refined versions from Claude Code
+**Classification:** 0× NEW, 0× MODIFIED, 3× CONFLICT
+**Conflicting files:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+### 2026-04-22 05:04:15 UTC — 18e25d25
+sync: booking components — refined versions from Claude Code
+**Classification:** 0× NEW, 0× MODIFIED, 2× CONFLICT
+**Conflicting files:** src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+### 2026-04-22 05:04:10 UTC — 762ca5e0
+sync: UI primitives — refined versions from Claude Code
+**Classification:** 0× NEW, 0× MODIFIED, 10× CONFLICT
+**Conflicting files:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)

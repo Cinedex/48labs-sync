@@ -2938,3 +2938,43 @@ Conflict files: src/components/MarketingFooter.jsx, src/components/MarketingHead
 **Files changed:** 35
 **Classification:** 3× NEW, 32× MODIFIED, 31× CONFLICT
 **Conflicts:** 31 files (first 10): src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx, src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+- **dcb2a8e9** (2026-04-22): merge: bring staging sync commits into main (Phase 3 design sync)
+  Files: 35 | 3× NEW, 1× MODIFIED, 31× CONFLICT
+  Major phase 3 sync merge
+
+- **aa4661f4** (2026-04-22): sync: website booking and auth pages
+  Files: 6 | 6× CONFLICT
+  DynamicCreditsPage, DynamicMembershipsPage, GuestBuyCredits
+
+- **f19cdf03** (2026-04-22): sync: website marketing pages
+  Files: 4 | 4× CONFLICT
+  Landing, RoomProfile, Services, Studios
+
+- **22cdea70** (2026-04-22): sync: BookingFlow.jsx
+  Files: 1 | 1× CONFLICT
+  BookingFlow.jsx
+
+- **38853339** (2026-04-22): sync: dashboard and iPad components
+  Files: 3 | 3× CONFLICT
+  MonthCalendar, FiveMinWarning, ThankYouScreen
+
+- **3564003b** (2026-04-22): sync: RoomForm components
+  Files: 2 | 2× CONFLICT
+  RoomStudioPreview, WebsitePreviewCard
+
+- **923b30e2** (2026-04-22): sync: marketing components
+  Files: 3 | 3× CONFLICT
+  MarketingHeader, MarketingFooter
+
+- **18e25d25** (2026-04-22): sync: booking components
+  Files: 2 | 2× CONFLICT
+  BookingDateTimeStep, ClientSelectStep
+
+- **762ca5e0** (2026-04-22): sync: UI primitives
+  Files: 10 | 10× CONFLICT
+  EmptyState, FilterPills, PortalDrawer, TabBar, button, Spinner
+
+- **47b2dd66** (2026-04-20): feat: move design site to cloudflare pages
+  Files: 4 | 3× NEW, 1× MODIFIED
+  Cloudflare Pages migration
+

@@ -162,3 +162,32 @@ Last updated: 2026-04-22T17:51:18.931691Z
 **Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
 **Files:** 35 changed (3 NEW, 1 MODIFIED, 31 CONFLICT)
 
+**2026-04-22 dcb2a8e9** — merge: bring staging sync commits into main (Phase 3 design sync)
+  NEW: 3, MODIFIED: 1, CONFLICT: 31
+
+**2026-04-22 aa4661f4** — sync: website booking and auth pages
+  NEW: 0, MODIFIED: 0, CONFLICT: 6
+
+**2026-04-22 f19cdf03** — sync: website marketing pages
+  NEW: 0, MODIFIED: 0, CONFLICT: 4
+
+**2026-04-22 22cdea70** — sync: BookingFlow.jsx
+  NEW: 0, MODIFIED: 0, CONFLICT: 1
+
+**2026-04-22 38853339** — sync: dashboard and iPad components
+  NEW: 0, MODIFIED: 0, CONFLICT: 3
+
+**2026-04-22 3564003b** — sync: RoomForm components
+  NEW: 0, MODIFIED: 0, CONFLICT: 2
+
+**2026-04-22 923b30e2** — sync: marketing components
+  NEW: 0, MODIFIED: 0, CONFLICT: 3
+
+**2026-04-22 18e25d25** — sync: booking components
+  NEW: 0, MODIFIED: 0, CONFLICT: 2
+
+**2026-04-22 762ca5e0** — sync: UI primitives
+  NEW: 0, MODIFIED: 0, CONFLICT: 10
+
+**2026-04-20 47b2dd66** — feat: move design site to cloudflare pages
+  NEW: 3, MODIFIED: 1, CONFLICT: 0

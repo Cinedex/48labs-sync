@@ -166,3 +166,149 @@ Booking/GuestBooking/Checkout/marketing/services components still have hardcoded
 | `src/components/ProtectedRoute.jsx` | added | **NEW** | file not in manifest and was added (+37/-0) |
 
 **Summary:** 2× MODIFIED, 1× NEW
+---
+
+## 2026-04-12 00:49 UTC | `e4b13f4b`
+
+**Commit:** `e4b13f4b4ffa56a6aa10c1852acc02ba5fe125c3`  
+**Message:** File changes  
+
+| File | Git Status | Classification | Notes |
+|------|-----------|---------------|-------|
+| `src/lib/workflow-data.js` | — | **MODIFIED** | Component library update |
+
+**Summary:** 1× MODIFIED
+
+---
+
+## 2026-04-12 00:52 UTC | `96400df4`
+
+**Commit:** `96400df49aa564844fdc690640b9581b15bdd6ff`  
+**Message:** File changes  
+
+| File | Git Status | Classification | Notes |
+|------|-----------|---------------|-------|
+| `src/components/Sidebar.jsx` | — | **MODIFIED** | Layout component refinement |
+| `src/components/admin/AdminTopbar.jsx` | — | **MODIFIED** | Admin UI update |
+| `src/components/dashboard/PremiumCalendar.jsx` | — | **MODIFIED** | Calendar component enhancement |
+
+**Summary:** 3× MODIFIED
+
+---
+
+## 2026-04-12 01:22 UTC | `e2e0de2e`
+
+**Commit:** `e2e0de2e9943d041f64e0079bcb70868de708445`  
+**Message:** File changes  
+
+| File | Git Status | Classification | Notes |
+|------|-----------|---------------|-------|
+| `src/pages/Landing.jsx` | — | **MODIFIED** | Marketing page content update |
+
+**Summary:** 1× MODIFIED
+
+---
+
+## 2026-04-12 01:29 UTC | `cc98d284`
+
+**Commit:** `cc98d2849c95fef0146959877abacb2938c2ef5d`  
+**Message:** File changes  
+
+| File | Git Status | Classification | Notes |
+|------|-----------|---------------|-------|
+| `base44/entities/RoomLightingLayout.jsonc` | — | **NEW** | New Base44 entity schema |
+| `base44/entities/iPadCommand.jsonc` | — | **NEW** | New Base44 entity schema |
+| `src/components/ipad/InSessionScreen.jsx` | — | **MODIFIED** | iPad UI component update |
+| `src/components/ipad/LightingCanvas.jsx` | — | **MODIFIED** | Lighting control component |
+| `src/components/ipad/LightingPanel.jsx` | — | **MODIFIED** | Lighting panel enhancement |
+| `src/components/ipad/MasterIPadView.jsx` | — | **MODIFIED** | iPad main view refactor |
+
+**Summary:** 2× NEW, 4× MODIFIED
+
+**Notes:** Base44 added new entity schemas for room lighting and iPad commands. Associated component implementations updated to integrate with new schema.
+
+---
+
+## 2026-04-12 01:37 UTC | `fe80272b`
+
+**Commit:** `fe80272bfb6055d2e1026886589661cc83769a3f`  
+**Message:** File changes  
+
+| File | Git Status | Classification | Notes |
+|------|-----------|---------------|-------|
+| `src/contracts/schema/enums.json` | — | **NEW** | New Base44 schema contract |
+| `src/contracts/schema/relationships.json` | — | **NEW** | New Base44 schema contract |
+| `src/contracts/schema/tables.json` | — | **NEW** | New Base44 schema contract |
+| `src/database/MIGRATION_REPORT.md` | — | **NEW** | Database migration documentation |
+| `src/database/mappings/base44-map.ts` | — | **NEW** | Base44 entity mapping layer |
+| `src/database/supabase/schema.sql` | — | **NEW** | Supabase schema definition |
+| `src/database/types/schema.ts` | — | **NEW** | TypeScript schema type definitions |
+
+**Summary:** 7× NEW
+
+**Notes:** Major database foundation layer added. Includes schema contracts, migration docs, Base44 entity mappings, and Supabase schema. TypeScript types for full type safety.
+
+---
+
+## 2026-04-12 01:46 UTC | `fe64f268`
+
+**Commit:** `fe64f268e2f246d72f201c0adac867d790e898e8`  
+**Message:** File changes  
+
+| File | Git Status | Classification | Notes |
+|------|-----------|---------------|-------|
+| `src/database/MIGRATION_REPORT.md` | — | **NEW** | Migration planning document |
+| `src/database/data-migration-plan.md` | — | **NEW** | Data migration strategy |
+| `src/database/migration-order.json` | — | **NEW** | Migration sequence definition |
+| `src/database/supabase/schema.sql` | — | **NEW** | Supabase schema update |
+| `src/database/types/schema.ts` | — | **NEW** | TypeScript type update |
+
+**Summary:** 5× NEW
+
+**Notes:** Database migration planning layer. Includes data migration strategy, sequence order, and schema/type updates.
+
+---
+
+## 2026-04-12 01:40 UTC | `eb00c62f`
+
+**Commit:** `eb00c62f1af37502b179c033273c902adccd4c7a`  
+**Message:** File changes  
+
+| File | Git Status | Classification | Notes |
+|------|-----------|---------------|-------|
+| `src/components/Sidebar.jsx` | — | **MODIFIED** | Layout refinement |
+| `src/components/admin/AdminTopbar.jsx` | — | **MODIFIED** | Admin header update |
+| `src/components/admin/QuickActionsDropdown.jsx` | — | **MODIFIED** | Admin action menu |
+| `src/components/dashboard/PremiumCalendar.jsx` | — | **MODIFIED** | Premium calendar feature |
+
+**Summary:** 4× MODIFIED
+
+---
+
+## 2026-04-12 01:42 UTC | `62d1e6a5`
+
+**Commit:** `62d1e6a5edcaf41329af9b5f5a8662f0fb92c7a1`  
+**Message:** File changes  
+
+| File | Git Status | Classification | Notes |
+|------|-----------|---------------|-------|
+| `src/lib/workflow-data.js` | — | **MODIFIED** | Workflow data model update |
+| `src/pages/AdminWorkflowMap.jsx` | — | **MODIFIED** | Admin workflow visualization |
+
+**Summary:** 2× MODIFIED
+
+---
+
+## 2026-04-12 15:14 UTC | `725cf756`
+
+**Commit:** `725cf75610745a0dcb530f28afef0174826e5d44`  
+**Message:** Update base44 packages  
+
+| File | Git Status | Classification | Notes |
+|------|-----------|---------------|-------|
+| `package.json` | — | **MODIFIED** | Dependency update |
+| `package-lock.json` | — | **MODIFIED** | Lockfile update |
+
+**Summary:** 2× MODIFIED
+
+**Notes:** Base44 SDK and related packages updated.

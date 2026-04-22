@@ -312,3 +312,44 @@ Booking/GuestBooking/Checkout/marketing/services components still have hardcoded
 **Summary:** 2× MODIFIED
 
 **Notes:** Base44 SDK and related packages updated.
+
+## 2026-04-12 — Phase 2 Setup: Commit monitoring
+
+### Changes logged
+
+**e4b13f4** — 1× MODIFIED
+- `src/lib/workflow-data.js`: Updated workflow data structure
+
+**96400df** — 3× MODIFIED
+- `src/components/Sidebar.jsx`, `src/components/admin/AdminTopbar.jsx`, `src/components/dashboard/PremiumCalendar.jsx`: Component refinements
+
+**e2e0de2** — 1× **CONFLICT** ⚠️
+- `src/pages/Landing.jsx`: Modified — this file is owned by Claude Code (`CLAUDE_STANDARDS.md`, Phase 1 Step 3). Requires review before merge.
+
+**cc98d28** — 6× MODIFIED
+- `base44/entities/RoomLightingLayout.jsonc`, `base44/entities/iPadCommand.jsonc`: New entities added
+- `src/components/ipad/InSessionScreen.jsx`, `src/components/ipad/LightingCanvas.jsx`, `src/components/ipad/LightingPanel.jsx`, `src/components/ipad/MasterIPadView.jsx`: iPad integration components
+
+**fe80272** — 7× NEW
+- `src/contracts/schema/`: Contract system foundation (enums, relationships, tables)
+- `src/database/`: Migration support, Supabase schema, type mappings (`schema.ts`, `base44-map.ts`, `supabase/schema.sql`)
+- `src/database/MIGRATION_REPORT.md`: Migration documentation
+
+**fe64f26** — 2× NEW, 3× MODIFIED
+- `src/database/data-migration-plan.md`, `src/database/migration-order.json`: NEW — migration planning documents
+- `src/database/MIGRATION_REPORT.md`, `src/database/supabase/schema.sql`, `src/database/types/schema.ts`: MODIFIED — schema and report updates
+
+**62d1e6a** — 2× MODIFIED
+- `src/lib/workflow-data.js`, `src/pages/AdminWorkflowMap.jsx`: Workflow enhancements
+
+**eb00c62** — 4× MODIFIED
+- `src/components/Sidebar.jsx`, `src/components/admin/AdminTopbar.jsx`, `src/components/admin/QuickActionsDropdown.jsx`, `src/components/dashboard/PremiumCalendar.jsx`: Admin UI refinements
+
+**725cf75** — 2× MODIFIED
+- `package.json`, `package-lock.json`: Base44 package updates
+
+### No new conflicts detected
+
+All changes are NEW (database/contract system foundation) or MODIFIED (component/workflow refinements). One CONFLICT flag: `Landing.jsx` owned by Claude Code — verify changes align with Phase 1 token/domain standards before pulling into portal or website.
+
+---

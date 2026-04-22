@@ -8492,3 +8492,156 @@ All changes are NEW (database/contract system foundation) or MODIFIED (component
 - **Conflicts:** EmptyState.jsx, FilterPills.jsx, PortalDrawer.jsx, SkeletonLoader.jsx, Toast.jsx, Modal.jsx, Button.jsx, Input.jsx, Card.jsx, Badge.jsx
 - **Summary:** Refined UI primitives from Claude Code. 10 conflicting base components.
 
+
+
+## 2026-04-22 15:33:13 UTC | dcb2a8e9
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+
+**Files Changed:** 35
+
+**Conflicted Files:**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx
+- src/pages/BookingFlow.jsx
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/Landing.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+- src/pages/UnifiedCheckout.jsx
+
+## 2026-04-22 05:04:47 UTC | aa4661f4
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Classification:** 6× CONFLICT
+
+**Files Changed:** 6
+
+**Conflicted Files:**
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/UnifiedCheckout.jsx
+
+## 2026-04-22 05:04:42 UTC | f19cdf03
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Classification:** 4× CONFLICT
+
+**Files Changed:** 4
+
+**Conflicted Files:**
+- src/pages/Landing.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+
+## 2026-04-22 05:04:36 UTC | 22cdea70
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Classification:** 1× CONFLICT
+
+**Files Changed:** 1
+
+**Conflicted Files:**
+- src/pages/BookingFlow.jsx
+
+## 2026-04-22 05:04:31 UTC | 38853339
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Classification:** 3× CONFLICT
+
+**Files Changed:** 3
+
+**Conflicted Files:**
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+
+## 2026-04-22 05:04:23 UTC | 3564003b
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**Classification:** 2× CONFLICT
+
+**Files Changed:** 2
+
+**Conflicted Files:**
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+## 2026-04-22 05:04:19 UTC | 923b30e2
+
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**Classification:** 3× CONFLICT
+
+**Files Changed:** 3
+
+**Conflicted Files:**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+## 2026-04-22 05:04:15 UTC | 18e25d25
+
+**Message:** sync: booking components — refined versions from Claude Code
+
+**Classification:** 2× CONFLICT
+
+**Files Changed:** 2
+
+**Conflicted Files:**
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+
+## 2026-04-22 05:04:10 UTC | 762ca5e0
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**Classification:** 10× CONFLICT
+
+**Files Changed:** 10
+
+**Conflicted Files:**
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx

@@ -1,0 +1,91 @@
+name: Design Staging → Main Check
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  check-staging-ahead:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check staging vs main in 48labs-design
+        id: check
+        env:
+          GH_TOKEN: ${{ secrets.DESIGN_REPO_PAT }}
+        run: |
+          # Compare staging and main commit counts via GitHub API
+          REPO="Cinedex/48labs-design"
+
+          AHEAD=$(gh api repos/$REPO/compare/main...staging \
+            --jq '.ahead_by')
+
+          echo "ahead_by=$AHEAD" >> $GITHUB_OUTPUT
+          echo "Staging is $AHEAD commit(s) ahead of main"
+
+      - name: Check for existing open issue
+        id: existing
+        if: steps.check.outputs.ahead_by != '0'
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_REPO_PAT }}
+        run: |
+          OPEN=$(gh issue list \
+            --repo Cinedex/48labs-sync \
+            --state open \
+            --label "staging-pending" \
+            --json number \
+            --jq 'length')
+          echo "open_count=$OPEN" >> $GITHUB_OUTPUT
+
+      - name: Open issue if staging is ahead and no issue exists
+        if: steps.check.outputs.ahead_by != '0' && steps.existing.outputs.open_count == '0'
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_REPO_PAT }}
+          AHEAD: ${{ steps.check.outputs.ahead_by }}
+        run: |
+          gh issue create \
+            --repo Cinedex/48labs-sync \
+            --title "⚠️ 48labs-design: staging is ${AHEAD} commit(s) ahead of main" \
+            --label "staging-pending" \
+            --body "## Staging → Main Merge Pending
+
+          The \`staging\` branch in **48labs-design** is **${AHEAD} commit(s) ahead of main**.
+
+          Base44 reads from \`main\`. Any refined files on \`staging\` are not visible to Base44 until merged.
+
+          ### Action required
+
+          1. Review commits on \`staging\` not on \`main\`:
+             \`\`\`
+             git log origin/main..origin/staging --oneline
+             \`\`\`
+          2. Confirm all commits are Claude Code sync commits (no unintended changes).
+          3. Merge staging → main:
+             \`\`\`
+             git checkout main && git pull origin main
+             git merge origin/staging --no-ff -m \"merge: staging sync commits into main\"
+             git push origin main
+             \`\`\`
+          4. Close this issue after merge is confirmed.
+
+          > This issue was opened automatically by the \`design-staging-check\` workflow in **48labs-sync**.
+          > It will not re-open while this issue remains open."
+
+      - name: Close stale issue if staging is now even with main
+        if: steps.check.outputs.ahead_by == '0'
+        env:
+          GH_TOKEN: ${{ secrets.SYNC_REPO_PAT }}
+        run: |
+          ISSUES=$(gh issue list \
+            --repo Cinedex/48labs-sync \
+            --state open \
+            --label "staging-pending" \
+            --json number \
+            --jq '.[].number')
+
+          for ISSUE in $ISSUES; do
+            gh issue close $ISSUE \
+              --repo Cinedex/48labs-sync \
+              --comment "Staging is now even with main — auto-closing."
+          done

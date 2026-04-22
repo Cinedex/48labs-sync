@@ -89,6 +89,28 @@ Files that exist only in `48labs-design` and are base44 prototypes, not producti
 
 ---
 
+## Rule 5 — Branch workflow for 48labs-design
+
+Claude Code always pushes refined files to the **`staging`** branch in `48labs-design`. It never pushes directly to `main`.
+
+**Why:** Base44 reads from `main`. Refined files must be reviewed before they replace what Base44 sees. Pushing to `staging` first gives the team a review window.
+
+**Merge flow:**
+1. Claude Code pushes sync commits to `staging` in `48labs-design`
+2. The `design-staging-check` workflow in `48labs-sync` opens a GitHub issue when staging gets ahead of main
+3. A human reviews the commits (`git log origin/main..origin/staging --oneline`)
+4. After approval, merge staging → main:
+   ```
+   git checkout main && git pull origin main
+   git merge origin/staging --no-ff -m "merge: staging sync commits into main"
+   git push origin main
+   ```
+5. Do **not** delete the `staging` branch — it is the permanent working branch for all Claude Code sync pushes
+
+**Never:** force-push to main, push sync commits directly to main, or delete the staging branch.
+
+---
+
 ## Decision checklist
 
 When base44 builds something new, ask:

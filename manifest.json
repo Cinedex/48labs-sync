@@ -1,0 +1,172 @@
+{
+  "version": "1.1.0",
+  "phase": 2,
+  "description": "48Labs cross-repo sync state — tracks convergence progress across 48labs-design, 48labs-website, 48labs-portal",
+  "phases": {
+    "1": {
+      "name": "Design tokens and standards convergence",
+      "status": "COMPLETE",
+      "completed": "2026-04-21",
+      "steps": {
+        "1": {
+          "name": "CSS variables and Tailwind alias parity",
+          "status": "COMPLETE",
+          "completed": "2026-04-21",
+          "changes": [
+            "48labs-website/src/index.css: added --interactive-hover to light and dark themes",
+            "48labs-website/src/index.css: updated --panel-elevated dark to #243347 (was #1E293B, same as --panel-bg)",
+            "48labs-website/tailwind.config.js: added full semantic alias layer (canvas, surface, elevated, on-surface, on-surface-secondary, on-surface-muted, border-soft, border-hard, interactive)"
+          ],
+          "notes": "Portal --panel-elevated dark remains #1E293B (intentionally not touched). Website now leads with #243347 for visual elevation distinction."
+        },
+        "2": {
+          "name": "Shared component primitives",
+          "status": "COMPLETE",
+          "completed": "2026-04-21",
+          "changes": [
+            "48labs-website/index.html: added data-theme=\"dark\" to <html> — foundational fix enabling all CSS custom property tokens to resolve",
+            "48labs-website/src/components/ui/button.jsx: outline variant updated from slate-600/slate-200/slate-700/white to border-hard/on-surface/elevated — now matches portal verbatim",
+            "48labs-website/src/components/MarketingHeader.jsx: slate-* → semantic tokens (on-surface, on-surface-secondary, on-surface-muted, border-border-soft, bg-interactive); api.entities.AppSetting → getAppSettingByKey() domain import",
+            "48labs-website/src/components/MarketingFooter.jsx: same token + domain import fixes"
+          ],
+          "notes": "All other Shadcn base components (input, select, textarea, dialog, etc.) confirmed identical between website and portal — no changes needed. Portal-specific primitives (PortalTable, PortalDrawer, TabBar, etc.) are portal-only by design."
+        },
+        "3": {
+          "name": "Website pages token compliance",
+          "status": "COMPLETE",
+          "completed": "2026-04-21",
+          "changes": [
+            "36 files: slate-950/900/800/700/600 → bg-canvas/elevated, text-on-surface/secondary/muted, border-border-soft/hard, hover:bg-interactive",
+            "6 files: gradient slate (from-slate-*, via-slate-*, to-slate-*) → from-canvas/via-elevated/to-elevated",
+            "6 files: placeholder-slate-* (v2 format) → placeholder:text-on-surface-muted",
+            "45 files: solid text-white (non-button contexts) → text-on-surface; text-white/xx opacity variants intentionally preserved (design effect on ultra-dark #0a0a0a pages)",
+            "Scope: all files in 48labs-website/src/pages/ and 48labs-website/src/components/"
+          ],
+          "notes": "Landing.jsx and GuestBooking.jsx retain text-white/xx opacity variants by design — these are intentional luminance-layering effects on bg-[#0a0a0a] pages. Build clean (exit 0)."
+        },
+        "4": {
+          "name": "Booking engine (website-facing)",
+          "status": "COMPLETE",
+          "completed": "2026-04-21",
+          "changes": [
+            "13 files: api.entities.* → direct domain imports (Room, AddOn, GlobalAddOn, Service, MembershipPlan, CreditBundle, CreditConfiguration, CreditPricingTier, PricingSettings, PricingItem, MarketingMedia, HeroSettings, Client, Invite, OperatingHours)",
+            "Modules used: @/lib/domains/pricing, @/lib/domains/system, @/lib/domains/clients, @/lib/domains/users, @/lib/domains/bookings",
+            "8 files correctly left with api import intact — they only use api.functions.invoke() which has no domain equivalent yet (processUnifiedPurchase, googleCalendarManager, getRoomAvailability, submitTourRequest, submitContactForm, createMembershipAccount)"
+          ],
+          "notes": "api.functions.invoke() calls stay until edge function equivalents are built into domain layer. Build clean (exit 0)."
+        },
+        "5": {
+          "name": "Portal pages token compliance",
+          "status": "COMPLETE",
+          "completed": "2026-04-21",
+          "changes": [
+            "9 files: remaining slate-* gradient tokens → from-canvas/via-elevated/to-elevated (Landing, RoomProfile, Services, Studios, RoomStudioPreview, WebsitePreviewCard, ThankYouScreen, FiveMinWarning)",
+            "MonthCalendar.jsx: border-t-slate-700 → border-t-border-soft (tooltip arrows)",
+            "BookingFlow.jsx: bg-white headers → bg-canvas (theme-aware surface fix)",
+            "bg-white/[0.0x] and text-white/xx opacity variants intentionally preserved (forced-dark pages: Landing, GuestBooking, About, OnboardingForm)",
+            "Decorative bg-white (toggle thumbs, document preview backgrounds, signature containers) intentionally preserved"
+          ],
+          "notes": "Portal was already largely clean from prior session. This pass cleared the remaining gradient slate tokens and the two bg-white header instances in BookingFlow. Build clean (exit 0)."
+        },
+        "6": {
+          "name": "Booking engine (portal-facing)",
+          "status": "COMPLETE",
+          "completed": "2026-04-21",
+          "changes": [],
+          "notes": "Already complete from prior session (Domain + Query Normalization CLAIM-003). Zero api.entities.* or data.entities.* calls found in portal pages or components at audit time."
+        }
+      }
+    },
+    "2": {
+      "name": "Sync layer and stability",
+      "status": "IN_PROGRESS",
+      "started": "2026-04-21",
+      "steps": {
+        "1": {
+          "name": "Write SESSION_INSTRUCTIONS.md",
+          "status": "COMPLETE",
+          "completed": "2026-04-21",
+          "owner": "claude-code",
+          "file": "48labs-sync/SESSION_INSTRUCTIONS.md",
+          "notes": "10-section document for Base44 session start. Covers all systems, token patterns, component primitives, naming conventions, architecture rules, and common mistakes."
+        },
+        "2": {
+          "name": "Write CLAUDE_STANDARDS.md",
+          "status": "COMPLETE",
+          "completed": "2026-04-21",
+          "owner": "claude-code",
+          "file": "48labs-sync/CLAUDE_STANDARDS.md",
+          "notes": "Full token reference, component pattern catalog with usage examples, naming conventions, data layer rules, token parity table."
+        },
+        "3": {
+          "name": "Write PROJECT_STATE.md",
+          "status": "COMPLETE",
+          "completed": "2026-04-21",
+          "owner": "claude-code",
+          "file": "48labs-sync/PROJECT_STATE.md",
+          "notes": "All major systems documented, recent refactors listed, deprecated patterns table, deferred items table, build status."
+        },
+        "4": {
+          "name": "Configure Base44 Superagent",
+          "status": "UNCLAIMED",
+          "owner": null,
+          "notes": "Monitor commits to 48labs-design, compare diff against manifest.json, update drift-log.md in real-time, classify changes as new/modified/conflicting."
+        },
+        "5": {
+          "name": "Push 48labs-sync to GitHub",
+          "status": "UNCLAIMED",
+          "owner": null,
+          "notes": "git init + push to https://github.com/Cinedex/48labs-sync.git (org: Cinedex). Required for Base44 to fetch SESSION_INSTRUCTIONS.md via raw URL."
+        }
+      }
+    }
+  },
+  "sync_files": {
+    "SESSION_INSTRUCTIONS.md": {
+      "owner": "claude-code",
+      "raw_url": "https://raw.githubusercontent.com/Cinedex/48labs-sync/main/SESSION_INSTRUCTIONS.md",
+      "last_updated": "2026-04-21",
+      "purpose": "Base44 fetches this at every session start. What exists, what not to rebuild, current patterns."
+    },
+    "CLAUDE_STANDARDS.md": {
+      "owner": "claude-code",
+      "raw_url": "https://raw.githubusercontent.com/Cinedex/48labs-sync/main/CLAUDE_STANDARDS.md",
+      "last_updated": "2026-04-21",
+      "purpose": "Full token reference, component patterns, naming rules."
+    },
+    "PROJECT_STATE.md": {
+      "owner": "claude-code",
+      "raw_url": "https://raw.githubusercontent.com/Cinedex/48labs-sync/main/PROJECT_STATE.md",
+      "last_updated": "2026-04-21",
+      "purpose": "All major systems, recent refactors, deprecated items."
+    },
+    "drift-log.md": {
+      "owner": "claude-code",
+      "raw_url": "https://raw.githubusercontent.com/Cinedex/48labs-sync/main/drift-log.md",
+      "last_updated": "2026-04-21",
+      "purpose": "Human-readable record of what drifted between repos and how it was resolved."
+    },
+    "manifest.json": {
+      "owner": "claude-code",
+      "raw_url": "https://raw.githubusercontent.com/Cinedex/48labs-sync/main/manifest.json",
+      "last_updated": "2026-04-21",
+      "purpose": "Machine-readable phase/step state, sync file registry, token parity table."
+    }
+  },
+  "token_parity": {
+    "css_vars": {
+      "48labs-design": "baseline (read-only reference)",
+      "48labs-portal": "baseline + --interactive-hover + status colors",
+      "48labs-website": "baseline + --interactive-hover + --panel-elevated #243347 dark"
+    },
+    "tailwind_aliases": {
+      "48labs-design": "raw tokens only",
+      "48labs-portal": "raw tokens + full semantic layer + status colors + interactive",
+      "48labs-website": "raw tokens + full semantic layer + interactive (no status colors)"
+    }
+  },
+  "build_status": {
+    "48labs-website": { "status": "clean", "exit_code": 0, "verified": "2026-04-21" },
+    "48labs-portal": { "status": "clean", "exit_code": 0, "verified": "2026-04-21", "notes": "Pre-existing Vite chunking warnings only" }
+  }
+}

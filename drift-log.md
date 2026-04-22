@@ -134,6 +134,29 @@ Booking/GuestBooking/Checkout/marketing/services components still have hardcoded
 
 ---
 
+## 2026-04-22 — Superagent conflict review: Landing.jsx + ProtectedRoute.jsx
+
+### Items reviewed
+
+**`src/pages/Landing.jsx` — CONFLICT flag from commit `e2e0de2e`**
+- **What base44 changed**: Added `base44.auth.isAuthenticated()` redirect logic (`useNavigate`, async auth check on mount). Also still uses `base44.entities.Room`, `base44.entities.MarketingMedia`, `base44.entities.HeroSettings` — old facade pattern.
+- **Website status**: Already ahead. `48labs-website/src/pages/Landing.jsx` has domain imports (`Room`, `MarketingMedia`, `HeroSettings` from `@/lib/domains/*`), no auth redirect (correct — website auth is router-level, not page-level), and correct forced-dark token exceptions.
+- **Resolution**: No action. Website version is authoritative. Conflict resolved by comparison — design's auth addition does not apply to website architecture.
+
+**`src/components/ProtectedRoute.jsx` — NEW from commit `5b06f15`**
+- **What base44 added**: 37-line auth guard using `useAuth()` + `Outlet`. Shows loading spinner, handles `user_not_registered` error, redirects unauthenticated.
+- **Portal status**: Portal already has `src/components/auth/AuthGate.jsx` — a complete superset. `AuthGate` handles loading (full-screen status screen), unauthenticated (redirect to login with return URL), account setup incomplete (error screen with retry/logout), and admin role enforcement. Uses semantic tokens throughout.
+- **Resolution**: No migration needed. `ProtectedRoute.jsx` from design is redundant — `AuthGate.jsx` covers all the same cases plus more.
+
+### Remaining known drift (unchanged)
+
+| Item | Status |
+|---|---|
+| `api.functions.invoke()` calls | Stay until edge functions get domain wrappers |
+| Portal `--panel-elevated` dark | `#1E293B` — website leads at `#243347` — deferred |
+
+---
+
 ## Template
 
 ```

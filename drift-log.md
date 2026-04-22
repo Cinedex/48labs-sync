@@ -2195,3 +2195,427 @@ Conflict files: src/components/MarketingFooter.jsx, src/components/MarketingHead
 ## 2026-04-22 — 762ca5e
 **Message:** sync: UI primitives — refined versions from Claude Code
 **Files changed:** 0 NEW, 0 MODIFIED, 10 CONFLICT
+
+## 2026-04-11 06:00:19 UTC | e90d8ad
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 06:05:34 UTC | d6bc2b0
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 06:14:43 UTC | 405ff26
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 06:22:32 UTC | a32f6aa
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 06:23:32 UTC | c323e33
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 06:28:01 UTC | 9098ede
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 06:36:48 UTC | c2e8650
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 06:41:13 UTC | 1c572b9
+
+**Commit:** File changes
+
+**Files Changed:** 2 NEW, 6 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 16:36:30 UTC | ae210dd
+
+**Commit:** File changes
+
+**Files Changed:** 1 NEW, 4 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 16:39:39 UTC | ad879b0
+
+**Commit:** File changes
+
+**Files Changed:** 3 NEW, 4 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 16:40:47 UTC | 18612a7
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 16:45:25 UTC | 3a1682a
+
+**Commit:** File changes
+
+**Files Changed:** 2 NEW, 4 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 16:46:39 UTC | 981bd65
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 16:49:42 UTC | d37f541
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 4 MODIFIED, 1 CONFLICT
+
+**Conflicts:** src/components/ui/FloatingPanel.jsx
+
+---
+
+## 2026-04-11 16:54:44 UTC | d4df16b
+
+**Commit:** File changes
+
+**Files Changed:** 1 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 17:07:18 UTC | 442a4aa
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 3 MODIFIED, 1 CONFLICT
+
+**Conflicts:** src/components/ui/FloatingPanel.jsx
+
+---
+
+## 2026-04-11 17:21:37 UTC | b3b4a95
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 17:33:38 UTC | 5756d26
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 17:53:09 UTC | 7bd3f84
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 21:23:51 UTC | ca56f4c
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 21:26:07 UTC | 7e2cf42
+
+**Commit:** File changes
+
+**Files Changed:** 2 NEW, 4 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 23:22:13 UTC | 0e0a4d2
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 23:52:52 UTC | 3f83184
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 7 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-11 23:54:19 UTC | 1aec1f9
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 00:03:02 UTC | dc5b801
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 00:20:40 UTC | e9c7dad
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 00:23:25 UTC | cc795b7
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 00:30:30 UTC | 01ef5f4
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 00:39:19 UTC | 0ddc514
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 00:43:22 UTC | 0a8d94c
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 00:49:05 UTC | e4b13f4
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 00:52:59 UTC | 96400df
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 01:22:17 UTC | e2e0de2
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 1 CONFLICT
+
+**Conflicts:** src/pages/Landing.jsx
+
+---
+
+## 2026-04-12 01:29:03 UTC | cc98d28
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 6 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 01:37:07 UTC | fe80272
+
+**Commit:** File changes
+
+**Files Changed:** 7 NEW, 0 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 01:40:38 UTC | eb00c62
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 01:42:54 UTC | 62d1e6a
+
+**Commit:** File changes
+
+**Files Changed:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 01:46:59 UTC | fe64f26
+
+**Commit:** File changes
+
+**Files Changed:** 2 NEW, 3 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-12 15:14:18 UTC | 725cf75
+
+**Commit:** Update base44 packages
+
+**Files Changed:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-16 15:28:29 UTC | 5b06f15
+
+**Commit:** Update base44 packages
+
+**Files Changed:** 1 NEW, 2 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-20 04:07:52 UTC | 47b2dd6
+
+**Commit:** feat: move design site to cloudflare pages
+
+**Files Changed:** 3 NEW, 1 MODIFIED, 0 CONFLICT
+
+---
+
+## 2026-04-22 05:04:10 UTC | 762ca5e
+
+**Commit:** sync: UI primitives — refined versions from Claude Code
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 10 CONFLICT
+
+**Conflicts:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)
+
+---
+
+## 2026-04-22 05:04:15 UTC | 18e25d2
+
+**Commit:** sync: booking components — refined versions from Claude Code
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 2 CONFLICT
+
+**Conflicts:** src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+---
+
+## 2026-04-22 05:04:19 UTC | 923b30e
+
+**Commit:** sync: marketing components — refined versions from Claude Code
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 3 CONFLICT
+
+**Conflicts:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---
+
+## 2026-04-22 05:04:23 UTC | 3564003
+
+**Commit:** sync: RoomForm components — refined versions from Claude Code
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 2 CONFLICT
+
+**Conflicts:** src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+
+## 2026-04-22 05:04:31 UTC | 3885333
+
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 3 CONFLICT
+
+**Conflicts:** src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+---
+
+## 2026-04-22 05:04:36 UTC | 22cdea7
+
+**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 1 CONFLICT
+
+**Conflicts:** src/pages/BookingFlow.jsx
+
+---
+
+## 2026-04-22 05:04:42 UTC | f19cdf0
+
+**Commit:** sync: website marketing pages — refined versions from Claude Code
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 4 CONFLICT
+
+**Conflicts:** src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+---
+
+## 2026-04-22 05:04:47 UTC | aa4661f
+
+**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 6 CONFLICT
+
+**Conflicts:** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx (+1 more)
+
+---
+
+## 2026-04-22 15:33:13 UTC | dcb2a8e
+
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files Changed:** 3 NEW, 1 MODIFIED, 31 CONFLICT
+
+**Conflicts:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx (+26 more)
+
+---

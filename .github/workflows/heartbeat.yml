@@ -1,0 +1,96 @@
+name: Superagent Heartbeat
+
+on:
+  schedule:
+    - cron: '0 12 * * *'   # daily at noon UTC
+
+jobs:
+  check-heartbeat:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history needed to read commit dates
+
+      - name: Check days since last drift-log.md update
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { execSync } = require('child_process');
+
+            const raw = execSync('git log -1 --format="%H %aI" -- drift-log.md')
+              .toString().trim();
+
+            if (!raw) {
+              console.log('No commits to drift-log.md found — skipping');
+              return;
+            }
+
+            const [hash, isoDate] = raw.split(' ');
+            const lastUpdate = new Date(isoDate);
+            const now = new Date();
+            const daysSince = (now - lastUpdate) / (1000 * 60 * 60 * 24);
+
+            console.log(`Last drift-log.md commit: ${hash.slice(0,7)} on ${isoDate}`);
+            console.log(`Days since last update: ${daysSince.toFixed(1)}`);
+
+            if (daysSince <= 3) {
+              console.log('Heartbeat OK — drift-log.md is current');
+              return;
+            }
+
+            // Dedupe: don't open if an open superagent-health issue already exists
+            const { data: existing } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              state: 'open',
+              labels: 'superagent-health',
+            });
+
+            if (existing.length > 0) {
+              console.log(`Open health issue already exists (#${existing[0].number}) — skipping`);
+              return;
+            }
+
+            // Ensure labels exist
+            const labels = [
+              { name: 'superagent-health', color: '8b5cf6', description: 'Superagent may have stopped running' },
+              { name: 'needs-review',      color: 'ef4444', description: 'Requires review before action' },
+            ];
+            for (const label of labels) {
+              try {
+                await github.rest.issues.createLabel({
+                  owner: context.repo.owner,
+                  repo:  context.repo.repo,
+                  ...label,
+                });
+              } catch (e) {
+                if (e.status !== 422) throw e;
+              }
+            }
+
+            await github.rest.issues.create({
+              owner:  context.repo.owner,
+              repo:   context.repo.repo,
+              title:  `Superagent health: drift-log.md not updated in ${Math.floor(daysSince)} days`,
+              body: [
+                `**Last \`drift-log.md\` commit:** \`${hash.slice(0, 7)}\` on ${isoDate}`,
+                `**Days since last update:** ${daysSince.toFixed(1)}`,
+                '',
+                'The Superagent monitors commits to `48labs-design` and should update `drift-log.md` whenever base44 is active. If base44 has been working and no drift entries have appeared, the Superagent may have failed silently.',
+                '',
+                '**Check:**',
+                '- Superagent configuration in base44 (trigger still active?)',
+                '- GitHub API rate limits or auth token expiry',
+                '- Recent commits to `48labs-design` that should have been logged',
+                '',
+                '_Automated heartbeat check — runs daily at noon UTC_',
+              ].join('\n'),
+              labels: ['superagent-health', 'needs-review'],
+            });
+
+            console.log('Heartbeat issue created');

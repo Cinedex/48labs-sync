@@ -1,0 +1,84 @@
+name: SESSION_INSTRUCTIONS Staleness Check
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - manifest.json
+
+jobs:
+  check-staleness:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Check if SESSION_INSTRUCTIONS.md was also updated
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const { execSync } = require('child_process');
+
+            // Files changed in this push
+            const changed = execSync('git diff --name-only HEAD~1 HEAD')
+              .toString().trim().split('\n');
+
+            console.log('Changed files:', changed);
+
+            if (changed.includes('SESSION_INSTRUCTIONS.md')) {
+              console.log('SESSION_INSTRUCTIONS.md was updated alongside manifest.json — OK');
+              return;
+            }
+
+            // manifest.json changed but SESSION_INSTRUCTIONS.md did not
+            // Dedupe: don't open if an open staleness issue already exists
+            const { data: existing } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              state: 'open',
+              labels: 'staleness-risk',
+            });
+
+            if (existing.length > 0) {
+              console.log(`Open staleness issue already exists (#${existing[0].number}) — skipping`);
+              return;
+            }
+
+            // Ensure labels exist
+            const labels = [
+              { name: 'staleness-risk', color: 'fbbf24', description: 'A sync file may be out of date' },
+              { name: 'needs-review',   color: 'ef4444', description: 'Requires review before action' },
+            ];
+            for (const label of labels) {
+              try {
+                await github.rest.issues.createLabel({
+                  owner: context.repo.owner,
+                  repo:  context.repo.repo,
+                  ...label,
+                });
+              } catch (e) {
+                if (e.status !== 422) throw e;
+              }
+            }
+
+            await github.rest.issues.create({
+              owner:  context.repo.owner,
+              repo:   context.repo.repo,
+              title:  'SESSION_INSTRUCTIONS.md may be stale',
+              body: [
+                '`manifest.json` was updated in commit `' + context.sha.slice(0, 7) + '` but `SESSION_INSTRUCTIONS.md` was not updated in the same push.',
+                '',
+                'If this was a significant structural change, Base44 may be reading outdated session instructions next session.',
+                '',
+                '**Action required:** Review [`SESSION_INSTRUCTIONS.md`](https://github.com/' + context.repo.owner + '/' + context.repo.repo + '/blob/main/SESSION_INSTRUCTIONS.md) and update the `Last updated` date and any affected sections.',
+                '',
+                `_Triggered by @${context.actor} — commit \`${context.sha.slice(0, 7)}\`_`,
+              ].join('\n'),
+              labels: ['staleness-risk', 'needs-review'],
+            });
+
+            console.log('Staleness issue created');

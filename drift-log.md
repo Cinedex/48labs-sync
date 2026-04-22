@@ -6910,3 +6910,144 @@ All changes are NEW (database/contract system foundation) or MODIFIED (component
 **Message:** File changes
 **Files changed:** 5
 **Classification:** 0× NEW, 5× MODIFIED, 0× CONFLICT
+
+## 725cf75 - 2026-04-12 15:14:18 UTC
+**Message:** Update base44 packages
+**Files changed:** 2
+**MODIFIED (2):** package-lock.json, package.json
+**Status:** 0 new, 2 modified, 0 conflicts
+
+
+## fe64f26 - 2026-04-12 01:46:59 UTC
+**Message:** File changes
+**Files changed:** 5
+**NEW (2):** src/database/data-migration-plan.md, src/database/migration-order.json
+**MODIFIED (3):** src/database/MIGRATION_REPORT.md, src/database/supabase/schema.sql, src/database/types/schema.ts
+**Status:** 2 new, 3 modified, 0 conflicts
+
+
+## 62d1e6a - 2026-04-12 01:42:54 UTC
+**Message:** File changes
+**Files changed:** 2
+**MODIFIED (2):** src/lib/workflow-data.js, src/pages/AdminWorkflowMap.jsx
+**Status:** 0 new, 2 modified, 0 conflicts
+
+
+## eb00c62 - 2026-04-12 01:40:38 UTC
+**Message:** File changes
+**Files changed:** 4
+**MODIFIED (4):** src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx
+**Status:** 0 new, 4 modified, 0 conflicts
+
+
+## fe80272 - 2026-04-12 01:37:07 UTC
+**Message:** File changes
+**Files changed:** 7
+**NEW (7):** src/contracts/schema/enums.json, src/contracts/schema/relationships.json, src/contracts/schema/tables.json, src/database/MIGRATION_REPORT.md, src/database/mappings/base44-map.ts ... and 2 more
+**Status:** 7 new, 0 modified, 0 conflicts
+
+
+## cc98d28 - 2026-04-12 01:29:03 UTC
+**Message:** File changes
+**Files changed:** 6
+**MODIFIED (6):** base44/entities/RoomLightingLayout.jsonc, base44/entities/iPadCommand.jsonc, src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx ... and 1 more
+**Status:** 0 new, 6 modified, 0 conflicts
+
+
+## e2e0de2 - 2026-04-12 01:22:17 UTC
+**Message:** File changes
+**Files changed:** 1
+**CONFLICT (1):** src/pages/Landing.jsx
+**Status:** 0 new, 0 modified, 1 conflicts
+
+
+## 96400df - 2026-04-12 00:52:59 UTC
+**Message:** File changes
+**Files changed:** 3
+**MODIFIED (3):** src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+**Status:** 0 new, 3 modified, 0 conflicts
+
+
+## e4b13f4 - 2026-04-12 00:49:05 UTC
+**Message:** File changes
+**Files changed:** 1
+**MODIFIED (1):** src/lib/workflow-data.js
+**Status:** 0 new, 1 modified, 0 conflicts
+
+
+## 0a8d94c - 2026-04-12 00:43:22 UTC
+**Message:** File changes
+**Files changed:** 2
+**MODIFIED (2):** src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx
+**Status:** 0 new, 2 modified, 0 conflicts
+
+
+## 0ddc514 - 2026-04-12 00:39:19 UTC
+**Message:** File changes
+**Files changed:** 3
+**MODIFIED (3):** src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+**Status:** 0 new, 3 modified, 0 conflicts
+
+
+## 01ef5f4 - 2026-04-12 00:30:30 UTC
+**Message:** File changes
+**Files changed:** 1
+**MODIFIED (1):** src/pages/AdminWorkflowMap.jsx
+**Status:** 0 new, 1 modified, 0 conflicts
+
+
+## cc795b7 - 2026-04-12 00:23:25 UTC
+**Message:** File changes
+**Files changed:** 4
+**MODIFIED (4):** src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx, src/components/ipad/WelcomeScreen.jsx, src/pages/StudioController.jsx
+**Status:** 0 new, 4 modified, 0 conflicts
+
+
+## e9c7dad - 2026-04-12 00:20:40 UTC
+**Message:** File changes
+**Files changed:** 4
+**MODIFIED (4):** src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/PremiumCalendar.jsx, src/pages/AdminDashboard.jsx
+**Status:** 0 new, 4 modified, 0 conflicts
+
+
+## dc5b801 - 2026-04-12 00:03:02 UTC
+**Message:** File changes
+**Files changed:** 3
+**MODIFIED (3):** src/components/ipad/WelcomeScreen.jsx, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+**Status:** 0 new, 3 modified, 0 conflicts
+
+
+## 1aec1f9 - 2026-04-11 23:54:19 UTC
+**Message:** File changes
+**Files changed:** 1
+**MODIFIED (1):** tailwind.config.js
+**Status:** 0 new, 1 modified, 0 conflicts
+
+
+## 3f83184 - 2026-04-11 23:52:52 UTC
+**Message:** File changes
+**Files changed:** 7
+**MODIFIED (7):** src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/FloatingDayPanel.jsx, src/components/dashboard/SessionTimelineCard.jsx, src/hooks/useTheme.js ... and 2 more
+**Status:** 0 new, 7 modified, 0 conflicts
+
+
+## 0e0a4d2 - 2026-04-11 23:22:13 UTC
+**Message:** File changes
+**Files changed:** 1
+**MODIFIED (1):** src/pages/StudioController.jsx
+**Status:** 0 new, 1 modified, 0 conflicts
+
+
+## 7e2cf42 - 2026-04-11 21:26:07 UTC
+**Message:** File changes
+**Files changed:** 6
+**NEW (2):** src/components/ipad/DemoScreen.jsx, src/components/ipad/IdleScreen.jsx
+**MODIFIED (4):** base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+**Status:** 2 new, 4 modified, 0 conflicts
+
+
+## ca56f4c - 2026-04-11 21:23:51 UTC
+**Message:** File changes
+**Files changed:** 3
+**MODIFIED (3):** src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/hooks/useTheme.js
+**Status:** 0 new, 3 modified, 0 conflicts

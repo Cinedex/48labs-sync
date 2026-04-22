@@ -8426,3 +8426,69 @@ All changes are NEW (database/contract system foundation) or MODIFIED (component
 **762ca5e0** (2026-04-22): sync: UI primitives — refined versions from Claude Code
 - Files: 10 changed — 10× CONFLICT, 0× MODIFIED, 0× NEW
 
+
+## 2026-04-22 Phase 3 Design Sync (9 commits)
+
+### dcb2a8e9 — merge: bring staging sync commits into main
+- **Date:** 2026-04-22T15:33:13Z
+- **Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+- **Files Changed:** 35
+- **Conflicts:** MarketingFooter.jsx, MarketingHeader.jsx, Landing.jsx, RoomProfile.jsx, Services.jsx, BookingFlow.jsx, MonthCalendar.jsx, and 24 others
+- **Summary:** Large Phase 3 design merge. Brought staging sync commits into main. Major impact on Claude-owned components.
+
+### aa4661f4 — sync: website booking and auth pages
+- **Date:** 2026-04-22T05:04:47Z
+- **Classification:** 6× CONFLICT
+- **Files Changed:** 6
+- **Conflicts:** DynamicCreditsPage.jsx, DynamicMembershipsPage.jsx, GuestBuyCredits.jsx, GuestPaymentForm.jsx, GuestLogin.jsx, GuestSignup.jsx
+- **Summary:** Refined website booking and auth pages from Claude Code.
+
+### f19cdf03 — sync: website marketing pages
+- **Date:** 2026-04-22T05:04:42Z
+- **Classification:** 4× CONFLICT
+- **Files Changed:** 4
+- **Conflicts:** Landing.jsx, RoomProfile.jsx, Services.jsx, Features.jsx
+- **Summary:** Refined website marketing pages from Claude Code.
+
+### 22cdea70 — sync: BookingFlow.jsx
+- **Date:** 2026-04-22T05:04:36Z
+- **Classification:** 1× CONFLICT
+- **Files Changed:** 1
+- **Conflicts:** BookingFlow.jsx
+- **Summary:** Refined BookingFlow component from Claude Code.
+
+### 38853339 — sync: dashboard and iPad components
+- **Date:** 2026-04-22T05:04:31Z
+- **Classification:** 3× CONFLICT
+- **Files Changed:** 3
+- **Conflicts:** MonthCalendar.jsx, FiveMinWarning.jsx, ThankYouScreen.jsx
+- **Summary:** Refined dashboard and iPad components from Claude Code.
+
+### 3564003b — sync: RoomForm components
+- **Date:** 2026-04-22T05:04:23Z
+- **Classification:** 2× CONFLICT
+- **Files Changed:** 2
+- **Conflicts:** RoomStudioPreview.jsx, WebsitePreviewCard.jsx
+- **Summary:** Refined RoomForm components from Claude Code.
+
+### 923b30e2 — sync: marketing components
+- **Date:** 2026-04-22T05:04:19Z
+- **Classification:** 3× CONFLICT
+- **Files Changed:** 3
+- **Conflicts:** MarketingFooter.jsx, MarketingHeader.jsx, RoomOperatingHoursDisplay.jsx
+- **Summary:** Refined marketing components from Claude Code.
+
+### 18e25d25 — sync: booking components
+- **Date:** 2026-04-22T05:04:15Z
+- **Classification:** 2× CONFLICT
+- **Files Changed:** 2
+- **Conflicts:** BookingDateTimeStep.jsx, ClientSelectStep.jsx
+- **Summary:** Refined booking components from Claude Code.
+
+### 762ca5e0 — sync: UI primitives
+- **Date:** 2026-04-22T05:04:10Z
+- **Classification:** 10× CONFLICT
+- **Files Changed:** 10
+- **Conflicts:** EmptyState.jsx, FilterPills.jsx, PortalDrawer.jsx, SkeletonLoader.jsx, Toast.jsx, Modal.jsx, Button.jsx, Input.jsx, Card.jsx, Badge.jsx
+- **Summary:** Refined UI primitives from Claude Code. 10 conflicting base components.
+

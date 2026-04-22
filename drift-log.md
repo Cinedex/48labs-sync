@@ -846,3 +846,673 @@ sync: booking components — refined versions from Claude Code
 sync: UI primitives — refined versions from Claude Code
 **Classification:** 0× NEW, 0× MODIFIED, 10× CONFLICT
 **Conflicting files:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)
+## 2026-04-11 06:00 UTC — e90d8ad
+
+**Commit:** e90d8ade0095f11aab3906ad29ec3d354bda70ff
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 2 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 06:05 UTC — d6bc2b0
+
+**Commit:** d6bc2b0353bf18864fc557c5844b5929794e7a66
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 1 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 06:14 UTC — 405ff26
+
+**Commit:** 405ff2645dfa9116f45a10604c94db9f9720ab3c
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 3 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 06:22 UTC — a32f6aa
+
+**Commit:** a32f6aaf5c651c5fb4e0a9cfd0da3d058e619456
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 1 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 06:23 UTC — c323e33
+
+**Commit:** c323e33f986baffd4591304bb829aa07780e3cf1
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 1 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 06:28 UTC — 9098ede
+
+**Commit:** 9098ede4984a7a07e7d8e0cfd8577d4a7008ee96
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 2 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 06:36 UTC — c2e8650
+
+**Commit:** c2e8650418eebbc1a50d5c2ebb6839ce2adeed49
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 4 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 06:41 UTC — 1c572b9
+
+**Commit:** 1c572b9df1e37f5a5fc5d80a96f6d81e9fdfd6dc
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 6 NEW, 2 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 16:36 UTC — ae210dd
+
+**Commit:** ae210dd267db37ea0eb18787277cd0b8726c153b
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 4 NEW, 0 MODIFIED, 1 CONFLICT
+
+**CONFLICT FILES:**
+- src/components/ui/FloatingPanel.jsx
+
+**Summary:** File changes
+---
+
+## 2026-04-11 16:39 UTC — ad879b0
+
+**Commit:** ad879b0b49a934ac4115c07661c78b8fe3ba6cc3
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 6 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 16:40 UTC — 18612a7
+
+**Commit:** 18612a7d50b178d093fa8126aef26915702c760a
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 1 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 16:45 UTC — 3a1682a
+
+**Commit:** 3a1682a1fefffdc5826186363751d43dfa46464d
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 2 NEW, 4 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 16:46 UTC — 981bd65
+
+**Commit:** 981bd65522efbfc84fbdcf1941d47c18993becc6
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 1 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 16:49 UTC — d37f541
+
+**Commit:** d37f5413563affbbed94992addb58b64125adcb0
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 3 NEW, 1 MODIFIED, 1 CONFLICT
+
+**CONFLICT FILES:**
+- src/components/ui/FloatingPanel.jsx
+
+**Summary:** File changes
+---
+
+## 2026-04-11 16:54 UTC — d4df16b
+
+**Commit:** d4df16bd215b222c929d234467a3dbefbe039f07
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 2 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 17:07 UTC — 442a4aa
+
+**Commit:** 442a4aa6fd20a437134e2c4efd820733ff556cb2
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 2 NEW, 1 MODIFIED, 1 CONFLICT
+
+**CONFLICT FILES:**
+- src/components/ui/FloatingPanel.jsx
+
+**Summary:** File changes
+---
+
+## 2026-04-11 17:21 UTC — b3b4a95
+
+**Commit:** b3b4a959f93f24b22ff5570d22bfd34f7cf5a7bf
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 2 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 17:33 UTC — 5756d26
+
+**Commit:** 5756d26deafaed42b9568bf9599c2041cf8bde44
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 2 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 17:53 UTC — 7bd3f84
+
+**Commit:** 7bd3f84826df6d0d27d9e3453556763266f6145e
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 3 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 21:23 UTC — ca56f4c
+
+**Commit:** ca56f4c8408cc98b7f351cf33a29d0ccb11fd51a
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 2 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 21:26 UTC — 7e2cf42
+
+**Commit:** 7e2cf42d2b848cc0701c27b5bf19bca5f023ace5
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 4 NEW, 2 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 23:22 UTC — 0e0a4d2
+
+**Commit:** 0e0a4d2977b02b9e0e2b7703a6fa5d216172ef53
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 1 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 23:52 UTC — 3f83184
+
+**Commit:** 3f83184f91b4ab6e852e2bcc4b9237b86a3a172c
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 4 NEW, 3 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-11 23:54 UTC — 1aec1f9
+
+**Commit:** 1aec1f99b66b04ecd17059309161e45bf7e777a7
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 00:03 UTC — dc5b801
+
+**Commit:** dc5b801f9bbc0f3ad91f970ce659b8a8a5aa569c
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 3 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 00:20 UTC — e9c7dad
+
+**Commit:** e9c7dad7b6382d255dcaa79c6864ada1af6cff31
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 4 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 00:23 UTC — cc795b7
+
+**Commit:** cc795b75b80fce9ec723d7af1b51fe1d89bf0403
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 4 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 00:30 UTC — 01ef5f4
+
+**Commit:** 01ef5f4337520e76403439b54f416474113f54df
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 1 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 00:39 UTC — 0ddc514
+
+**Commit:** 0ddc514060a5e7529847ccfc6e7470fc54e090cd
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 3 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 00:43 UTC — 0a8d94c
+
+**Commit:** 0a8d94c46d2c2daa6e99dd163e9afe0e38dc7fad
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 2 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 00:49 UTC — e4b13f4
+
+**Commit:** e4b13f4b4ffa56a6aa10c1852acc02ba5fe125c3
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 00:52 UTC — 96400df
+
+**Commit:** 96400df49aa564844fdc690640b9581b15bdd6ff
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 3 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 01:22 UTC — e2e0de2
+
+**Commit:** e2e0de2e9943d041f64e0079bcb70868de708445
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 1 CONFLICT
+
+**CONFLICT FILES:**
+- src/pages/Landing.jsx
+
+**Summary:** File changes
+---
+
+## 2026-04-12 01:29 UTC — cc98d28
+
+**Commit:** cc98d2849c95fef0146959877abacb2938c2ef5d
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 4 NEW, 2 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 01:37 UTC — fe80272
+
+**Commit:** fe80272bfb6055d2e1026886589661cc83769a3f
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 0 NEW, 7 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 01:40 UTC — eb00c62
+
+**Commit:** eb00c62f1af37502b179c033273c902adccd4c7a
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 4 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 01:42 UTC — 62d1e6a
+
+**Commit:** 62d1e6a5edcaf41329af9b5f5a8662f0fb92c7a1
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 1 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 01:46 UTC — fe64f26
+
+**Commit:** fe64f268e2f246d72f201c0adac867d790e898e8
+**Message:** File changes
+**Author:** base44-builder[bot]
+
+**Files Changed:** 0 NEW, 5 MODIFIED, 0 CONFLICT
+
+**Summary:** File changes
+---
+
+## 2026-04-12 15:14 UTC — 725cf75
+
+**Commit:** 725cf75610745a0dcb530f28afef0174826e5d44
+**Message:** Update base44 packages
+**Author:** base44-builder[bot]
+
+**Files Changed:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+**Summary:** Update base44 packages
+---
+
+## 2026-04-16 15:28 UTC — 5b06f15
+
+**Commit:** 5b06f15999046b2df212649b4e5f540e9bc0d1c2
+**Message:** Update base44 packages
+**Author:** base44-builder[bot]
+
+**Files Changed:** 1 NEW, 2 MODIFIED, 0 CONFLICT
+
+**Summary:** Update base44 packages
+---
+
+## 2026-04-20 04:07 UTC — 47b2dd6
+
+**Commit:** 47b2dd66260b5c9585f2b3c5cde7da1a130183f5
+**Message:** feat: move design site to cloudflare pages
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+**Summary:** feat: move design site to cloudflare pages
+---
+
+## 2026-04-22 05:04 UTC — 762ca5e
+
+**Commit:** 762ca5e09a65dd464932fe352920a4faacbfa0bc
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 10 CONFLICT
+
+**CONFLICT FILES:**
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx
+
+**Summary:** sync: UI primitives — refined versions from Claude Code
+
+button.jsx, EmptyState.jsx, FilterPills.jsx, PortalDrawer.jsx, PortalTable.jsx,
+SearchInput.jsx, SegmentedControl.jsx, SettingCard.jsx, Spinner.jsx, TabBar.jsx
+
+- slate-* raw tokens → semantic aliases (bg-canvas, bg-elevated, text-on-surface, border-border-soft)
+- className prop added to EmptyState for layout flexibility
+- All components match portal reference verbatim
+---
+
+## 2026-04-22 05:04 UTC — 18e25d2
+
+**Commit:** 18e25d254af8ee8569479173206fb9ea19d0382c
+**Message:** sync: booking components — refined versions from Claude Code
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 2 CONFLICT
+
+**CONFLICT FILES:**
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+
+**Summary:** sync: booking components — refined versions from Claude Code
+
+BookingDateTimeStep.jsx, ClientSelectStep.jsx
+
+- base44.entities.OperatingHours → getOperatingWindowForDate() domain import
+- api.entities.* → domain imports (Client, Room, AddOn)
+- Token refinement: slate-*/white opacity → semantic aliases
+- React.useState/useEffect dot notation (no destructure needed)
+---
+
+## 2026-04-22 05:04 UTC — 923b30e
+
+**Commit:** 923b30e2efc07529a161d81258b6bbda8daba496
+**Message:** sync: marketing components — refined versions from Claude Code
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 3 CONFLICT
+
+**CONFLICT FILES:**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+**Summary:** sync: marketing components — refined versions from Claude Code
+
+MarketingHeader.jsx, MarketingFooter.jsx, RoomOperatingHoursDisplay.jsx
+
+- api.entities.AppSetting → getAppSettingByKey() domain import
+- api.entities.Room/OperatingHours → domain imports
+- slate-* tokens → semantic aliases
+---
+
+## 2026-04-22 05:04 UTC — 3564003
+
+**Commit:** 3564003baf53a0ced6da5c5c49941f4d09c8082d
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 2 CONFLICT
+
+**CONFLICT FILES:**
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+**Summary:** sync: RoomForm components — refined versions from Claude Code
+
+RoomStudioPreview.jsx, WebsitePreviewCard.jsx
+
+- api.entities.AddOn → domain imports
+- Array.isArray() guard added for attached_add_on_ids
+- Token refinement: slate-* → semantic aliases
+---
+
+## 2026-04-22 05:04 UTC — 3885333
+
+**Commit:** 38853339f47e5b2ddcd23a205c40cb228fcd8dc1
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 3 CONFLICT
+
+**CONFLICT FILES:**
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+
+**Summary:** sync: dashboard and iPad components — refined versions from Claude Code
+
+MonthCalendar.jsx, ThankYouScreen.jsx, FiveMinWarning.jsx
+
+- border-t-slate-700 → border-t-border-soft (MonthCalendar tooltip arrows)
+- Token refinement: slate-* → semantic aliases across all three
+- ThankYouScreen/FiveMinWarning: bg-white/opacity patterns → bg-canvas
+---
+
+## 2026-04-22 05:04 UTC — 22cdea7
+
+**Commit:** 22cdea70afd9f763b36b3e1941e366c04b97b1e6
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 1 CONFLICT
+
+**CONFLICT FILES:**
+- src/pages/BookingFlow.jsx
+
+**Summary:** sync: BookingFlow.jsx — refined version from Claude Code
+
+- bg-white step headers → bg-canvas (theme-aware fix)
+- slate-* gradient tokens → from-canvas/via-elevated/to-elevated
+- Token parity with portal surface/elevated pattern
+---
+
+## 2026-04-22 05:04 UTC — f19cdf0
+
+**Commit:** f19cdf0381be3ceebc40ae98c2bc71f92148d855
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 4 CONFLICT
+
+**CONFLICT FILES:**
+- src/pages/Landing.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+
+**Summary:** sync: website marketing pages — refined versions from Claude Code
+
+Landing.jsx, Studios.jsx, Services.jsx, RoomProfile.jsx
+
+- api.entities.* → domain imports (Room, Service, GlobalAddOn, etc.)
+- slate-* tokens → semantic aliases
+- Landing.jsx: text-white/xx opacity variants preserved (intentional on bg-[#0a0a0a])
+---
+
+## 2026-04-22 05:04 UTC — aa4661f
+
+**Commit:** aa4661f4b14bfb0d815b78f4a1206cd07a2810f4
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 0 MODIFIED, 6 CONFLICT
+
+**CONFLICT FILES:**
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/UnifiedCheckout.jsx
+
+**Summary:** sync: website booking and auth pages — refined versions from Claude Code
+
+GuestBuyCredits.jsx, DynamicCreditsPage.jsx, DynamicMembershipsPage.jsx,
+MembershipSignup.jsx, Register.jsx, UnifiedCheckout.jsx
+
+- api.entities.* → domain imports (CreditBundle, MembershipPlan, PricingSettings, etc.)
+- slate-* tokens → semantic aliases
+- api.functions.invoke() calls preserved (no domain equivalent yet)
+---
+
+## 2026-04-22 15:33 UTC — dcb2a8e
+
+**Commit:** dcb2a8e911e5ed365732b984c6e920f1ced3d844
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Author:** Levi Elizaga
+
+**Files Changed:** 0 NEW, 4 MODIFIED, 31 CONFLICT
+
+**CONFLICT FILES:**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+- ... and 21 more
+
+**Summary:** merge: bring staging sync commits into main (Phase 3 design sync)
+---

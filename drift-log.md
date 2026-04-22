@@ -3402,3 +3402,288 @@ Conflict files: src/components/MarketingFooter.jsx, src/components/MarketingHead
 - MODIFIED: 3
 - CONFLICT: 0
 
+## Commit: dcb2a8e911e5ed365732b984c6e920f1ced3d844
+**Date:** 2026-04-22T15:33:13Z
+**Author:** Levi Elizaga
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files Changed:** 35
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 31
+
+**Classification:**
+- NEW: project.config.json, public/_redirects, scripts/deploy-guard.mjs
+- MODIFIED: package.json
+- CONFLICT: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx, src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx
+
+---
+
+## Commit: aa4661f4b14bfb0d815b78f4a1206cd07a2810f4
+**Date:** 2026-04-22T05:04:47Z
+**Author:** Levi Elizaga
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files Changed:** 6
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 6
+
+**Classification:**
+- CONFLICT: src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx, src/pages/UnifiedCheckout.jsx
+
+---
+
+## Commit: f19cdf0381be3ceebc40ae98c2bc71f92148d855
+**Date:** 2026-04-22T05:04:42Z
+**Author:** Levi Elizaga
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 4
+
+**Classification:**
+- CONFLICT: src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+---
+
+## Commit: 22cdea70afd9f763b36b3e1941e366c04b97b1e6
+**Date:** 2026-04-22T05:04:36Z
+**Author:** Levi Elizaga
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 1
+
+**Classification:**
+- CONFLICT: src/pages/BookingFlow.jsx
+
+---
+
+## Commit: 38853339f47e5b2ddcd23a205c40cb228fcd8dc1
+**Date:** 2026-04-22T05:04:31Z
+**Author:** Levi Elizaga
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 3
+
+**Classification:**
+- CONFLICT: src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+---
+
+## Commit: 3564003baf53a0ced6da5c5c49941f4d09c8082d
+**Date:** 2026-04-22T05:04:23Z
+**Author:** Levi Elizaga
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 2
+
+**Classification:**
+- CONFLICT: src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+
+## Commit: 923b30e2efc07529a161d81258b6bbda8daba496
+**Date:** 2026-04-22T05:04:19Z
+**Author:** Levi Elizaga
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 3
+
+**Classification:**
+- CONFLICT: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---
+
+## Commit: 18e25d254af8ee8569479173206fb9ea19d0382c
+**Date:** 2026-04-22T05:04:15Z
+**Author:** Levi Elizaga
+**Message:** sync: booking components — refined versions from Claude Code
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 2
+
+**Classification:**
+- CONFLICT: src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+---
+
+## Commit: 762ca5e09a65dd464932fe352920a4faacbfa0bc
+**Date:** 2026-04-22T05:04:10Z
+**Author:** Levi Elizaga
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files Changed:** 10
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 10
+
+**Classification:**
+- CONFLICT: src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx, src/components/ui/SegmentedControl.jsx, src/components/ui/SettingCard.jsx, src/components/ui/Spinner.jsx
+
+---
+
+## Commit: 47b2dd66260b5c9585f2b3c5cde7da1a130183f5
+**Date:** 2026-04-20T04:07:52Z
+**Author:** Levi Elizaga
+**Message:** feat: move design site to cloudflare pages
+**Files Changed:** 4
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Classification:**
+- NEW: project.config.json, public/_redirects, scripts/deploy-guard.mjs
+- MODIFIED: package.json
+
+---
+
+## Commit: 5b06f15999046b2df212649b4e5f540e9bc0d1c2
+**Date:** 2026-04-16T15:28:29Z
+**Author:** base44-builder[bot]
+**Message:** Update base44 packages
+**Files Changed:** 3
+- NEW: 1
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Classification:**
+- NEW: src/components/ProtectedRoute.jsx
+- MODIFIED: package-lock.json, package.json
+
+---
+
+## Commit: 725cf75610745a0dcb530f28afef0174826e5d44
+**Date:** 2026-04-12T15:14:18Z
+**Author:** base44-builder[bot]
+**Message:** Update base44 packages
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Classification:**
+- MODIFIED: package-lock.json, package.json
+
+---
+
+## Commit: fe64f268e2f246d72f201c0adac867d790e898e8
+**Date:** 2026-04-12T01:46:59Z
+**Author:** base44-builder[bot]
+**Message:** File changes
+**Files Changed:** 5
+- NEW: 2
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Classification:**
+- NEW: src/database/data-migration-plan.md, src/database/migration-order.json
+- MODIFIED: src/database/MIGRATION_REPORT.md, src/database/supabase/schema.sql, src/database/types/schema.ts
+
+---
+
+## Commit: 62d1e6a5edcaf41329af9b5f5a8662f0fb92c7a1
+**Date:** 2026-04-12T01:42:54Z
+**Author:** base44-builder[bot]
+**Message:** File changes
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Classification:**
+- MODIFIED: src/lib/workflow-data.js, src/pages/AdminWorkflowMap.jsx
+
+---
+
+## Commit: eb00c62f1af37502b179c033273c902adccd4c7a
+**Date:** 2026-04-12T01:40:38Z
+**Author:** base44-builder[bot]
+**Message:** File changes
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Classification:**
+- MODIFIED: src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+---
+
+## Commit: fe80272bfb6055d2e1026886589661cc83769a3f
+**Date:** 2026-04-12T01:37:07Z
+**Author:** base44-builder[bot]
+**Message:** File changes
+**Files Changed:** 7
+- NEW: 7
+- MODIFIED: 0
+- CONFLICT: 0
+
+**Classification:**
+- NEW: src/contracts/schema/enums.json, src/contracts/schema/relationships.json, src/contracts/schema/tables.json, src/database/MIGRATION_REPORT.md, src/database/mappings/base44-map.ts, src/database/supabase/schema.sql, src/database/types/schema.ts
+
+---
+
+## Commit: cc98d2849c95fef0146959877abacb2938c2ef5d
+**Date:** 2026-04-12T01:29:03Z
+**Author:** base44-builder[bot]
+**Message:** File changes
+**Files Changed:** 6
+- NEW: 0
+- MODIFIED: 6
+- CONFLICT: 0
+
+**Classification:**
+- MODIFIED: base44/entities/RoomLightingLayout.jsonc, base44/entities/iPadCommand.jsonc, src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx, src/components/ipad/MasterIPadView.jsx
+
+---
+
+## Commit: e2e0de2e9943d041f64e0079bcb70868de708445
+**Date:** 2026-04-12T01:22:17Z
+**Author:** base44-builder[bot]
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 1
+
+**Classification:**
+- CONFLICT: src/pages/Landing.jsx
+
+---
+
+## Commit: 96400df49aa564844fdc690640b9581b15bdd6ff
+**Date:** 2026-04-12T00:52:59Z
+**Author:** base44-builder[bot]
+**Message:** File changes
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Classification:**
+- MODIFIED: src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+---
+
+## Commit: e4b13f4b4ffa56a6aa10c1852acc02ba5fe125c3
+**Date:** 2026-04-12T00:49:05Z
+**Author:** base44-builder[bot]
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Classification:**
+- MODIFIED: src/lib/workflow-data.js
+
+---
+

@@ -1,0 +1,96 @@
+name: Drift Alert
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - drift-log.md
+
+jobs:
+  create-drift-issue:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Parse last drift entry
+        run: |
+          python3 << 'PYEOF'
+          import re, os
+
+          with open('drift-log.md', 'r') as f:
+              content = f.read()
+
+          # Split into sections on any line starting with "## "
+          sections = re.split(r'\n(?=## )', content)
+
+          # Keep only real entries — exclude the Template section and preamble
+          entries = [
+              s for s in sections
+              if s.startswith('## ') and 'Template' not in s
+          ]
+
+          if not entries:
+              raise SystemExit('drift-log.md has no parseable entries')
+
+          last = entries[-1].strip()
+
+          # Pull the heading text (everything after "## ")
+          m = re.match(r'## (.+)', last)
+          heading = m.group(1).strip() if m else 'Unknown'
+
+          with open('drift_entry.md', 'w') as f:
+              f.write(last)
+
+          with open('drift_heading.txt', 'w') as f:
+              f.write(heading)
+
+          print(f'Parsed entry: {heading}')
+          PYEOF
+
+      - name: Create issue and ensure labels exist
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const heading = fs.readFileSync('drift_heading.txt', 'utf8').trim();
+            const entryBody = fs.readFileSync('drift_entry.md', 'utf8').trim();
+
+            // Ensure "drift" and "needs-review" labels exist
+            const labels = [
+              { name: 'drift',        color: 'f97316', description: 'Drift detected between repos' },
+              { name: 'needs-review', color: 'ef4444', description: 'Requires review before action' },
+            ];
+            for (const label of labels) {
+              try {
+                await github.rest.issues.createLabel({
+                  owner: context.repo.owner,
+                  repo:  context.repo.repo,
+                  ...label,
+                });
+              } catch (e) {
+                // 422 = label already exists — safe to ignore
+                if (e.status !== 422) throw e;
+              }
+            }
+
+            const body = [
+              `**New entry logged in [drift-log.md](https://github.com/${context.repo.owner}/${context.repo.repo}/blob/main/drift-log.md)**`,
+              '',
+              '---',
+              '',
+              entryBody,
+              '',
+              '---',
+              `_Triggered by commit \`${context.sha.slice(0, 7)}\` pushed by @${context.actor}_`,
+            ].join('\n');
+
+            await github.rest.issues.create({
+              owner:  context.repo.owner,
+              repo:   context.repo.repo,
+              title:  `Drift detected — ${heading}`,
+              body,
+              labels: ['drift', 'needs-review'],
+            });

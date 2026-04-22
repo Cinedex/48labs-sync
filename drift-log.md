@@ -2978,3 +2978,427 @@ Conflict files: src/components/MarketingFooter.jsx, src/components/MarketingHead
   Files: 4 | 3× NEW, 1× MODIFIED
   Cloudflare Pages migration
 
+## [dcb2a8e]
+**Date:** 2026-04-22 15:33:13
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files Changed:** 35
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 31
+
+**Conflicting Files:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx (+26 more)
+
+## [aa4661f]
+**Date:** 2026-04-22 05:04:47
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files Changed:** 6
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 6
+
+**Conflicting Files:** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx (+1 more)
+
+## [f19cdf0]
+**Date:** 2026-04-22 05:04:42
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 4
+
+**Conflicting Files:** src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+## [22cdea7]
+**Date:** 2026-04-22 05:04:36
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 1
+
+**Conflicting Files:** src/pages/BookingFlow.jsx
+
+## [3885333]
+**Date:** 2026-04-22 05:04:31
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 3
+
+**Conflicting Files:** src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+## [3564003]
+**Date:** 2026-04-22 05:04:23
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 2
+
+**Conflicting Files:** src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+## [923b30e]
+**Date:** 2026-04-22 05:04:19
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 3
+
+**Conflicting Files:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+## [18e25d2]
+**Date:** 2026-04-22 05:04:15
+**Message:** sync: booking components — refined versions from Claude Code
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 2
+
+**Conflicting Files:** src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+## [762ca5e]
+**Date:** 2026-04-22 05:04:10
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files Changed:** 10
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 10
+
+**Conflicting Files:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)
+
+## [47b2dd6]
+**Date:** 2026-04-20 04:07:52
+**Message:** feat: move design site to cloudflare pages
+**Files Changed:** 4
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [5b06f15]
+**Date:** 2026-04-16 15:28:29
+**Message:** Update base44 packages
+**Files Changed:** 3
+- NEW: 1
+- MODIFIED: 2
+- CONFLICT: 0
+
+## [725cf75]
+**Date:** 2026-04-12 15:14:18
+**Message:** Update base44 packages
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+## [fe64f26]
+**Date:** 2026-04-12 01:46:59
+**Message:** File changes
+**Files Changed:** 5
+- NEW: 2
+- MODIFIED: 3
+- CONFLICT: 0
+
+## [62d1e6a]
+**Date:** 2026-04-12 01:42:54
+**Message:** File changes
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+## [eb00c62]
+**Date:** 2026-04-12 01:40:38
+**Message:** File changes
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+## [fe80272]
+**Date:** 2026-04-12 01:37:07
+**Message:** File changes
+**Files Changed:** 7
+- NEW: 7
+- MODIFIED: 0
+- CONFLICT: 0
+
+## [cc98d28]
+**Date:** 2026-04-12 01:29:03
+**Message:** File changes
+**Files Changed:** 6
+- NEW: 0
+- MODIFIED: 6
+- CONFLICT: 0
+
+## [e2e0de2]
+**Date:** 2026-04-12 01:22:17
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 1
+
+**Conflicting Files:** src/pages/Landing.jsx
+
+## [96400df]
+**Date:** 2026-04-12 00:52:59
+**Message:** File changes
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+## [e4b13f4]
+**Date:** 2026-04-12 00:49:05
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [0a8d94c]
+**Date:** 2026-04-12 00:43:22
+**Message:** File changes
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+## [0ddc514]
+**Date:** 2026-04-12 00:39:19
+**Message:** File changes
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+## [01ef5f4]
+**Date:** 2026-04-12 00:30:30
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [cc795b7]
+**Date:** 2026-04-12 00:23:25
+**Message:** File changes
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+## [e9c7dad]
+**Date:** 2026-04-12 00:20:40
+**Message:** File changes
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+## [dc5b801]
+**Date:** 2026-04-12 00:03:02
+**Message:** File changes
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+## [1aec1f9]
+**Date:** 2026-04-11 23:54:19
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [3f83184]
+**Date:** 2026-04-11 23:52:52
+**Message:** File changes
+**Files Changed:** 7
+- NEW: 0
+- MODIFIED: 7
+- CONFLICT: 0
+
+## [0e0a4d2]
+**Date:** 2026-04-11 23:22:13
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [7e2cf42]
+**Date:** 2026-04-11 21:26:07
+**Message:** File changes
+**Files Changed:** 6
+- NEW: 2
+- MODIFIED: 4
+- CONFLICT: 0
+
+## [ca56f4c]
+**Date:** 2026-04-11 21:23:51
+**Message:** File changes
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+## [7bd3f84]
+**Date:** 2026-04-11 17:53:09
+**Message:** File changes
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+## [5756d26]
+**Date:** 2026-04-11 17:33:38
+**Message:** File changes
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+## [b3b4a95]
+**Date:** 2026-04-11 17:21:37
+**Message:** File changes
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+## [442a4aa]
+**Date:** 2026-04-11 17:07:18
+**Message:** File changes
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 1
+
+**Conflicting Files:** src/components/ui/FloatingPanel.jsx
+
+## [d4df16b]
+**Date:** 2026-04-11 16:54:44
+**Message:** File changes
+**Files Changed:** 2
+- NEW: 1
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [d37f541]
+**Date:** 2026-04-11 16:49:42
+**Message:** File changes
+**Files Changed:** 5
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 1
+
+**Conflicting Files:** src/components/ui/FloatingPanel.jsx
+
+## [981bd65]
+**Date:** 2026-04-11 16:46:39
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [3a1682a]
+**Date:** 2026-04-11 16:45:25
+**Message:** File changes
+**Files Changed:** 6
+- NEW: 2
+- MODIFIED: 4
+- CONFLICT: 0
+
+## [18612a7]
+**Date:** 2026-04-11 16:40:47
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [ad879b0]
+**Date:** 2026-04-11 16:39:39
+**Message:** File changes
+**Files Changed:** 7
+- NEW: 3
+- MODIFIED: 4
+- CONFLICT: 0
+
+## [ae210dd]
+**Date:** 2026-04-11 16:36:30
+**Message:** File changes
+**Files Changed:** 5
+- NEW: 1
+- MODIFIED: 4
+- CONFLICT: 0
+
+## [1c572b9]
+**Date:** 2026-04-11 06:41:13
+**Message:** File changes
+**Files Changed:** 8
+- NEW: 2
+- MODIFIED: 6
+- CONFLICT: 0
+
+## [c2e8650]
+**Date:** 2026-04-11 06:36:48
+**Message:** File changes
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+## [9098ede]
+**Date:** 2026-04-11 06:28:01
+**Message:** File changes
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+## [c323e33]
+**Date:** 2026-04-11 06:23:32
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [a32f6aa]
+**Date:** 2026-04-11 06:22:32
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [405ff26]
+**Date:** 2026-04-11 06:14:43
+**Message:** File changes
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+## [d6bc2b0]
+**Date:** 2026-04-11 06:05:34
+**Message:** File changes
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+## [e90d8ad]
+**Date:** 2026-04-11 06:00:19
+**Message:** File changes
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+

@@ -1949,3 +1949,123 @@ Conflict files: src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPa
 merge: bring staging sync commits into main (Phase 3 design 
 Conflict files: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx (+26 more)
 
+
+## 2026-04-22 — dcb2a8e
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files changed:** 3 NEW, 1 MODIFIED, 31 CONFLICT
+**Conflicting Claude-owned files:**
+- MarketingFooter.jsx
+- MarketingHeader.jsx
+- RoomStudioPreview.jsx
+- WebsitePreviewCard.jsx
+- BookingDateTimeStep.jsx
+- ClientSelectStep.jsx
+- MonthCalendar.jsx
+- FiveMinWarning.jsx
+- ThankYouScreen.jsx
+- RoomOperatingHoursDisplay.jsx
+- EmptyState.jsx
+- FilterPills.jsx
+- PortalDrawer.jsx
+- PortalTable.jsx
+- SearchInput.jsx
+- SegmentedControl.jsx
+- SettingCard.jsx
+- Spinner.jsx
+- TabBar.jsx
+- button.jsx
+- BookingFlow.jsx
+- DynamicCreditsPage.jsx
+- DynamicMembershipsPage.jsx
+- GuestBuyCredits.jsx
+- Landing.jsx
+- MembershipSignup.jsx
+- Register.jsx
+- RoomProfile.jsx
+- Services.jsx
+- Studios.jsx
+- UnifiedCheckout.jsx
+
+
+## 2026-04-22 — aa4661f
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files changed:** 0 NEW, 0 MODIFIED, 6 CONFLICT
+**Conflicting Claude-owned files:**
+- DynamicCreditsPage.jsx
+- DynamicMembershipsPage.jsx
+- GuestBuyCredits.jsx
+- MembershipSignup.jsx
+- Register.jsx
+- UnifiedCheckout.jsx
+
+
+## 2026-04-22 — f19cdf0
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files changed:** 0 NEW, 0 MODIFIED, 4 CONFLICT
+**Conflicting Claude-owned files:**
+- Landing.jsx
+- RoomProfile.jsx
+- Services.jsx
+- Studios.jsx
+
+
+## 2026-04-22 — 22cdea7
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files changed:** 0 NEW, 0 MODIFIED, 1 CONFLICT
+**Conflicting Claude-owned files:**
+- BookingFlow.jsx
+
+
+## 2026-04-22 — 3885333
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files changed:** 0 NEW, 0 MODIFIED, 3 CONFLICT
+**Conflicting Claude-owned files:**
+- MonthCalendar.jsx
+- FiveMinWarning.jsx
+- ThankYouScreen.jsx
+
+
+## 2026-04-22 — 3564003
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files changed:** 0 NEW, 0 MODIFIED, 2 CONFLICT
+**Conflicting Claude-owned files:**
+- RoomStudioPreview.jsx
+- WebsitePreviewCard.jsx
+
+
+## 2026-04-22 — 923b30e
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files changed:** 0 NEW, 0 MODIFIED, 3 CONFLICT
+**Conflicting Claude-owned files:**
+- MarketingFooter.jsx
+- MarketingHeader.jsx
+- RoomOperatingHoursDisplay.jsx
+
+
+## 2026-04-22 — 18e25d2
+**Message:** sync: booking components — refined versions from Claude Code
+**Files changed:** 0 NEW, 0 MODIFIED, 2 CONFLICT
+**Conflicting Claude-owned files:**
+- BookingDateTimeStep.jsx
+- ClientSelectStep.jsx
+
+
+## 2026-04-22 — 762ca5e
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files changed:** 0 NEW, 0 MODIFIED, 10 CONFLICT
+**Conflicting Claude-owned files:**
+- EmptyState.jsx
+- FilterPills.jsx
+- PortalDrawer.jsx
+- PortalTable.jsx
+- SearchInput.jsx
+- SegmentedControl.jsx
+- SettingCard.jsx
+- Spinner.jsx
+- TabBar.jsx
+- button.jsx
+
+
+## 2026-04-20 — 47b2dd6
+**Message:** feat: move design site to cloudflare pages
+**Files changed:** 3 NEW, 1 MODIFIED, 0 CONFLICT

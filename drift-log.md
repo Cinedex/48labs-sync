@@ -6449,3 +6449,52 @@ All changes are NEW (database/contract system foundation) or MODIFIED (component
 - **Commit:** 7e2cf42 (7e2cf42d2b848cc0701c27b5bf19bca5f023ace5) / 2026-04-11T21:26:07+00:00 / 2N 4M 0C
   - **NEW:** src/components/ipad/DemoScreen.jsx, src/components/ipad/IdleScreen.jsx
   - File changes
+
+### 5b06f15 | Update base44 packages | 2026-04-16
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 1
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Changed Files:**
+- modified: package-lock.json
+- modified: package.json
+- added: src/components/ProtectedRoute.jsx
+
+---
+
+### 725cf75 | Update base44 packages | 2026-04-12
+
+**Files Changed:** 2
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Changed Files:**
+- modified: package-lock.json
+- modified: package.json
+
+---
+
+### fe64f26 | File changes | 2026-04-12
+
+**Files Changed:** 5
+
+**Classification:**
+- NEW: 2
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Changed Files:**
+- modified: src/database/MIGRATION_REPORT.md
+- added: src/database/data-migration-plan.md
+- added: src/database/migration-order.json
+- modified: src/database/supabase/schema.sql
+- modified: src/database/types/schema.ts
+
+---

@@ -1495,3 +1495,287 @@ All changes are NEW (database/contract system foundation) or MODIFIED (component
   - base44/functions/syncBookingToGoogleCalendar/entry.ts
   - base44/functions/syncGoogleCalendarToPortal/entry.ts
 
+
+---
+
+
+## 2026-04-11 — Commit 7e2cf42
+
+**Message**: File changes
+
+**Files changed**: 6 total
+- 2 NEW, 4 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 2 files
+- MODIFIED: 4 files  
+- CONFLICT: 0 files
+
+**New files**:
+  - src/components/ipad/DemoScreen.jsx
+  - src/components/ipad/IdleScreen.jsx
+
+
+## 2026-04-11 — Commit 0e0a4d2
+
+**Message**: File changes
+
+**Files changed**: 1 total
+- 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 1 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-11 — Commit 3f83184
+
+**Message**: File changes
+
+**Files changed**: 7 total
+- 0 NEW, 7 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 7 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-11 — Commit 1aec1f9
+
+**Message**: File changes
+
+**Files changed**: 1 total
+- 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 1 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit dc5b801
+
+**Message**: File changes
+
+**Files changed**: 3 total
+- 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 3 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit e9c7dad
+
+**Message**: File changes
+
+**Files changed**: 4 total
+- 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 4 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit cc795b7
+
+**Message**: File changes
+
+**Files changed**: 4 total
+- 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 4 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit 01ef5f4
+
+**Message**: File changes
+
+**Files changed**: 1 total
+- 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 1 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit 0ddc514
+
+**Message**: File changes
+
+**Files changed**: 3 total
+- 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 3 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit 0a8d94c
+
+**Message**: File changes
+
+**Files changed**: 2 total
+- 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 2 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit e4b13f4
+
+**Message**: File changes
+
+**Files changed**: 1 total
+- 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 1 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit 96400df
+
+**Message**: File changes
+
+**Files changed**: 3 total
+- 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 3 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit e2e0de2
+
+**Message**: File changes
+
+**Files changed**: 1 total
+- 0 NEW, 0 MODIFIED, 1 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 0 files  
+- CONFLICT: 1 files
+
+⚠️ **CONFLICTS DETECTED**:
+  - src/pages/Landing.jsx
+
+
+## 2026-04-12 — Commit cc98d28
+
+**Message**: File changes
+
+**Files changed**: 6 total
+- 0 NEW, 6 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 6 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit fe80272
+
+**Message**: File changes
+
+**Files changed**: 7 total
+- 7 NEW, 0 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 7 files
+- MODIFIED: 0 files  
+- CONFLICT: 0 files
+
+**New files**:
+  - src/contracts/schema/enums.json
+  - src/contracts/schema/relationships.json
+  - src/contracts/schema/tables.json
+  - src/database/MIGRATION_REPORT.md
+  - src/database/mappings/base44-map.ts
+  - ... and 2 more
+
+
+## 2026-04-12 — Commit eb00c62
+
+**Message**: File changes
+
+**Files changed**: 4 total
+- 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 4 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit 62d1e6a
+
+**Message**: File changes
+
+**Files changed**: 2 total
+- 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 2 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-12 — Commit fe64f26
+
+**Message**: File changes
+
+**Files changed**: 5 total
+- 2 NEW, 3 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 2 files
+- MODIFIED: 3 files  
+- CONFLICT: 0 files
+
+**New files**:
+  - src/database/data-migration-plan.md
+  - src/database/migration-order.json
+
+
+## 2026-04-12 — Commit 725cf75
+
+**Message**: Update base44 packages
+
+**Files changed**: 2 total
+- 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 0 files
+- MODIFIED: 2 files  
+- CONFLICT: 0 files
+
+
+## 2026-04-16 — Commit 5b06f15
+
+**Message**: Update base44 packages
+
+**Files changed**: 3 total
+- 1 NEW, 2 MODIFIED, 0 CONFLICT
+
+**Classification**:
+- NEW: 1 files
+- MODIFIED: 2 files  
+- CONFLICT: 0 files
+
+**New files**:
+  - src/components/ProtectedRoute.jsx

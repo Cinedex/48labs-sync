@@ -1,0 +1,104 @@
+name: Sync-Back Check
+
+on:
+  issues:
+    types: [closed]
+
+jobs:
+  check-sync-back:
+    # Only run for issues labeled "drift" — not staleness-risk, superagent-health, etc.
+    if: contains(github.event.issue.labels.*.name, 'drift')
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      contents: read
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # always read current manifest, not the commit that triggered the event
+
+      - name: Check design_sync_pending against issue body
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+
+            const issue = context.payload.issue;
+            const body = issue.body || '';
+
+            // Load current manifest
+            const manifest = JSON.parse(fs.readFileSync('manifest.json', 'utf8'));
+            const pending = new Set(manifest.design_sync_pending || []);
+
+            if (pending.size === 0) {
+              // design_sync_pending is empty — nothing left to enforce
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo:  context.repo.repo,
+                issue_number: issue.number,
+                body: '✅ **Confirmed sync back complete. base44 will see refined version next session.**\n\n`design_sync_pending` is empty — all files have been synced back to `48labs-design`.\n\n_Verified automatically by sync-back-check workflow._',
+              });
+              return;
+            }
+
+            // Extract file paths in src/... format from the issue body
+            const matches = body.match(/\bsrc\/[^\s`'")\]>]+\.(?:jsx?|tsx?)\b/g) || [];
+            const mentionedPaths = [...new Set(matches)];
+
+            // Which of the mentioned paths are still pending sync-back?
+            const stillPending = mentionedPaths.filter(p => pending.has(p));
+
+            if (stillPending.length > 0) {
+              // Reopen the issue
+              await github.rest.issues.update({
+                owner: context.repo.owner,
+                repo:  context.repo.repo,
+                issue_number: issue.number,
+                state: 'open',
+              });
+
+              // Explain why
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo:  context.repo.repo,
+                issue_number: issue.number,
+                body: [
+                  '⚠️ **Sync back to `48labs-design` not completed. Remove from `design_sync_pending` first.**',
+                  '',
+                  'The following files from this issue are still listed in `design_sync_pending` in `manifest.json`:',
+                  '',
+                  stillPending.map(p => `- \`${p}\``).join('\n'),
+                  '',
+                  'Before closing this issue:',
+                  '1. Push the refined version of each file back to `48labs-design`',
+                  '2. Remove each path from `design_sync_pending` in `manifest.json`',
+                  '3. Commit and push `manifest.json` to `48labs-sync`',
+                  '',
+                  'If this issue was closed as **no-action** (e.g. conflict reviewed and website version is already correct), remove the paths from `design_sync_pending` explicitly to record that decision.',
+                  '',
+                  '_Issue reopened automatically by sync-back-check workflow._',
+                ].join('\n'),
+              });
+
+              console.log(`Reopened #${issue.number} — ${stillPending.length} file(s) still pending sync-back`);
+
+            } else {
+              // All mentioned files are clear — allow the close
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo:  context.repo.repo,
+                issue_number: issue.number,
+                body: [
+                  '✅ **Confirmed sync back complete. base44 will see refined version next session.**',
+                  '',
+                  mentionedPaths.length > 0
+                    ? `No files from this issue remain in \`design_sync_pending\` in \`manifest.json\`.`
+                    : `No file paths were detected in this issue — nothing to verify against \`design_sync_pending\`.`,
+                  '',
+                  '_Verified automatically by sync-back-check workflow._',
+                ].join('\n'),
+              });
+
+              console.log(`Issue #${issue.number} closed cleanly — no pending sync-back required`);
+            }

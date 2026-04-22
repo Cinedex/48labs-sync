@@ -1696,3 +1696,166 @@ MembershipSignup.jsx, Register.jsx, UnifiedCheckout.jsx
 
 **Summary:** merge: bring staging sync commits into main (Phase 3 design sync)
 ---
+## 2026-04-11 | e90d8ad | NEW: 0, MODIFIED: 3, CONFLICT: 0
+File changes
+
+## 2026-04-11 | d6bc2b0 | NEW: 0, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 405ff26 | NEW: 0, MODIFIED: 4, CONFLICT: 0
+File changes
+
+## 2026-04-11 | a32f6aa | NEW: 0, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-11 | c323e33 | NEW: 0, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 9098ede | NEW: 0, MODIFIED: 2, CONFLICT: 0
+File changes
+
+## 2026-04-11 | c2e8650 | NEW: 0, MODIFIED: 4, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 1c572b9 | NEW: 2, MODIFIED: 6, CONFLICT: 0
+File changes
+
+## 2026-04-11 | ae210dd | NEW: 0, MODIFIED: 4, CONFLICT: 1
+File changes
+Conflict files: src/components/ui/FloatingPanel.jsx
+
+## 2026-04-11 | ad879b0 | NEW: 3, MODIFIED: 4, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 18612a7 | NEW: 0, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 3a1682a | NEW: 2, MODIFIED: 4, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 981bd65 | NEW: 0, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-11 | d37f541 | NEW: 0, MODIFIED: 4, CONFLICT: 1
+File changes
+Conflict files: src/components/ui/FloatingPanel.jsx
+
+## 2026-04-11 | d4df16b | NEW: 1, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 442a4aa | NEW: 0, MODIFIED: 3, CONFLICT: 1
+File changes
+Conflict files: src/components/ui/FloatingPanel.jsx
+
+## 2026-04-11 | b3b4a95 | NEW: 0, MODIFIED: 3, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 5756d26 | NEW: 0, MODIFIED: 3, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 7bd3f84 | NEW: 0, MODIFIED: 3, CONFLICT: 0
+File changes
+
+## 2026-04-11 | ca56f4c | NEW: 0, MODIFIED: 3, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 7e2cf42 | NEW: 2, MODIFIED: 4, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 0e0a4d2 | NEW: 0, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 3f83184 | NEW: 0, MODIFIED: 7, CONFLICT: 0
+File changes
+
+## 2026-04-11 | 1aec1f9 | NEW: 0, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-12 | dc5b801 | NEW: 0, MODIFIED: 3, CONFLICT: 0
+File changes
+
+## 2026-04-12 | e9c7dad | NEW: 0, MODIFIED: 4, CONFLICT: 0
+File changes
+
+## 2026-04-12 | cc795b7 | NEW: 0, MODIFIED: 4, CONFLICT: 0
+File changes
+
+## 2026-04-12 | 01ef5f4 | NEW: 0, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-12 | 0ddc514 | NEW: 0, MODIFIED: 3, CONFLICT: 0
+File changes
+
+## 2026-04-12 | 0a8d94c | NEW: 0, MODIFIED: 2, CONFLICT: 0
+File changes
+
+## 2026-04-12 | e4b13f4 | NEW: 0, MODIFIED: 1, CONFLICT: 0
+File changes
+
+## 2026-04-12 | 96400df | NEW: 0, MODIFIED: 3, CONFLICT: 0
+File changes
+
+## 2026-04-12 | e2e0de2 | NEW: 0, MODIFIED: 0, CONFLICT: 1
+File changes
+Conflict files: src/pages/Landing.jsx
+
+## 2026-04-12 | cc98d28 | NEW: 0, MODIFIED: 6, CONFLICT: 0
+File changes
+
+## 2026-04-12 | fe80272 | NEW: 7, MODIFIED: 0, CONFLICT: 0
+File changes
+
+## 2026-04-12 | eb00c62 | NEW: 0, MODIFIED: 4, CONFLICT: 0
+File changes
+
+## 2026-04-12 | 62d1e6a | NEW: 0, MODIFIED: 2, CONFLICT: 0
+File changes
+
+## 2026-04-12 | fe64f26 | NEW: 2, MODIFIED: 3, CONFLICT: 0
+File changes
+
+## 2026-04-12 | 725cf75 | NEW: 0, MODIFIED: 2, CONFLICT: 0
+Update base44 packages
+
+## 2026-04-16 | 5b06f15 | NEW: 1, MODIFIED: 2, CONFLICT: 0
+Update base44 packages
+
+## 2026-04-20 | 47b2dd6 | NEW: 3, MODIFIED: 1, CONFLICT: 0
+feat: move design site to cloudflare pages
+
+## 2026-04-22 | 762ca5e | NEW: 0, MODIFIED: 0, CONFLICT: 10
+sync: UI primitives — refined versions from Claude Code
+Conflict files: src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)
+
+## 2026-04-22 | 18e25d2 | NEW: 0, MODIFIED: 0, CONFLICT: 2
+sync: booking components — refined versions from Claude Code
+Conflict files: src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+## 2026-04-22 | 923b30e | NEW: 0, MODIFIED: 0, CONFLICT: 3
+sync: marketing components — refined versions from Claude Co
+Conflict files: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+## 2026-04-22 | 3564003 | NEW: 0, MODIFIED: 0, CONFLICT: 2
+sync: RoomForm components — refined versions from Claude Cod
+Conflict files: src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+## 2026-04-22 | 3885333 | NEW: 0, MODIFIED: 0, CONFLICT: 3
+sync: dashboard and iPad components — refined versions from 
+Conflict files: src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+## 2026-04-22 | 22cdea7 | NEW: 0, MODIFIED: 0, CONFLICT: 1
+sync: BookingFlow.jsx — refined version from Claude Code
+Conflict files: src/pages/BookingFlow.jsx
+
+## 2026-04-22 | f19cdf0 | NEW: 0, MODIFIED: 0, CONFLICT: 4
+sync: website marketing pages — refined versions from Claude
+Conflict files: src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+## 2026-04-22 | aa4661f | NEW: 0, MODIFIED: 0, CONFLICT: 6
+sync: website booking and auth pages — refined versions from
+Conflict files: src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx (+1 more)
+
+## 2026-04-22 | dcb2a8e | NEW: 3, MODIFIED: 1, CONFLICT: 31
+merge: bring staging sync commits into main (Phase 3 design 
+Conflict files: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx (+26 more)
+

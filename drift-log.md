@@ -8613,3 +8613,7 @@ KQoK
 ## 2026-04-23T17:41:06.849509+00:00
 **Commit:** dcb2a8e — merge: bring staging sync commits into main (Phase 3 design sync)
 **Files:** package.json (NEW) | project.config.json (NEW) | public/_redirects (NEW) | scripts/deploy-guard.mjs (NEW) | src/components/MarketingFooter.jsx (CONFLICT) ... +30 more
+
+## 2026-04-23T17:41:09.020256+00:00
+**Commit:** aa4661f — sync: website booking and auth pages — refined versions from Claude Code
+**Files:** src/pages/DynamicCreditsPage.jsx (CONFLICT) | src/pages/DynamicMembershipsPage.jsx (CONFLICT) | src/pages/GuestBuyCredits.jsx (CONFLICT) | src/pages/MembershipSignup.jsx (CONFLICT) | src/pages/Register.jsx (CONFLICT) ... +1 more

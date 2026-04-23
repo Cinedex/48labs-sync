@@ -8845,3 +8845,7 @@ KQoK
 ## 2026-04-23T17:43:12.826300+00:00
 **Commit:** 762ca5e — sync: UI primitives — refined versions from Claude Code
 **Files:** src/components/ui/EmptyState.jsx (CONFLICT) | src/components/ui/FilterPills.jsx (CONFLICT) | src/components/ui/PortalDrawer.jsx (CONFLICT) | src/components/ui/PortalTable.jsx (CONFLICT) | src/components/ui/SearchInput.jsx (CONFLICT) ... +5 more
+
+## 2026-04-23T17:43:14.522254+00:00
+**Commit:** 47b2dd6 — feat: move design site to cloudflare pages
+**Files:** package.json (NEW) | project.config.json (NEW) | public/_redirects (NEW) | scripts/deploy-guard.mjs (NEW)

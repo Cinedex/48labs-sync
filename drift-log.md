@@ -11975,3 +11975,24 @@ MembershipSignup.jsx, Register.jsx, UnifiedCheckout.jsx
 
 ---
 
+## f19cdf0 (2026-04-22T05:04:42+00:00)
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+Landing.jsx, Studios.jsx, Services.jsx, RoomProfile.jsx
+
+- api.entities.* → domain imports (Room, Service, GlobalAddOn, etc.)
+- slate-* tokens → semantic aliases
+- Landing.jsx: text-white/xx opacity variants preserved (intentional on bg-[#0a0a0a])
+
+**Files Changed:** 4 files
+- NEW: 0 files
+- CONFLICT: 4 files
+
+**Details:**
+- (CONFLICT) src/pages/Landing.jsx
+- (CONFLICT) src/pages/RoomProfile.jsx
+- (CONFLICT) src/pages/Services.jsx
+- (CONFLICT) src/pages/Studios.jsx
+
+---
+

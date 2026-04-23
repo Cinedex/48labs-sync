@@ -11515,3 +11515,112 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 **f19cdf03** (2026-04-22) — sync: website marketing pages — refined versions from Claude Code | 4 files (4× CONFLICT)
 **aa4661f4** (2026-04-22) — sync: website booking and auth pages — refined versions from Claude Code | 6 files (6× CONFLICT)
 **dcb2a8e9** (2026-04-22) — merge: bring staging sync commits into main (Phase 3 design sync) | 35 files (4× NEW, 31× CONFLICT)
+
+## dcb2a8e — 2026-04-22
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files changed:** 35
+- **CONFLICT:** 31
+- **NEW:** 4
+
+**Status:** Logged for drift tracking
+
+
+## aa4661f — 2026-04-22
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files changed:** 6
+- **CONFLICT:** 6
+- **NEW:** 0
+
+**Status:** Logged for drift tracking
+
+
+## f19cdf0 — 2026-04-22
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Files changed:** 4
+- **CONFLICT:** 4
+- **NEW:** 0
+
+**Status:** Logged for drift tracking
+
+
+## 22cdea7 — 2026-04-22
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files changed:** 1
+- **CONFLICT:** 1
+- **NEW:** 0
+
+**Status:** Logged for drift tracking
+
+
+## 3885333 — 2026-04-22
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files changed:** 3
+- **CONFLICT:** 3
+- **NEW:** 0
+
+**Status:** Logged for drift tracking
+
+
+## 3564003 — 2026-04-22
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**Files changed:** 2
+- **CONFLICT:** 2
+- **NEW:** 0
+
+**Status:** Logged for drift tracking
+
+
+## 923b30e — 2026-04-22
+
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**Files changed:** 3
+- **CONFLICT:** 3
+- **NEW:** 0
+
+**Status:** Logged for drift tracking
+
+
+## 18e25d2 — 2026-04-22
+
+**Message:** sync: booking components — refined versions from Claude Code
+
+**Files changed:** 2
+- **CONFLICT:** 2
+- **NEW:** 0
+
+**Status:** Logged for drift tracking
+
+
+## 762ca5e — 2026-04-22
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**Files changed:** 10
+- **CONFLICT:** 10
+- **NEW:** 0
+
+**Status:** Logged for drift tracking
+
+
+## 47b2dd6 — 2026-04-20
+
+**Message:** feat: move design site to cloudflare pages
+
+**Files changed:** 4
+- **CONFLICT:** 0
+- **NEW:** 4
+
+**Status:** Logged for drift tracking

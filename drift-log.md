@@ -12032,3 +12032,22 @@ MonthCalendar.jsx, ThankYouScreen.jsx, FiveMinWarning.jsx
 
 ---
 
+## 3564003 (2026-04-22T05:04:23+00:00)
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+RoomStudioPreview.jsx, WebsitePreviewCard.jsx
+
+- api.entities.AddOn → domain imports
+- Array.isArray() guard added for attached_add_on_ids
+- Token refinement: slate-* → semantic aliases
+
+**Files Changed:** 2 files
+- NEW: 0 files
+- CONFLICT: 2 files
+
+**Details:**
+- (CONFLICT) src/components/RoomForm/RoomStudioPreview.jsx
+- (CONFLICT) src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+

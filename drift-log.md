@@ -8849,3 +8849,7 @@ KQoK
 ## 2026-04-23T17:43:14.522254+00:00
 **Commit:** 47b2dd6 — feat: move design site to cloudflare pages
 **Files:** package.json (NEW) | project.config.json (NEW) | public/_redirects (NEW) | scripts/deploy-guard.mjs (NEW)
+
+## 2026-04-23T17:43:16.251246+00:00
+**Commit:** 5b06f15 — Update base44 packages
+**Files:** package-lock.json (NEW) | package.json (NEW) | src/components/ProtectedRoute.jsx (NEW)

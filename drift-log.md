@@ -9223,3 +9223,105 @@ Files: 10 CONFLICT, 0 NEW
 **feat: move design site to cloudflare pages**
 Files: 0 CONFLICT, 4 NEW
 
+
+### 47b2dd6 — 2026-04-20
+**Message:** feat: move design site to cloudflare pages
+**Files:** 4 total
+- **CONFLICT:** 0 (Claude Code owns these)
+- **NEW:** 4 (base44 added)
+
+### 762ca5e — 2026-04-22
+**Message:** sync: UI primitives
+**Files:** 10 total
+- **CONFLICT:** 10 (Claude Code owns these)
+- **NEW:** 0 (base44 added)
+**Conflicted files:**
+  - src/components/ui/EmptyState.jsx
+  - src/components/ui/FilterPills.jsx
+  - src/components/ui/PortalDrawer.jsx
+  - src/components/ui/PortalTable.jsx
+  - src/components/ui/SearchInput.jsx
+  ... and 5 more
+
+### 18e25d2 — 2026-04-22
+**Message:** sync: booking components
+**Files:** 2 total
+- **CONFLICT:** 2 (Claude Code owns these)
+- **NEW:** 0 (base44 added)
+**Conflicted files:**
+  - src/components/booking/BookingDateTimeStep.jsx
+  - src/components/booking/ClientSelectStep.jsx
+
+### 923b30e — 2026-04-22
+**Message:** sync: marketing components
+**Files:** 3 total
+- **CONFLICT:** 3 (Claude Code owns these)
+- **NEW:** 0 (base44 added)
+**Conflicted files:**
+  - src/components/MarketingFooter.jsx
+  - src/components/MarketingHeader.jsx
+  - src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+### 3564003 — 2026-04-22
+**Message:** sync: RoomForm components
+**Files:** 2 total
+- **CONFLICT:** 2 (Claude Code owns these)
+- **NEW:** 0 (base44 added)
+**Conflicted files:**
+  - src/components/RoomForm/RoomStudioPreview.jsx
+  - src/components/RoomForm/WebsitePreviewCard.jsx
+
+### 3885333 — 2026-04-22
+**Message:** sync: dashboard and iPad components
+**Files:** 3 total
+- **CONFLICT:** 3 (Claude Code owns these)
+- **NEW:** 0 (base44 added)
+**Conflicted files:**
+  - src/components/dashboard/MonthCalendar.jsx
+  - src/components/ipad/FiveMinWarning.jsx
+  - src/components/ipad/ThankYouScreen.jsx
+
+### 22cdea7 — 2026-04-22
+**Message:** sync: BookingFlow.jsx
+**Files:** 1 total
+- **CONFLICT:** 1 (Claude Code owns these)
+- **NEW:** 0 (base44 added)
+**Conflicted files:**
+  - src/pages/BookingFlow.jsx
+
+### f19cdf0 — 2026-04-22
+**Message:** sync: website marketing pages
+**Files:** 4 total
+- **CONFLICT:** 4 (Claude Code owns these)
+- **NEW:** 0 (base44 added)
+**Conflicted files:**
+  - src/pages/Landing.jsx
+  - src/pages/RoomProfile.jsx
+  - src/pages/Services.jsx
+  - src/pages/Studios.jsx
+
+### aa4661f — 2026-04-22
+**Message:** sync: website booking and auth pages
+**Files:** 6 total
+- **CONFLICT:** 6 (Claude Code owns these)
+- **NEW:** 0 (base44 added)
+**Conflicted files:**
+  - src/pages/DynamicCreditsPage.jsx
+  - src/pages/DynamicMembershipsPage.jsx
+  - src/pages/GuestBuyCredits.jsx
+  - src/pages/MembershipSignup.jsx
+  - src/pages/Register.jsx
+  ... and 1 more
+
+### dcb2a8e — 2026-04-22
+**Message:** merge: bring staging sync commits into main
+**Files:** 35 total
+- **CONFLICT:** 31 (Claude Code owns these)
+- **NEW:** 4 (base44 added)
+**Conflicted files:**
+  - src/components/MarketingFooter.jsx
+  - src/components/MarketingHeader.jsx
+  - src/components/RoomForm/RoomStudioPreview.jsx
+  - src/components/RoomForm/WebsitePreviewCard.jsx
+  - src/components/booking/BookingDateTimeStep.jsx
+  ... and 26 more

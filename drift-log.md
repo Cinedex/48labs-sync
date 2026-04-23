@@ -11905,3 +11905,49 @@ f19cdf03 (2026-04-22) — sync: website marketing pages — refined versions fro
 **Files:** 4 files (4× NEW)
 **Status:** Logged
 ---
+## dcb2a8e (2026-04-22T15:33:13+00:00)
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files Changed:** 35 files
+- NEW: 4 files
+- CONFLICT: 31 files
+
+**Details:**
+- (NEW) package.json
+- (NEW) project.config.json
+- (NEW) public/_redirects
+- (NEW) scripts/deploy-guard.mjs
+- (CONFLICT) src/components/MarketingFooter.jsx
+- (CONFLICT) src/components/MarketingHeader.jsx
+- (CONFLICT) src/components/RoomForm/RoomStudioPreview.jsx
+- (CONFLICT) src/components/RoomForm/WebsitePreviewCard.jsx
+- (CONFLICT) src/components/booking/BookingDateTimeStep.jsx
+- (CONFLICT) src/components/booking/ClientSelectStep.jsx
+- (CONFLICT) src/components/dashboard/MonthCalendar.jsx
+- (CONFLICT) src/components/ipad/FiveMinWarning.jsx
+- (CONFLICT) src/components/ipad/ThankYouScreen.jsx
+- (CONFLICT) src/components/marketing/RoomOperatingHoursDisplay.jsx
+- (CONFLICT) src/components/ui/EmptyState.jsx
+- (CONFLICT) src/components/ui/FilterPills.jsx
+- (CONFLICT) src/components/ui/PortalDrawer.jsx
+- (CONFLICT) src/components/ui/PortalTable.jsx
+- (CONFLICT) src/components/ui/SearchInput.jsx
+- (CONFLICT) src/components/ui/SegmentedControl.jsx
+- (CONFLICT) src/components/ui/SettingCard.jsx
+- (CONFLICT) src/components/ui/Spinner.jsx
+- (CONFLICT) src/components/ui/TabBar.jsx
+- (CONFLICT) src/components/ui/button.jsx
+- (CONFLICT) src/pages/BookingFlow.jsx
+- (CONFLICT) src/pages/DynamicCreditsPage.jsx
+- (CONFLICT) src/pages/DynamicMembershipsPage.jsx
+- (CONFLICT) src/pages/GuestBuyCredits.jsx
+- (CONFLICT) src/pages/Landing.jsx
+- (CONFLICT) src/pages/MembershipSignup.jsx
+- (CONFLICT) src/pages/Register.jsx
+- (CONFLICT) src/pages/RoomProfile.jsx
+- (CONFLICT) src/pages/Services.jsx
+- (CONFLICT) src/pages/Studios.jsx
+- (CONFLICT) src/pages/UnifiedCheckout.jsx
+
+---
+

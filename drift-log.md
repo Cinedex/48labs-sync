@@ -12161,3 +12161,19 @@ SearchInput.jsx, SegmentedControl.jsx, SettingCard.jsx, Spinner.jsx, TabBar.jsx
 
 ---
 
+## fe64f26 (2026-04-12T01:46:59+00:00)
+**Message:** File changes
+
+**Files Changed:** 5 files
+- NEW: 5 files
+- CONFLICT: 0 files
+
+**Details:**
+- (NEW) src/database/MIGRATION_REPORT.md
+- (NEW) src/database/data-migration-plan.md
+- (NEW) src/database/migration-order.json
+- (NEW) src/database/supabase/schema.sql
+- (NEW) src/database/types/schema.ts
+
+---
+

@@ -8817,3 +8817,7 @@ KQoK
 ## 2026-04-23T17:43:00.443288+00:00
 **Commit:** aa4661f — sync: website booking and auth pages — refined versions from Claude Code
 **Files:** src/pages/DynamicCreditsPage.jsx (CONFLICT) | src/pages/DynamicMembershipsPage.jsx (CONFLICT) | src/pages/GuestBuyCredits.jsx (CONFLICT) | src/pages/MembershipSignup.jsx (CONFLICT) | src/pages/Register.jsx (CONFLICT) ... +1 more
+
+## 2026-04-23T17:43:02.259598+00:00
+**Commit:** f19cdf0 — sync: website marketing pages — refined versions from Claude Code
+**Files:** src/pages/Landing.jsx (CONFLICT) | src/pages/RoomProfile.jsx (CONFLICT) | src/pages/Services.jsx (CONFLICT) | src/pages/Studios.jsx (CONFLICT)

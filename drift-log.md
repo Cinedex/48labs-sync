@@ -12012,3 +12012,23 @@ Landing.jsx, Studios.jsx, Services.jsx, RoomProfile.jsx
 
 ---
 
+## 3885333 (2026-04-22T05:04:31+00:00)
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+MonthCalendar.jsx, ThankYouScreen.jsx, FiveMinWarning.jsx
+
+- border-t-slate-700 → border-t-border-soft (MonthCalendar tooltip arrows)
+- Token refinement: slate-* → semantic aliases across all three
+- ThankYouScreen/FiveMinWarning: bg-white/opacity patterns → bg-canvas
+
+**Files Changed:** 3 files
+- NEW: 0 files
+- CONFLICT: 3 files
+
+**Details:**
+- (CONFLICT) src/components/dashboard/MonthCalendar.jsx
+- (CONFLICT) src/components/ipad/FiveMinWarning.jsx
+- (CONFLICT) src/components/ipad/ThankYouScreen.jsx
+
+---
+

@@ -6603,3 +6603,103 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 - src/components/ui/TabBar.jsx
 - src/components/ui/button.jsx
 
+
+### dcb2a8e9 | 2026-04-22T15:33:13Z
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Classification:** 31× CONFLICT, 3× NEW, 1× MODIFIED
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/dcb2a8e911e5ed365732b984c6e920f1ced3d844)
+
+---
+
+### aa4661f4 | 2026-04-22T05:04:47Z
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Classification:** 6× CONFLICT
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/aa4661f4b14bfb0d815b78f4a1206cd07a2810f4)
+
+---
+
+### f19cdf03 | 2026-04-22T05:04:42Z
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Classification:** 4× CONFLICT
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/f19cdf0381be3ceebc40ae98c2bc71f92148d855)
+
+---
+
+### 22cdea70 | 2026-04-22T05:04:36Z
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Classification:** 1× CONFLICT
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/22cdea70afd9f763b36b3e1941e366c04b97b1e6)
+
+---
+
+### 3885333 | 2026-04-22T05:04:31Z
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Classification:** 3× CONFLICT
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/38853339f47e5b2ddcd23a205c40cb228fcd8dc1)
+
+---
+
+### 3564003 | 2026-04-22T05:04:23Z
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**Classification:** 2× CONFLICT
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/3564003baf53a0ced6da5c5c49941f4d09c8082d)
+
+---
+
+### 923b30e | 2026-04-22T05:04:19Z
+
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**Classification:** 3× CONFLICT
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/923b30e2efc07529a161d81258b6bbda8daba496)
+
+---
+
+### 18e25d2 | 2026-04-22T05:04:15Z
+
+**Message:** sync: booking components — refined versions from Claude Code
+
+**Classification:** 2× CONFLICT
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/18e25d254af8ee8569479173206fb9ea19d0382c)
+
+---
+
+### 762ca5e | 2026-04-22T05:04:10Z
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**Classification:** 10× CONFLICT
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/762ca5e09a65dd464932fe352920a4faacbfa0bc)
+
+---
+
+### 47b2dd6 | 2026-04-20T04:07:52Z
+
+**Message:** feat: move design site to cloudflare pages
+
+**Classification:** 3× NEW, 1× MODIFIED
+
+**Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/47b2dd66260b5c9585f2b3c5cde7da1a130183f5)
+
+---

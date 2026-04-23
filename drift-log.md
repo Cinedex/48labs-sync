@@ -11996,3 +11996,19 @@ Landing.jsx, Studios.jsx, Services.jsx, RoomProfile.jsx
 
 ---
 
+## 22cdea7 (2026-04-22T05:04:36+00:00)
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+- bg-white step headers → bg-canvas (theme-aware fix)
+- slate-* gradient tokens → from-canvas/via-elevated/to-elevated
+- Token parity with portal surface/elevated pattern
+
+**Files Changed:** 1 files
+- NEW: 0 files
+- CONFLICT: 1 files
+
+**Details:**
+- (CONFLICT) src/pages/BookingFlow.jsx
+
+---
+

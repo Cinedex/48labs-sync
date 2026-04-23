@@ -10169,3 +10169,121 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 
 ---
 
+### dcb2a8e
+**Date:** 2026-04-22T15:33:13Z
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files Changed:** 35 total
+  - NEW: 3
+  - MODIFIED: 1
+  - CONFLICT: 31
+**Conflicts:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx (+26 more)
+
+---
+
+
+### aa4661f
+**Date:** 2026-04-22T05:04:47Z
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files Changed:** 6 total
+  - NEW: 0
+  - MODIFIED: 0
+  - CONFLICT: 6
+**Conflicts:** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx (+1 more)
+
+---
+
+
+### f19cdf0
+**Date:** 2026-04-22T05:04:42Z
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files Changed:** 4 total
+  - NEW: 0
+  - MODIFIED: 0
+  - CONFLICT: 4
+**Conflicts:** src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+---
+
+
+### 22cdea7
+**Date:** 2026-04-22T05:04:36Z
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files Changed:** 1 total
+  - NEW: 0
+  - MODIFIED: 0
+  - CONFLICT: 1
+**Conflicts:** src/pages/BookingFlow.jsx
+
+---
+
+
+### 3885333
+**Date:** 2026-04-22T05:04:31Z
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files Changed:** 3 total
+  - NEW: 0
+  - MODIFIED: 0
+  - CONFLICT: 3
+**Conflicts:** src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+---
+
+
+### 3564003
+**Date:** 2026-04-22T05:04:23Z
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files Changed:** 2 total
+  - NEW: 0
+  - MODIFIED: 0
+  - CONFLICT: 2
+**Conflicts:** src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+
+
+### 923b30e
+**Date:** 2026-04-22T05:04:19Z
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files Changed:** 3 total
+  - NEW: 0
+  - MODIFIED: 0
+  - CONFLICT: 3
+**Conflicts:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---
+
+
+### 18e25d2
+**Date:** 2026-04-22T05:04:15Z
+**Message:** sync: booking components — refined versions from Claude Code
+**Files Changed:** 2 total
+  - NEW: 0
+  - MODIFIED: 0
+  - CONFLICT: 2
+**Conflicts:** src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+---
+
+
+### 762ca5e
+**Date:** 2026-04-22T05:04:10Z
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files Changed:** 10 total
+  - NEW: 0
+  - MODIFIED: 0
+  - CONFLICT: 10
+**Conflicts:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)
+
+---
+
+
+### 47b2dd6
+**Date:** 2026-04-20T04:07:52Z
+**Message:** feat: move design site to cloudflare pages
+**Files Changed:** 4 total
+  - NEW: 3
+  - MODIFIED: 1
+  - CONFLICT: 0
+
+---
+

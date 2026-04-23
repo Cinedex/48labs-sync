@@ -12071,3 +12071,23 @@ MarketingHeader.jsx, MarketingFooter.jsx, RoomOperatingHoursDisplay.jsx
 
 ---
 
+## 18e25d2 (2026-04-22T05:04:15+00:00)
+**Message:** sync: booking components — refined versions from Claude Code
+
+BookingDateTimeStep.jsx, ClientSelectStep.jsx
+
+- base44.entities.OperatingHours → getOperatingWindowForDate() domain import
+- api.entities.* → domain imports (Client, Room, AddOn)
+- Token refinement: slate-*/white opacity → semantic aliases
+- React.useState/useEffect dot notation (no destructure needed)
+
+**Files Changed:** 2 files
+- NEW: 0 files
+- CONFLICT: 2 files
+
+**Details:**
+- (CONFLICT) src/components/booking/BookingDateTimeStep.jsx
+- (CONFLICT) src/components/booking/ClientSelectStep.jsx
+
+---
+

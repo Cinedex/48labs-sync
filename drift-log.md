@@ -8825,3 +8825,7 @@ KQoK
 ## 2026-04-23T17:43:03.868061+00:00
 **Commit:** 22cdea7 — sync: BookingFlow.jsx — refined version from Claude Code
 **Files:** src/pages/BookingFlow.jsx (CONFLICT)
+
+## 2026-04-23T17:43:05.763945+00:00
+**Commit:** 3885333 — sync: dashboard and iPad components — refined versions from Claude Code
+**Files:** src/components/dashboard/MonthCalendar.jsx (CONFLICT) | src/components/ipad/FiveMinWarning.jsx (CONFLICT) | src/components/ipad/ThankYouScreen.jsx (CONFLICT)

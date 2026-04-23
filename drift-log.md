@@ -7131,3 +7131,120 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 ---
 
+
+## 5b06f15 | 2026-04-16T15:28:29Z
+**Commit:** Update base44 packages
+**Files:** 3 total (1× NEW, 2× MODIFIED, 0× CONFLICT)
+
+**NEW (1):**
+- src/components/ProtectedRoute.jsx
+
+**MODIFIED (2):**
+- package-lock.json
+- package.json
+
+---
+
+## 725cf75 | 2026-04-12T15:14:18Z
+**Commit:** Update base44 packages
+**Files:** 2 total (0× NEW, 2× MODIFIED, 0× CONFLICT)
+
+**MODIFIED (2):**
+- package-lock.json
+- package.json
+
+---
+
+## fe64f26 | 2026-04-12T01:46:59Z
+**Commit:** File changes
+**Files:** 5 total (2× NEW, 3× MODIFIED, 0× CONFLICT)
+
+**NEW (2):**
+- src/database/data-migration-plan.md
+- src/database/migration-order.json
+
+**MODIFIED (3):**
+- src/database/MIGRATION_REPORT.md
+- src/database/supabase/schema.sql
+- src/database/types/schema.ts
+
+---
+
+## 62d1e6a | 2026-04-12T01:42:54Z
+**Commit:** File changes
+**Files:** 2 total (0× NEW, 2× MODIFIED, 0× CONFLICT)
+
+**MODIFIED (2):**
+- src/lib/workflow-data.js
+- src/pages/AdminWorkflowMap.jsx
+
+---
+
+## eb00c62 | 2026-04-12T01:40:38Z
+**Commit:** File changes
+**Files:** 4 total (0× NEW, 4× MODIFIED, 0× CONFLICT)
+
+**MODIFIED (4):**
+- src/components/Sidebar.jsx
+- src/components/admin/AdminTopbar.jsx
+- src/components/admin/QuickActionsDropdown.jsx
+- src/components/dashboard/PremiumCalendar.jsx
+
+---
+
+## fe80272 | 2026-04-12T01:37:07Z
+**Commit:** File changes
+**Files:** 7 total (7× NEW, 0× MODIFIED, 0× CONFLICT)
+
+**NEW (7):**
+- src/contracts/schema/enums.json
+- src/contracts/schema/relationships.json
+- src/contracts/schema/tables.json
+- src/database/MIGRATION_REPORT.md
+- src/database/mappings/base44-map.ts
+- ... and 2 more
+
+---
+
+## cc98d28 | 2026-04-12T01:29:03Z
+**Commit:** File changes
+**Files:** 6 total (0× NEW, 6× MODIFIED, 0× CONFLICT)
+
+**MODIFIED (6):**
+- base44/entities/RoomLightingLayout.jsonc
+- base44/entities/iPadCommand.jsonc
+- src/components/ipad/InSessionScreen.jsx
+- src/components/ipad/LightingCanvas.jsx
+- src/components/ipad/LightingPanel.jsx
+- ... and 1 more
+
+---
+
+## e2e0de2 | 2026-04-12T01:22:17Z
+**Commit:** File changes
+**Files:** 1 total (0× NEW, 0× MODIFIED, 1× CONFLICT)
+
+**CONFLICT (1):**
+- src/pages/Landing.jsx
+
+---
+
+## 96400df | 2026-04-12T00:52:59Z
+**Commit:** File changes
+**Files:** 3 total (0× NEW, 3× MODIFIED, 0× CONFLICT)
+
+**MODIFIED (3):**
+- src/components/Sidebar.jsx
+- src/components/admin/AdminTopbar.jsx
+- src/components/dashboard/PremiumCalendar.jsx
+
+---
+
+## e4b13f4 | 2026-04-12T00:49:05Z
+**Commit:** File changes
+**Files:** 1 total (0× NEW, 1× MODIFIED, 0× CONFLICT)
+
+**MODIFIED (1):**
+- src/lib/workflow-data.js
+
+---

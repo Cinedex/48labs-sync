@@ -1,3 +1,403 @@
+## e90d8ade — 2026-04-11T06:00:19Z
+
+**Message:** File changes
+
+**Classification:** 3 MODIFIED
+
+---
+
+## d6bc2b03 — 2026-04-11T06:05:34Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## 405ff264 — 2026-04-11T06:14:43Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED
+
+---
+
+## a32f6aaf — 2026-04-11T06:22:32Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## c323e33f — 2026-04-11T06:23:32Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## 9098ede4 — 2026-04-11T06:28:01Z
+
+**Message:** File changes
+
+**Classification:** 2 MODIFIED
+
+---
+
+## c2e86504 — 2026-04-11T06:36:48Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED
+
+---
+
+## 1c572b9d — 2026-04-11T06:41:13Z
+
+**Message:** File changes
+
+**Classification:** 6 MODIFIED, 2 NEW
+
+---
+
+## ae210dd2 — 2026-04-11T16:36:30Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED, 1 NEW
+
+---
+
+## ad879b0b — 2026-04-11T16:39:39Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED, 3 NEW
+
+---
+
+## 18612a7d — 2026-04-11T16:40:47Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## 3a1682a1 — 2026-04-11T16:45:25Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED, 2 NEW
+
+---
+
+## 981bd655 — 2026-04-11T16:46:39Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## d37f5413 — 2026-04-11T16:49:42Z
+
+**Message:** File changes
+
+**Classification:** 5 MODIFIED
+
+---
+
+## d4df16bd — 2026-04-11T16:54:44Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED, 1 NEW
+
+---
+
+## 442a4aa6 — 2026-04-11T17:07:18Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED
+
+---
+
+## b3b4a959 — 2026-04-11T17:21:37Z
+
+**Message:** File changes
+
+**Classification:** 3 MODIFIED
+
+---
+
+## 5756d26d — 2026-04-11T17:33:38Z
+
+**Message:** File changes
+
+**Classification:** 3 MODIFIED
+
+---
+
+## 7bd3f848 — 2026-04-11T17:53:09Z
+
+**Message:** File changes
+
+**Classification:** 3 MODIFIED
+
+---
+
+## ca56f4c8 — 2026-04-11T21:23:51Z
+
+**Message:** File changes
+
+**Classification:** 3 MODIFIED
+
+---
+
+## 7e2cf42d — 2026-04-11T21:26:07Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED, 2 NEW
+
+---
+
+## 0e0a4d29 — 2026-04-11T23:22:13Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## 3f83184f — 2026-04-11T23:52:52Z
+
+**Message:** File changes
+
+**Classification:** 7 MODIFIED
+
+---
+
+## 1aec1f99 — 2026-04-11T23:54:19Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## dc5b801f — 2026-04-12T00:03:02Z
+
+**Message:** File changes
+
+**Classification:** 3 MODIFIED
+
+---
+
+## e9c7dad7 — 2026-04-12T00:20:40Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED
+
+---
+
+## cc795b75 — 2026-04-12T00:23:25Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED
+
+---
+
+## 01ef5f43 — 2026-04-12T00:30:30Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## 0ddc5140 — 2026-04-12T00:39:19Z
+
+**Message:** File changes
+
+**Classification:** 3 MODIFIED
+
+---
+
+## 0a8d94c4 — 2026-04-12T00:43:22Z
+
+**Message:** File changes
+
+**Classification:** 2 MODIFIED
+
+---
+
+## e4b13f4b — 2026-04-12T00:49:05Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## 96400df4 — 2026-04-12T00:52:59Z
+
+**Message:** File changes
+
+**Classification:** 3 MODIFIED
+
+---
+
+## e2e0de2e — 2026-04-12T01:22:17Z
+
+**Message:** File changes
+
+**Classification:** 1 MODIFIED
+
+---
+
+## cc98d284 — 2026-04-12T01:29:03Z
+
+**Message:** File changes
+
+**Classification:** 6 MODIFIED
+
+---
+
+## fe80272b — 2026-04-12T01:37:07Z
+
+**Message:** File changes
+
+**Classification:** 7 NEW
+
+---
+
+## eb00c62f — 2026-04-12T01:40:38Z
+
+**Message:** File changes
+
+**Classification:** 4 MODIFIED
+
+---
+
+## 62d1e6a5 — 2026-04-12T01:42:54Z
+
+**Message:** File changes
+
+**Classification:** 2 MODIFIED
+
+---
+
+## fe64f268 — 2026-04-12T01:46:59Z
+
+**Message:** File changes
+
+**Classification:** 3 MODIFIED, 2 NEW
+
+---
+
+## 725cf756 — 2026-04-12T15:14:18Z
+
+**Message:** Update base44 packages
+
+**Classification:** 2 MODIFIED
+
+---
+
+## 5b06f159 — 2026-04-16T15:28:29Z
+
+**Message:** Update base44 packages
+
+**Classification:** 2 MODIFIED, 1 NEW
+
+---
+
+## 47b2dd66 — 2026-04-20T04:07:52Z
+
+**Message:** feat: move design site to cloudflare pages
+
+**Classification:** 1 MODIFIED, 3 NEW
+
+---
+
+## 762ca5e0 — 2026-04-22T05:04:10Z
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**Classification:** 10 MODIFIED
+
+---
+
+## 18e25d25 — 2026-04-22T05:04:15Z
+
+**Message:** sync: booking components — refined versions from Claude Code
+
+**Classification:** 2 MODIFIED
+
+---
+
+## 923b30e2 — 2026-04-22T05:04:19Z
+
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**Classification:** 3 MODIFIED
+
+---
+
+## 3564003b — 2026-04-22T05:04:23Z
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**Classification:** 2 MODIFIED
+
+---
+
+## 38853339 — 2026-04-22T05:04:31Z
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Classification:** 3 MODIFIED
+
+---
+
+## 22cdea70 — 2026-04-22T05:04:36Z
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Classification:** 1 MODIFIED
+
+---
+
+## f19cdf03 — 2026-04-22T05:04:42Z
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Classification:** 4 MODIFIED
+
+---
+
+## aa4661f4 — 2026-04-22T05:04:47Z
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Classification:** 6 MODIFIED
+
+---
+
+## dcb2a8e9 — 2026-04-22T15:33:13Z
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Classification:** 32 MODIFIED, 3 NEW
+
+---
+
 # drift-log
 
 Human-readable record of what drifted between 48labs-design and 48labs-sync, and how it was resolved.

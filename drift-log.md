@@ -4132,3 +4132,14 @@ Each entry shows:
 
 ---
 
+
+**2026-04-20** | `47b2dd6` | 1× MODIFIED, 3× NEW | feat: move design site to cloudflare pages
+**2026-04-22** | `762ca5e` | 10× CONFLICT | sync: UI primitives — refined versions from Claude Code
+**2026-04-22** | `18e25d2` | 2× CONFLICT | sync: booking components — refined versions from Claude Code
+**2026-04-22** | `923b30e` | 3× CONFLICT | sync: marketing components — refined versions from Claude Code
+**2026-04-22** | `3564003` | 2× CONFLICT | sync: RoomForm components — refined versions from Claude Code
+**2026-04-22** | `3885333` | 3× CONFLICT | sync: dashboard and iPad components — refined versions from Claude Code
+**2026-04-22** | `22cdea7` | 1× CONFLICT | sync: BookingFlow.jsx — refined version from Claude Code
+**2026-04-22** | `f19cdf0` | 4× CONFLICT | sync: website marketing pages — refined versions from Claude Code
+**2026-04-22** | `aa4661f` | 6× CONFLICT | sync: website booking and auth pages — refined versions from Claude Code
+**2026-04-22** | `dcb2a8e` | 31× CONFLICT, 1× MODIFIED, 3× NEW | merge: bring staging sync commits into main (Phase 3 design sync)

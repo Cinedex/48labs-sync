@@ -8833,3 +8833,7 @@ KQoK
 ## 2026-04-23T17:43:07.500454+00:00
 **Commit:** 3564003 — sync: RoomForm components — refined versions from Claude Code
 **Files:** src/components/RoomForm/RoomStudioPreview.jsx (CONFLICT) | src/components/RoomForm/WebsitePreviewCard.jsx (CONFLICT)
+
+## 2026-04-23T17:43:09.181013+00:00
+**Commit:** 923b30e — sync: marketing components — refined versions from Claude Code
+**Files:** src/components/MarketingFooter.jsx (CONFLICT) | src/components/MarketingHeader.jsx (CONFLICT) | src/components/marketing/RoomOperatingHoursDisplay.jsx (CONFLICT)

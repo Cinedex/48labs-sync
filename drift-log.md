@@ -8941,3 +8941,7 @@ KQoK
 ## 2026-04-23T17:43:55.025530+00:00
 **Commit:** 5756d26 — File changes
 **Files:** base44/entities/iPadSession.jsonc (NEW) | src/components/ipad/InSessionScreen.jsx (NEW) | src/pages/AdminiPadController.jsx (NEW)
+
+## 2026-04-23T17:43:56.794432+00:00
+**Commit:** b3b4a95 — File changes
+**Files:** src/components/AdminLayout.jsx (NEW) | src/components/Sidebar.jsx (NEW) | src/index.css (NEW)

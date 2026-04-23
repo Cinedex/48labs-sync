@@ -12112,4 +12112,52 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 | 2026-04-22 | 923b30e | sync: marketing components — refined versions from Claude Code | 3 | CONFLICT:3 |
 | 2026-04-22 | 18e25d2 | sync: booking components — refined versions from Claude Code | 2 | CONFLICT:2 |
 | 2026-04-22 | 762ca5e | sync: UI primitives — refined versions from Claude Code | 10 | CONFLICT:10 |
-| 2026-04-20 | 47b2dd6 | feat: move design site to cloudflare pages | 4 | NEW:3 | MODIFIED:1 |
+| 2026-04-20 | 47b2dd6 | feat: move design site to cloudflare pages | 4 | NEW:3 | MODIFIED:1 |2026-04-22 | dcb2a8e | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:4
+2026-04-22 | aa4661f | sync: website booking and auth pages — refined versions from Claude Code | 6 files | CONFLICT:6
+2026-04-22 | f19cdf0 | sync: website marketing pages — refined versions from Claude Code | 4 files | CONFLICT:4
+2026-04-22 | 22cdea7 | sync: BookingFlow.jsx — refined version from Claude Code | 1 files | CONFLICT:1
+2026-04-22 | 3885333 | sync: dashboard and iPad components — refined versions from Claude Code | 3 files | CONFLICT:3
+2026-04-22 | 3564003 | sync: RoomForm components — refined versions from Claude Code | 2 files | CONFLICT:2
+2026-04-22 | 923b30e | sync: marketing components — refined versions from Claude Code | 3 files | CONFLICT:3
+2026-04-22 | 18e25d2 | sync: booking components — refined versions from Claude Code | 2 files | CONFLICT:2
+2026-04-22 | 762ca5e | sync: UI primitives — refined versions from Claude Code | 10 files | CONFLICT:10
+2026-04-20 | 47b2dd6 | feat: move design site to cloudflare pages | 4 files | NEW:4
+2026-04-12 | 725cf75 | Update base44 packages | 2 files | NEW:2
+2026-04-12 | fe64f26 | File changes | 5 files | NEW:5
+2026-04-12 | 62d1e6a | File changes | 2 files | NEW:2
+2026-04-12 | eb00c62 | File changes | 4 files | NEW:4
+2026-04-12 | fe80272 | File changes | 7 files | NEW:7
+2026-04-12 | cc98d28 | File changes | 6 files | NEW:6
+2026-04-12 | e2e0de2 | File changes | 1 files | CONFLICT:1
+2026-04-12 | 96400df | File changes | 3 files | NEW:3
+2026-04-12 | e4b13f4 | File changes | 1 files | NEW:1
+2026-04-12 | 0a8d94c | File changes | 2 files | NEW:2
+2026-04-12 | 0ddc514 | File changes | 3 files | NEW:3
+2026-04-12 | 01ef5f4 | File changes | 1 files | NEW:1
+2026-04-12 | cc795b7 | File changes | 4 files | NEW:4
+2026-04-12 | e9c7dad | File changes | 4 files | NEW:4
+2026-04-12 | dc5b801 | File changes | 3 files | NEW:3
+2026-04-11 | 1aec1f9 | File changes | 1 files | NEW:1
+2026-04-11 | 3f83184 | File changes | 7 files | NEW:7
+2026-04-11 | 0e0a4d2 | File changes | 1 files | NEW:1
+2026-04-11 | 7e2cf42 | File changes | 6 files | NEW:6
+2026-04-11 | ca56f4c | File changes | 3 files | NEW:3
+2026-04-11 | 7bd3f84 | File changes | 3 files | NEW:3
+2026-04-11 | 5756d26 | File changes | 3 files | NEW:3
+2026-04-11 | b3b4a95 | File changes | 3 files | NEW:3
+2026-04-11 | 442a4aa | File changes | 4 files | CONFLICT:1 | NEW:3
+2026-04-11 | d4df16b | File changes | 2 files | NEW:2
+2026-04-11 | d37f541 | File changes | 5 files | CONFLICT:1 | NEW:4
+2026-04-11 | 981bd65 | File changes | 1 files | NEW:1
+2026-04-11 | 3a1682a | File changes | 6 files | NEW:6
+2026-04-11 | 18612a7 | File changes | 1 files | NEW:1
+2026-04-11 | ad879b0 | File changes | 7 files | NEW:7
+2026-04-11 | ae210dd | File changes | 5 files | CONFLICT:1 | NEW:4
+2026-04-11 | 1c572b9 | File changes | 8 files | NEW:8
+2026-04-11 | c2e8650 | File changes | 4 files | NEW:4
+2026-04-11 | 9098ede | File changes | 2 files | NEW:2
+2026-04-11 | c323e33 | File changes | 1 files | NEW:1
+2026-04-11 | a32f6aa | File changes | 1 files | NEW:1
+2026-04-11 | 405ff26 | File changes | 4 files | NEW:4
+2026-04-11 | d6bc2b0 | File changes | 1 files | NEW:1
+2026-04-11 | e90d8ad | File changes | 3 files | NEW:3

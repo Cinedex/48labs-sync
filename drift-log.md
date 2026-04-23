@@ -10752,3 +10752,43 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 **MODIFIED (1):**
 - src/lib/workflow-data.js
 
+### 2026-04-22 15:33 UTC - dcb2a8e9
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Classification:** 3× NEW, 32× MODIFIED, 0× CONFLICT
+
+### 2026-04-22 05:04 UTC - aa4661f4
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Classification:** 0× NEW, 6× MODIFIED, 0× CONFLICT
+
+### 2026-04-22 05:04 UTC - f19cdf03
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Classification:** 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+### 2026-04-22 05:04 UTC - 22cdea70
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 2026-04-22 05:04 UTC - 38853339
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 2026-04-22 05:04 UTC - 3564003b
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Classification:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### 2026-04-22 05:04 UTC - 923b30e2
+**Message:** sync: marketing components — refined versions from Claude Code
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 2026-04-22 05:04 UTC - 18e25d25
+**Message:** sync: booking components — refined versions from Claude Code
+**Classification:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### 2026-04-22 05:04 UTC - 762ca5e0
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Classification:** 0× NEW, 10× MODIFIED, 0× CONFLICT
+
+### 2026-04-20 04:07 UTC - 47b2dd66
+**Message:** feat: move design site to cloudflare pages
+**Classification:** 3× NEW, 1× MODIFIED, 0× CONFLICT
+

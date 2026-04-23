@@ -6858,3 +6858,149 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 **MODIFIED files:**
 - package.json
+
+## 2026-04-20 04:07 UTC — 47b2dd6
+
+**Message:** feat: move design site to cloudflare pages
+
+**NEW files (3):**
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED files (1):**
+- package.json
+
+
+## 2026-04-22 05:04 UTC — 762ca5e
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**CONFLICT files (10):**
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx
+
+
+## 2026-04-22 05:04 UTC — 18e25d2
+
+**Message:** sync: booking components — refined versions from Claude Code
+
+**CONFLICT files (2):**
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+
+
+## 2026-04-22 05:04 UTC — 923b30e
+
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**CONFLICT files (3):**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+
+## 2026-04-22 05:04 UTC — 3564003
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**CONFLICT files (2):**
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+
+## 2026-04-22 05:04 UTC — 3885333
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**CONFLICT files (3):**
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+
+
+## 2026-04-22 05:04 UTC — 22cdea7
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**CONFLICT files (1):**
+- src/pages/BookingFlow.jsx
+
+
+## 2026-04-22 05:04 UTC — f19cdf0
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**CONFLICT files (4):**
+- src/pages/Landing.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+
+
+## 2026-04-22 05:04 UTC — aa4661f
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**CONFLICT files (6):**
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/UnifiedCheckout.jsx
+
+
+## 2026-04-22 15:33 UTC — dcb2a8e
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**CONFLICT files (31):**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx
+- src/pages/BookingFlow.jsx
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/Landing.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+- src/pages/UnifiedCheckout.jsx
+
+**NEW files (3):**
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED files (1):**
+- package.json
+

@@ -12260,3 +12260,13 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-06 | 08460b39 | File changes | 2 files | MODIFIED:2
 2026-04-06 | 86755ec2 | File changes | 4 files | NEW:3 | MODIFIED:1
 2026-04-04 | abdad2a2 | File changes | 4 files | MODIFIED:4
+2026-04-22 15:33 UTC | dcb2a8e | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1
+2026-04-22 05:04 UTC | aa4661f | sync: website booking and auth pages — refined versions from Claude Code | 6 files | CONFLICT:6 | NEW:0 | MODIFIED:0
+2026-04-22 05:04 UTC | f19cdf0 | sync: website marketing pages — refined versions from Claude Code | 4 files | CONFLICT:4 | NEW:0 | MODIFIED:0
+2026-04-22 05:04 UTC | 22cdea7 | sync: BookingFlow.jsx — refined version from Claude Code | 1 files | CONFLICT:1 | NEW:0 | MODIFIED:0
+2026-04-22 05:04 UTC | 3885333 | sync: dashboard and iPad components — refined versions from Claude Code | 3 files | CONFLICT:3 | NEW:0 | MODIFIED:0
+2026-04-22 05:04 UTC | 3564003 | sync: RoomForm components — refined versions from Claude Code | 2 files | CONFLICT:2 | NEW:0 | MODIFIED:0
+2026-04-22 05:04 UTC | 923b30e | sync: marketing components — refined versions from Claude Code | 3 files | CONFLICT:3 | NEW:0 | MODIFIED:0
+2026-04-22 05:04 UTC | 18e25d2 | sync: booking components — refined versions from Claude Code | 2 files | CONFLICT:2 | NEW:0 | MODIFIED:0
+2026-04-22 05:04 UTC | 762ca5e | sync: UI primitives — refined versions from Claude Code | 10 files | CONFLICT:10 | NEW:0 | MODIFIED:0
+2026-04-20 04:07 UTC | 47b2dd6 | feat: move design site to cloudflare pages | 4 files | CONFLICT:0 | NEW:3 | MODIFIED:1

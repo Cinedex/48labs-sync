@@ -12403,3 +12403,20 @@ SearchInput.jsx, SegmentedControl.jsx, SettingCard.jsx, Spinner.jsx, TabBar.jsx
 
 ---
 
+## 7e2cf42 (2026-04-11T21:26:07+00:00)
+**Message:** File changes
+
+**Files Changed:** 6 files
+- NEW: 6 files
+- CONFLICT: 0 files
+
+**Details:**
+- (NEW) base44/entities/iPadSession.jsonc
+- (NEW) base44/functions/getIPadSession/entry.ts
+- (NEW) src/components/ipad/DemoScreen.jsx
+- (NEW) src/components/ipad/IdleScreen.jsx
+- (NEW) src/pages/AdminiPadController.jsx
+- (NEW) src/pages/StudioController.jsx
+
+---
+

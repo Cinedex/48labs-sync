@@ -7911,7 +7911,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 **Files:** 4 changed (3× NEW, 1× MODIFIED)
 
 
-## dcb2a8e9 | 2026-04-22T15:33:13Z
+## dcb2a8e9 | 2026-04-22
 
 **Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
 
@@ -7958,7 +7958,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 
 
-## aa4661f4 | 2026-04-22T05:04:47Z
+## aa4661f4 | 2026-04-22
 
 **Commit:** sync: website booking and auth pages — refined versions from Claude Code
 
@@ -7974,7 +7974,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 
 
-## f19cdf03 | 2026-04-22T05:04:42Z
+## f19cdf03 | 2026-04-22
 
 **Commit:** sync: website marketing pages — refined versions from Claude Code
 
@@ -7988,7 +7988,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 
 
-## 22cdea70 | 2026-04-22T05:04:36Z
+## 22cdea70 | 2026-04-22
 
 **Commit:** sync: BookingFlow.jsx — refined version from Claude Code
 
@@ -7999,7 +7999,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 
 
-## 38853339 | 2026-04-22T05:04:31Z
+## 38853339 | 2026-04-22
 
 **Commit:** sync: dashboard and iPad components — refined versions from Claude Code
 
@@ -8012,7 +8012,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 
 
-## 3564003b | 2026-04-22T05:04:23Z
+## 3564003b | 2026-04-22
 
 **Commit:** sync: RoomForm components — refined versions from Claude Code
 
@@ -8024,7 +8024,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 
 
-## 923b30e2 | 2026-04-22T05:04:19Z
+## 923b30e2 | 2026-04-22
 
 **Commit:** sync: marketing components — refined versions from Claude Code
 
@@ -8037,7 +8037,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 
 
-## 18e25d25 | 2026-04-22T05:04:15Z
+## 18e25d25 | 2026-04-22
 
 **Commit:** sync: booking components — refined versions from Claude Code
 
@@ -8049,7 +8049,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 
 
-## 762ca5e0 | 2026-04-22T05:04:10Z
+## 762ca5e0 | 2026-04-22
 
 **Commit:** sync: UI primitives — refined versions from Claude Code
 
@@ -8069,7 +8069,7 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 
 
 
-## 47b2dd66 | 2026-04-20T04:07:52Z
+## 47b2dd66 | 2026-04-20
 
 **Commit:** feat: move design site to cloudflare pages
 

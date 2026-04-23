@@ -7004,51 +7004,130 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 **MODIFIED files (1):**
 - package.json
 
+## 47b2dd6 | 2026-04-20 04:07:52 UTC
+**Commit:** feat: move design site to cloudflare pages
+**Files:** 4 total (3× NEW, 1× MODIFIED)
+
+**NEW (3):**
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED (1):**
+- package.json
 
 ---
 
-## 2026-04-23 07:11 UTC | `dcb2a8e9`
+## 762ca5e | 2026-04-22 05:04:10 UTC
+**Commit:** sync: UI primitives — refined versions from Claude Code
+**Files:** 10 total (10× CONFLICT)
 
-**Commit:** `dcb2a8e911e5ed365732b984c6e920f1ced3d844`  
-**Message:** merge: bring staging sync commits into main (Phase 3 design sync)  
-**Manifest:** (manifest.json found)  
+**CONFLICT (10):**
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- ... and 5 more
 
-| File | Git Status | Classification | Notes |
-|------|-----------|---------------|-------|
-| `package.json` | modified | **MODIFIED** | file not in manifest (+6/-1) |
-| `project.config.json` | added | **NEW** | file not in manifest and was added (+7/-0) |
-| `public/_redirects` | added | **NEW** | file not in manifest and was added (+1/-0) |
-| `scripts/deploy-guard.mjs` | added | **NEW** | file not in manifest and was added (+232/-0) |
-| `src/components/MarketingFooter.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/MarketingFooter.jsx' (+44/-45) |
-| `src/components/MarketingHeader.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/MarketingHeader.jsx' (+22/-26) |
-| `src/components/RoomForm/RoomStudioPreview.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/RoomForm/RoomStudioPreview.jsx' (+39/-38) |
-| `src/components/RoomForm/WebsitePreviewCard.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/RoomForm/WebsitePreviewCard.jsx' (+36/-35) |
-| `src/components/booking/BookingDateTimeStep.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/booking/BookingDateTimeStep.jsx' (+25/-36) |
-| `src/components/booking/ClientSelectStep.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/booking/ClientSelectStep.jsx' (+37/-37) |
-| `src/components/dashboard/MonthCalendar.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/dashboard/MonthCalendar.jsx' (+28/-28) |
-| `src/components/ipad/FiveMinWarning.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ipad/FiveMinWarning.jsx' (+6/-6) |
-| `src/components/ipad/ThankYouScreen.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ipad/ThankYouScreen.jsx' (+12/-12) |
-| `src/components/marketing/RoomOperatingHoursDisplay.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/marketing/RoomOperatingHoursDisplay.jsx' (+4/-4) |
-| `src/components/ui/EmptyState.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/EmptyState.jsx' (+6/-6) |
-| `src/components/ui/FilterPills.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/FilterPills.jsx' (+3/-3) |
-| `src/components/ui/PortalDrawer.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/PortalDrawer.jsx' (+5/-5) |
-| `src/components/ui/PortalTable.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/PortalTable.jsx' (+7/-7) |
-| `src/components/ui/SearchInput.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/SearchInput.jsx' (+3/-3) |
-| `src/components/ui/SegmentedControl.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/SegmentedControl.jsx' (+3/-3) |
-| `src/components/ui/SettingCard.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/SettingCard.jsx' (+6/-6) |
-| `src/components/ui/Spinner.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/Spinner.jsx' (+1/-1) |
-| `src/components/ui/TabBar.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/TabBar.jsx' (+4/-4) |
-| `src/components/ui/button.jsx` | modified | **CONFLICT** | Claude Code owns 'src/components/ui/button.jsx' (+1/-1) |
-| `src/pages/BookingFlow.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/BookingFlow.jsx' (+98/-105) |
-| `src/pages/DynamicCreditsPage.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/DynamicCreditsPage.jsx' (+18/-24) |
-| `src/pages/DynamicMembershipsPage.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/DynamicMembershipsPage.jsx' (+17/-27) |
-| `src/pages/GuestBuyCredits.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/GuestBuyCredits.jsx' (+9/-18) |
-| `src/pages/Landing.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/Landing.jsx' (+23/-35) |
-| `src/pages/MembershipSignup.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/MembershipSignup.jsx' (+39/-37) |
-| `src/pages/Register.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/Register.jsx' (+45/-35) |
-| `src/pages/RoomProfile.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/RoomProfile.jsx' (+17/-17) |
-| `src/pages/Services.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/Services.jsx' (+50/-50) |
-| `src/pages/Studios.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/Studios.jsx' (+8/-8) |
-| `src/pages/UnifiedCheckout.jsx` | modified | **CONFLICT** | Claude Code owns 'src/pages/UnifiedCheckout.jsx' (+11/-10) |
+---
 
-**Summary:** 31× CONFLICT, 1× MODIFIED, 3× NEW
+## 18e25d2 | 2026-04-22 05:04:15 UTC
+**Commit:** sync: booking components — refined versions from Claude Code
+**Files:** 2 total (2× CONFLICT)
+
+**CONFLICT (2):**
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+
+---
+
+## 923b30e | 2026-04-22 05:04:19 UTC
+**Commit:** sync: marketing components — refined versions from Claude Code
+**Files:** 3 total (3× CONFLICT)
+
+**CONFLICT (3):**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---
+
+## 3564003 | 2026-04-22 05:04:23 UTC
+**Commit:** sync: RoomForm components — refined versions from Claude Code
+**Files:** 2 total (2× CONFLICT)
+
+**CONFLICT (2):**
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+
+## 3885333 | 2026-04-22 05:04:31 UTC
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files:** 3 total (3× CONFLICT)
+
+**CONFLICT (3):**
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+
+---
+
+## 22cdea7 | 2026-04-22 05:04:36 UTC
+**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files:** 1 total (1× CONFLICT)
+
+**CONFLICT (1):**
+- src/pages/BookingFlow.jsx
+
+---
+
+## f19cdf0 | 2026-04-22 05:04:42 UTC
+**Commit:** sync: website marketing pages — refined versions from Claude Code
+**Files:** 4 total (4× CONFLICT)
+
+**CONFLICT (4):**
+- src/pages/Landing.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+
+---
+
+## aa4661f | 2026-04-22 05:04:47 UTC
+**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+**Files:** 6 total (6× CONFLICT)
+
+**CONFLICT (6):**
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- ... and 1 more
+
+---
+
+## dcb2a8e | 2026-04-22 15:33:13 UTC
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files:** 35 total (3× NEW, 1× MODIFIED, 31× CONFLICT)
+
+**CONFLICT (31):**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+- src/components/booking/BookingDateTimeStep.jsx
+- ... and 26 more
+
+**NEW (3):**
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED (1):**
+- package.json
+
+---
+

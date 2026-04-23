@@ -5608,3 +5608,265 @@ Conflict files: src/components/MarketingFooter.jsx, src/components/MarketingHead
 
 - [e90d8ad] 2026-04-11 — File changes
   NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+## 2026-04-22 - dcb2a8e
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+**sha:** dcb2a8e911e5ed365732b984c6e920f1ced3d844
+**Files:** NEW: 3, MODIFIED: 1, CONFLICT: 31
+**Conflicts:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx + 26 more
+
+## 2026-04-22 - aa4661f
+**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+**sha:** aa4661f4b14bfb0d815b78f4a1206cd07a2810f4
+**Files:** NEW: 0, MODIFIED: 0, CONFLICT: 6
+**Conflicts:** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx + 1 more
+
+## 2026-04-22 - f19cdf0
+**Commit:** sync: website marketing pages — refined versions from Claude Code
+**sha:** f19cdf0381be3ceebc40ae98c2bc71f92148d855
+**Files:** NEW: 0, MODIFIED: 0, CONFLICT: 4
+**Conflicts:** src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+## 2026-04-22 - 22cdea7
+**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+**sha:** 22cdea70afd9f763b36b3e1941e366c04b97b1e6
+**Files:** NEW: 0, MODIFIED: 0, CONFLICT: 1
+**Conflicts:** src/pages/BookingFlow.jsx
+
+## 2026-04-22 - 3885333
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
+**sha:** 38853339f47e5b2ddcd23a205c40cb228fcd8dc1
+**Files:** NEW: 0, MODIFIED: 0, CONFLICT: 3
+**Conflicts:** src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+## 2026-04-22 - 3564003
+**Commit:** sync: RoomForm components — refined versions from Claude Code
+**sha:** 3564003baf53a0ced6da5c5c49941f4d09c8082d
+**Files:** NEW: 0, MODIFIED: 0, CONFLICT: 2
+**Conflicts:** src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+## 2026-04-22 - 923b30e
+**Commit:** sync: marketing components — refined versions from Claude Code
+**sha:** 923b30e2efc07529a161d81258b6bbda8daba496
+**Files:** NEW: 0, MODIFIED: 0, CONFLICT: 3
+**Conflicts:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+## 2026-04-22 - 18e25d2
+**Commit:** sync: booking components — refined versions from Claude Code
+**sha:** 18e25d254af8ee8569479173206fb9ea19d0382c
+**Files:** NEW: 0, MODIFIED: 0, CONFLICT: 2
+**Conflicts:** src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+## 2026-04-22 - 762ca5e
+**Commit:** sync: UI primitives — refined versions from Claude Code
+**sha:** 762ca5e09a65dd464932fe352920a4faacbfa0bc
+**Files:** NEW: 0, MODIFIED: 0, CONFLICT: 10
+**Conflicts:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx + 5 more
+
+## 2026-04-20 - 47b2dd6
+**Commit:** feat: move design site to cloudflare pages
+**sha:** 47b2dd66260b5c9585f2b3c5cde7da1a130183f5
+**Files:** NEW: 3, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-16 - 5b06f15
+**Commit:** Update base44 packages
+**sha:** 5b06f15999046b2df212649b4e5f540e9bc0d1c2
+**Files:** NEW: 1, MODIFIED: 2, CONFLICT: 0
+
+## 2026-04-12 - 725cf75
+**Commit:** Update base44 packages
+**sha:** 725cf75610745a0dcb530f28afef0174826e5d44
+**Files:** NEW: 0, MODIFIED: 2, CONFLICT: 0
+
+## 2026-04-12 - fe64f26
+**Commit:** File changes
+**sha:** fe64f268e2f246d72f201c0adac867d790e898e8
+**Files:** NEW: 2, MODIFIED: 3, CONFLICT: 0
+
+## 2026-04-12 - 62d1e6a
+**Commit:** File changes
+**sha:** 62d1e6a5edcaf41329af9b5f5a8662f0fb92c7a1
+**Files:** NEW: 0, MODIFIED: 2, CONFLICT: 0
+
+## 2026-04-12 - eb00c62
+**Commit:** File changes
+**sha:** eb00c62f1af37502b179c033273c902adccd4c7a
+**Files:** NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+## 2026-04-12 - fe80272
+**Commit:** File changes
+**sha:** fe80272bfb6055d2e1026886589661cc83769a3f
+**Files:** NEW: 7, MODIFIED: 0, CONFLICT: 0
+
+## 2026-04-12 - cc98d28
+**Commit:** File changes
+**sha:** cc98d2849c95fef0146959877abacb2938c2ef5d
+**Files:** NEW: 0, MODIFIED: 6, CONFLICT: 0
+
+## 2026-04-12 - e2e0de2
+**Commit:** File changes
+**sha:** e2e0de2e9943d041f64e0079bcb70868de708445
+**Files:** NEW: 0, MODIFIED: 0, CONFLICT: 1
+**Conflicts:** src/pages/Landing.jsx
+
+## 2026-04-12 - 96400df
+**Commit:** File changes
+**sha:** 96400df49aa564844fdc690640b9581b15bdd6ff
+**Files:** NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+## 2026-04-12 - e4b13f4
+**Commit:** File changes
+**sha:** e4b13f4b4ffa56a6aa10c1852acc02ba5fe125c3
+**Files:** NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-12 - 0a8d94c
+**Commit:** File changes
+**sha:** 0a8d94c46d2c2daa6e99dd163e9afe0e38dc7fad
+**Files:** NEW: 0, MODIFIED: 2, CONFLICT: 0
+
+## 2026-04-12 - 0ddc514
+**Commit:** File changes
+**sha:** 0ddc514060a5e7529847ccfc6e7470fc54e090cd
+**Files:** NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+## 2026-04-12 - 01ef5f4
+**Commit:** File changes
+**sha:** 01ef5f4337520e76403439b54f416474113f54df
+**Files:** NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-12 - cc795b7
+**Commit:** File changes
+**sha:** cc795b75b80fce9ec723d7af1b51fe1d89bf0403
+**Files:** NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+## 2026-04-12 - e9c7dad
+**Commit:** File changes
+**sha:** e9c7dad7b6382d255dcaa79c6864ada1af6cff31
+**Files:** NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+## 2026-04-12 - dc5b801
+**Commit:** File changes
+**sha:** dc5b801f9bbc0f3ad91f970ce659b8a8a5aa569c
+**Files:** NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+## 2026-04-11 - 1aec1f9
+**Commit:** File changes
+**sha:** 1aec1f99b66b04ecd17059309161e45bf7e777a7
+**Files:** NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-11 - 3f83184
+**Commit:** File changes
+**sha:** 3f83184f91b4ab6e852e2bcc4b9237b86a3a172c
+**Files:** NEW: 0, MODIFIED: 7, CONFLICT: 0
+
+## 2026-04-11 - 0e0a4d2
+**Commit:** File changes
+**sha:** 0e0a4d2977b02b9e0e2b7703a6fa5d216172ef53
+**Files:** NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-11 - 7e2cf42
+**Commit:** File changes
+**sha:** 7e2cf42d2b848cc0701c27b5bf19bca5f023ace5
+**Files:** NEW: 2, MODIFIED: 4, CONFLICT: 0
+
+## 2026-04-11 - ca56f4c
+**Commit:** File changes
+**sha:** ca56f4c8408cc98b7f351cf33a29d0ccb11fd51a
+**Files:** NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+## 2026-04-11 - 7bd3f84
+**Commit:** File changes
+**sha:** 7bd3f84826df6d0d27d9e3453556763266f6145e
+**Files:** NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+## 2026-04-11 - 5756d26
+**Commit:** File changes
+**sha:** 5756d26deafaed42b9568bf9599c2041cf8bde44
+**Files:** NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+## 2026-04-11 - b3b4a95
+**Commit:** File changes
+**sha:** b3b4a959f93f24b22ff5570d22bfd34f7cf5a7bf
+**Files:** NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+## 2026-04-11 - 442a4aa
+**Commit:** File changes
+**sha:** 442a4aa6fd20a437134e2c4efd820733ff556cb2
+**Files:** NEW: 0, MODIFIED: 3, CONFLICT: 1
+**Conflicts:** src/components/ui/FloatingPanel.jsx
+
+## 2026-04-11 - d4df16b
+**Commit:** File changes
+**sha:** d4df16bd215b222c929d234467a3dbefbe039f07
+**Files:** NEW: 1, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-11 - d37f541
+**Commit:** File changes
+**sha:** d37f5413563affbbed94992addb58b64125adcb0
+**Files:** NEW: 0, MODIFIED: 4, CONFLICT: 1
+**Conflicts:** src/components/ui/FloatingPanel.jsx
+
+## 2026-04-11 - 981bd65
+**Commit:** File changes
+**sha:** 981bd65522efbfc84fbdcf1941d47c18993becc6
+**Files:** NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-11 - 3a1682a
+**Commit:** File changes
+**sha:** 3a1682a1fefffdc5826186363751d43dfa46464d
+**Files:** NEW: 2, MODIFIED: 4, CONFLICT: 0
+
+## 2026-04-11 - 18612a7
+**Commit:** File changes
+**sha:** 18612a7d50b178d093fa8126aef26915702c760a
+**Files:** NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-11 - ad879b0
+**Commit:** File changes
+**sha:** ad879b0b49a934ac4115c07661c78b8fe3ba6cc3
+**Files:** NEW: 3, MODIFIED: 4, CONFLICT: 0
+
+## 2026-04-11 - ae210dd
+**Commit:** File changes
+**sha:** ae210dd267db37ea0eb18787277cd0b8726c153b
+**Files:** NEW: 1, MODIFIED: 4, CONFLICT: 0
+
+## 2026-04-11 - 1c572b9
+**Commit:** File changes
+**sha:** 1c572b9df1e37f5a5fc5d80a96f6d81e9fdfd6dc
+**Files:** NEW: 2, MODIFIED: 6, CONFLICT: 0
+
+## 2026-04-11 - c2e8650
+**Commit:** File changes
+**sha:** c2e8650418eebbc1a50d5c2ebb6839ce2adeed49
+**Files:** NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+## 2026-04-11 - 9098ede
+**Commit:** File changes
+**sha:** 9098ede4984a7a07e7d8e0cfd8577d4a7008ee96
+**Files:** NEW: 0, MODIFIED: 2, CONFLICT: 0
+
+## 2026-04-11 - c323e33
+**Commit:** File changes
+**sha:** c323e33f986baffd4591304bb829aa07780e3cf1
+**Files:** NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-11 - a32f6aa
+**Commit:** File changes
+**sha:** a32f6aaf5c651c5fb4e0a9cfd0da3d058e619456
+**Files:** NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-11 - 405ff26
+**Commit:** File changes
+**sha:** 405ff2645dfa9116f45a10604c94db9f9720ab3c
+**Files:** NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+## 2026-04-11 - d6bc2b0
+**Commit:** File changes
+**sha:** d6bc2b0353bf18864fc557c5844b5929794e7a66
+**Files:** NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+## 2026-04-11 - e90d8ad
+**Commit:** File changes
+**sha:** e90d8ade0095f11aab3906ad29ec3d354bda70ff
+**Files:** NEW: 0, MODIFIED: 3, CONFLICT: 0

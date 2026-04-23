@@ -9325,3 +9325,47 @@ Files: 0 CONFLICT, 4 NEW
   - src/components/RoomForm/WebsitePreviewCard.jsx
   - src/components/booking/BookingDateTimeStep.jsx
   ... and 26 more
+
+## 2026-04-22 15:33:13 UTC — dcb2a8e9
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files:** 31× CONFLICT, 3× NEW, 1× MODIFIED
+
+## 2026-04-22 05:04:47 UTC — aa4661f4
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files:** 6× CONFLICT
+
+## 2026-04-22 05:04:42 UTC — f19cdf03
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files:** 4× CONFLICT
+
+## 2026-04-22 05:04:36 UTC — 22cdea70
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files:** 1× CONFLICT
+
+## 2026-04-22 05:04:31 UTC — 38853339
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files:** 3× CONFLICT
+
+## 2026-04-22 05:04:23 UTC — 3564003b
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files:** 2× CONFLICT
+
+## 2026-04-22 05:04:19 UTC — 923b30e2
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files:** 3× CONFLICT
+
+## 2026-04-22 05:04:15 UTC — 18e25d25
+**Message:** sync: booking components — refined versions from Claude Code
+**Files:** 2× CONFLICT
+
+## 2026-04-22 05:04:10 UTC — 762ca5e0
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files:** 10× CONFLICT
+
+## 2026-04-20 04:07:52 UTC — 47b2dd66
+**Message:** feat: move design site to cloudflare pages
+**Files:** 3× NEW, 1× MODIFIED
+
+## 2026-04-16 15:28:29 UTC — 5b06f159
+**Message:** Update base44 packages
+**Files:** 1× NEW, 2× MODIFIED

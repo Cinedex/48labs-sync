@@ -1147,3 +1147,52 @@ sync: booking components — refined versions from Claude Code
 sync: UI primitives — refined versions from Claude Code
 **Status:** 10× CONFLICT
 ⚠️ CONFLICT: src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx (+7)
+## 2026-04-20 (47b2dd66)
+feat: move design site to cloudflare pages
+**Status:** 3× NEW, 1× MOD
+Files changed: 4
+
+## 2026-04-22 (762ca5e0)
+sync: UI primitives — refined versions from Claude Code
+**Status:** 10× CONFLICT
+Files changed: 10
+
+## 2026-04-22 (18e25d25)
+sync: booking components — refined versions from Claude Code
+**Status:** 2× CONFLICT
+Files changed: 2
+
+## 2026-04-22 (923b30e2)
+sync: marketing components — refined versions from Claude Code
+**Status:** 3× CONFLICT
+Files changed: 3
+
+## 2026-04-22 (3564003b)
+sync: RoomForm components — refined versions from Claude Code
+**Status:** 2× CONFLICT
+Files changed: 2
+
+## 2026-04-22 (38853339)
+sync: dashboard and iPad components — refined versions from Claude Code
+**Status:** 3× CONFLICT
+Files changed: 3
+
+## 2026-04-22 (22cdea70)
+sync: BookingFlow.jsx — refined version from Claude Code
+**Status:** 1× CONFLICT
+Files changed: 1
+
+## 2026-04-22 (f19cdf03)
+sync: website marketing pages — refined versions from Claude Code
+**Status:** 4× CONFLICT
+Files changed: 4
+
+## 2026-04-22 (aa4661f4)
+sync: website booking and auth pages — refined versions from Claude Code
+**Status:** 6× CONFLICT
+Files changed: 6
+
+## 2026-04-22 (dcb2a8e9)
+merge: bring staging sync commits into main (Phase 3 design sync)
+**Status:** 3× NEW, 1× MOD, 31× CONFLICT
+Files changed: 35

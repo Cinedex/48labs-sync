@@ -8821,3 +8821,7 @@ KQoK
 ## 2026-04-23T17:43:02.259598+00:00
 **Commit:** f19cdf0 — sync: website marketing pages — refined versions from Claude Code
 **Files:** src/pages/Landing.jsx (CONFLICT) | src/pages/RoomProfile.jsx (CONFLICT) | src/pages/Services.jsx (CONFLICT) | src/pages/Studios.jsx (CONFLICT)
+
+## 2026-04-23T17:43:03.868061+00:00
+**Commit:** 22cdea7 — sync: BookingFlow.jsx — refined version from Claude Code
+**Files:** src/pages/BookingFlow.jsx (CONFLICT)

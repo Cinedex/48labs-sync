@@ -6461,3 +6461,145 @@ merge: bring staging sync commits into main (Phase 3 design sync)
   - scripts/deploy-guard.mjs
 **MODIFIED files (1):**
   - package.json
+
+## dcb2a8e - 2026-04-22T15:33:13Z
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+
+**NEW (3):**
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**CONFLICT (31):**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx
+- src/pages/BookingFlow.jsx
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/Landing.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+- src/pages/UnifiedCheckout.jsx
+
+**MODIFIED (1):**
+- package.json
+
+
+## aa4661f - 2026-04-22T05:04:47Z
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Classification:** 0× NEW, 0× MODIFIED, 6× CONFLICT
+
+**CONFLICT (6):**
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/UnifiedCheckout.jsx
+
+
+## f19cdf0 - 2026-04-22T05:04:42Z
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Classification:** 0× NEW, 0× MODIFIED, 4× CONFLICT
+
+**CONFLICT (4):**
+- src/pages/Landing.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+
+
+## 22cdea7 - 2026-04-22T05:04:36Z
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Classification:** 0× NEW, 0× MODIFIED, 1× CONFLICT
+
+**CONFLICT (1):**
+- src/pages/BookingFlow.jsx
+
+
+## 3885333 - 2026-04-22T05:04:31Z
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Classification:** 0× NEW, 0× MODIFIED, 3× CONFLICT
+
+**CONFLICT (3):**
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+
+
+## 3564003 - 2026-04-22T05:04:23Z
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**Classification:** 0× NEW, 0× MODIFIED, 2× CONFLICT
+
+**CONFLICT (2):**
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+
+## 923b30e - 2026-04-22T05:04:19Z
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**Classification:** 0× NEW, 0× MODIFIED, 3× CONFLICT
+
+**CONFLICT (3):**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+
+## 18e25d2 - 2026-04-22T05:04:15Z
+**Message:** sync: booking components — refined versions from Claude Code
+
+**Classification:** 0× NEW, 0× MODIFIED, 2× CONFLICT
+
+**CONFLICT (2):**
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+
+
+## 762ca5e - 2026-04-22T05:04:10Z
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**Classification:** 0× NEW, 0× MODIFIED, 10× CONFLICT
+
+**CONFLICT (10):**
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx
+

@@ -11624,3 +11624,14 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 - **NEW:** 4
 
 **Status:** Logged for drift tracking
+
+dcb2a8e9 (2026-04-22) — merge: bring staging sync commits into main (Phase 3 design sync) | 35 files (31× CONFLICT | 4× NEW)
+aa4661f4 (2026-04-22) — sync: website booking and auth pages — refined versions from Claude Code | 6 files (6× CONFLICT)
+f19cdf03 (2026-04-22) — sync: website marketing pages — refined versions from Claude Code | 4 files (4× CONFLICT)
+22cdea70 (2026-04-22) — sync: BookingFlow.jsx — refined version from Claude Code | 1 files (1× CONFLICT)
+38853339 (2026-04-22) — sync: dashboard and iPad components — refined versions from Claude Code | 3 files (3× CONFLICT)
+3564003b (2026-04-22) — sync: RoomForm components — refined versions from Claude Code | 2 files (2× CONFLICT)
+923b30e2 (2026-04-22) — sync: marketing components — refined versions from Claude Code | 3 files (3× CONFLICT)
+18e25d25 (2026-04-22) — sync: booking components — refined versions from Claude Code | 2 files (2× CONFLICT)
+762ca5e0 (2026-04-22) — sync: UI primitives — refined versions from Claude Code | 10 files (10× CONFLICT)
+47b2dd66 (2026-04-20) — feat: move design site to cloudflare pages | 4 files (4× NEW)

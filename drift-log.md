@@ -9009,3 +9009,44 @@ KQoK
 ## 2026-04-23T17:44:25.430220+00:00
 **Commit:** e90d8ad — File changes
 **Files:** src/components/Sidebar.jsx (NEW) | src/hooks/useTheme.js (NEW) | src/pages/AdminDashboard.jsx (NEW)
+
+## dcb2a8e9 — merge: bring staging sync commits into main (Phase 3 design sync)
+- **Date:** 2026-04-22T15:33:13Z
+- **Files Changed:** 35
+- **Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+## aa4661f4 — sync: website booking and auth pages — refined versions from Claude Code
+- **Date:** 2026-04-22T05:04:47Z
+- **Files Changed:** 6
+- **Classification:** 0× NEW, 0× MODIFIED, 6× CONFLICT
+## f19cdf03 — sync: website marketing pages — refined versions from Claude Code
+- **Date:** 2026-04-22T05:04:42Z
+- **Files Changed:** 4
+- **Classification:** 0× NEW, 0× MODIFIED, 4× CONFLICT
+## 22cdea70 — sync: BookingFlow.jsx — refined version from Claude Code
+- **Date:** 2026-04-22T05:04:36Z
+- **Files Changed:** 1
+- **Classification:** 0× NEW, 0× MODIFIED, 1× CONFLICT
+## 38853339 — sync: dashboard and iPad components — refined versions from Claude Code
+- **Date:** 2026-04-22T05:04:31Z
+- **Files Changed:** 3
+- **Classification:** 0× NEW, 0× MODIFIED, 3× CONFLICT
+## 3564003b — sync: RoomForm components — refined versions from Claude Code
+- **Date:** 2026-04-22T05:04:23Z
+- **Files Changed:** 2
+- **Classification:** 0× NEW, 0× MODIFIED, 2× CONFLICT
+## 923b30e2 — sync: marketing components — refined versions from Claude Code
+- **Date:** 2026-04-22T05:04:19Z
+- **Files Changed:** 3
+- **Classification:** 0× NEW, 0× MODIFIED, 3× CONFLICT
+## 18e25d25 — sync: booking components — refined versions from Claude Code
+- **Date:** 2026-04-22T05:04:15Z
+- **Files Changed:** 2
+- **Classification:** 0× NEW, 0× MODIFIED, 2× CONFLICT
+## 762ca5e0 — sync: UI primitives — refined versions from Claude Code
+- **Date:** 2026-04-22T05:04:10Z
+- **Files Changed:** 10
+- **Classification:** 0× NEW, 0× MODIFIED, 10× CONFLICT
+## 47b2dd66 — feat: move design site to cloudflare pages
+- **Date:** 2026-04-20T04:07:52Z
+- **Files Changed:** 4
+- **Classification:** 3× NEW, 1× MODIFIED, 0× CONFLICT

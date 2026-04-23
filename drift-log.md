@@ -3137,3 +3137,903 @@ Each entry shows:
   Message: merge: bring staging sync commits into main (Phase 3 design sync)
   Files: 35 changed | 31× CONFLICT, 3× NEW, 1× MODIFIED
   ⚠️  CONFLICT: BookingDateTimeStep.jsx, MarketingFooter.jsx, MarketingHeader.jsx, RoomStudioPreview.jsx, WebsitePreviewCard.jsx +26 more
+### dcb2a8e - merge: bring staging sync commits into main (Phase 3 design sync)
+**Date:** 2026-04-22T15:33:13Z
+**Files Changed:** 35
+**Classification:** 3 NEW, 1 MODIFIED, 31 CONFLICT
+- NEW: project.config.json, public/_redirects, scripts/deploy-guard.mjs
+- MODIFIED: package.json
+- CONFLICT: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx, src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx...
+
+---
+### aa4661f - sync: website booking and auth pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:47Z
+**Files Changed:** 6
+**Classification:** 0 NEW, 0 MODIFIED, 6 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx, src/pages/UnifiedCheckout.jsx
+
+---
+### f19cdf0 - sync: website marketing pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:42Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 0 MODIFIED, 4 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+---
+### 22cdea7 - sync: BookingFlow.jsx — refined version from Claude Code
+**Date:** 2026-04-22T05:04:36Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 0 MODIFIED, 1 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/pages/BookingFlow.jsx
+
+---
+### 3885333 - sync: dashboard and iPad components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:31Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 0 MODIFIED, 3 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+---
+### 3564003 - sync: RoomForm components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:23Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 0 MODIFIED, 2 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+### 923b30e - sync: marketing components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:19Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 0 MODIFIED, 3 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---
+### 18e25d2 - sync: booking components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:15Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 0 MODIFIED, 2 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+---
+### 762ca5e - sync: UI primitives — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:10Z
+**Files Changed:** 10
+**Classification:** 0 NEW, 0 MODIFIED, 10 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx, src/components/ui/SegmentedControl.jsx, src/components/ui/SettingCard.jsx, src/components/ui/Spinner.jsx, src/components/ui/TabBar.jsx, src/components/ui/button.jsx
+
+---
+### 47b2dd6 - feat: move design site to cloudflare pages
+**Date:** 2026-04-20T04:07:52Z
+**Files Changed:** 4
+**Classification:** 3 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: project.config.json, public/_redirects, scripts/deploy-guard.mjs
+- MODIFIED: package.json
+- CONFLICT: 
+
+---
+### 5b06f15 - Update base44 packages
+**Date:** 2026-04-16T15:28:29Z
+**Files Changed:** 3
+**Classification:** 1 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: src/components/ProtectedRoute.jsx
+- MODIFIED: package-lock.json, package.json
+- CONFLICT: 
+
+---
+### 725cf75 - Update base44 packages
+**Date:** 2026-04-12T15:14:18Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: package-lock.json, package.json
+- CONFLICT: 
+
+---
+### fe64f26 - File changes
+**Date:** 2026-04-12T01:46:59Z
+**Files Changed:** 5
+**Classification:** 2 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: src/database/data-migration-plan.md, src/database/migration-order.json
+- MODIFIED: src/database/MIGRATION_REPORT.md, src/database/supabase/schema.sql, src/database/types/schema.ts
+- CONFLICT: 
+
+---
+### 62d1e6a - File changes
+**Date:** 2026-04-12T01:42:54Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/lib/workflow-data.js, src/pages/AdminWorkflowMap.jsx
+- CONFLICT: 
+
+---
+### eb00c62 - File changes
+**Date:** 2026-04-12T01:40:38Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx
+- CONFLICT: 
+
+---
+### fe80272 - File changes
+**Date:** 2026-04-12T01:37:07Z
+**Files Changed:** 7
+**Classification:** 7 NEW, 0 MODIFIED, 0 CONFLICT
+- NEW: src/contracts/schema/enums.json, src/contracts/schema/relationships.json, src/contracts/schema/tables.json, src/database/MIGRATION_REPORT.md, src/database/mappings/base44-map.ts, src/database/supabase/schema.sql, src/database/types/schema.ts
+- MODIFIED: 
+- CONFLICT: 
+
+---
+### cc98d28 - File changes
+**Date:** 2026-04-12T01:29:03Z
+**Files Changed:** 6
+**Classification:** 0 NEW, 6 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: base44/entities/RoomLightingLayout.jsonc, base44/entities/iPadCommand.jsonc, src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx, src/components/ipad/MasterIPadView.jsx
+- CONFLICT: 
+
+---
+### e2e0de2 - File changes
+**Date:** 2026-04-12T01:22:17Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 0 MODIFIED, 1 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/pages/Landing.jsx
+
+---
+### 96400df - File changes
+**Date:** 2026-04-12T00:52:59Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+- CONFLICT: 
+
+---
+### e4b13f4 - File changes
+**Date:** 2026-04-12T00:49:05Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/lib/workflow-data.js
+- CONFLICT: 
+
+---
+### 0a8d94c - File changes
+**Date:** 2026-04-12T00:43:22Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx
+- CONFLICT: 
+
+---
+### 0ddc514 - File changes
+**Date:** 2026-04-12T00:39:19Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+- CONFLICT: 
+
+---
+### 01ef5f4 - File changes
+**Date:** 2026-04-12T00:30:30Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/pages/AdminWorkflowMap.jsx
+- CONFLICT: 
+
+---
+### cc795b7 - File changes
+**Date:** 2026-04-12T00:23:25Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx, src/components/ipad/WelcomeScreen.jsx, src/pages/StudioController.jsx
+- CONFLICT: 
+
+---
+### e9c7dad - File changes
+**Date:** 2026-04-12T00:20:40Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/PremiumCalendar.jsx, src/pages/AdminDashboard.jsx
+- CONFLICT: 
+
+---
+### dc5b801 - File changes
+**Date:** 2026-04-12T00:03:02Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/ipad/WelcomeScreen.jsx, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+- CONFLICT: 
+
+---
+### 1aec1f9 - File changes
+**Date:** 2026-04-11T23:54:19Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: tailwind.config.js
+- CONFLICT: 
+
+---
+### 3f83184 - File changes
+**Date:** 2026-04-11T23:52:52Z
+**Files Changed:** 7
+**Classification:** 0 NEW, 7 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/FloatingDayPanel.jsx, src/components/dashboard/SessionTimelineCard.jsx, src/hooks/useTheme.js, src/index.css, tailwind.config.js
+- CONFLICT: 
+
+---
+### 0e0a4d2 - File changes
+**Date:** 2026-04-11T23:22:13Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/pages/StudioController.jsx
+- CONFLICT: 
+
+---
+### 7e2cf42 - File changes
+**Date:** 2026-04-11T21:26:07Z
+**Files Changed:** 6
+**Classification:** 2 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: src/components/ipad/DemoScreen.jsx, src/components/ipad/IdleScreen.jsx
+- MODIFIED: base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+- CONFLICT: 
+
+---
+### ca56f4c - File changes
+**Date:** 2026-04-11T21:23:51Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/hooks/useTheme.js
+- CONFLICT: 
+
+---
+### 7bd3f84 - File changes
+**Date:** 2026-04-11T17:53:09Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx, src/pages/StudioController.jsx
+- CONFLICT: 
+
+---
+### 5756d26 - File changes
+**Date:** 2026-04-11T17:33:38Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: base44/entities/iPadSession.jsonc, src/components/ipad/InSessionScreen.jsx, src/pages/AdminiPadController.jsx
+- CONFLICT: 
+
+---
+### b3b4a95 - File changes
+**Date:** 2026-04-11T17:21:37Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/index.css
+- CONFLICT: 
+
+---
+### 442a4aa - File changes
+**Date:** 2026-04-11T17:07:18Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 3 MODIFIED, 1 CONFLICT
+- NEW: None
+- MODIFIED: src/components/dashboard/PremiumCalendar.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx
+- CONFLICT: src/components/ui/FloatingPanel.jsx
+
+---
+### d4df16b - File changes
+**Date:** 2026-04-11T16:54:44Z
+**Files Changed:** 2
+**Classification:** 1 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: src/components/dashboard/FloatingEventPanel.jsx
+- MODIFIED: src/components/dashboard/PremiumCalendar.jsx
+- CONFLICT: 
+
+---
+### d37f541 - File changes
+**Date:** 2026-04-11T16:49:42Z
+**Files Changed:** 5
+**Classification:** 0 NEW, 4 MODIFIED, 1 CONFLICT
+- NEW: None
+- MODIFIED: src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/components/dashboard/PremiumCalendar.jsx, src/hooks/useTheme.js
+- CONFLICT: src/components/ui/FloatingPanel.jsx
+
+---
+### 981bd65 - File changes
+**Date:** 2026-04-11T16:46:39Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/pages/CustomLogin.jsx
+- CONFLICT: 
+
+---
+### 3a1682a - File changes
+**Date:** 2026-04-11T16:45:25Z
+**Files Changed:** 6
+**Classification:** 2 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: base44/entities/iPadCommand.jsonc, base44/functions/iPadVersionControl/entry.ts
+- MODIFIED: base44/entities/iPadSession.jsonc, index.html, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+- CONFLICT: 
+
+---
+### 18612a7 - File changes
+**Date:** 2026-04-11T16:40:47Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/dashboard/PremiumCalendar.jsx
+- CONFLICT: 
+
+---
+### ad879b0 - File changes
+**Date:** 2026-04-11T16:39:39Z
+**Files Changed:** 7
+**Classification:** 3 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: base44/entities/RoomLightingLayout.jsonc, src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx
+- MODIFIED: src/components/dashboard/PremiumCalendar.jsx, src/components/ipad/CircularThermostat.jsx, src/components/ipad/InSessionScreen.jsx, src/pages/StudioController.jsx
+- CONFLICT: 
+
+---
+### ae210dd - File changes
+**Date:** 2026-04-11T16:36:30Z
+**Files Changed:** 5
+**Classification:** 0 NEW, 4 MODIFIED, 1 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx, src/pages/AdminDashboard.jsx
+- CONFLICT: src/components/ui/FloatingPanel.jsx
+
+---
+### 1c572b9 - File changes
+**Date:** 2026-04-11T06:41:13Z
+**Files Changed:** 8
+**Classification:** 2 NEW, 6 MODIFIED, 0 CONFLICT
+- NEW: src/components/ipad/BackgroundLayer.jsx, src/components/ipad/CircularThermostat.jsx
+- MODIFIED: base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/components/ipad/InSessionScreen.jsx, src/components/ipad/WelcomeScreen.jsx, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+- CONFLICT: 
+
+---
+### c2e8650 - File changes
+**Date:** 2026-04-11T06:36:48Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx, src/pages/AdminDashboard.jsx
+- CONFLICT: 
+
+---
+### 9098ede - File changes
+**Date:** 2026-04-11T06:28:01Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/ipad/InSessionScreen.jsx, src/components/ipad/WelcomeScreen.jsx
+- CONFLICT: 
+
+---
+### c323e33 - File changes
+**Date:** 2026-04-11T06:23:32Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx
+- CONFLICT: 
+
+---
+### a32f6aa - File changes
+**Date:** 2026-04-11T06:22:32Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx
+- CONFLICT: 
+
+---
+### 405ff26 - File changes
+**Date:** 2026-04-11T06:14:43Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/components/dashboard/PremiumCalendar.jsx, src/hooks/useTheme.js
+- CONFLICT: 
+
+---
+### d6bc2b0 - File changes
+**Date:** 2026-04-11T06:05:34Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/pages/CustomLogin.jsx
+- CONFLICT: 
+
+---
+### e90d8ad - File changes
+**Date:** 2026-04-11T06:00:19Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx
+- CONFLICT: 
+
+---
+### eaa2d60 - File changes
+**Date:** 2026-04-11T05:57:36Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: base44/functions/updateiPadStates/entry.ts, src/components/ipad/InSessionScreen.jsx
+- CONFLICT: 
+
+---
+### 133e1a4 - File changes
+**Date:** 2026-04-11T05:54:50Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/pages/AdminWorkflowMap.jsx
+- CONFLICT: 
+
+---
+### 45df480 - File changes
+**Date:** 2026-04-11T05:03:59Z
+**Files Changed:** 6
+**Classification:** 2 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx
+- MODIFIED: src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx
+- CONFLICT: 
+
+---
+### b70252c - File changes
+**Date:** 2026-04-11T04:36:43Z
+**Files Changed:** 7
+**Classification:** 6 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/DashboardSectionCard.jsx, src/components/dashboard/FloatingDayPanel.jsx, src/components/dashboard/PremiumCalendar.jsx, src/components/dashboard/QuickActionButton.jsx, src/components/dashboard/SessionTimelineCard.jsx
+- MODIFIED: src/pages/AdminDashboard.jsx
+- CONFLICT: 
+
+---
+### b639797 - File changes
+**Date:** 2026-04-11T04:25:16Z
+**Files Changed:** 6
+**Classification:** 2 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: src/hooks/useTheme.js, src/pages/AdminNotifications.jsx
+- MODIFIED: base44/functions/updateiPadStates/entry.ts, src/App.jsx, src/components/Sidebar.jsx, src/pages/AdminiPadController.jsx
+- CONFLICT: 
+
+---
+### ab283f4 - File changes
+**Date:** 2026-04-11T04:19:13Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/lib/workflow-data.js, src/pages/AdminWorkflowMap.jsx
+- CONFLICT: 
+
+---
+### 8f1d175 - File changes
+**Date:** 2026-04-11T04:08:59Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 0 MODIFIED, 1 CONFLICT
+- NEW: None
+- MODIFIED: 
+- CONFLICT: src/components/dashboard/MonthCalendar.jsx
+
+---
+### 7ee5ce4 - File changes
+**Date:** 2026-04-11T00:44:42Z
+**Files Changed:** 4
+**Classification:** 2 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: src/lib/workflow-data.js, src/pages/AdminWorkflowMap.jsx
+- MODIFIED: src/App.jsx, src/components/Sidebar.jsx
+- CONFLICT: 
+
+---
+### b46081c - File changes
+**Date:** 2026-04-10T14:52:19Z
+**Files Changed:** 3
+**Classification:** 1 NEW, 1 MODIFIED, 1 CONFLICT
+- NEW: src/components/dashboard/CalendarEventDrawer.jsx
+- MODIFIED: src/pages/AdminDashboard.jsx
+- CONFLICT: src/components/dashboard/MonthCalendar.jsx
+
+---
+### af66b4d - File changes
+**Date:** 2026-04-09T22:55:27Z
+**Files Changed:** 5
+**Classification:** 0 NEW, 5 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: base44/functions/googleCalendarManager/entry.ts, base44/functions/listCalendarEvents/entry.ts, base44/functions/onBookingConfirmed/entry.ts, base44/functions/syncBookingToGoogleCalendar/entry.ts, base44/functions/syncGoogleCalendarToPortal/entry.ts
+- CONFLICT: 
+
+---
+### bdaef47 - File changes
+**Date:** 2026-04-09T19:08:52Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: base44/entities/Invoice.jsonc, base44/functions/syncBookingToGoogleCalendar/entry.ts, base44/functions/updateInvoice/entry.ts, src/components/invoicing/InvoiceDrawer.jsx
+- CONFLICT: 
+
+---
+### 03b26f0 - File changes
+**Date:** 2026-04-09T16:35:40Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/booking/MultiDayRangePicker.jsx, src/pages/AdminBookNewSession.jsx
+- CONFLICT: 
+
+---
+### ef48c13 - File changes
+**Date:** 2026-04-09T16:33:46Z
+**Files Changed:** 6
+**Classification:** 4 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: base44/entities/SharedCalendarToken.jsonc, src/components/shared-calendar/EventModal.jsx, src/pages/AdminSharedCalendarSettings.jsx, src/pages/SharedCalendar.jsx
+- MODIFIED: src/App.jsx, src/components/Sidebar.jsx
+- CONFLICT: 
+
+---
+### eb1d245 - File changes
+**Date:** 2026-04-09T16:27:00Z
+**Files Changed:** 3
+**Classification:** 0 NEW, 2 MODIFIED, 1 CONFLICT
+- NEW: None
+- MODIFIED: src/lib/multi-day-pricing.js, src/pages/AdminBookNewSession.jsx
+- CONFLICT: src/components/booking/BookingDateTimeStep.jsx
+
+---
+### 1e437a1 - File changes
+**Date:** 2026-04-09T16:18:34Z
+**Files Changed:** 5
+**Classification:** 2 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: src/components/booking/BookingStepFooter.jsx, src/components/booking/MultiDayPricingEditor.jsx
+- MODIFIED: base44/entities/Booking.jsonc, src/components/booking/MultiDayRangePicker.jsx, src/pages/AdminBookNewSession.jsx
+- CONFLICT: 
+
+---
+### 7430e45 - File changes
+**Date:** 2026-04-08T17:36:55Z
+**Files Changed:** 5
+**Classification:** 1 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: src/pages/AdminCalendarSync.jsx
+- MODIFIED: src/App.jsx, src/components/Sidebar.jsx, src/components/bookings/BookingsCalendarView.jsx, src/pages/AdminBookingsManager.jsx
+- CONFLICT: 
+
+---
+### 8935efc - File changes
+**Date:** 2026-04-08T17:23:55Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/AdminRoomEditor.jsx, src/components/RoomForm/AddOnsSection.jsx, src/components/RoomForm/SettingsSection.jsx, src/pages/AdminRooms.jsx
+- CONFLICT: 
+
+---
+### 2b9498c - File changes
+**Date:** 2026-04-08T04:11:39Z
+**Files Changed:** 6
+**Classification:** 0 NEW, 4 MODIFIED, 2 CONFLICT
+- NEW: None
+- MODIFIED: src/components/AdminRoomEditor.jsx, src/lib/multi-day-pricing.js, src/pages/AdminBookNewSession.jsx, src/pages/AdminOperatingHours.jsx
+- CONFLICT: src/components/marketing/RoomOperatingHoursDisplay.jsx, src/pages/RoomProfile.jsx
+
+---
+### d34c095 - File changes
+**Date:** 2026-04-07T18:02:02Z
+**Files Changed:** 2
+**Classification:** 1 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: src/QA_BOOKING_AUDIT_REAL.md
+- MODIFIED: base44/functions/getRoomAvailability/entry.ts
+- CONFLICT: 
+
+---
+### 6667830 - File changes
+**Date:** 2026-04-07T17:59:01Z
+**Files Changed:** 6
+**Classification:** 3 NEW, 2 MODIFIED, 1 CONFLICT
+- NEW: src/BOOKING_AVAILABILITY_FIX_QA.md, src/BOOKING_AVAILABILITY_FIX_SUMMARY.md, src/lib/availability-validation.js
+- MODIFIED: base44/functions/getRoomAvailability/entry.ts, src/components/booking/UnifiedBookingDateTime.jsx
+- CONFLICT: src/components/booking/BookingDateTimeStep.jsx
+
+---
+### f0d8bd5 - File changes
+**Date:** 2026-04-07T17:54:49Z
+**Files Changed:** 7
+**Classification:** 1 NEW, 5 MODIFIED, 1 CONFLICT
+- NEW: src/STUDIO_EDIT_REDESIGN_REPORT.md
+- MODIFIED: src/components/AdminRoomEditor.jsx, src/components/RoomForm/AddOnsSection.jsx, src/components/RoomForm/BasicInfoSection.jsx, src/components/RoomForm/PricingSection.jsx, src/components/RoomForm/SettingsSection.jsx
+- CONFLICT: src/components/RoomForm/RoomStudioPreview.jsx
+
+---
+### 252350b - File changes
+**Date:** 2026-04-07T17:48:27Z
+**Files Changed:** 12
+**Classification:** 11 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: base44/functions/auditClientAuthFlow/entry.ts, base44/functions/getClientAuthStatus/entry.ts, base44/functions/manageInvites/entry.ts, src/AUTH_QA_TEST_REPORT.md, src/COMPLETE_AUTH_SYSTEM_SUMMARY.md, src/DEPLOYMENT_CHECKLIST.md, src/IMPLEMENTATION_SUMMARY.md, src/QA_TEST_SCENARIOS.md, src/SYSTEM_ARCHITECTURE.md, src/components/EnhancedInviteDrawer.jsx, src/components/admin/InviteManagementPanel.jsx
+- MODIFIED: base44/functions/sendVerificationEmail/entry.ts
+- CONFLICT: 
+
+---
+### 5e843f1 - File changes
+**Date:** 2026-04-07T17:25:14Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/App.jsx
+- CONFLICT: 
+
+---
+### 2313cac - File changes
+**Date:** 2026-04-07T17:24:14Z
+**Files Changed:** 5
+**Classification:** 2 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: src/components/RoomForm/SettingsSection.jsx, src/pages/EmailVerification.jsx
+- MODIFIED: src/components/AdminRoomEditor.jsx, src/components/RoomForm/AddOnsSection.jsx, src/components/RoomForm/BasicInfoSection.jsx
+- CONFLICT: 
+
+---
+### 56404a8 - File changes
+**Date:** 2026-04-07T17:19:29Z
+**Files Changed:** 6
+**Classification:** 0 NEW, 5 MODIFIED, 1 CONFLICT
+- NEW: None
+- MODIFIED: base44/entities/Invite.jsonc, base44/functions/sendClientInvite/entry.ts, src/App.jsx, src/components/InviteDrawer.jsx, src/pages/EmailVerification.jsx
+- CONFLICT: src/pages/Register.jsx
+
+---
+### 6325a20 - File changes
+**Date:** 2026-04-07T17:11:40Z
+**Files Changed:** 8
+**Classification:** 1 NEW, 6 MODIFIED, 1 CONFLICT
+- NEW: src/components/admin/InviteStatusPanel.jsx
+- MODIFIED: base44/entities/Client.jsonc, base44/functions/sendClientInvite/entry.ts, src/App.jsx, src/pages/AdminClientProfile.jsx, src/pages/AdminClients.jsx, src/pages/EmailVerification.jsx
+- CONFLICT: src/pages/Register.jsx
+
+---
+### 636761a - File changes
+**Date:** 2026-04-07T16:59:38Z
+**Files Changed:** 8
+**Classification:** 5 NEW, 3 MODIFIED, 0 CONFLICT
+- NEW: base44/entities/BookingGuestList.jsonc, base44/entities/ClientComplianceRecord.jsonc, base44/functions/parseDocumentPDF/entry.ts, src/components/client/CompliancePanel.jsx, src/components/client/GuestListPanel.jsx
+- MODIFIED: src/pages/AdminClientProfile.jsx, src/pages/ClientBookingHistory.jsx, src/pages/ClientDashboard.jsx
+- CONFLICT: 
+
+---
+### 676dc16 - File changes
+**Date:** 2026-04-07T16:44:03Z
+**Files Changed:** 5
+**Classification:** 1 NEW, 3 MODIFIED, 1 CONFLICT
+- NEW: src/components/RoomForm/RoomHoursSection.jsx
+- MODIFIED: src/components/AdminRoomEditor.jsx, src/components/RoomForm/AddOnsSection.jsx, src/components/RoomForm/PricingAdvisorPanel.jsx
+- CONFLICT: src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+### 1862d0c - File changes
+**Date:** 2026-04-07T16:34:39Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/admin/OperatingHoursGrid.jsx, src/pages/AdminOperatingHours.jsx
+- CONFLICT: 
+
+---
+### 313aca7 - File changes
+**Date:** 2026-04-07T16:33:25Z
+**Files Changed:** 5
+**Classification:** 3 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: src/components/agreements/AICreationModal.jsx, src/components/agreements/AgreementEditor.jsx, src/components/agreements/AgreementList.jsx
+- MODIFIED: src/App.jsx, src/pages/AdminAgreements.jsx
+- CONFLICT: 
+
+---
+### 61e218e - File changes
+**Date:** 2026-04-07T15:36:30Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/pages/AdminMarketingMedia.jsx
+- CONFLICT: 
+
+---
+### 56830b4 - File changes
+**Date:** 2026-04-07T14:43:00Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/AdminLayout.jsx, src/pages/AdminMarketingMedia.jsx
+- CONFLICT: 
+
+---
+### 0208c32 - File changes
+**Date:** 2026-04-07T14:30:37Z
+**Files Changed:** 8
+**Classification:** 1 NEW, 4 MODIFIED, 3 CONFLICT
+- NEW: src/pages/AdminSocialLinks.jsx
+- MODIFIED: base44/entities/AppSetting.jsonc, src/App.jsx, src/components/Sidebar.jsx, src/pages/About.jsx
+- CONFLICT: src/components/MarketingFooter.jsx, src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx
+
+---
+### 2263821 - File changes
+**Date:** 2026-04-07T04:09:34Z
+**Files Changed:** 6
+**Classification:** 1 NEW, 5 MODIFIED, 0 CONFLICT
+- NEW: src/components/admin/OperatingHoursGrid.jsx
+- MODIFIED: base44/entities/OperatingHours.jsonc, src/App.jsx, src/pages/AdminBranding.jsx, src/pages/AdminEmailDesigns.jsx, src/pages/AdminOperatingHours.jsx
+- CONFLICT: 
+
+---
+### 0fcbeb0 - File changes
+**Date:** 2026-04-07T04:05:57Z
+**Files Changed:** 9
+**Classification:** 4 NEW, 5 MODIFIED, 0 CONFLICT
+- NEW: base44/entities/SyncReviewItem.jsonc, base44/functions/approveSyncItem/entry.ts, base44/functions/processGoogleSyncEvents/entry.ts, src/pages/AdminSyncQueue.jsx
+- MODIFIED: base44/functions/syncBookingToGoogleCalendar/entry.ts, base44/functions/syncGoogleCalendarToPortal/entry.ts, src/App.jsx, src/components/BookingDetailDrawer.jsx, src/components/Sidebar.jsx
+- CONFLICT: 
+
+---
+### e174e92 - File changes
+**Date:** 2026-04-07T04:00:57Z
+**Files Changed:** 9
+**Classification:** 4 NEW, 4 MODIFIED, 1 CONFLICT
+- NEW: base44/entities/EmailCampaign.jsonc, src/pages/About.jsx, src/pages/AdminCampaigns.jsx, src/pages/Contact.jsx
+- MODIFIED: src/App.jsx, src/components/Sidebar.jsx, src/pages/AdminAgreements.jsx, src/pages/AdminEmailDesigns.jsx
+- CONFLICT: src/pages/Studios.jsx
+
+---
+### 0aa884a - File changes
+**Date:** 2026-04-07T03:51:26Z
+**Files Changed:** 10
+**Classification:** 4 NEW, 4 MODIFIED, 2 CONFLICT
+- NEW: base44/entities/MarketingMedia.jsonc, src/components/marketing/StudioTourCTA.jsx, src/hooks/useMarketingMedia.js, src/pages/AdminMarketingMedia.jsx
+- MODIFIED: src/App.jsx, src/components/Sidebar.jsx, src/pages/About.jsx, src/pages/Contact.jsx
+- CONFLICT: src/pages/Landing.jsx, src/pages/Studios.jsx
+
+---
+### 72c94f4 - File changes
+**Date:** 2026-04-07T03:41:45Z
+**Files Changed:** 10
+**Classification:** 3 NEW, 6 MODIFIED, 1 CONFLICT
+- NEW: src/components/RoomForm/PricingAdvisorPanel.jsx, src/components/booking/MultiDayRangePicker.jsx, src/lib/multi-day-pricing.js
+- MODIFIED: base44/entities/Booking.jsonc, base44/entities/Room.jsonc, src/components/AdminRoomEditor.jsx, src/components/BookingFlowSteps.jsx, src/components/RoomForm/PricingSection.jsx, src/pages/AdminBookNewSession.jsx
+- CONFLICT: src/components/booking/BookingDateTimeStep.jsx
+
+---
+### c7f2422 - File changes
+**Date:** 2026-04-07T02:09:10Z
+**Files Changed:** 11
+**Classification:** 0 NEW, 8 MODIFIED, 3 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx, src/pages/AdminBookNewSession.jsx, src/pages/AdminBookingsManager.jsx, src/pages/AdminDashboard.jsx, src/pages/AdminFinancialDashboard.jsx, src/pages/AdminIntegrations.jsx, src/pages/AdminInvoices.jsx, src/pages/AdminPricingDashboard.jsx
+- CONFLICT: src/components/booking/ClientSelectStep.jsx, src/components/dashboard/MonthCalendar.jsx, src/components/ui/TabBar.jsx
+
+---
+### 43b719b - File changes
+**Date:** 2026-04-06T21:53:29Z
+**Files Changed:** 9
+**Classification:** 0 NEW, 8 MODIFIED, 1 CONFLICT
+- NEW: None
+- MODIFIED: src/components/AdminLayout.jsx, src/components/AdminSectionNav.jsx, src/components/PortalTopBar.jsx, src/components/financial/FinancialTabs.jsx, src/pages/AdminBookingsManager.jsx, src/pages/AdminFinancialDashboard.jsx, src/pages/AdminInvoices.jsx, src/pages/AdminPricingDashboard.jsx
+- CONFLICT: src/components/ui/SegmentedControl.jsx
+
+---
+### d55de2b - File changes
+**Date:** 2026-04-06T21:42:00Z
+**Files Changed:** 13
+**Classification:** 2 NEW, 11 MODIFIED, 0 CONFLICT
+- NEW: src/components/AdminSectionNav.jsx, src/components/dashboard/NativeCalendar.jsx
+- MODIFIED: src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/pages/AdminAgreements.jsx, src/pages/AdminBookingsManager.jsx, src/pages/AdminClients.jsx, src/pages/AdminDashboard.jsx, src/pages/AdminFinancialDashboard.jsx, src/pages/AdminForms.jsx, src/pages/AdminInvoices.jsx, src/pages/AdminPricingDashboard.jsx...
+- CONFLICT: 
+
+---
+### 8373550 - File changes
+**Date:** 2026-04-06T19:07:34Z
+**Files Changed:** 12
+**Classification:** 1 NEW, 5 MODIFIED, 6 CONFLICT
+- NEW: src/lib/status-styles.jsx
+- MODIFIED: src/pages/AdminBookingsManager.jsx, src/pages/AdminClients.jsx, src/pages/AdminFinancialDashboard.jsx, src/pages/AdminInvoices.jsx, src/pages/AdminSettings.jsx
+- CONFLICT: src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx, src/components/ui/SettingCard.jsx, src/components/ui/Spinner.jsx
+
+---
+### efc55f0 - File changes
+**Date:** 2026-04-06T18:51:41Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/Sidebar.jsx
+- CONFLICT: 
+
+---
+### d4afd2f - File changes
+**Date:** 2026-04-06T17:15:31Z
+**Files Changed:** 7
+**Classification:** 1 NEW, 6 MODIFIED, 0 CONFLICT
+- NEW: src/components/dashboard/MasterCalendarEmbed.jsx
+- MODIFIED: base44/entities/AppSetting.jsonc, base44/entities/Booking.jsonc, base44/functions/syncBookingToGoogleCalendar/entry.ts, base44/functions/syncGoogleCalendarToPortal/entry.ts, src/pages/AdminBranding.jsx, src/pages/AdminDashboard.jsx
+- CONFLICT: 
+
+---
+### 55794f4 - File changes
+**Date:** 2026-04-06T15:32:50Z
+**Files Changed:** 1
+**Classification:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/pages/AdminBranding.jsx
+- CONFLICT: 
+
+---
+### 9ad09a8 - File changes
+**Date:** 2026-04-06T15:31:51Z
+**Files Changed:** 9
+**Classification:** 0 NEW, 9 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/pages/AdminAddOns.jsx, src/pages/AdminBranding.jsx, src/pages/AdminDashboard.jsx, src/pages/AdminEmailDesigns.jsx, src/pages/AdminInvoices.jsx, src/pages/AdminPortalSettings.jsx, src/pages/AdminPricingDashboard.jsx, src/pages/AdminRooms.jsx, src/pages/AdminSettings.jsx
+- CONFLICT: 
+
+---
+### 0f0833b - File changes
+**Date:** 2026-04-06T13:45:41Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/PortalTopBar.jsx, src/pages/AdminBookingsManager.jsx, src/pages/AdminClients.jsx, src/pages/AdminPricing.jsx
+- CONFLICT: 
+
+---
+### 08460b3 - File changes
+**Date:** 2026-04-06T05:27:28Z
+**Files Changed:** 2
+**Classification:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingPanel.jsx
+- CONFLICT: 
+
+---
+### 86755ec - File changes
+**Date:** 2026-04-06T02:40:29Z
+**Files Changed:** 4
+**Classification:** 3 NEW, 1 MODIFIED, 0 CONFLICT
+- NEW: src/components/ipad/ClimateDetailPanel.jsx, src/components/ipad/HelpSupportPanel.jsx, src/components/ipad/LightingPanel.jsx
+- MODIFIED: src/components/ipad/InSessionScreen.jsx
+- CONFLICT: 
+
+---
+### abdad2a - File changes
+**Date:** 2026-04-04T18:06:14Z
+**Files Changed:** 4
+**Classification:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+- NEW: None
+- MODIFIED: src/components/AdminLayout.jsx, src/components/PortalTopBar.jsx, src/pages/AdminAccessControl.jsx, src/pages/AdminUsers.jsx
+- CONFLICT: 
+
+---

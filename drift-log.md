@@ -8637,3 +8637,7 @@ KQoK
 ## 2026-04-23T17:41:19.246187+00:00
 **Commit:** 923b30e — sync: marketing components — refined versions from Claude Code
 **Files:** src/components/MarketingFooter.jsx (CONFLICT) | src/components/MarketingHeader.jsx (CONFLICT) | src/components/marketing/RoomOperatingHoursDisplay.jsx (CONFLICT)
+
+## 2026-04-23T17:41:21.179004+00:00
+**Commit:** 18e25d2 — sync: booking components — refined versions from Claude Code
+**Files:** src/components/booking/BookingDateTimeStep.jsx (CONFLICT) | src/components/booking/ClientSelectStep.jsx (CONFLICT)

@@ -11434,3 +11434,33 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 **Files Changed:** 4
 **Summary:** 4× MODIFIED
 **Files:** package.json, project.config.json, public/_redirects, scripts/deploy-guard.mjs
+
+### dcb2a8e9 — 2026-04-22 — merge: bring staging sync commits into main (Phase 3 design sync)
+- Files: 35 (2× MODIFIED, 33× NEW)
+
+### aa4661f4 — 2026-04-22 — sync: website booking and auth pages — refined versions from Claude Code
+- Files: 6 (0× MODIFIED, 6× NEW)
+
+### f19cdf03 — 2026-04-22 — sync: website marketing pages — refined versions from Claude Code
+- Files: 4 (0× MODIFIED, 4× NEW)
+
+### 22cdea70 — 2026-04-22 — sync: BookingFlow.jsx — refined version from Claude Code
+- Files: 1 (0× MODIFIED, 1× NEW)
+
+### 38853339 — 2026-04-22 — sync: dashboard and iPad components — refined versions from Claude Code
+- Files: 3 (0× MODIFIED, 3× NEW)
+
+### 3564003b — 2026-04-22 — sync: RoomForm components — refined versions from Claude Code
+- Files: 2 (0× MODIFIED, 2× NEW)
+
+### 923b30e2 — 2026-04-22 — sync: marketing components — refined versions from Claude Code
+- Files: 3 (0× MODIFIED, 3× NEW)
+
+### 18e25d25 — 2026-04-22 — sync: booking components — refined versions from Claude Code
+- Files: 2 (0× MODIFIED, 2× NEW)
+
+### 762ca5e0 — 2026-04-22 — sync: UI primitives — refined versions from Claude Code
+- Files: 10 (0× MODIFIED, 10× NEW)
+
+### 47b2dd66 — 2026-04-20 — feat: move design site to cloudflare pages
+- Files: 4 (2× MODIFIED, 2× NEW)

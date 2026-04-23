@@ -7248,3 +7248,24 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 - src/lib/workflow-data.js
 
 ---
+
+- **dcb2a8e9** (2026-04-22) — merge: bring staging sync commits into main (Phase 3 design sync)
+  Files: 3 NEW, 1 MODIFIED, 31 CONFLICT
+- **aa4661f4** (2026-04-22) — sync: website booking and auth pages — refined versions from Claude Code
+  Files: 6 CONFLICT
+- **f19cdf03** (2026-04-22) — sync: website marketing pages — refined versions from Claude Code
+  Files: 4 CONFLICT
+- **22cdea70** (2026-04-22) — sync: BookingFlow.jsx — refined version from Claude Code
+  Files: 1 CONFLICT
+- **38853339** (2026-04-22) — sync: dashboard and iPad components — refined versions from Claude Code
+  Files: 3 CONFLICT
+- **3564003b** (2026-04-22) — sync: RoomForm components — refined versions from Claude Code
+  Files: 2 CONFLICT
+- **923b30e2** (2026-04-22) — sync: marketing components — refined versions from Claude Code
+  Files: 3 CONFLICT
+- **18e25d25** (2026-04-22) — sync: booking components — refined versions from Claude Code
+  Files: 2 CONFLICT
+- **762ca5e0** (2026-04-22) — sync: UI primitives — refined versions from Claude Code
+  Files: 10 CONFLICT
+- **47b2dd66** (2026-04-20) — feat: move design site to cloudflare pages
+  Files: 3 NEW, 1 MODIFIED

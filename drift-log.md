@@ -6703,3 +6703,158 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 **Repo:** Cinedex/48labs-design | [Commit](https://github.com/Cinedex/48labs-design/commit/47b2dd66260b5c9585f2b3c5cde7da1a130183f5)
 
 ---
+
+## dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync)
+**Date:** 2026-04-22T15:33:13Z
+
+**Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+
+**CONFLICT files:**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx
+- src/pages/BookingFlow.jsx
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/Landing.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+- src/pages/UnifiedCheckout.jsx
+
+**NEW files:**
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED files:**
+- package.json
+
+
+## aa4661f4 | sync: website booking and auth pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:47Z
+
+**Classification:** 6× CONFLICT
+
+**CONFLICT files:**
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/UnifiedCheckout.jsx
+
+
+## f19cdf03 | sync: website marketing pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:42Z
+
+**Classification:** 4× CONFLICT
+
+**CONFLICT files:**
+- src/pages/Landing.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+
+
+## 22cdea70 | sync: BookingFlow.jsx — refined version from Claude Code
+**Date:** 2026-04-22T05:04:36Z
+
+**Classification:** 1× CONFLICT
+
+**CONFLICT files:**
+- src/pages/BookingFlow.jsx
+
+
+## 38853339 | sync: dashboard and iPad components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:31Z
+
+**Classification:** 3× CONFLICT
+
+**CONFLICT files:**
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+
+
+## 3564003b | sync: RoomForm components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:23Z
+
+**Classification:** 2× CONFLICT
+
+**CONFLICT files:**
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+
+## 923b30e2 | sync: marketing components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:19Z
+
+**Classification:** 3× CONFLICT
+
+**CONFLICT files:**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+
+## 18e25d25 | sync: booking components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:15Z
+
+**Classification:** 2× CONFLICT
+
+**CONFLICT files:**
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+
+
+## 762ca5e0 | sync: UI primitives — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:10Z
+
+**Classification:** 10× CONFLICT
+
+**CONFLICT files:**
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx
+
+
+## 47b2dd66 | feat: move design site to cloudflare pages
+**Date:** 2026-04-20T04:07:52Z
+
+**Classification:** 3× NEW, 1× MODIFIED
+
+**NEW files:**
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED files:**
+- package.json

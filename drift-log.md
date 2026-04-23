@@ -12091,3 +12091,31 @@ BookingDateTimeStep.jsx, ClientSelectStep.jsx
 
 ---
 
+## 762ca5e (2026-04-22T05:04:10+00:00)
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+button.jsx, EmptyState.jsx, FilterPills.jsx, PortalDrawer.jsx, PortalTable.jsx,
+SearchInput.jsx, SegmentedControl.jsx, SettingCard.jsx, Spinner.jsx, TabBar.jsx
+
+- slate-* raw tokens → semantic aliases (bg-canvas, bg-elevated, text-on-surface, border-border-soft)
+- className prop added to EmptyState for layout flexibility
+- All components match portal reference verbatim
+
+**Files Changed:** 10 files
+- NEW: 0 files
+- CONFLICT: 10 files
+
+**Details:**
+- (CONFLICT) src/components/ui/EmptyState.jsx
+- (CONFLICT) src/components/ui/FilterPills.jsx
+- (CONFLICT) src/components/ui/PortalDrawer.jsx
+- (CONFLICT) src/components/ui/PortalTable.jsx
+- (CONFLICT) src/components/ui/SearchInput.jsx
+- (CONFLICT) src/components/ui/SegmentedControl.jsx
+- (CONFLICT) src/components/ui/SettingCard.jsx
+- (CONFLICT) src/components/ui/Spinner.jsx
+- (CONFLICT) src/components/ui/TabBar.jsx
+- (CONFLICT) src/components/ui/button.jsx
+
+---
+

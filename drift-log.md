@@ -7823,3 +7823,52 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 **405ff264** (2026-04-11) — File changes [4× MODIFIED]
 **d6bc2b03** (2026-04-11) — File changes [1× MODIFIED]
 **e90d8ade** (2026-04-11) — File changes [3× MODIFIED]
+## 2026-04-22 — dcb2a8e9
+**merge: bring staging sync commits into main (Phase 3 design sync)**
+**Files:** 35 changed (3× NEW, 32× MODIFIED)
+
+
+## 2026-04-22 — aa4661f4
+**sync: website booking and auth pages**
+**Files:** 6 changed (6× MODIFIED)
+
+
+## 2026-04-22 — f19cdf03
+**sync: website marketing pages**
+**Files:** 4 changed (4× MODIFIED)
+
+
+## 2026-04-22 — 22cdea70
+**sync: BookingFlow.jsx**
+**Files:** 1 changed (1× MODIFIED)
+
+
+## 2026-04-22 — 38853339
+**sync: dashboard and iPad components**
+**Files:** 3 changed (3× MODIFIED)
+
+
+## 2026-04-22 — 3564003b
+**sync: RoomForm components**
+**Files:** 2 changed (2× MODIFIED)
+
+
+## 2026-04-22 — 923b30e2
+**sync: marketing components**
+**Files:** 3 changed (3× MODIFIED)
+
+
+## 2026-04-22 — 18e25d25
+**sync: booking components**
+**Files:** 2 changed (2× MODIFIED)
+
+
+## 2026-04-22 — 762ca5e0
+**sync: UI primitives**
+**Files:** 10 changed (10× MODIFIED)
+
+
+## 2026-04-20 — 47b2dd66
+**feat: move design site to cloudflare pages**
+**Files:** 4 changed (3× NEW, 1× MODIFIED)
+

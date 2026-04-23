@@ -717,3 +717,53 @@ Each entry shows:
 
 ---
 
+
+### dcb2a8e — 2026-04-22T15:33:13Z
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files:** 35 changed
+**Summary:** 3× NEW, 32× MODIFIED, 0× CONFLICT
+
+### aa4661f — 2026-04-22T05:04:47Z
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files:** 6 changed
+**Summary:** 0× NEW, 6× MODIFIED, 0× CONFLICT
+
+### f19cdf0 — 2026-04-22T05:04:42Z
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files:** 4 changed
+**Summary:** 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+### 22cdea7 — 2026-04-22T05:04:36Z
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files:** 1 changed
+**Summary:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 3885333 — 2026-04-22T05:04:31Z
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files:** 3 changed
+**Summary:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 3564003 — 2026-04-22T05:04:23Z
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files:** 2 changed
+**Summary:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### 923b30e — 2026-04-22T05:04:19Z
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files:** 3 changed
+**Summary:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 18e25d2 — 2026-04-22T05:04:15Z
+**Message:** sync: booking components — refined versions from Claude Code
+**Files:** 2 changed
+**Summary:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### 762ca5e — 2026-04-22T05:04:10Z
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files:** 10 changed
+**Summary:** 0× NEW, 10× MODIFIED, 0× CONFLICT
+
+### 47b2dd6 — 2026-04-20T04:07:52Z
+**Message:** feat: move design site to cloudflare pages
+**Files:** 4 changed
+**Summary:** 3× NEW, 1× MODIFIED, 0× CONFLICT

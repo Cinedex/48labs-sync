@@ -12119,3 +12119,18 @@ SearchInput.jsx, SegmentedControl.jsx, SettingCard.jsx, Spinner.jsx, TabBar.jsx
 
 ---
 
+## 47b2dd6 (2026-04-20T04:07:52+00:00)
+**Message:** feat: move design site to cloudflare pages
+
+**Files Changed:** 4 files
+- NEW: 4 files
+- CONFLICT: 0 files
+
+**Details:**
+- (NEW) package.json
+- (NEW) project.config.json
+- (NEW) public/_redirects
+- (NEW) scripts/deploy-guard.mjs
+
+---
+

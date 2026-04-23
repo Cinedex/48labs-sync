@@ -12420,3 +12420,62 @@ SearchInput.jsx, SegmentedControl.jsx, SettingCard.jsx, Spinner.jsx, TabBar.jsx
 
 ---
 
+
+### dcb2a8e9 — merge: bring staging sync commits into main (Phase 3 design sync)
+**Date:** 2026-04-22T15:33:13Z
+**Files:** 35 changed
+**Classification:** 31× CONFLICT, 4× NEW, 0× MODIFIED
+
+
+### aa4661f4 — sync: website booking and auth pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:47Z
+**Files:** 6 changed
+**Classification:** 6× CONFLICT, 0× NEW, 0× MODIFIED
+
+
+### f19cdf03 — sync: website marketing pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:42Z
+**Files:** 4 changed
+**Classification:** 4× CONFLICT, 0× NEW, 0× MODIFIED
+
+
+### 22cdea70 — sync: BookingFlow.jsx — refined version from Claude Code
+**Date:** 2026-04-22T05:04:36Z
+**Files:** 1 changed
+**Classification:** 1× CONFLICT, 0× NEW, 0× MODIFIED
+
+
+### 38853339 — sync: dashboard and iPad components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:31Z
+**Files:** 3 changed
+**Classification:** 3× CONFLICT, 0× NEW, 0× MODIFIED
+
+
+### 3564003b — sync: RoomForm components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:23Z
+**Files:** 2 changed
+**Classification:** 2× CONFLICT, 0× NEW, 0× MODIFIED
+
+
+### 923b30e2 — sync: marketing components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:19Z
+**Files:** 3 changed
+**Classification:** 3× CONFLICT, 0× NEW, 0× MODIFIED
+
+
+### 18e25d25 — sync: booking components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:15Z
+**Files:** 2 changed
+**Classification:** 2× CONFLICT, 0× NEW, 0× MODIFIED
+
+
+### 762ca5e0 — sync: UI primitives — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:10Z
+**Files:** 10 changed
+**Classification:** 10× CONFLICT, 0× NEW, 0× MODIFIED
+
+
+### 47b2dd66 — feat: move design site to cloudflare pages
+**Date:** 2026-04-20T04:07:52Z
+**Files:** 4 changed
+**Classification:** 0× CONFLICT, 4× NEW, 0× MODIFIED

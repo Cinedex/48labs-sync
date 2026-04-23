@@ -10792,3 +10792,64 @@ merge: bring staging sync commits into main (Phase 3 design sync)
 **Message:** feat: move design site to cloudflare pages
 **Classification:** 3× NEW, 1× MODIFIED, 0× CONFLICT
 
+
+## dcb2a8e9 - merge: bring staging sync commits into main (Phase 3 design sync)
+**Date:** 2026-04-22T15:33:13Z
+**Files Changed:** 35
+**Summary:** 35× MODIFIED
+**Files:** 35 files including package.json, components, pages
+
+## aa4661f4 - sync: website booking and auth pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:47Z
+**Files Changed:** 6
+**Summary:** 6× MODIFIED
+**Files:** DynamicCreditsPage.jsx, DynamicMembershipsPage.jsx, GuestBuyCredits.jsx, MembershipSignup.jsx, Register.jsx, UnifiedCheckout.jsx
+
+## f19cdf03 - sync: website marketing pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:42Z
+**Files Changed:** 4
+**Summary:** 4× MODIFIED
+**Files:** Landing.jsx, RoomProfile.jsx, Services.jsx, Studios.jsx
+
+## 22cdea70 - sync: BookingFlow.jsx — refined version from Claude Code
+**Date:** 2026-04-22T05:04:36Z
+**Files Changed:** 1
+**Summary:** 1× MODIFIED
+**Files:** BookingFlow.jsx
+
+## 38853339 - sync: dashboard and iPad components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:31Z
+**Files Changed:** 3
+**Summary:** 3× MODIFIED
+**Files:** MonthCalendar.jsx, FiveMinWarning.jsx, ThankYouScreen.jsx
+
+## 3564003b - sync: RoomForm components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:23Z
+**Files Changed:** 2
+**Summary:** 2× MODIFIED
+**Files:** RoomStudioPreview.jsx, WebsitePreviewCard.jsx
+
+## 923b30e2 - sync: marketing components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:19Z
+**Files Changed:** 3
+**Summary:** 3× MODIFIED
+**Files:** MarketingFooter.jsx, MarketingHeader.jsx, RoomOperatingHoursDisplay.jsx
+
+## 18e25d25 - sync: booking components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:15Z
+**Files Changed:** 2
+**Summary:** 2× MODIFIED
+**Files:** BookingDateTimeStep.jsx, ClientSelectStep.jsx
+
+## 762ca5e0 - sync: UI primitives — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:10Z
+**Files Changed:** 10
+**Summary:** 10× MODIFIED
+**Files:** 10 UI component files (Button, Input, Select, etc.)
+
+## 47b2dd66 - feat: move design site to cloudflare pages
+**Date:** 2026-04-20T04:07:52Z
+**Files Changed:** 4
+**Summary:** 4× MODIFIED
+**Files:** package.json, project.config.json, _redirects, deploy-guard.mjs
+

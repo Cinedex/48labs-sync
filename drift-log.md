@@ -5445,3 +5445,166 @@ Conflict files: src/components/MarketingFooter.jsx, src/components/MarketingHead
 
 ---
 
+
+- [dcb2a8e] 2026-04-22 — merge: bring staging sync commits into main (Phase 3 design sync)
+  NEW: 0, MODIFIED: 4, CONFLICT: 31
+  Conflicted files: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx (+26 more)
+
+- [aa4661f] 2026-04-22 — sync: website booking and auth pages — refined versions from Claude Code
+  NEW: 0, MODIFIED: 0, CONFLICT: 6
+  Conflicted files: src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx (+1 more)
+
+- [f19cdf0] 2026-04-22 — sync: website marketing pages — refined versions from Claude Code
+  NEW: 0, MODIFIED: 0, CONFLICT: 4
+  Conflicted files: src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+- [22cdea7] 2026-04-22 — sync: BookingFlow.jsx — refined version from Claude Code
+  NEW: 0, MODIFIED: 0, CONFLICT: 1
+  Conflicted files: src/pages/BookingFlow.jsx
+
+- [3885333] 2026-04-22 — sync: dashboard and iPad components — refined versions from Claude Code
+  NEW: 0, MODIFIED: 0, CONFLICT: 3
+  Conflicted files: src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+- [3564003] 2026-04-22 — sync: RoomForm components — refined versions from Claude Code
+  NEW: 0, MODIFIED: 0, CONFLICT: 2
+  Conflicted files: src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+- [923b30e] 2026-04-22 — sync: marketing components — refined versions from Claude Code
+  NEW: 0, MODIFIED: 0, CONFLICT: 3
+  Conflicted files: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+- [18e25d2] 2026-04-22 — sync: booking components — refined versions from Claude Code
+  NEW: 0, MODIFIED: 0, CONFLICT: 2
+  Conflicted files: src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+- [762ca5e] 2026-04-22 — sync: UI primitives — refined versions from Claude Code
+  NEW: 0, MODIFIED: 0, CONFLICT: 10
+  Conflicted files: src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)
+
+- [47b2dd6] 2026-04-20 — feat: move design site to cloudflare pages
+  NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+- [5b06f15] 2026-04-16 — Update base44 packages
+  NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+- [725cf75] 2026-04-12 — Update base44 packages
+  NEW: 0, MODIFIED: 2, CONFLICT: 0
+
+- [fe64f26] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 5, CONFLICT: 0
+
+- [62d1e6a] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 2, CONFLICT: 0
+
+- [eb00c62] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+- [fe80272] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 7, CONFLICT: 0
+
+- [cc98d28] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 6, CONFLICT: 0
+
+- [e2e0de2] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 0, CONFLICT: 1
+  Conflicted files: src/pages/Landing.jsx
+
+- [96400df] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+- [e4b13f4] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+- [0a8d94c] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 2, CONFLICT: 0
+
+- [0ddc514] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+- [01ef5f4] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+- [cc795b7] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+- [e9c7dad] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+- [dc5b801] 2026-04-12 — File changes
+  NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+- [1aec1f9] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+- [3f83184] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 7, CONFLICT: 0
+
+- [0e0a4d2] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+- [7e2cf42] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 6, CONFLICT: 0
+
+- [ca56f4c] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+- [7bd3f84] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+- [5756d26] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+- [b3b4a95] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 3, CONFLICT: 0
+
+- [442a4aa] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 3, CONFLICT: 1
+  Conflicted files: src/components/ui/FloatingPanel.jsx
+
+- [d4df16b] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 2, CONFLICT: 0
+
+- [d37f541] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 4, CONFLICT: 1
+  Conflicted files: src/components/ui/FloatingPanel.jsx
+
+- [981bd65] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+- [3a1682a] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 6, CONFLICT: 0
+
+- [18612a7] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+- [ad879b0] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 7, CONFLICT: 0
+
+- [ae210dd] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 4, CONFLICT: 1
+  Conflicted files: src/components/ui/FloatingPanel.jsx
+
+- [1c572b9] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 8, CONFLICT: 0
+
+- [c2e8650] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+- [9098ede] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 2, CONFLICT: 0
+
+- [c323e33] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+- [a32f6aa] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+- [405ff26] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 4, CONFLICT: 0
+
+- [d6bc2b0] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 1, CONFLICT: 0
+
+- [e90d8ad] 2026-04-11 — File changes
+  NEW: 0, MODIFIED: 3, CONFLICT: 0

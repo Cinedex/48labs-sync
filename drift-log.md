@@ -12292,3 +12292,103 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | 762ca5e0 | sync: UI primitives — refined versions from Claude Code | 10 files | CONFLICT:10
 2026-04-20 | 47b2dd66 | feat: move design site to cloudflare pages | 4 files | NEW:3 | MODIFIED:1
 2026-04-16 | 5b06f159 | Update base44 packages | 3 files | NEW:1 | MODIFIED:2
+2026-04-22 | dcb2a8e | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1
+2026-04-22 | aa4661f | sync: website booking and auth pages — refined versions from Claude Code | 6 files | CONFLICT:6
+2026-04-22 | f19cdf0 | sync: website marketing pages — refined versions from Claude Code | 4 files | CONFLICT:4
+2026-04-22 | 22cdea7 | sync: BookingFlow.jsx — refined version from Claude Code | 1 files | CONFLICT:1
+2026-04-22 | 3885333 | sync: dashboard and iPad components — refined versions from Claude Code | 3 files | CONFLICT:3
+2026-04-22 | 3564003 | sync: RoomForm components — refined versions from Claude Code | 2 files | CONFLICT:2
+2026-04-22 | 923b30e | sync: marketing components — refined versions from Claude Code | 3 files | CONFLICT:3
+2026-04-22 | 18e25d2 | sync: booking components — refined versions from Claude Code | 2 files | CONFLICT:2
+2026-04-22 | 762ca5e | sync: UI primitives — refined versions from Claude Code | 10 files | CONFLICT:10
+2026-04-20 | 47b2dd6 | feat: move design site to cloudflare pages | 4 files | NEW:3 | MODIFIED:1
+2026-04-16 | 5b06f15 | Update base44 packages | 3 files | NEW:1 | MODIFIED:2
+2026-04-12 | 725cf75 | Update base44 packages | 2 files | MODIFIED:2
+2026-04-12 | fe64f26 | File changes | 5 files | NEW:2 | MODIFIED:3
+2026-04-12 | 62d1e6a | File changes | 2 files | MODIFIED:2
+2026-04-12 | eb00c62 | File changes | 4 files | MODIFIED:4
+2026-04-12 | fe80272 | File changes | 7 files | NEW:7
+2026-04-12 | cc98d28 | File changes | 6 files | MODIFIED:6
+2026-04-12 | e2e0de2 | File changes | 1 files | CONFLICT:1
+2026-04-12 | 96400df | File changes | 3 files | MODIFIED:3
+2026-04-12 | e4b13f4 | File changes | 1 files | MODIFIED:1
+2026-04-12 | 0a8d94c | File changes | 2 files | MODIFIED:2
+2026-04-12 | 0ddc514 | File changes | 3 files | MODIFIED:3
+2026-04-12 | 01ef5f4 | File changes | 1 files | MODIFIED:1
+2026-04-12 | cc795b7 | File changes | 4 files | MODIFIED:4
+2026-04-12 | e9c7dad | File changes | 4 files | MODIFIED:4
+2026-04-12 | dc5b801 | File changes | 3 files | MODIFIED:3
+2026-04-11 | 1aec1f9 | File changes | 1 files | MODIFIED:1
+2026-04-11 | 3f83184 | File changes | 7 files | MODIFIED:7
+2026-04-11 | 0e0a4d2 | File changes | 1 files | MODIFIED:1
+2026-04-11 | 7e2cf42 | File changes | 6 files | NEW:2 | MODIFIED:4
+2026-04-11 | ca56f4c | File changes | 3 files | MODIFIED:3
+2026-04-11 | 7bd3f84 | File changes | 3 files | MODIFIED:3
+2026-04-11 | 5756d26 | File changes | 3 files | MODIFIED:3
+2026-04-11 | b3b4a95 | File changes | 3 files | MODIFIED:3
+2026-04-11 | 442a4aa | File changes | 4 files | CONFLICT:1 | MODIFIED:3
+2026-04-11 | d4df16b | File changes | 2 files | NEW:1 | MODIFIED:1
+2026-04-11 | d37f541 | File changes | 5 files | CONFLICT:1 | MODIFIED:4
+2026-04-11 | 981bd65 | File changes | 1 files | MODIFIED:1
+2026-04-11 | 3a1682a | File changes | 6 files | NEW:2 | MODIFIED:4
+2026-04-11 | 18612a7 | File changes | 1 files | MODIFIED:1
+2026-04-11 | ad879b0 | File changes | 7 files | NEW:3 | MODIFIED:4
+2026-04-11 | ae210dd | File changes | 5 files | CONFLICT:1 | MODIFIED:4
+2026-04-11 | 1c572b9 | File changes | 8 files | NEW:2 | MODIFIED:6
+2026-04-11 | c2e8650 | File changes | 4 files | MODIFIED:4
+2026-04-11 | 9098ede | File changes | 2 files | MODIFIED:2
+2026-04-11 | c323e33 | File changes | 1 files | MODIFIED:1
+2026-04-11 | a32f6aa | File changes | 1 files | MODIFIED:1
+2026-04-11 | 405ff26 | File changes | 4 files | MODIFIED:4
+2026-04-11 | d6bc2b0 | File changes | 1 files | MODIFIED:1
+2026-04-11 | e90d8ad | File changes | 3 files | MODIFIED:3
+2026-04-11 | eaa2d60 | File changes | 2 files | MODIFIED:2
+2026-04-11 | 133e1a4 | File changes | 1 files | MODIFIED:1
+2026-04-11 | 45df480 | File changes | 6 files | NEW:2 | MODIFIED:4
+2026-04-11 | b70252c | File changes | 7 files | NEW:6 | MODIFIED:1
+2026-04-11 | b639797 | File changes | 6 files | NEW:2 | MODIFIED:4
+2026-04-11 | ab283f4 | File changes | 2 files | MODIFIED:2
+2026-04-11 | 8f1d175 | File changes | 1 files | CONFLICT:1
+2026-04-11 | 7ee5ce4 | File changes | 4 files | NEW:2 | MODIFIED:2
+2026-04-10 | b46081c | File changes | 3 files | CONFLICT:1 | NEW:1 | MODIFIED:1
+2026-04-09 | af66b4d | File changes | 5 files | MODIFIED:5
+2026-04-09 | bdaef47 | File changes | 4 files | MODIFIED:4
+2026-04-09 | 03b26f0 | File changes | 2 files | MODIFIED:2
+2026-04-09 | ef48c13 | File changes | 6 files | NEW:4 | MODIFIED:2
+2026-04-09 | eb1d245 | File changes | 3 files | CONFLICT:1 | MODIFIED:2
+2026-04-09 | 1e437a1 | File changes | 5 files | NEW:2 | MODIFIED:3
+2026-04-08 | 7430e45 | File changes | 5 files | NEW:1 | MODIFIED:4
+2026-04-08 | 8935efc | File changes | 4 files | MODIFIED:4
+2026-04-08 | 2b9498c | File changes | 6 files | CONFLICT:2 | MODIFIED:4
+2026-04-07 | d34c095 | File changes | 2 files | NEW:1 | MODIFIED:1
+2026-04-07 | 6667830 | File changes | 6 files | CONFLICT:1 | NEW:3 | MODIFIED:2
+2026-04-07 | f0d8bd5 | File changes | 7 files | CONFLICT:1 | NEW:1 | MODIFIED:5
+2026-04-07 | 252350b | File changes | 12 files | NEW:11 | MODIFIED:1
+2026-04-07 | 5e843f1 | File changes | 1 files | MODIFIED:1
+2026-04-07 | 2313cac | File changes | 5 files | NEW:2 | MODIFIED:3
+2026-04-07 | 56404a8 | File changes | 6 files | CONFLICT:1 | MODIFIED:5
+2026-04-07 | 6325a20 | File changes | 8 files | CONFLICT:1 | NEW:1 | MODIFIED:6
+2026-04-07 | 636761a | File changes | 8 files | NEW:5 | MODIFIED:3
+2026-04-07 | 676dc16 | File changes | 5 files | CONFLICT:1 | NEW:1 | MODIFIED:3
+2026-04-07 | 1862d0c | File changes | 2 files | MODIFIED:2
+2026-04-07 | 313aca7 | File changes | 5 files | NEW:3 | MODIFIED:2
+2026-04-07 | 61e218e | File changes | 1 files | MODIFIED:1
+2026-04-07 | 56830b4 | File changes | 2 files | MODIFIED:2
+2026-04-07 | 0208c32 | File changes | 8 files | CONFLICT:3 | NEW:1 | MODIFIED:4
+2026-04-07 | 2263821 | File changes | 6 files | NEW:1 | MODIFIED:5
+2026-04-07 | 0fcbeb0 | File changes | 9 files | NEW:4 | MODIFIED:5
+2026-04-07 | e174e92 | File changes | 9 files | CONFLICT:1 | NEW:4 | MODIFIED:4
+2026-04-07 | 0aa884a | File changes | 10 files | CONFLICT:2 | NEW:4 | MODIFIED:4
+2026-04-07 | 72c94f4 | File changes | 10 files | CONFLICT:1 | NEW:3 | MODIFIED:6
+2026-04-07 | c7f2422 | File changes | 11 files | CONFLICT:3 | MODIFIED:8
+2026-04-06 | 43b719b | File changes | 9 files | CONFLICT:1 | MODIFIED:8
+2026-04-06 | d55de2b | File changes | 13 files | NEW:2 | MODIFIED:11
+2026-04-06 | 8373550 | File changes | 12 files | CONFLICT:6 | NEW:1 | MODIFIED:5
+2026-04-06 | efc55f0 | File changes | 1 files | MODIFIED:1
+2026-04-06 | d4afd2f | File changes | 7 files | NEW:1 | MODIFIED:6
+2026-04-06 | 55794f4 | File changes | 1 files | MODIFIED:1
+2026-04-06 | 9ad09a8 | File changes | 9 files | MODIFIED:9
+2026-04-06 | 0f0833b | File changes | 4 files | MODIFIED:4
+2026-04-06 | 08460b3 | File changes | 2 files | MODIFIED:2
+2026-04-06 | 86755ec | File changes | 4 files | NEW:3 | MODIFIED:1
+2026-04-04 | abdad2a | File changes | 4 files | MODIFIED:4

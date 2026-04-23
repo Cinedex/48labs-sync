@@ -12051,3 +12051,23 @@ RoomStudioPreview.jsx, WebsitePreviewCard.jsx
 
 ---
 
+## 923b30e (2026-04-22T05:04:19+00:00)
+**Message:** sync: marketing components — refined versions from Claude Code
+
+MarketingHeader.jsx, MarketingFooter.jsx, RoomOperatingHoursDisplay.jsx
+
+- api.entities.AppSetting → getAppSettingByKey() domain import
+- api.entities.Room/OperatingHours → domain imports
+- slate-* tokens → semantic aliases
+
+**Files Changed:** 3 files
+- NEW: 0 files
+- CONFLICT: 3 files
+
+**Details:**
+- (CONFLICT) src/components/MarketingFooter.jsx
+- (CONFLICT) src/components/MarketingHeader.jsx
+- (CONFLICT) src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---
+

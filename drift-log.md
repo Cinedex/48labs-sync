@@ -8641,3 +8641,7 @@ KQoK
 ## 2026-04-23T17:41:21.179004+00:00
 **Commit:** 18e25d2 — sync: booking components — refined versions from Claude Code
 **Files:** src/components/booking/BookingDateTimeStep.jsx (CONFLICT) | src/components/booking/ClientSelectStep.jsx (CONFLICT)
+
+## 2026-04-23T17:41:23.346132+00:00
+**Commit:** 762ca5e — sync: UI primitives — refined versions from Claude Code
+**Files:** src/components/ui/EmptyState.jsx (CONFLICT) | src/components/ui/FilterPills.jsx (CONFLICT) | src/components/ui/PortalDrawer.jsx (CONFLICT) | src/components/ui/PortalTable.jsx (CONFLICT) | src/components/ui/SearchInput.jsx (CONFLICT) ... +5 more

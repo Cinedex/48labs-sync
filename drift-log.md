@@ -939,3 +939,167 @@
 #### 2026-04-22 dcb2a8e9
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)
 **Changes:** 31× CONFLICT, 3× NEW, 1× MODIFIED
+
+## 2026-04-11 (e90d8ade)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 3× MODIFIED
+
+## 2026-04-11 (d6bc2b03)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 1× MODIFIED
+
+## 2026-04-11 (405ff264)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 4× MODIFIED
+
+## 2026-04-11 (a32f6aaf)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 1× MODIFIED
+
+## 2026-04-11 (c323e33f)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 1× MODIFIED
+
+## 2026-04-11 (9098ede4)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 2× MODIFIED
+
+## 2026-04-11 (c2e86504)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 4× MODIFIED
+
+## 2026-04-11 (1c572b9d)
+File changes
+**Status:** 0× CONFLICT, 2× NEW, 6× MODIFIED
+
+## 2026-04-11 (ae210dd2)
+File changes
+**Status:** 1× CONFLICT, 0× NEW, 4× MODIFIED
+
+## 2026-04-11 (ad879b0b)
+File changes
+**Status:** 0× CONFLICT, 3× NEW, 4× MODIFIED
+
+## 2026-04-11 (18612a7d)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 1× MODIFIED
+
+## 2026-04-11 (3a1682a1)
+File changes
+**Status:** 0× CONFLICT, 2× NEW, 4× MODIFIED
+
+## 2026-04-11 (981bd655)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 1× MODIFIED
+
+## 2026-04-11 (d37f5413)
+File changes
+**Status:** 1× CONFLICT, 0× NEW, 4× MODIFIED
+
+## 2026-04-11 (d4df16bd)
+File changes
+**Status:** 0× CONFLICT, 1× NEW, 1× MODIFIED
+
+## 2026-04-11 (442a4aa6)
+File changes
+**Status:** 1× CONFLICT, 0× NEW, 3× MODIFIED
+
+## 2026-04-11 (b3b4a959)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 3× MODIFIED
+
+## 2026-04-11 (5756d26d)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 3× MODIFIED
+
+## 2026-04-11 (7bd3f848)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 3× MODIFIED
+
+## 2026-04-11 (ca56f4c8)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 3× MODIFIED
+
+## 2026-04-11 (7e2cf42d)
+File changes
+**Status:** 0× CONFLICT, 2× NEW, 4× MODIFIED
+
+## 2026-04-11 (0e0a4d29)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 1× MODIFIED
+
+## 2026-04-11 (3f83184f)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 7× MODIFIED
+
+## 2026-04-11 (1aec1f99)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 1× MODIFIED
+
+## 2026-04-12 (dc5b801f)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 3× MODIFIED
+
+## 2026-04-12 (e9c7dad7)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 4× MODIFIED
+
+## 2026-04-12 (cc795b75)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 4× MODIFIED
+
+## 2026-04-12 (01ef5f43)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 1× MODIFIED
+
+## 2026-04-12 (0ddc5140)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 3× MODIFIED
+
+## 2026-04-12 (0a8d94c4)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 2× MODIFIED
+
+## 2026-04-12 (e4b13f4b)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 1× MODIFIED
+
+## 2026-04-12 (96400df4)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 3× MODIFIED
+
+## 2026-04-12 (e2e0de2e)
+File changes
+**Status:** 1× CONFLICT, 0× NEW, 0× MODIFIED
+
+## 2026-04-12 (cc98d284)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 6× MODIFIED
+
+## 2026-04-12 (fe80272b)
+File changes
+**Status:** 0× CONFLICT, 7× NEW, 0× MODIFIED
+
+## 2026-04-12 (eb00c62f)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 4× MODIFIED
+
+## 2026-04-12 (62d1e6a5)
+File changes
+**Status:** 0× CONFLICT, 0× NEW, 2× MODIFIED
+
+## 2026-04-12 (fe64f268)
+File changes
+**Status:** 0× CONFLICT, 2× NEW, 3× MODIFIED
+
+## 2026-04-12 (725cf756)
+Update base44 packages
+**Status:** 0× CONFLICT, 0× NEW, 2× MODIFIED
+
+## 2026-04-20 (47b2dd66)
+feat: move design site to cloudflare pages
+**Status:** 0× CONFLICT, 3× NEW, 1× MODIFIED
+
+## 2026-04-22 (dcb2a8e9)
+merge: bring staging sync commits into main (Phase 3 design sync)
+**Status:** 31× CONFLICT, 3× NEW, 1× MODIFIED

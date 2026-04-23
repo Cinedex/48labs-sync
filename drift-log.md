@@ -8629,3 +8629,7 @@ KQoK
 ## 2026-04-23T17:41:15.038209+00:00
 **Commit:** 3885333 — sync: dashboard and iPad components — refined versions from Claude Code
 **Files:** src/components/dashboard/MonthCalendar.jsx (CONFLICT) | src/components/ipad/FiveMinWarning.jsx (CONFLICT) | src/components/ipad/ThankYouScreen.jsx (CONFLICT)
+
+## 2026-04-23T17:41:17.105644+00:00
+**Commit:** 3564003 — sync: RoomForm components — refined versions from Claude Code
+**Files:** src/components/RoomForm/RoomStudioPreview.jsx (CONFLICT) | src/components/RoomForm/WebsitePreviewCard.jsx (CONFLICT)

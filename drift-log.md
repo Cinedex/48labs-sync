@@ -49,6 +49,187 @@
 - **762ca5e0** — sync: UI primitives — refined versions from Claude Code | 10 files: 10× MODIFIED
 - **47b2dd66** — feat: move design site to cloudflare pages | 4 files: 3× NEW, 1× MODIFIED
 
+## 2026-04-22 | dcb2a8e9
+
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files Changed:** 35 total
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 31
+
+**Details:**
+- ~ package.json
+- + project.config.json
+- + public/_redirects
+- + scripts/deploy-guard.mjs
+- ⚠ src/components/MarketingFooter.jsx
+- ⚠ src/components/MarketingHeader.jsx
+- ⚠ src/components/RoomForm/RoomStudioPreview.jsx
+- ⚠ src/components/RoomForm/WebsitePreviewCard.jsx
+- ⚠ src/components/booking/BookingDateTimeStep.jsx
+- ⚠ src/components/booking/ClientSelectStep.jsx
+- ⚠ src/components/dashboard/MonthCalendar.jsx
+- ⚠ src/components/ipad/FiveMinWarning.jsx
+- ⚠ src/components/ipad/ThankYouScreen.jsx
+- ⚠ src/components/marketing/RoomOperatingHoursDisplay.jsx
+- ⚠ src/components/ui/EmptyState.jsx
+- ... and 20 more
+
+---
+
+## 2026-04-22 | aa4661f4
+
+**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files Changed:** 6 total
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 6
+
+**Details:**
+- ⚠ src/pages/DynamicCreditsPage.jsx
+- ⚠ src/pages/DynamicMembershipsPage.jsx
+- ⚠ src/pages/GuestBuyCredits.jsx
+- ⚠ src/pages/MembershipSignup.jsx
+- ⚠ src/pages/Register.jsx
+- ⚠ src/pages/UnifiedCheckout.jsx
+
+---
+
+## 2026-04-22 | f19cdf03
+
+**Commit:** sync: website marketing pages — refined versions from Claude Code
+
+**Files Changed:** 4 total
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 4
+
+**Details:**
+- ⚠ src/pages/Landing.jsx
+- ⚠ src/pages/RoomProfile.jsx
+- ⚠ src/pages/Services.jsx
+- ⚠ src/pages/Studios.jsx
+
+---
+
+## 2026-04-22 | 22cdea70
+
+**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files Changed:** 1 total
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 1
+
+**Details:**
+- ⚠ src/pages/BookingFlow.jsx
+
+---
+
+## 2026-04-22 | 38853339
+
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files Changed:** 3 total
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 3
+
+**Details:**
+- ⚠ src/components/dashboard/MonthCalendar.jsx
+- ⚠ src/components/ipad/FiveMinWarning.jsx
+- ⚠ src/components/ipad/ThankYouScreen.jsx
+
+---
+
+## 2026-04-22 | 3564003b
+
+**Commit:** sync: RoomForm components — refined versions from Claude Code
+
+**Files Changed:** 2 total
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 2
+
+**Details:**
+- ⚠ src/components/RoomForm/RoomStudioPreview.jsx
+- ⚠ src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+
+## 2026-04-22 | 923b30e2
+
+**Commit:** sync: marketing components — refined versions from Claude Code
+
+**Files Changed:** 3 total
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 3
+
+**Details:**
+- ⚠ src/components/MarketingFooter.jsx
+- ⚠ src/components/MarketingHeader.jsx
+- ⚠ src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---
+
+## 2026-04-22 | 18e25d25
+
+**Commit:** sync: booking components — refined versions from Claude Code
+
+**Files Changed:** 2 total
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 2
+
+**Details:**
+- ⚠ src/components/booking/BookingDateTimeStep.jsx
+- ⚠ src/components/booking/ClientSelectStep.jsx
+
+---
+
+## 2026-04-22 | 762ca5e0
+
+**Commit:** sync: UI primitives — refined versions from Claude Code
+
+**Files Changed:** 10 total
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 10
+
+**Details:**
+- ⚠ src/components/ui/EmptyState.jsx
+- ⚠ src/components/ui/FilterPills.jsx
+- ⚠ src/components/ui/PortalDrawer.jsx
+- ⚠ src/components/ui/PortalTable.jsx
+- ⚠ src/components/ui/SearchInput.jsx
+- ⚠ src/components/ui/SegmentedControl.jsx
+- ⚠ src/components/ui/SettingCard.jsx
+- ⚠ src/components/ui/Spinner.jsx
+- ⚠ src/components/ui/TabBar.jsx
+- ⚠ src/components/ui/button.jsx
+
+---
+
+## 2026-04-20 | 47b2dd66
+
+**Commit:** feat: move design site to cloudflare pages
+
+**Files Changed:** 4 total
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Details:**
+- ~ package.json
+- + project.config.json
+- + public/_redirects
+- + scripts/deploy-guard.mjs
+
+---
+
 ## e90d8ade — 2026-04-11T06:00:19Z
 
 **Message:** File changes

@@ -11567,3 +11567,13 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-11T06:14:43Z | 405ff264 | File changes | 4 files | 4 MODIFIED
 2026-04-11T06:05:34Z | d6bc2b03 | File changes | 1 files | 1 MODIFIED
 2026-04-11T06:00:19Z | e90d8ade | File changes | 3 files | 3 MODIFIED
+| 2026-04-22 | dcb2a8e | merge: bring staging sync commits into main (Phase 3 design sync) | 35 | 31 CONFLICT | 3 NEW | 1 MODIFIED |
+| 2026-04-22 | aa4661f | sync: website booking and auth pages — refined versions from Claude Code | 6 | 6 CONFLICT |
+| 2026-04-22 | f19cdf0 | sync: website marketing pages — refined versions from Claude Code | 4 | 4 CONFLICT |
+| 2026-04-22 | 22cdea7 | sync: BookingFlow.jsx — refined version from Claude Code | 1 | 1 CONFLICT |
+| 2026-04-22 | 3885333 | sync: dashboard and iPad components — refined versions from Claude Code | 3 | 3 CONFLICT |
+| 2026-04-22 | 3564003 | sync: RoomForm components — refined versions from Claude Code | 2 | 2 CONFLICT |
+| 2026-04-22 | 923b30e | sync: marketing components — refined versions from Claude Code | 3 | 3 CONFLICT |
+| 2026-04-22 | 18e25d2 | sync: booking components — refined versions from Claude Code | 2 | 2 CONFLICT |
+| 2026-04-22 | 762ca5e | sync: UI primitives — refined versions from Claude Code | 10 | 10 CONFLICT |
+| 2026-04-20 | 47b2dd6 | feat: move design site to cloudflare pages | 4 | 3 NEW | 1 MODIFIED |

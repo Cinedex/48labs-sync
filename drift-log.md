@@ -2,6 +2,107 @@
 
 **Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
 
+- **2026-04-04 18:06 UTC** | `abdad2a` | File changes | 4 files | MODIFIED: 4 files updated
+- **2026-04-06 02:40 UTC** | `86755ec` | File changes | 4 files | NEW: 3 new files added
+- **2026-04-06 05:27 UTC** | `08460b3` | File changes | 2 files | MODIFIED: 2 files updated
+- **2026-04-06 13:45 UTC** | `0f0833b` | File changes | 4 files | MODIFIED: 4 files updated
+- **2026-04-06 15:31 UTC** | `9ad09a8` | File changes | 9 files | MODIFIED: 9 files updated
+- **2026-04-06 15:32 UTC** | `55794f4` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-06 17:15 UTC** | `d4afd2f` | File changes | 7 files | NEW: 1 new files added
+- **2026-04-06 18:51 UTC** | `efc55f0` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-06 19:07 UTC** | `8373550` | File changes | 12 files | CONFLICT: 6 Claude Code files touched
+- **2026-04-06 21:42 UTC** | `d55de2b` | File changes | 13 files | NEW: 2 new files added
+- **2026-04-06 21:53 UTC** | `43b719b` | File changes | 9 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-07 02:09 UTC** | `c7f2422` | File changes | 11 files | CONFLICT: 3 Claude Code files touched
+- **2026-04-07 03:41 UTC** | `72c94f4` | File changes | 10 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-07 03:51 UTC** | `0aa884a` | File changes | 10 files | CONFLICT: 2 Claude Code files touched
+- **2026-04-07 04:00 UTC** | `e174e92` | File changes | 9 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-07 04:05 UTC** | `0fcbeb0` | File changes | 9 files | NEW: 4 new files added
+- **2026-04-07 04:09 UTC** | `2263821` | File changes | 6 files | NEW: 1 new files added
+- **2026-04-07 14:30 UTC** | `0208c32` | File changes | 8 files | CONFLICT: 3 Claude Code files touched
+- **2026-04-07 14:43 UTC** | `56830b4` | File changes | 2 files | MODIFIED: 2 files updated
+- **2026-04-07 15:36 UTC** | `61e218e` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-07 16:33 UTC** | `313aca7` | File changes | 5 files | NEW: 3 new files added
+- **2026-04-07 16:34 UTC** | `1862d0c` | File changes | 2 files | MODIFIED: 2 files updated
+- **2026-04-07 16:44 UTC** | `676dc16` | File changes | 5 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-07 16:59 UTC** | `636761a` | File changes | 8 files | NEW: 5 new files added
+- **2026-04-07 17:11 UTC** | `6325a20` | File changes | 8 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-07 17:19 UTC** | `56404a8` | File changes | 6 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-07 17:24 UTC** | `2313cac` | File changes | 5 files | NEW: 2 new files added
+- **2026-04-07 17:25 UTC** | `5e843f1` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-07 17:48 UTC** | `252350b` | File changes | 12 files | NEW: 11 new files added
+- **2026-04-07 17:54 UTC** | `f0d8bd5` | File changes | 7 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-07 17:59 UTC** | `6667830` | File changes | 6 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-07 18:02 UTC** | `d34c095` | File changes | 2 files | NEW: 1 new files added
+- **2026-04-08 04:11 UTC** | `2b9498c` | File changes | 6 files | CONFLICT: 2 Claude Code files touched
+- **2026-04-08 17:23 UTC** | `8935efc` | File changes | 4 files | MODIFIED: 4 files updated
+- **2026-04-08 17:36 UTC** | `7430e45` | File changes | 5 files | NEW: 1 new files added
+- **2026-04-09 16:18 UTC** | `1e437a1` | File changes | 5 files | NEW: 2 new files added
+- **2026-04-09 16:27 UTC** | `eb1d245` | File changes | 3 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-09 16:33 UTC** | `ef48c13` | File changes | 6 files | NEW: 4 new files added
+- **2026-04-09 16:35 UTC** | `03b26f0` | File changes | 2 files | MODIFIED: 2 files updated
+- **2026-04-09 19:08 UTC** | `bdaef47` | File changes | 4 files | MODIFIED: 4 files updated
+- **2026-04-09 22:55 UTC** | `af66b4d` | File changes | 5 files | MODIFIED: 5 files updated
+- **2026-04-10 14:52 UTC** | `b46081c` | File changes | 3 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-11 00:44 UTC** | `7ee5ce4` | File changes | 4 files | NEW: 2 new files added
+- **2026-04-11 04:08 UTC** | `8f1d175` | File changes | 1 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-11 04:19 UTC** | `ab283f4` | File changes | 2 files | MODIFIED: 2 files updated
+- **2026-04-11 04:25 UTC** | `b639797` | File changes | 6 files | NEW: 2 new files added
+- **2026-04-11 04:36 UTC** | `b70252c` | File changes | 7 files | NEW: 6 new files added
+- **2026-04-11 05:03 UTC** | `45df480` | File changes | 6 files | NEW: 2 new files added
+- **2026-04-11 05:54 UTC** | `133e1a4` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-11 05:57 UTC** | `eaa2d60` | File changes | 2 files | MODIFIED: 2 files updated
+- **2026-04-11 06:00 UTC** | `e90d8ad` | File changes | 3 files | MODIFIED: 3 files updated
+- **2026-04-11 06:05 UTC** | `d6bc2b0` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-11 06:14 UTC** | `405ff26` | File changes | 4 files | MODIFIED: 4 files updated
+- **2026-04-11 06:22 UTC** | `a32f6aa` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-11 06:23 UTC** | `c323e33` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-11 06:28 UTC** | `9098ede` | File changes | 2 files | MODIFIED: 2 files updated
+- **2026-04-11 06:36 UTC** | `c2e8650` | File changes | 4 files | MODIFIED: 4 files updated
+- **2026-04-11 06:41 UTC** | `1c572b9` | File changes | 8 files | NEW: 2 new files added
+- **2026-04-11 16:36 UTC** | `ae210dd` | File changes | 5 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-11 16:39 UTC** | `ad879b0` | File changes | 7 files | NEW: 3 new files added
+- **2026-04-11 16:40 UTC** | `18612a7` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-11 16:45 UTC** | `3a1682a` | File changes | 6 files | NEW: 2 new files added
+- **2026-04-11 16:46 UTC** | `981bd65` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-11 16:49 UTC** | `d37f541` | File changes | 5 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-11 16:54 UTC** | `d4df16b` | File changes | 2 files | NEW: 1 new files added
+- **2026-04-11 17:07 UTC** | `442a4aa` | File changes | 4 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-11 17:21 UTC** | `b3b4a95` | File changes | 3 files | MODIFIED: 3 files updated
+- **2026-04-11 17:33 UTC** | `5756d26` | File changes | 3 files | MODIFIED: 3 files updated
+- **2026-04-11 17:53 UTC** | `7bd3f84` | File changes | 3 files | MODIFIED: 3 files updated
+- **2026-04-11 21:23 UTC** | `ca56f4c` | File changes | 3 files | MODIFIED: 3 files updated
+- **2026-04-11 21:26 UTC** | `7e2cf42` | File changes | 6 files | NEW: 2 new files added
+- **2026-04-11 23:22 UTC** | `0e0a4d2` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-11 23:52 UTC** | `3f83184` | File changes | 7 files | MODIFIED: 7 files updated
+- **2026-04-11 23:54 UTC** | `1aec1f9` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-12 00:03 UTC** | `dc5b801` | File changes | 3 files | MODIFIED: 3 files updated
+- **2026-04-12 00:20 UTC** | `e9c7dad` | File changes | 4 files | MODIFIED: 4 files updated
+- **2026-04-12 00:23 UTC** | `cc795b7` | File changes | 4 files | MODIFIED: 4 files updated
+- **2026-04-12 00:30 UTC** | `01ef5f4` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-12 00:39 UTC** | `0ddc514` | File changes | 3 files | MODIFIED: 3 files updated
+- **2026-04-12 00:43 UTC** | `0a8d94c` | File changes | 2 files | MODIFIED: 2 files updated
+- **2026-04-12 00:49 UTC** | `e4b13f4` | File changes | 1 files | MODIFIED: 1 files updated
+- **2026-04-12 00:52 UTC** | `96400df` | File changes | 3 files | MODIFIED: 3 files updated
+- **2026-04-12 01:22 UTC** | `e2e0de2` | File changes | 1 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-12 01:29 UTC** | `cc98d28` | File changes | 6 files | MODIFIED: 6 files updated
+- **2026-04-12 01:37 UTC** | `fe80272` | File changes | 7 files | NEW: 7 new files added
+- **2026-04-12 01:40 UTC** | `eb00c62` | File changes | 4 files | MODIFIED: 4 files updated
+- **2026-04-12 01:42 UTC** | `62d1e6a` | File changes | 2 files | MODIFIED: 2 files updated
+- **2026-04-12 01:46 UTC** | `fe64f26` | File changes | 5 files | NEW: 2 new files added
+- **2026-04-12 15:14 UTC** | `725cf75` | Update base44 packages | 2 files | MODIFIED: 2 files updated
+- **2026-04-16 15:28 UTC** | `5b06f15` | Update base44 packages | 3 files | NEW: 1 new files added
+- **2026-04-20 04:07 UTC** | `47b2dd6` | feat: move design site to cloudflare pages | 4 files | NEW: 3 new files added
+- **2026-04-22 05:04 UTC** | `762ca5e` | sync: UI primitives — refined versions from Claude Code | 10 files | CONFLICT: 10 Claude Code files touched
+- **2026-04-22 05:04 UTC** | `18e25d2` | sync: booking components — refined versions from Claude Code | 2 files | CONFLICT: 2 Claude Code files touched
+- **2026-04-22 05:04 UTC** | `923b30e` | sync: marketing components — refined versions from Claude Code | 3 files | CONFLICT: 3 Claude Code files touched
+- **2026-04-22 05:04 UTC** | `3564003` | sync: RoomForm components — refined versions from Claude Code | 2 files | CONFLICT: 2 Claude Code files touched
+- **2026-04-22 05:04 UTC** | `3885333` | sync: dashboard and iPad components — refined versions from Claude Code | 3 files | CONFLICT: 3 Claude Code files touched
+- **2026-04-22 05:04 UTC** | `22cdea7` | sync: BookingFlow.jsx — refined version from Claude Code | 1 files | CONFLICT: 1 Claude Code files touched
+- **2026-04-22 05:04 UTC** | `f19cdf0` | sync: website marketing pages — refined versions from Claude Code | 4 files | CONFLICT: 4 Claude Code files touched
+- **2026-04-22 05:04 UTC** | `aa4661f` | sync: website booking and auth pages — refined versions from Claude Code | 6 files | CONFLICT: 6 Claude Code files touched
+- **2026-04-22 15:33 UTC** | `dcb2a8e` | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT: 31 Claude Code files touched
+
 **Files:** 35 total (31× CONFLICT, 3× NEW, 1× MODIFIED)
 
 **Status:** Classified and logged
@@ -11084,4 +11185,3 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)
 **Files:** 35 changed (31 CONFLICT, 4 MODIFIED)
 **Summary:** 35 changed, 31 CONFLICT
-

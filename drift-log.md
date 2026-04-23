@@ -11727,3 +11727,63 @@ f19cdf03 (2026-04-22) — sync: website marketing pages — refined versions fro
   - public/_redirects
   - scripts/deploy-guard.mjs
 
+### merge: bring staging sync commits into main (Phase 3 design sync)
+- **Date:** 2026-04-22 15:33 UTC
+- **Commit:** dcb2a8e9 (dcb2a8e911e5ed365732b984c6e920f1ced3d844)
+- **Files changed:** 35
+- **Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+
+### sync: website booking and auth pages — refined versions from Claude Code
+- **Date:** 2026-04-22 05:04 UTC
+- **Commit:** aa4661f4 (aa4661f4b14bfb0d815b78f4a1206cd07a2810f4)
+- **Files changed:** 6
+- **Classification:** 6× CONFLICT
+
+### sync: website marketing pages — refined versions from Claude Code
+- **Date:** 2026-04-22 05:04 UTC
+- **Commit:** f19cdf03 (f19cdf0381be3ceebc40ae98c2bc71f92148d855)
+- **Files changed:** 4
+- **Classification:** 4× CONFLICT
+
+### sync: BookingFlow.jsx — refined version from Claude Code
+- **Date:** 2026-04-22 05:04 UTC
+- **Commit:** 22cdea70 (22cdea70afd9f763b36b3e1941e366c04b97b1e6)
+- **Files changed:** 1
+- **Classification:** 1× CONFLICT
+
+### sync: dashboard and iPad components — refined versions from Claude Code
+- **Date:** 2026-04-22 05:04 UTC
+- **Commit:** 38853339 (38853339f47e5b2ddcd23a205c40cb228fcd8dc1)
+- **Files changed:** 3
+- **Classification:** 3× CONFLICT
+
+### sync: RoomForm components — refined versions from Claude Code
+- **Date:** 2026-04-22 05:04 UTC
+- **Commit:** 3564003b (3564003baf53a0ced6da5c5c49941f4d09c8082d)
+- **Files changed:** 2
+- **Classification:** 2× CONFLICT
+
+### sync: marketing components — refined versions from Claude Code
+- **Date:** 2026-04-22 05:04 UTC
+- **Commit:** 923b30e2 (923b30e2efc07529a161d81258b6bbda8daba496)
+- **Files changed:** 3
+- **Classification:** 3× CONFLICT
+
+### sync: booking components — refined versions from Claude Code
+- **Date:** 2026-04-22 05:04 UTC
+- **Commit:** 18e25d25 (18e25d254af8ee8569479173206fb9ea19d0382c)
+- **Files changed:** 2
+- **Classification:** 2× CONFLICT
+
+### sync: UI primitives — refined versions from Claude Code
+- **Date:** 2026-04-22 05:04 UTC
+- **Commit:** 762ca5e0 (762ca5e09a65dd464932fe352920a4faacbfa0bc)
+- **Files changed:** 10
+- **Classification:** 10× CONFLICT
+
+### feat: move design site to cloudflare pages
+- **Date:** 2026-04-20 04:07 UTC
+- **Commit:** 47b2dd66 (47b2dd66260b5c9585f2b3c5cde7da1a130183f5)
+- **Files changed:** 4
+- **Classification:** 3× NEW, 1× MODIFIED
+

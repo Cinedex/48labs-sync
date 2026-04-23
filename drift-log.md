@@ -11951,3 +11951,27 @@ f19cdf03 (2026-04-22) — sync: website marketing pages — refined versions fro
 
 ---
 
+## aa4661f (2026-04-22T05:04:47+00:00)
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+GuestBuyCredits.jsx, DynamicCreditsPage.jsx, DynamicMembershipsPage.jsx,
+MembershipSignup.jsx, Register.jsx, UnifiedCheckout.jsx
+
+- api.entities.* → domain imports (CreditBundle, MembershipPlan, PricingSettings, etc.)
+- slate-* tokens → semantic aliases
+- api.functions.invoke() calls preserved (no domain equivalent yet)
+
+**Files Changed:** 6 files
+- NEW: 0 files
+- CONFLICT: 6 files
+
+**Details:**
+- (CONFLICT) src/pages/DynamicCreditsPage.jsx
+- (CONFLICT) src/pages/DynamicMembershipsPage.jsx
+- (CONFLICT) src/pages/GuestBuyCredits.jsx
+- (CONFLICT) src/pages/MembershipSignup.jsx
+- (CONFLICT) src/pages/Register.jsx
+- (CONFLICT) src/pages/UnifiedCheckout.jsx
+
+---
+

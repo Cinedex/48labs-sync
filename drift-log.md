@@ -6349,3 +6349,14 @@ Each entry shows:
   - Classification: 31× CONFLICT, 3× NEW, 1× MODIFIED
   - Conflicts: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx, +26 more
   - New: project.config.json, public/_redirects, scripts/deploy-guard.mjs
+
+
+| 2026-04-22 | dcb2a8e | 35 files | 3× NEW, 1× MODIFIED, 31× CONFLICT | merge: bring staging sync commits into main (Phase 3 design sync)
+| 2026-04-22 | aa4661f | 6 files | 6× CONFLICT | sync: website booking and auth pages — refined versions from Claude Code
+| 2026-04-22 | f19cdf0 | 4 files | 4× CONFLICT | sync: website marketing pages — refined versions from Claude Code
+| 2026-04-22 | 22cdea7 | 1 files | 1× CONFLICT | sync: BookingFlow.jsx — refined version from Claude Code
+| 2026-04-22 | 3885333 | 3 files | 3× CONFLICT | sync: dashboard and iPad components — refined versions from Claude Code
+| 2026-04-22 | 3564003 | 2 files | 2× CONFLICT | sync: RoomForm components — refined versions from Claude Code
+| 2026-04-22 | 923b30e | 3 files | 3× CONFLICT | sync: marketing components — refined versions from Claude Code
+| 2026-04-22 | 18e25d2 | 2 files | 2× CONFLICT | sync: booking components — refined versions from Claude Code
+| 2026-04-22 | 762ca5e | 10 files | 10× CONFLICT | sync: UI primitives — refined versions from Claude Code

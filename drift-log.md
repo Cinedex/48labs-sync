@@ -1103,3 +1103,47 @@ feat: move design site to cloudflare pages
 ## 2026-04-22 (dcb2a8e9)
 merge: bring staging sync commits into main (Phase 3 design sync)
 **Status:** 31× CONFLICT, 3× NEW, 1× MODIFIED
+
+## 2026-04-22 (dcb2a8e9)
+merge: bring staging sync commits into main (Phase 3 design sync)
+**Status:** 31× CONFLICT, 3× NEW, 1× MODIFIED
+
+## 2026-04-22 (aa4661f4)
+sync: website booking and auth pages — refined versions from Claude Code
+**Status:** 6× CONFLICT
+⚠️ CONFLICT: src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx (+3)
+
+## 2026-04-22 (f19cdf03)
+sync: website marketing pages — refined versions from Claude Code
+**Status:** 4× CONFLICT
+⚠️ CONFLICT: src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx (+1)
+
+## 2026-04-22 (22cdea70)
+sync: BookingFlow.jsx — refined version from Claude Code
+**Status:** 1× CONFLICT
+⚠️ CONFLICT: src/pages/BookingFlow.jsx
+
+## 2026-04-22 (38853339)
+sync: dashboard and iPad components — refined versions from Claude Code
+**Status:** 3× CONFLICT
+⚠️ CONFLICT: src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+## 2026-04-22 (3564003b)
+sync: RoomForm components — refined versions from Claude Code
+**Status:** 2× CONFLICT
+⚠️ CONFLICT: src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+## 2026-04-22 (923b30e2)
+sync: marketing components — refined versions from Claude Code
+**Status:** 3× CONFLICT
+⚠️ CONFLICT: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+## 2026-04-22 (18e25d25)
+sync: booking components — refined versions from Claude Code
+**Status:** 2× CONFLICT
+⚠️ CONFLICT: src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+## 2026-04-22 (762ca5e0)
+sync: UI primitives — refined versions from Claude Code
+**Status:** 10× CONFLICT
+⚠️ CONFLICT: src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx (+7)

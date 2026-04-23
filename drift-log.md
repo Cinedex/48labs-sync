@@ -3079,3 +3079,61 @@ Each entry shows:
   - src/pages/MembershipSignup.jsx
   - src/pages/Register.jsx
   - src/pages/UnifiedCheckout.jsx
+
+**47b2dd66** — 2026-04-20 04:07:52 UTC
+  Message: feat: move design site to cloudflare pages
+  Files: 4 changed | 3× NEW, 1× MODIFIED
+
+
+**762ca5e0** — 2026-04-22 05:04:10 UTC
+  Message: sync: UI primitives — refined versions from Claude Code
+  Files: 10 changed | 10× CONFLICT
+  ⚠️  CONFLICT: EmptyState.jsx, FilterPills.jsx, PortalDrawer.jsx, PortalTable.jsx, SearchInput.jsx +5 more
+
+
+**18e25d25** — 2026-04-22 05:04:15 UTC
+  Message: sync: booking components — refined versions from Claude Code
+  Files: 2 changed | 2× CONFLICT
+  ⚠️  CONFLICT: BookingDateTimeStep.jsx, ClientSelectStep.jsx
+
+
+**923b30e2** — 2026-04-22 05:04:19 UTC
+  Message: sync: marketing components — refined versions from Claude Code
+  Files: 3 changed | 3× CONFLICT
+  ⚠️  CONFLICT: MarketingFooter.jsx, MarketingHeader.jsx, RoomOperatingHoursDisplay.jsx
+
+
+**3564003b** — 2026-04-22 05:04:23 UTC
+  Message: sync: RoomForm components — refined versions from Claude Code
+  Files: 2 changed | 2× CONFLICT
+  ⚠️  CONFLICT: RoomStudioPreview.jsx, WebsitePreviewCard.jsx
+
+
+**38853339** — 2026-04-22 05:04:31 UTC
+  Message: sync: dashboard and iPad components — refined versions from Claude Code
+  Files: 3 changed | 3× CONFLICT
+  ⚠️  CONFLICT: FiveMinWarning.jsx, MonthCalendar.jsx, ThankYouScreen.jsx
+
+
+**22cdea70** — 2026-04-22 05:04:36 UTC
+  Message: sync: BookingFlow.jsx — refined version from Claude Code
+  Files: 1 changed | 1× CONFLICT
+  ⚠️  CONFLICT: BookingFlow.jsx
+
+
+**f19cdf03** — 2026-04-22 05:04:42 UTC
+  Message: sync: website marketing pages — refined versions from Claude Code
+  Files: 4 changed | 4× CONFLICT
+  ⚠️  CONFLICT: Landing.jsx, RoomProfile.jsx, Services.jsx, Studios.jsx
+
+
+**aa4661f4** — 2026-04-22 05:04:47 UTC
+  Message: sync: website booking and auth pages — refined versions from Claude Code
+  Files: 6 changed | 6× CONFLICT
+  ⚠️  CONFLICT: DynamicCreditsPage.jsx, DynamicMembershipsPage.jsx, GuestBuyCredits.jsx, MembershipSignup.jsx, Register.jsx +1 more
+
+
+**dcb2a8e9** — 2026-04-22 15:33:13 UTC
+  Message: merge: bring staging sync commits into main (Phase 3 design sync)
+  Files: 35 changed | 31× CONFLICT, 3× NEW, 1× MODIFIED
+  ⚠️  CONFLICT: BookingDateTimeStep.jsx, MarketingFooter.jsx, MarketingHeader.jsx, RoomStudioPreview.jsx, WebsitePreviewCard.jsx +26 more

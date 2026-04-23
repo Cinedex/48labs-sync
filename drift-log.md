@@ -12479,3 +12479,297 @@ SearchInput.jsx, SegmentedControl.jsx, SettingCard.jsx, Spinner.jsx, TabBar.jsx
 **Date:** 2026-04-20T04:07:52Z
 **Files:** 4 changed
 **Classification:** 0× CONFLICT, 4× NEW, 0× MODIFIED
+
+## dcb2a8e9 — merge: bring staging sync commits into main (Phase 3 design sync)
+**Date:** 2026-04-22T15:33:13Z
+**Files changed:** 35 total (31× CONFLICT, 3× NEW, 1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/dcb2a8e911e5ed365732b984c6e920f1ced3d844)
+
+
+## aa4661f4 — sync: website booking and auth pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:47Z
+**Files changed:** 6 total (6× CONFLICT)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/aa4661f4b14bfb0d815b78f4a1206cd07a2810f4)
+
+
+## f19cdf03 — sync: website marketing pages — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:42Z
+**Files changed:** 4 total (4× CONFLICT)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/f19cdf0381be3ceebc40ae98c2bc71f92148d855)
+
+
+## 22cdea70 — sync: BookingFlow.jsx — refined version from Claude Code
+**Date:** 2026-04-22T05:04:36Z
+**Files changed:** 1 total (1× CONFLICT)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/22cdea70afd9f763b36b3e1941e366c04b97b1e6)
+
+
+## 38853339 — sync: dashboard and iPad components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:31Z
+**Files changed:** 3 total (3× CONFLICT)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/38853339f47e5b2ddcd23a205c40cb228fcd8dc1)
+
+
+## 3564003b — sync: RoomForm components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:23Z
+**Files changed:** 2 total (2× CONFLICT)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/3564003baf53a0ced6da5c5c49941f4d09c8082d)
+
+
+## 923b30e2 — sync: marketing components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:19Z
+**Files changed:** 3 total (3× CONFLICT)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/923b30e2efc07529a161d81258b6bbda8daba496)
+
+
+## 18e25d25 — sync: booking components — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:15Z
+**Files changed:** 2 total (2× CONFLICT)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/18e25d254af8ee8569479173206fb9ea19d0382c)
+
+
+## 762ca5e0 — sync: UI primitives — refined versions from Claude Code
+**Date:** 2026-04-22T05:04:10Z
+**Files changed:** 10 total (10× CONFLICT)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/762ca5e09a65dd464932fe352920a4faacbfa0bc)
+
+
+## 47b2dd66 — feat: move design site to cloudflare pages
+**Date:** 2026-04-20T04:07:52Z
+**Files changed:** 4 total (3× NEW, 1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/47b2dd66260b5c9585f2b3c5cde7da1a130183f5)
+
+
+## 725cf756 — Update base44 packages
+**Date:** 2026-04-12T15:14:18Z
+**Files changed:** 2 total (2× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/725cf75610745a0dcb530f28afef0174826e5d44)
+
+
+## fe64f268 — File changes
+**Date:** 2026-04-12T01:46:59Z
+**Files changed:** 5 total (2× NEW, 3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/fe64f268e2f246d72f201c0adac867d790e898e8)
+
+
+## 62d1e6a5 — File changes
+**Date:** 2026-04-12T01:42:54Z
+**Files changed:** 2 total (2× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/62d1e6a5edcaf41329af9b5f5a8662f0fb92c7a1)
+
+
+## eb00c62f — File changes
+**Date:** 2026-04-12T01:40:38Z
+**Files changed:** 4 total (4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/eb00c62f1af37502b179c033273c902adccd4c7a)
+
+
+## fe80272b — File changes
+**Date:** 2026-04-12T01:37:07Z
+**Files changed:** 7 total (7× NEW)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/fe80272bfb6055d2e1026886589661cc83769a3f)
+
+
+## cc98d284 — File changes
+**Date:** 2026-04-12T01:29:03Z
+**Files changed:** 6 total (6× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/cc98d2849c95fef0146959877abacb2938c2ef5d)
+
+
+## e2e0de2e — File changes
+**Date:** 2026-04-12T01:22:17Z
+**Files changed:** 1 total (1× CONFLICT)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/e2e0de2e9943d041f64e0079bcb70868de708445)
+
+
+## 96400df4 — File changes
+**Date:** 2026-04-12T00:52:59Z
+**Files changed:** 3 total (3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/96400df49aa564844fdc690640b9581b15bdd6ff)
+
+
+## e4b13f4b — File changes
+**Date:** 2026-04-12T00:49:05Z
+**Files changed:** 1 total (1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/e4b13f4b4ffa56a6aa10c1852acc02ba5fe125c3)
+
+
+## 0a8d94c4 — File changes
+**Date:** 2026-04-12T00:43:22Z
+**Files changed:** 2 total (2× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/0a8d94c46d2c2daa6e99dd163e9afe0e38dc7fad)
+
+
+## 0ddc5140 — File changes
+**Date:** 2026-04-12T00:39:19Z
+**Files changed:** 3 total (3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/0ddc514060a5e7529847ccfc6e7470fc54e090cd)
+
+
+## 01ef5f43 — File changes
+**Date:** 2026-04-12T00:30:30Z
+**Files changed:** 1 total (1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/01ef5f4337520e76403439b54f416474113f54df)
+
+
+## cc795b75 — File changes
+**Date:** 2026-04-12T00:23:25Z
+**Files changed:** 4 total (4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/cc795b75b80fce9ec723d7af1b51fe1d89bf0403)
+
+
+## e9c7dad7 — File changes
+**Date:** 2026-04-12T00:20:40Z
+**Files changed:** 4 total (4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/e9c7dad7b6382d255dcaa79c6864ada1af6cff31)
+
+
+## dc5b801f — File changes
+**Date:** 2026-04-12T00:03:02Z
+**Files changed:** 3 total (3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/dc5b801f9bbc0f3ad91f970ce659b8a8a5aa569c)
+
+
+## 1aec1f99 — File changes
+**Date:** 2026-04-11T23:54:19Z
+**Files changed:** 1 total (1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/1aec1f99b66b04ecd17059309161e45bf7e777a7)
+
+
+## 3f83184f — File changes
+**Date:** 2026-04-11T23:52:52Z
+**Files changed:** 7 total (7× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/3f83184f91b4ab6e852e2bcc4b9237b86a3a172c)
+
+
+## 0e0a4d29 — File changes
+**Date:** 2026-04-11T23:22:13Z
+**Files changed:** 1 total (1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/0e0a4d2977b02b9e0e2b7703a6fa5d216172ef53)
+
+
+## 7e2cf42d — File changes
+**Date:** 2026-04-11T21:26:07Z
+**Files changed:** 6 total (2× NEW, 4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/7e2cf42d2b848cc0701c27b5bf19bca5f023ace5)
+
+
+## ca56f4c8 — File changes
+**Date:** 2026-04-11T21:23:51Z
+**Files changed:** 3 total (3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/ca56f4c8408cc98b7f351cf33a29d0ccb11fd51a)
+
+
+## 7bd3f848 — File changes
+**Date:** 2026-04-11T17:53:09Z
+**Files changed:** 3 total (3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/7bd3f84826df6d0d27d9e3453556763266f6145e)
+
+
+## 5756d26d — File changes
+**Date:** 2026-04-11T17:33:38Z
+**Files changed:** 3 total (3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/5756d26deafaed42b9568bf9599c2041cf8bde44)
+
+
+## b3b4a959 — File changes
+**Date:** 2026-04-11T17:21:37Z
+**Files changed:** 3 total (3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/b3b4a959f93f24b22ff5570d22bfd34f7cf5a7bf)
+
+
+## 442a4aa6 — File changes
+**Date:** 2026-04-11T17:07:18Z
+**Files changed:** 4 total (1× CONFLICT, 3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/442a4aa6fd20a437134e2c4efd820733ff556cb2)
+
+
+## d4df16bd — File changes
+**Date:** 2026-04-11T16:54:44Z
+**Files changed:** 2 total (1× NEW, 1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/d4df16bd215b222c929d234467a3dbefbe039f07)
+
+
+## d37f5413 — File changes
+**Date:** 2026-04-11T16:49:42Z
+**Files changed:** 5 total (1× CONFLICT, 4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/d37f5413563affbbed94992addb58b64125adcb0)
+
+
+## 981bd655 — File changes
+**Date:** 2026-04-11T16:46:39Z
+**Files changed:** 1 total (1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/981bd65522efbfc84fbdcf1941d47c18993becc6)
+
+
+## 3a1682a1 — File changes
+**Date:** 2026-04-11T16:45:25Z
+**Files changed:** 6 total (2× NEW, 4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/3a1682a1fefffdc5826186363751d43dfa46464d)
+
+
+## 18612a7d — File changes
+**Date:** 2026-04-11T16:40:47Z
+**Files changed:** 1 total (1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/18612a7d50b178d093fa8126aef26915702c760a)
+
+
+## ad879b0b — File changes
+**Date:** 2026-04-11T16:39:39Z
+**Files changed:** 7 total (3× NEW, 4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/ad879b0b49a934ac4115c07661c78b8fe3ba6cc3)
+
+
+## ae210dd2 — File changes
+**Date:** 2026-04-11T16:36:30Z
+**Files changed:** 5 total (1× CONFLICT, 4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/ae210dd267db37ea0eb18787277cd0b8726c153b)
+
+
+## 1c572b9d — File changes
+**Date:** 2026-04-11T06:41:13Z
+**Files changed:** 8 total (2× NEW, 6× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/1c572b9df1e37f5a5fc5d80a96f6d81e9fdfd6dc)
+
+
+## c2e86504 — File changes
+**Date:** 2026-04-11T06:36:48Z
+**Files changed:** 4 total (4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/c2e8650418eebbc1a50d5c2ebb6839ce2adeed49)
+
+
+## 9098ede4 — File changes
+**Date:** 2026-04-11T06:28:01Z
+**Files changed:** 2 total (2× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/9098ede4984a7a07e7d8e0cfd8577d4a7008ee96)
+
+
+## c323e33f — File changes
+**Date:** 2026-04-11T06:23:32Z
+**Files changed:** 1 total (1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/c323e33f986baffd4591304bb829aa07780e3cf1)
+
+
+## a32f6aaf — File changes
+**Date:** 2026-04-11T06:22:32Z
+**Files changed:** 1 total (1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/a32f6aaf5c651c5fb4e0a9cfd0da3d058e619456)
+
+
+## 405ff264 — File changes
+**Date:** 2026-04-11T06:14:43Z
+**Files changed:** 4 total (4× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/405ff2645dfa9116f45a10604c94db9f9720ab3c)
+
+
+## d6bc2b03 — File changes
+**Date:** 2026-04-11T06:05:34Z
+**Files changed:** 1 total (1× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/d6bc2b0353bf18864fc557c5844b5929794e7a66)
+
+
+## e90d8ade — File changes
+**Date:** 2026-04-11T06:00:19Z
+**Files changed:** 3 total (3× MODIFIED)
+**GitHub:** [View commit](https://github.com/Cinedex/48labs-design/commit/e90d8ade0095f11aab3906ad29ec3d354bda70ff)
+

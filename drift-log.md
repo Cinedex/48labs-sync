@@ -8809,3 +8809,7 @@ KQoK
 ## 2026-04-23T17:42:43.520537+00:00
 **Commit:** e90d8ad — File changes
 **Files:** src/components/Sidebar.jsx (NEW) | src/hooks/useTheme.js (NEW) | src/pages/AdminDashboard.jsx (NEW)
+
+## 2026-04-23T17:42:58.621113+00:00
+**Commit:** dcb2a8e — merge: bring staging sync commits into main (Phase 3 design sync)
+**Files:** package.json (NEW) | project.config.json (NEW) | public/_redirects (NEW) | scripts/deploy-guard.mjs (NEW) | src/components/MarketingFooter.jsx (CONFLICT) ... +30 more

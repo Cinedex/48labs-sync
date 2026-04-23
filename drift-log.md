@@ -12223,3 +12223,20 @@ SearchInput.jsx, SegmentedControl.jsx, SettingCard.jsx, Spinner.jsx, TabBar.jsx
 
 ---
 
+## cc98d28 (2026-04-12T01:29:03+00:00)
+**Message:** File changes
+
+**Files Changed:** 6 files
+- NEW: 6 files
+- CONFLICT: 0 files
+
+**Details:**
+- (NEW) base44/entities/RoomLightingLayout.jsonc
+- (NEW) base44/entities/iPadCommand.jsonc
+- (NEW) src/components/ipad/InSessionScreen.jsx
+- (NEW) src/components/ipad/LightingCanvas.jsx
+- (NEW) src/components/ipad/LightingPanel.jsx
+- (NEW) src/components/ipad/MasterIPadView.jsx
+
+---
+

@@ -11517,3 +11517,53 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **MODIFIED (1):**
 - src/lib/workflow-data.js
 
+2026-04-22T15:33:13Z | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | 31 CONFLICT | 3 NEW | 1 MODIFIED
+2026-04-22T05:04:47Z | aa4661f4 | sync: website booking and auth pages — refined versions from Claude Code | 6 files | 6 CONFLICT
+2026-04-22T05:04:42Z | f19cdf03 | sync: website marketing pages — refined versions from Claude Code | 4 files | 4 CONFLICT
+2026-04-22T05:04:36Z | 22cdea70 | sync: BookingFlow.jsx — refined version from Claude Code | 1 files | 1 CONFLICT
+2026-04-22T05:04:31Z | 38853339 | sync: dashboard and iPad components — refined versions from Claude Code | 3 files | 3 CONFLICT
+2026-04-22T05:04:23Z | 3564003b | sync: RoomForm components — refined versions from Claude Code | 2 files | 2 CONFLICT
+2026-04-22T05:04:19Z | 923b30e2 | sync: marketing components — refined versions from Claude Code | 3 files | 3 CONFLICT
+2026-04-22T05:04:15Z | 18e25d25 | sync: booking components — refined versions from Claude Code | 2 files | 2 CONFLICT
+2026-04-22T05:04:10Z | 762ca5e0 | sync: UI primitives — refined versions from Claude Code | 10 files | 10 CONFLICT
+2026-04-20T04:07:52Z | 47b2dd66 | feat: move design site to cloudflare pages | 4 files | 3 NEW | 1 MODIFIED
+2026-04-16T15:28:29Z | 5b06f159 | Update base44 packages | 3 files | 1 NEW | 2 MODIFIED
+2026-04-12T15:14:18Z | 725cf756 | Update base44 packages | 2 files | 2 MODIFIED
+2026-04-12T01:46:59Z | fe64f268 | File changes | 5 files | 2 NEW | 3 MODIFIED
+2026-04-12T01:42:54Z | 62d1e6a5 | File changes | 2 files | 2 MODIFIED
+2026-04-12T01:40:38Z | eb00c62f | File changes | 4 files | 4 MODIFIED
+2026-04-12T01:37:07Z | fe80272b | File changes | 7 files | 7 NEW
+2026-04-12T01:29:03Z | cc98d284 | File changes | 6 files | 6 MODIFIED
+2026-04-12T01:22:17Z | e2e0de2e | File changes | 1 files | 1 CONFLICT
+2026-04-12T00:52:59Z | 96400df4 | File changes | 3 files | 3 MODIFIED
+2026-04-12T00:49:05Z | e4b13f4b | File changes | 1 files | 1 MODIFIED
+2026-04-12T00:43:22Z | 0a8d94c4 | File changes | 2 files | 2 MODIFIED
+2026-04-12T00:39:19Z | 0ddc5140 | File changes | 3 files | 3 MODIFIED
+2026-04-12T00:30:30Z | 01ef5f43 | File changes | 1 files | 1 MODIFIED
+2026-04-12T00:23:25Z | cc795b75 | File changes | 4 files | 4 MODIFIED
+2026-04-12T00:20:40Z | e9c7dad7 | File changes | 4 files | 4 MODIFIED
+2026-04-12T00:03:02Z | dc5b801f | File changes | 3 files | 3 MODIFIED
+2026-04-11T23:54:19Z | 1aec1f99 | File changes | 1 files | 1 MODIFIED
+2026-04-11T23:52:52Z | 3f83184f | File changes | 7 files | 7 MODIFIED
+2026-04-11T23:22:13Z | 0e0a4d29 | File changes | 1 files | 1 MODIFIED
+2026-04-11T21:26:07Z | 7e2cf42d | File changes | 6 files | 2 NEW | 4 MODIFIED
+2026-04-11T21:23:51Z | ca56f4c8 | File changes | 3 files | 3 MODIFIED
+2026-04-11T17:53:09Z | 7bd3f848 | File changes | 3 files | 3 MODIFIED
+2026-04-11T17:33:38Z | 5756d26d | File changes | 3 files | 3 MODIFIED
+2026-04-11T17:21:37Z | b3b4a959 | File changes | 3 files | 3 MODIFIED
+2026-04-11T17:07:18Z | 442a4aa6 | File changes | 4 files | 1 CONFLICT | 3 MODIFIED
+2026-04-11T16:54:44Z | d4df16bd | File changes | 2 files | 1 NEW | 1 MODIFIED
+2026-04-11T16:49:42Z | d37f5413 | File changes | 5 files | 1 CONFLICT | 4 MODIFIED
+2026-04-11T16:46:39Z | 981bd655 | File changes | 1 files | 1 MODIFIED
+2026-04-11T16:45:25Z | 3a1682a1 | File changes | 6 files | 2 NEW | 4 MODIFIED
+2026-04-11T16:40:47Z | 18612a7d | File changes | 1 files | 1 MODIFIED
+2026-04-11T16:39:39Z | ad879b0b | File changes | 7 files | 3 NEW | 4 MODIFIED
+2026-04-11T16:36:30Z | ae210dd2 | File changes | 5 files | 1 CONFLICT | 4 MODIFIED
+2026-04-11T06:41:13Z | 1c572b9d | File changes | 8 files | 2 NEW | 6 MODIFIED
+2026-04-11T06:36:48Z | c2e86504 | File changes | 4 files | 4 MODIFIED
+2026-04-11T06:28:01Z | 9098ede4 | File changes | 2 files | 2 MODIFIED
+2026-04-11T06:23:32Z | c323e33f | File changes | 1 files | 1 MODIFIED
+2026-04-11T06:22:32Z | a32f6aaf | File changes | 1 files | 1 MODIFIED
+2026-04-11T06:14:43Z | 405ff264 | File changes | 4 files | 4 MODIFIED
+2026-04-11T06:05:34Z | d6bc2b03 | File changes | 1 files | 1 MODIFIED
+2026-04-11T06:00:19Z | e90d8ade | File changes | 3 files | 3 MODIFIED

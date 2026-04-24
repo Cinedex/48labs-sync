@@ -13024,3 +13024,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: website booking and auth pages — refined versions from Claude Code
 **Files:** 6 changed | 0× NEW, 0× MODIFIED, 6× CONFLICT
 **CONFLICT:** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx (+3 more)
+
+## 2026-04-22 - f19cdf0
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files:** 4 changed | 0× NEW, 0× MODIFIED, 4× CONFLICT
+**CONFLICT:** src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx (+1 more)

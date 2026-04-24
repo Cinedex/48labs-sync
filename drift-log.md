@@ -12466,10 +12466,15 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-11 23:22 UTC | 0e0a4d2
+## 2026-04-11 21:26 UTC | 7e2cf42
 **Commit:** File changes
 **Status:** MODIFIED
-**Files:** 1
+**Files:** 6
+  - base44/entities/iPadSession.jsonc: MODIFIED
+  - base44/functions/getIPadSession/entry.ts: MODIFIED
+  - src/components/ipad/DemoScreen.jsx: MODIFIED
+  - src/components/ipad/IdleScreen.jsx: MODIFIED
+  - src/pages/AdminiPadController.jsx: MODIFIED
   - src/pages/StudioController.jsx: MODIFIED
 
 ---

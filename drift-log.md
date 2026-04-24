@@ -12466,13 +12466,14 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-11 17:21 UTC | b3b4a95
+## 2026-04-11 17:07 UTC | 442a4aa
 **Commit:** File changes
-**Status:** MODIFIED
-**Files:** 3
-  - src/components/AdminLayout.jsx: MODIFIED
-  - src/components/Sidebar.jsx: MODIFIED
-  - src/index.css: MODIFIED
+**Status:** CONFLICT
+**Files:** 4
+  - src/components/dashboard/PremiumCalendar.jsx: MODIFIED
+  - src/components/ui/FloatingPanel.jsx: CONFLICT
+  - src/hooks/useTheme.js: MODIFIED
+  - src/pages/AdminDashboard.jsx: MODIFIED
 
 ---
 

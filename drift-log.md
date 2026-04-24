@@ -12698,3 +12698,178 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Date:** 2026-04-22T15:33:13Z
 **Files Changed:** 35
 **Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+
+## 47b2dd66 · 2026-04-20 04:07 UTC
+**Commit:** feat: move design site to cloudflare pages
+
+**Classification:** 3× NEW, 1× MODIFIED (4 files total)
+
+**Files:**
+
+**NEW:**
+- `project.config.json`
+- `public/_redirects`
+- `scripts/deploy-guard.mjs`
+
+**MODIFIED:**
+- `package.json`
+
+
+## 762ca5e0 · 2026-04-22 05:04 UTC
+**Commit:** sync: UI primitives — refined versions from Claude Code
+
+**Classification:** 10× CONFLICT (10 files total)
+
+**Files:**
+
+**CONFLICT:**
+- `src/components/ui/EmptyState.jsx`
+- `src/components/ui/FilterPills.jsx`
+- `src/components/ui/PortalDrawer.jsx`
+- `src/components/ui/PortalTable.jsx`
+- `src/components/ui/SearchInput.jsx`
+- `src/components/ui/SegmentedControl.jsx`
+- `src/components/ui/SettingCard.jsx`
+- `src/components/ui/Spinner.jsx`
+- `src/components/ui/TabBar.jsx`
+- `src/components/ui/button.jsx`
+
+
+## 18e25d25 · 2026-04-22 05:04 UTC
+**Commit:** sync: booking components — refined versions from Claude Code
+
+**Classification:** 2× CONFLICT (2 files total)
+
+**Files:**
+
+**CONFLICT:**
+- `src/components/booking/BookingDateTimeStep.jsx`
+- `src/components/booking/ClientSelectStep.jsx`
+
+
+## 923b30e2 · 2026-04-22 05:04 UTC
+**Commit:** sync: marketing components — refined versions from Claude Code
+
+**Classification:** 3× CONFLICT (3 files total)
+
+**Files:**
+
+**CONFLICT:**
+- `src/components/MarketingFooter.jsx`
+- `src/components/MarketingHeader.jsx`
+- `src/components/marketing/RoomOperatingHoursDisplay.jsx`
+
+
+## 3564003b · 2026-04-22 05:04 UTC
+**Commit:** sync: RoomForm components — refined versions from Claude Code
+
+**Classification:** 2× CONFLICT (2 files total)
+
+**Files:**
+
+**CONFLICT:**
+- `src/components/RoomForm/RoomStudioPreview.jsx`
+- `src/components/RoomForm/WebsitePreviewCard.jsx`
+
+
+## 38853339 · 2026-04-22 05:04 UTC
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Classification:** 3× CONFLICT (3 files total)
+
+**Files:**
+
+**CONFLICT:**
+- `src/components/dashboard/MonthCalendar.jsx`
+- `src/components/ipad/FiveMinWarning.jsx`
+- `src/components/ipad/ThankYouScreen.jsx`
+
+
+## 22cdea70 · 2026-04-22 05:04 UTC
+**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Classification:** 1× CONFLICT (1 files total)
+
+**Files:**
+
+**CONFLICT:**
+- `src/pages/BookingFlow.jsx`
+
+
+## f19cdf03 · 2026-04-22 05:04 UTC
+**Commit:** sync: website marketing pages — refined versions from Claude Code
+
+**Classification:** 4× CONFLICT (4 files total)
+
+**Files:**
+
+**CONFLICT:**
+- `src/pages/Landing.jsx`
+- `src/pages/RoomProfile.jsx`
+- `src/pages/Services.jsx`
+- `src/pages/Studios.jsx`
+
+
+## aa4661f4 · 2026-04-22 05:04 UTC
+**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Classification:** 6× CONFLICT (6 files total)
+
+**Files:**
+
+**CONFLICT:**
+- `src/pages/DynamicCreditsPage.jsx`
+- `src/pages/DynamicMembershipsPage.jsx`
+- `src/pages/GuestBuyCredits.jsx`
+- `src/pages/MembershipSignup.jsx`
+- `src/pages/Register.jsx`
+- `src/pages/UnifiedCheckout.jsx`
+
+
+## dcb2a8e9 · 2026-04-22 15:33 UTC
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT (35 files total)
+
+**Files:**
+
+**NEW:**
+- `project.config.json`
+- `public/_redirects`
+- `scripts/deploy-guard.mjs`
+
+**MODIFIED:**
+- `package.json`
+
+**CONFLICT:**
+- `src/components/MarketingFooter.jsx`
+- `src/components/MarketingHeader.jsx`
+- `src/components/RoomForm/RoomStudioPreview.jsx`
+- `src/components/RoomForm/WebsitePreviewCard.jsx`
+- `src/components/booking/BookingDateTimeStep.jsx`
+- `src/components/booking/ClientSelectStep.jsx`
+- `src/components/dashboard/MonthCalendar.jsx`
+- `src/components/ipad/FiveMinWarning.jsx`
+- `src/components/ipad/ThankYouScreen.jsx`
+- `src/components/marketing/RoomOperatingHoursDisplay.jsx`
+- `src/components/ui/EmptyState.jsx`
+- `src/components/ui/FilterPills.jsx`
+- `src/components/ui/PortalDrawer.jsx`
+- `src/components/ui/PortalTable.jsx`
+- `src/components/ui/SearchInput.jsx`
+- `src/components/ui/SegmentedControl.jsx`
+- `src/components/ui/SettingCard.jsx`
+- `src/components/ui/Spinner.jsx`
+- `src/components/ui/TabBar.jsx`
+- `src/components/ui/button.jsx`
+- `src/pages/BookingFlow.jsx`
+- `src/pages/DynamicCreditsPage.jsx`
+- `src/pages/DynamicMembershipsPage.jsx`
+- `src/pages/GuestBuyCredits.jsx`
+- `src/pages/Landing.jsx`
+- `src/pages/MembershipSignup.jsx`
+- `src/pages/Register.jsx`
+- `src/pages/RoomProfile.jsx`
+- `src/pages/Services.jsx`
+- `src/pages/Studios.jsx`
+- `src/pages/UnifiedCheckout.jsx`

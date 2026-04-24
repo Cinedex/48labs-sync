@@ -12466,12 +12466,14 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-12 01:42 UTC | 62d1e6a
+## 2026-04-12 01:40 UTC | eb00c62
 **Commit:** File changes
 **Status:** MODIFIED
-**Files:** 2
-  - src/lib/workflow-data.js: MODIFIED
-  - src/pages/AdminWorkflowMap.jsx: MODIFIED
+**Files:** 4
+  - src/components/Sidebar.jsx: MODIFIED
+  - src/components/admin/AdminTopbar.jsx: MODIFIED
+  - src/components/admin/QuickActionsDropdown.jsx: MODIFIED
+  - src/components/dashboard/PremiumCalendar.jsx: MODIFIED
 
 ---
 

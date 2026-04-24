@@ -11431,3 +11431,207 @@
 **Classification:** 0 new, 4 modified, 0 conflict
 
 ---
+
+## 2026-04-24 11:51 UTC
+**Commit:** eb00c62
+**Message:** File changes
+
+### Changes
+
+**MODIFIED:** 4 files
+- src/components/Sidebar.jsx
+- src/components/admin/AdminTopbar.jsx
+- src/components/admin/QuickActionsDropdown.jsx
+- src/components/dashboard/PremiumCalendar.jsx
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 62d1e6a
+**Message:** File changes
+
+### Changes
+
+**MODIFIED:** 2 files
+- src/lib/workflow-data.js
+- src/pages/AdminWorkflowMap.jsx
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** fe64f26
+**Message:** File changes
+
+### Changes
+**NEW:** 2 files
+- src/database/data-migration-plan.md
+- src/database/migration-order.json
+
+**MODIFIED:** 3 files
+- src/database/MIGRATION_REPORT.md
+- src/database/supabase/schema.sql
+- src/database/types/schema.ts
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 725cf75
+**Message:** Update base44 packages
+
+### Changes
+
+**MODIFIED:** 2 files
+- package-lock.json
+- package.json
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 5b06f15
+**Message:** Update base44 packages
+
+### Changes
+**NEW:** 1 files
+- src/components/ProtectedRoute.jsx
+
+**MODIFIED:** 2 files
+- package-lock.json
+- package.json
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 47b2dd6
+**Message:** feat: move design site to cloudflare pages
+
+### Changes
+**NEW:** 3 files
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED:** 1 files
+- package.json
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 762ca5e
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+### Changes
+
+**MODIFIED:** 9 files
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- ... and 4 more
+
+**CONFLICT:** 1 files (Claude Code)
+- src/components/ui/button.jsx
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 18e25d2
+**Message:** sync: booking components — refined versions from Claude Code
+
+### Changes
+
+**MODIFIED:** 2 files
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 923b30e
+**Message:** sync: marketing components — refined versions from Claude Code
+
+### Changes
+
+**MODIFIED:** 1 files
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+**CONFLICT:** 2 files (Claude Code)
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 3564003
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+### Changes
+
+**MODIFIED:** 2 files
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 3885333
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+### Changes
+
+**MODIFIED:** 3 files
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** 22cdea7
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+### Changes
+
+**MODIFIED:** 1 files
+- src/pages/BookingFlow.jsx
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** f19cdf0
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+### Changes
+
+**MODIFIED:** 4 files
+- src/pages/Landing.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** aa4661f
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+### Changes
+
+**MODIFIED:** 6 files
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- ... and 1 more
+
+
+## 2026-04-24 11:51 UTC
+**Commit:** dcb2a8e
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+### Changes
+**NEW:** 3 files
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED:** 29 files
+- package.json
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+- ... and 24 more
+
+**CONFLICT:** 3 files (Claude Code)
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/ui/button.jsx

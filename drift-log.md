@@ -13034,3 +13034,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: BookingFlow.jsx — refined version from Claude Code
 **Files:** 1 changed | 0× NEW, 0× MODIFIED, 1× CONFLICT
 **CONFLICT:** src/pages/BookingFlow.jsx
+
+## 2026-04-22 - 3885333
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files:** 3 changed | 0× NEW, 0× MODIFIED, 3× CONFLICT
+**CONFLICT:** src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx

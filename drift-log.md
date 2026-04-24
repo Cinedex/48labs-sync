@@ -805,3 +805,103 @@ Tracking sync state between 48labs-design, 48labs-website, and 48labs-portal.
 - src/pages/AdminDashboard.jsx
 
 ---
+
+### Entry 1
+**Date:** 2026-04-22
+**Commit:** dcb2a8e (dcb2a8e911e5ed36...)
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files Changed:** 35
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 35 files (0 CONFLICT, 0 NEW, 35 MODIFIED)
+**MODIFIED (sample):** package.json, project.config.json, public/_redirects
+---
+
+### Entry 2
+**Date:** 2026-04-22
+**Commit:** aa4661f (aa4661f4b14bfb0d...)
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files Changed:** 6
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 6 files (0 CONFLICT, 0 NEW, 6 MODIFIED)
+**MODIFIED (sample):** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx
+---
+
+### Entry 3
+**Date:** 2026-04-22
+**Commit:** f19cdf0 (f19cdf0381be3cee...)
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files Changed:** 4
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 4 files (0 CONFLICT, 0 NEW, 4 MODIFIED)
+**MODIFIED (sample):** src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx
+---
+
+### Entry 4
+**Date:** 2026-04-22
+**Commit:** 22cdea7 (22cdea70afd9f763...)
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files Changed:** 1
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 1 files (0 CONFLICT, 0 NEW, 1 MODIFIED)
+**MODIFIED (sample):** src/pages/BookingFlow.jsx
+---
+
+### Entry 5
+**Date:** 2026-04-22
+**Commit:** 3885333 (38853339f47e5b2d...)
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files Changed:** 3
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 3 files (0 CONFLICT, 0 NEW, 3 MODIFIED)
+**MODIFIED (sample):** src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+---
+
+### Entry 6
+**Date:** 2026-04-22
+**Commit:** 3564003 (3564003baf53a0ce...)
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files Changed:** 2
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 2 files (0 CONFLICT, 0 NEW, 2 MODIFIED)
+**MODIFIED (sample):** src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+---
+
+### Entry 7
+**Date:** 2026-04-22
+**Commit:** 923b30e (923b30e2efc07529...)
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files Changed:** 3
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 3 files (0 CONFLICT, 0 NEW, 3 MODIFIED)
+**MODIFIED (sample):** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+---
+
+### Entry 8
+**Date:** 2026-04-22
+**Commit:** 18e25d2 (18e25d254af8ee85...)
+**Message:** sync: booking components — refined versions from Claude Code
+**Files Changed:** 2
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 2 files (0 CONFLICT, 0 NEW, 2 MODIFIED)
+**MODIFIED (sample):** src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+---
+
+### Entry 9
+**Date:** 2026-04-22
+**Commit:** 762ca5e (762ca5e09a65dd46...)
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files Changed:** 10
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 10 files (0 CONFLICT, 0 NEW, 10 MODIFIED)
+**MODIFIED (sample):** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx
+---
+
+### Entry 10
+**Date:** 2026-04-20
+**Commit:** 47b2dd6 (47b2dd66260b5c95...)
+**Message:** feat: move design site to cloudflare pages
+**Files Changed:** 4
+**Classification:** MODIFIED
+**Summary:** MODIFIED - 4 files (0 CONFLICT, 0 NEW, 4 MODIFIED)
+**MODIFIED (sample):** package.json, project.config.json, public/_redirects
+---

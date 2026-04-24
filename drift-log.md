@@ -13236,3 +13236,786 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 ## 2026-04-11 - e90d8ad
 **Message:** File changes
 **Files:** 3 changed | 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+## 2026-04-22 — dcb2a8e
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files Changed:** 35
+
+**Classification:**
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 31
+
+**Summary:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+
+---
+
+
+## 2026-04-22 — aa4661f
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files Changed:** 6
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 6
+
+**Summary:** 6× CONFLICT
+
+---
+
+
+## 2026-04-22 — f19cdf0
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Files Changed:** 4
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 4
+
+**Summary:** 4× CONFLICT
+
+---
+
+
+## 2026-04-22 — 22cdea7
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 1
+
+**Summary:** 1× CONFLICT
+
+---
+
+
+## 2026-04-22 — 3885333
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 3
+
+**Summary:** 3× CONFLICT
+
+---
+
+
+## 2026-04-22 — 3564003
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**Files Changed:** 2
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 2
+
+**Summary:** 2× CONFLICT
+
+---
+
+
+## 2026-04-22 — 923b30e
+
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 3
+
+**Summary:** 3× CONFLICT
+
+---
+
+
+## 2026-04-22 — 18e25d2
+
+**Message:** sync: booking components — refined versions from Claude Code
+
+**Files Changed:** 2
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 2
+
+**Summary:** 2× CONFLICT
+
+---
+
+
+## 2026-04-22 — 762ca5e
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**Files Changed:** 10
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 10
+
+**Summary:** 10× CONFLICT
+
+---
+
+
+## 2026-04-20 — 47b2dd6
+
+**Message:** feat: move design site to cloudflare pages
+
+**Files Changed:** 4
+
+**Classification:**
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 3× NEW, 1× MODIFIED
+
+---
+
+
+## 2026-04-12 — 725cf75
+
+**Message:** Update base44 packages
+
+**Files Changed:** 2
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Summary:** 2× MODIFIED
+
+---
+
+
+## 2026-04-12 — fe64f26
+
+**Message:** File changes
+
+**Files Changed:** 5
+
+**Classification:**
+- NEW: 2
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Summary:** 2× NEW, 3× MODIFIED
+
+---
+
+
+## 2026-04-12 — 62d1e6a
+
+**Message:** File changes
+
+**Files Changed:** 2
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Summary:** 2× MODIFIED
+
+---
+
+
+## 2026-04-12 — eb00c62
+
+**Message:** File changes
+
+**Files Changed:** 4
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Summary:** 4× MODIFIED
+
+---
+
+
+## 2026-04-12 — fe80272
+
+**Message:** File changes
+
+**Files Changed:** 7
+
+**Classification:**
+- NEW: 7
+- MODIFIED: 0
+- CONFLICT: 0
+
+**Summary:** 7× NEW
+
+---
+
+
+## 2026-04-12 — cc98d28
+
+**Message:** File changes
+
+**Files Changed:** 6
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 6
+- CONFLICT: 0
+
+**Summary:** 6× MODIFIED
+
+---
+
+
+## 2026-04-12 — e2e0de2
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 0
+- CONFLICT: 1
+
+**Summary:** 1× CONFLICT
+
+---
+
+
+## 2026-04-12 — 96400df
+
+**Message:** File changes
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Summary:** 3× MODIFIED
+
+---
+
+
+## 2026-04-12 — e4b13f4
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× MODIFIED
+
+---
+
+
+## 2026-04-12 — 0a8d94c
+
+**Message:** File changes
+
+**Files Changed:** 2
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Summary:** 2× MODIFIED
+
+---
+
+
+## 2026-04-12 — 0ddc514
+
+**Message:** File changes
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Summary:** 3× MODIFIED
+
+---
+
+
+## 2026-04-12 — 01ef5f4
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× MODIFIED
+
+---
+
+
+## 2026-04-12 — cc795b7
+
+**Message:** File changes
+
+**Files Changed:** 4
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Summary:** 4× MODIFIED
+
+---
+
+
+## 2026-04-12 — e9c7dad
+
+**Message:** File changes
+
+**Files Changed:** 4
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Summary:** 4× MODIFIED
+
+---
+
+
+## 2026-04-12 — dc5b801
+
+**Message:** File changes
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Summary:** 3× MODIFIED
+
+---
+
+
+## 2026-04-11 — 1aec1f9
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× MODIFIED
+
+---
+
+
+## 2026-04-11 — 3f83184
+
+**Message:** File changes
+
+**Files Changed:** 7
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 7
+- CONFLICT: 0
+
+**Summary:** 7× MODIFIED
+
+---
+
+
+## 2026-04-11 — 0e0a4d2
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× MODIFIED
+
+---
+
+
+## 2026-04-11 — 7e2cf42
+
+**Message:** File changes
+
+**Files Changed:** 6
+
+**Classification:**
+- NEW: 2
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Summary:** 2× NEW, 4× MODIFIED
+
+---
+
+
+## 2026-04-11 — ca56f4c
+
+**Message:** File changes
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Summary:** 3× MODIFIED
+
+---
+
+
+## 2026-04-11 — 7bd3f84
+
+**Message:** File changes
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Summary:** 3× MODIFIED
+
+---
+
+
+## 2026-04-11 — 5756d26
+
+**Message:** File changes
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Summary:** 3× MODIFIED
+
+---
+
+
+## 2026-04-11 — b3b4a95
+
+**Message:** File changes
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Summary:** 3× MODIFIED
+
+---
+
+
+## 2026-04-11 — 442a4aa
+
+**Message:** File changes
+
+**Files Changed:** 4
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 1
+
+**Summary:** 3× MODIFIED, 1× CONFLICT
+
+---
+
+
+## 2026-04-11 — d4df16b
+
+**Message:** File changes
+
+**Files Changed:** 2
+
+**Classification:**
+- NEW: 1
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× NEW, 1× MODIFIED
+
+---
+
+
+## 2026-04-11 — d37f541
+
+**Message:** File changes
+
+**Files Changed:** 5
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 1
+
+**Summary:** 4× MODIFIED, 1× CONFLICT
+
+---
+
+
+## 2026-04-11 — 981bd65
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× MODIFIED
+
+---
+
+
+## 2026-04-11 — 3a1682a
+
+**Message:** File changes
+
+**Files Changed:** 6
+
+**Classification:**
+- NEW: 2
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Summary:** 2× NEW, 4× MODIFIED
+
+---
+
+
+## 2026-04-11 — 18612a7
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× MODIFIED
+
+---
+
+
+## 2026-04-11 — ad879b0
+
+**Message:** File changes
+
+**Files Changed:** 7
+
+**Classification:**
+- NEW: 3
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Summary:** 3× NEW, 4× MODIFIED
+
+---
+
+
+## 2026-04-11 — ae210dd
+
+**Message:** File changes
+
+**Files Changed:** 5
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 1
+
+**Summary:** 4× MODIFIED, 1× CONFLICT
+
+---
+
+
+## 2026-04-11 — 1c572b9
+
+**Message:** File changes
+
+**Files Changed:** 8
+
+**Classification:**
+- NEW: 2
+- MODIFIED: 6
+- CONFLICT: 0
+
+**Summary:** 2× NEW, 6× MODIFIED
+
+---
+
+
+## 2026-04-11 — c2e8650
+
+**Message:** File changes
+
+**Files Changed:** 4
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Summary:** 4× MODIFIED
+
+---
+
+
+## 2026-04-11 — 9098ede
+
+**Message:** File changes
+
+**Files Changed:** 2
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Summary:** 2× MODIFIED
+
+---
+
+
+## 2026-04-11 — c323e33
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× MODIFIED
+
+---
+
+
+## 2026-04-11 — a32f6aa
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× MODIFIED
+
+---
+
+
+## 2026-04-11 — 405ff26
+
+**Message:** File changes
+
+**Files Changed:** 4
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Summary:** 4× MODIFIED
+
+---
+
+
+## 2026-04-11 — d6bc2b0
+
+**Message:** File changes
+
+**Files Changed:** 1
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Summary:** 1× MODIFIED
+
+---
+
+
+## 2026-04-11 — e90d8ad
+
+**Message:** File changes
+
+**Files Changed:** 3
+
+**Classification:**
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Summary:** 3× MODIFIED
+
+---

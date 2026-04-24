@@ -1,3 +1,624 @@
+## 2026-03-30 06:14 UTC — 1b92a310
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/GuestBooking/BookingConfirmation.jsx
+
+## 2026-03-30 06:12 UTC — 676315d2
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/App.jsx
+
+## 2026-03-30 06:10 UTC — 3bd6a108
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/GuestBooking/BookingConfirmation.jsx
+
+## 2026-03-30 06:06 UTC — 0bc18e21
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/Sidebar.jsx
+
+## 2026-03-30 06:05 UTC — 2f2c1e6b
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/ClientBookingHistory.jsx
+
+## 2026-03-30 06:03 UTC — 647f7771
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/BookingFlowSteps.jsx, src/pages/GuestBooking.jsx
+
+## 2026-03-30 05:56 UTC — 8f6dcb26
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/GuestBooking.jsx
+
+## 2026-03-30 05:54 UTC — f8f27085
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/GuestBooking.jsx
+
+## 2026-03-30 05:52 UTC — ab67abc4
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/GuestBooking.jsx
+
+## 2026-03-30 05:50 UTC — 9be55cd1
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/GuestBooking.jsx
+
+## 2026-03-30 05:49 UTC — ebd35f26
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/GuestBooking.jsx
+
+## 2026-03-30 05:47 UTC — 6ca50c14
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/GuestBooking.jsx
+
+## 2026-03-30 05:46 UTC — dba13fc5
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminClients.jsx
+
+## 2026-03-30 05:45 UTC — ae37bafa
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/GuestBooking.jsx
+
+## 2026-03-30 05:44 UTC — b00914ef
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminBookNewSession.jsx
+
+## 2026-03-30 05:43 UTC — cc1d29a0
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/GuestBooking.jsx
+
+## 2026-03-30 05:42 UTC — 95d24c25
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/BookingFlowSteps.jsx
+
+## 2026-03-30 05:37 UTC — 70749783
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/booking/DurationSelector.jsx
+
+## 2026-03-30 05:36 UTC — 7ee9c69c
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/booking/DurationSelector.jsx
+
+## 2026-03-30 05:34 UTC — 877793a0
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/booking/DurationSelector.jsx
+
+## 2026-03-30 05:31 UTC — b844a0f1
+**Message:** File changes
+**Files Changed:** 10
+**Classification:** 0× NEW | 10× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminAccessControl.jsx, src/pages/AdminAddOns.jsx, src/pages/AdminBookingsManager.jsx, src/pages/AdminClients.jsx, src/pages/AdminContactSubmissions.jsx (+5 more)
+
+## 2026-03-30 05:28 UTC — 0c68bafc
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 1× NEW | 1× MODIFIED | 0× CONFLICT
+- **NEW:** src/components/booking/DurationSelector.jsx
+- **MODIFIED:** src/components/booking/UnifiedBookingDateTime.jsx
+
+## 2026-03-30 05:25 UTC — a7bc33e4
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminHeroSettings.jsx
+
+## 2026-03-30 05:24 UTC — 111d0ba5
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/Sidebar.jsx
+
+## 2026-03-30 05:23 UTC — 92ebd9fd
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminHeroSettings.jsx
+
+## 2026-03-30 05:22 UTC — a7d3bd04
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminHeroSettings.jsx, src/pages/AdminRooms.jsx
+
+## 2026-03-30 05:21 UTC — 1c46f41d
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW | 3× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminBranding.jsx, src/pages/AdminHeroSettings.jsx, src/pages/AdminSettings.jsx
+
+## 2026-03-30 05:18 UTC — 9295caaa
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/ImageCropper.jsx, src/pages/Landing.jsx
+
+## 2026-03-30 05:18 UTC — 73932ad0
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminClients.jsx
+
+## 2026-03-30 05:17 UTC — 305e9369
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/Sidebar.jsx
+
+## 2026-03-30 05:15 UTC — f6135a97
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminClients.jsx
+
+## 2026-03-30 05:14 UTC — 877c8f89
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW | 3× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/App.jsx, src/components/AdminLayout.jsx, src/pages/AdminDashboard.jsx
+
+## 2026-03-30 05:07 UTC — 3bfa0bec
+**Message:** File changes
+**Files Changed:** 5
+**Classification:** 1× NEW | 4× MODIFIED | 0× CONFLICT
+- **NEW:** src/hooks/useFavicon.js
+- **MODIFIED:** base44/entities/AppSetting.jsonc, index.html, src/App.jsx, src/pages/AdminBranding.jsx
+
+## 2026-03-30 05:06 UTC — e0122573
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/Landing.jsx, src/pages/RoomProfile.jsx
+
+## 2026-03-30 05:02 UTC — 9a000279
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/Landing.jsx
+
+## 2026-03-30 04:57 UTC — f745eb80
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/MarketingHeader.jsx
+
+## 2026-03-30 04:56 UTC — b913eb7d
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/RoomForm/BasicInfoSection.jsx
+
+## 2026-03-30 04:51 UTC — 5142d43d
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/Sidebar.jsx
+
+## 2026-03-30 04:50 UTC — 3fc29aa8
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/MarketingHeader.jsx
+
+## 2026-03-30 04:48 UTC — f656cccc
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 2× NEW | 2× MODIFIED | 0× CONFLICT
+- **NEW:** base44/entities/ImageCropHistory.jsonc, src/components/CropHistoryPanel.jsx
+- **MODIFIED:** src/components/ImageCropper.jsx, src/pages/AdminHeroSettings.jsx
+
+## 2026-03-30 04:45 UTC — d1f84662
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminHeroSettings.jsx
+
+## 2026-03-30 04:44 UTC — c0e12aa2
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/ImageCropper.jsx
+
+## 2026-03-30 04:43 UTC — d3548c51
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminHeroSettings.jsx
+
+## 2026-03-30 04:42 UTC — e30bf828
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminHeroSettings.jsx
+
+## 2026-03-30 04:41 UTC — 6f6e0148
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/ImageCropper.jsx
+
+## 2026-03-30 04:39 UTC — e1e6e17b
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/ImageCropper.jsx, src/components/MarketingFooter.jsx
+
+## 2026-03-30 04:38 UTC — e354e257
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/MarketingFooter.jsx
+
+## 2026-03-30 04:36 UTC — e54d8907
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/Sidebar.jsx
+
+## 2026-03-30 04:35 UTC — 4cbb5488
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 1× NEW | 1× MODIFIED | 0× CONFLICT
+- **NEW:** src/components/ImageCropper.jsx
+- **MODIFIED:** src/pages/AdminBranding.jsx
+
+## 2026-03-30 04:34 UTC — de8bc79a
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/ui/PortalTable.jsx, src/pages/AdminClients.jsx
+
+## 2026-03-30 04:33 UTC — 7d1812b3
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/Landing.jsx
+
+## 2026-03-30 04:32 UTC — 0e1d35d0
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/Sidebar.jsx
+
+## 2026-03-30 04:32 UTC — e00ccade
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 1× NEW | 2× MODIFIED | 0× CONFLICT
+- **NEW:** src/pages/EmailVerification.jsx
+- **MODIFIED:** src/App.jsx, src/pages/Register.jsx
+
+## 2026-03-30 04:30 UTC — 941bcee7
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 1× NEW | 1× MODIFIED | 0× CONFLICT
+- **NEW:** src/components/onboarding/OnboardingFormEditor.jsx
+- **MODIFIED:** src/pages/AdminOnboardingSubmissions.jsx
+
+## 2026-03-30 04:29 UTC — 7c72b8df
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 1× NEW | 3× MODIFIED | 0× CONFLICT
+- **NEW:** src/pages/AdminPortalSettings.jsx
+- **MODIFIED:** base44/entities/AppSetting.jsonc, src/App.jsx, src/components/Sidebar.jsx
+
+## 2026-03-30 04:27 UTC — ca2fce2a
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/MarketingHeader.jsx
+
+## 2026-03-30 04:26 UTC — 3bb7d18e
+**Message:** File changes
+**Files Changed:** 6
+**Classification:** 1× NEW | 5× MODIFIED | 0× CONFLICT
+- **NEW:** src/pages/AdminBranding.jsx
+- **MODIFIED:** base44/entities/AppSetting.jsonc, src/App.jsx, src/components/MarketingHeader.jsx, src/components/Sidebar.jsx, src/pages/AdminSettings.jsx
+
+## 2026-03-30 04:19 UTC — 80e23fed
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 1× NEW | 2× MODIFIED | 0× CONFLICT
+- **NEW:** src/components/ui/PortalTable.jsx
+- **MODIFIED:** src/components/PortalTopBar.jsx, src/pages/AdminClients.jsx
+
+## 2026-03-30 04:17 UTC — 8d8996b7
+**Message:** File changes
+**Files Changed:** 6
+**Classification:** 5× NEW | 1× MODIFIED | 0× CONFLICT
+- **NEW:** src/components/financial/ExpenseDrawer.jsx, src/components/financial/ExpensesTab.jsx, src/components/financial/FinancialTabs.jsx, src/components/financial/InsightsTab.jsx, src/components/financial/OverviewTab.jsx
+- **MODIFIED:** src/pages/AdminFinancialDashboard.jsx
+
+## 2026-03-30 04:15 UTC — f73b7753
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminHeroSettings.jsx
+
+## 2026-03-30 04:13 UTC — 0c305907
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/financial/ProfitTrendChart.jsx, src/components/financial/RevExpChart.jsx
+
+## 2026-03-30 04:12 UTC — a5907417
+**Message:** File changes
+**Files Changed:** 5
+**Classification:** 2× NEW | 3× MODIFIED | 0× CONFLICT
+- **NEW:** base44/entities/HeroSettings.jsonc, src/pages/AdminHeroSettings.jsx
+- **MODIFIED:** src/App.jsx, src/components/Sidebar.jsx, src/pages/Landing.jsx
+
+## 2026-03-30 04:09 UTC — 53e30d09
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminAccessControl.jsx
+
+## 2026-03-30 04:07 UTC — 633c9a24
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 1× NEW | 1× MODIFIED | 0× CONFLICT
+- **NEW:** src/STRIPE_WEBHOOK_AUDIT.md
+- **MODIFIED:** base44/functions/handleStripeWebhook/entry.ts
+
+## 2026-03-30 03:50 UTC — cce5b376
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/lockControl/entry.ts
+
+## 2026-03-30 03:36 UTC — 3da5f8ae
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/AdminFinancialDashboard.jsx
+
+## 2026-03-30 03:27 UTC — 18b42d54
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/App.jsx
+
+## 2026-03-30 03:26 UTC — 2c410e5f
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 1× NEW | 1× MODIFIED | 0× CONFLICT
+- **NEW:** src/pages/AdminFinancialDashboard.jsx
+- **MODIFIED:** src/pages/AdminClients.jsx
+
+## 2026-03-30 03:23 UTC — 82f0fce0
+**Message:** File changes
+**Files Changed:** 8
+**Classification:** 6× NEW | 2× MODIFIED | 0× CONFLICT
+- **NEW:** base44/entities/Expense.jsonc, src/components/financial/BusinessHealthPanel.jsx, src/components/financial/ExpenseManager.jsx, src/components/financial/ProfitTrendChart.jsx, src/components/financial/RevExpChart.jsx (+1 more)
+- **MODIFIED:** src/App.jsx, src/pages/AdminFinancialDashboard.jsx
+
+## 2026-03-30 03:18 UTC — f1feb437
+**Message:** File changes
+**Files Changed:** 5
+**Classification:** 1× NEW | 4× MODIFIED | 0× CONFLICT
+- **NEW:** base44/functions/cleanupDeletedClients/entry.ts
+- **MODIFIED:** base44/entities/Client.jsonc, src/App.jsx, src/lib/AuthContext.jsx, src/pages/AdminClients.jsx
+
+## 2026-03-30 03:14 UTC — b4e54cb8
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 1× NEW | 2× MODIFIED | 0× CONFLICT
+- **NEW:** base44/functions/sendBookingConfirmation/entry.ts
+- **MODIFIED:** src/pages/AdminEmailDesigns.jsx, src/pages/GuestBooking.jsx
+
+## 2026-03-30 03:12 UTC — b1e18965
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW | 3× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/App.jsx, src/lib/AuthContext.jsx, src/pages/AdminClients.jsx
+
+## 2026-03-30 03:04 UTC — 957de737
+**Message:** File changes
+**Files Changed:** 7
+**Classification:** 0× NEW | 7× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/entities/LockIntegration.jsonc, base44/functions/expireBookingAccess/entry.ts, base44/functions/lockControl/entry.ts, base44/functions/managePinOnDevice/entry.ts, base44/functions/syncBookingAccess/entry.ts (+2 more)
+
+## 2026-03-30 02:38 UTC — 3738f9b5
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/booking/UnifiedBookingDateTime.jsx, src/pages/AdminBookNewSession.jsx
+
+## 2026-03-30 02:08 UTC — 3edab7dc
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/getRoomAvailability/entry.ts, src/components/booking/UnifiedBookingDateTime.jsx
+
+## 2026-03-30 02:02 UTC — 0fa8f526
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/sendVerificationEmail/entry.ts
+
+## 2026-03-30 01:30 UTC — a8ec70dd
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 1× NEW | 1× MODIFIED | 0× CONFLICT
+- **NEW:** base44/functions/sendVerificationEmail/entry.ts
+- **MODIFIED:** src/pages/Register.jsx
+
+## 2026-03-30 01:19 UTC — d2ec6bc6
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/processUnifiedPurchase/entry.ts, src/pages/CheckoutPaymentSuccess.jsx
+
+## 2026-03-30 01:15 UTC — 8d2f0aa2
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/pages/UnifiedCheckout.jsx
+
+## 2026-03-30 01:10 UTC — 404dbb6c
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/getRoomAvailability/entry.ts
+
+## 2026-03-30 01:03 UTC — 26c2c450
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW | 3× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/getRoomAvailability/entry.ts, src/components/booking/UnifiedBookingDateTime.jsx, src/pages/MembershipSignup.jsx
+
+## 2026-03-30 00:45 UTC — 09b885f3
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 0× NEW | 4× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/getRoomAvailability/entry.ts, base44/functions/manageSoftHold/entry.ts, src/components/BookingFlowSteps.jsx, src/components/booking/UnifiedBookingDateTime.jsx
+
+## 2026-03-30 00:41 UTC — ba6a47ce
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/Sidebar.jsx, src/pages/AdminSettings.jsx
+
+## 2026-03-30 00:33 UTC — 8ee698f9
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/syncBookingAccess/entry.ts
+
+## 2026-03-30 00:32 UTC — 374e676c
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/syncBookingAccess/entry.ts
+
+## 2026-03-30 00:30 UTC — 46aa18a5
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/revokeBookingAccess/entry.ts
+
+## 2026-03-30 00:29 UTC — 83209531
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/syncBookingAccessWindow/entry.ts
+
+## 2026-03-30 00:24 UTC — b6d90082
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/syncBookingAccess/entry.ts
+
+## 2026-03-30 00:22 UTC — bf606af5
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/revokeBookingAccess/entry.ts
+
+## 2026-03-30 00:21 UTC — 3aa31fa6
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/syncBookingAccessWindow/entry.ts
+
+## 2026-03-30 00:01 UTC — edc9343e
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/getRoomAvailability/entry.ts
+
+## 2026-03-29 23:56 UTC — ef9ce4d8
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW | 3× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/getRoomAvailability/entry.ts, src/components/PortalTopBar.jsx, src/pages/AdminSettings.jsx
+
+## 2026-03-29 23:51 UTC — 2ba58360
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/getRoomAvailability/entry.ts
+
+## 2026-03-29 23:47 UTC — c1257517
+**Message:** File changes
+**Files Changed:** 5
+**Classification:** 1× NEW | 4× MODIFIED | 0× CONFLICT
+- **NEW:** base44/entities/AppSetting.jsonc
+- **MODIFIED:** base44/functions/lockControl/entry.ts, src/components/Sidebar.jsx, src/pages/AdminAccessControl.jsx, src/pages/AdminSettings.jsx
+
+## 2026-03-29 21:26 UTC — 20e9a172
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW | 3× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/MarketingHeader.jsx, src/pages/FAQ.jsx, src/pages/Roadmap.jsx
+
+## 2026-03-29 21:21 UTC — bea594ce
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 1× NEW | 2× MODIFIED | 0× CONFLICT
+- **NEW:** src/components/PortalContainer.jsx
+- **MODIFIED:** base44/functions/lockControl/entry.ts, src/pages/AdminAccessControl.jsx
+
+## 2026-03-29 21:12 UTC — 3b5747fa
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW | 1× MODIFIED | 0× CONFLICT
+- **MODIFIED:** base44/functions/lockControl/entry.ts
+
+## 2026-03-29 21:07 UTC — b727c104
+**Message:** File changes
+**Files Changed:** 14
+**Classification:** 2× NEW | 12× MODIFIED | 0× CONFLICT
+- **NEW:** src/components/ClientLayout.jsx, src/components/PortalTopBar.jsx
+- **MODIFIED:** src/components/AdminLayout.jsx, src/components/AdminStatCard.jsx, src/components/Sidebar.jsx, src/pages/AdminAccessControl.jsx, src/pages/AdminBookingsManager.jsx (+7 more)
+
+## 2026-03-29 20:59 UTC — a363b7d0
+**Message:** File changes
+**Files Changed:** 5
+**Classification:** 1× NEW | 4× MODIFIED | 0× CONFLICT
+- **NEW:** src/components/access/ClientPINsPanel.jsx
+- **MODIFIED:** base44/functions/lockControl/entry.ts, base44/functions/managePinOnDevice/entry.ts, src/components/AdminLayout.jsx, src/pages/AdminAccessControl.jsx
+
+## 2026-03-29 18:27 UTC — 89f75b62
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW | 2× MODIFIED | 0× CONFLICT
+- **MODIFIED:** src/components/booking/UnifiedBookingDateTime.jsx, src/pages/AdminBookNewSession.jsx
+
 ## 2026-04-06 21:42 UTC — d55de2be
 **Message:** File changes
 **Files Changed:** 13

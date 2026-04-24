@@ -13170,3 +13170,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** File changes
 **Files:** 4 changed | 0× NEW, 3× MODIFIED, 1× CONFLICT
 **CONFLICT:** src/components/ui/FloatingPanel.jsx
+
+## 2026-04-11 - d4df16b
+**Message:** File changes
+**Files:** 2 changed | 1× NEW, 1× MODIFIED, 0× CONFLICT
+**NEW:** src/components/dashboard/FloatingEventPanel.jsx

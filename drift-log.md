@@ -652,3 +652,33 @@
 **Message:** feat: move design site to cloudflare pages
 **Files Changed:** 4
 **Classification:** 3× NEW, 1× MODIFIED, 0× CONFLICT
+| dcb2a8e9 | 2026-04-22 | merge: bring staging sync commits into main (Phase 3 design  | 35 | 3× NEW + 32× MODIFIED |
+| aa4661f4 | 2026-04-22 | sync: website booking and auth pages — refined versions from | 6 | 6× MODIFIED |
+| f19cdf03 | 2026-04-22 | sync: website marketing pages — refined versions from Claude | 4 | 4× MODIFIED |
+| 22cdea70 | 2026-04-22 | sync: BookingFlow.jsx — refined version from Claude Code | 1 | 1× MODIFIED |
+| 38853339 | 2026-04-22 | sync: dashboard and iPad components — refined versions from  | 3 | 3× MODIFIED |
+| 3564003b | 2026-04-22 | sync: RoomForm components — refined versions from Claude Cod | 2 | 2× MODIFIED |
+| 923b30e2 | 2026-04-22 | sync: marketing components — refined versions from Claude Co | 3 | 3× MODIFIED |
+| 18e25d25 | 2026-04-22 | sync: booking components — refined versions from Claude Code | 2 | 2× MODIFIED |
+| 762ca5e0 | 2026-04-22 | sync: UI primitives — refined versions from Claude Code | 10 | 10× MODIFIED |
+| 47b2dd66 | 2026-04-20 | feat: move design site to cloudflare pages | 4 | 3× NEW + 1× MODIFIED |
+| 5b06f159 | 2026-04-16 | Update base44 packages | 3 | 1× NEW + 2× MODIFIED |
+| 725cf756 | 2026-04-12 | Update base44 packages | 2 | 2× MODIFIED |
+| fe64f268 | 2026-04-12 | File changes | 5 | 2× NEW + 3× MODIFIED |
+| 62d1e6a5 | 2026-04-12 | File changes | 2 | 2× MODIFIED |
+| eb00c62f | 2026-04-12 | File changes | 4 | 4× MODIFIED |
+| fe80272b | 2026-04-12 | File changes | 7 | 7× NEW |
+| cc98d284 | 2026-04-12 | File changes | 6 | 6× MODIFIED |
+| e2e0de2e | 2026-04-12 | File changes | 1 | 1× MODIFIED |
+| 96400df4 | 2026-04-12 | File changes | 3 | 3× MODIFIED |
+| e4b13f4b | 2026-04-12 | File changes | 1 | 1× MODIFIED |
+| 0a8d94c4 | 2026-04-12 | File changes | 2 | 2× MODIFIED |
+| 0ddc5140 | 2026-04-12 | File changes | 3 | 3× MODIFIED |
+| 01ef5f43 | 2026-04-12 | File changes | 1 | 1× MODIFIED |
+| cc795b75 | 2026-04-12 | File changes | 4 | 4× MODIFIED |
+| e9c7dad7 | 2026-04-12 | File changes | 4 | 4× MODIFIED |
+| dc5b801f | 2026-04-12 | File changes | 3 | 3× MODIFIED |
+| 1aec1f99 | 2026-04-11 | File changes | 1 | 1× MODIFIED |
+| 3f83184f | 2026-04-11 | File changes | 7 | 7× MODIFIED |
+| 0e0a4d29 | 2026-04-11 | File changes | 1 | 1× MODIFIED |
+| 7e2cf42d | 2026-04-11 | File changes | 6 | 2× NEW + 4× MODIFIED |

@@ -298,3 +298,53 @@
 **Files Changed:** 3
 **Classification:** 3× MODIFIED
 **Files:** src/components/Sidebar.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx
+**2026-04-22 | dcb2a8e | MODIFIED** | merge: bring staging sync commits into main (Phase 3 design sync) | package.json, project.config.json, public/_redirects, ... (35 total)
+**2026-04-22 | aa4661f | NEW** | sync: website booking and auth pages — refined versions from Claude Code | src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, ... (6 total)
+**2026-04-22 | f19cdf0 | NEW** | sync: website marketing pages — refined versions from Claude Code | src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, ... (4 total)
+**2026-04-22 | 22cdea7 | NEW** | sync: BookingFlow.jsx — refined version from Claude Code | src/pages/BookingFlow.jsx
+**2026-04-22 | 3885333 | NEW** | sync: dashboard and iPad components — refined versions from Claude Code | src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+**2026-04-22 | 3564003 | NEW** | sync: RoomForm components — refined versions from Claude Code | src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+**2026-04-22 | 923b30e | NEW** | sync: marketing components — refined versions from Claude Code | src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+**2026-04-22 | 18e25d2 | NEW** | sync: booking components — refined versions from Claude Code | src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+**2026-04-22 | 762ca5e | NEW** | sync: UI primitives — refined versions from Claude Code | src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, ... (10 total)
+**2026-04-20 | 47b2dd6 | MODIFIED** | feat: move design site to cloudflare pages | package.json, project.config.json, public/_redirects, ... (4 total)
+**2026-04-16 | 5b06f15 | NEW** | Update base44 packages | package-lock.json, package.json, src/components/ProtectedRoute.jsx
+**2026-04-12 | 725cf75 | NEW** | Update base44 packages | package-lock.json, package.json
+**2026-04-12 | fe64f26 | NEW** | File changes | src/database/MIGRATION_REPORT.md, src/database/data-migration-plan.md, src/database/migration-order.json, ... (5 total)
+**2026-04-12 | 62d1e6a | NEW** | File changes | src/lib/workflow-data.js, src/pages/AdminWorkflowMap.jsx
+**2026-04-12 | eb00c62 | NEW** | File changes | src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, ... (4 total)
+**2026-04-12 | fe80272 | NEW** | File changes | src/contracts/schema/enums.json, src/contracts/schema/relationships.json, src/contracts/schema/tables.json, ... (7 total)
+**2026-04-12 | cc98d28 | NEW** | File changes | base44/entities/RoomLightingLayout.jsonc, base44/entities/iPadCommand.jsonc, src/components/ipad/InSessionScreen.jsx, ... (6 total)
+**2026-04-12 | e2e0de2 | NEW** | File changes | src/pages/Landing.jsx
+**2026-04-12 | 96400df | NEW** | File changes | src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+**2026-04-12 | e4b13f4 | NEW** | File changes | src/lib/workflow-data.js
+**2026-04-12 | 0a8d94c | NEW** | File changes | src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx
+**2026-04-12 | 0ddc514 | NEW** | File changes | src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+**2026-04-12 | 01ef5f4 | NEW** | File changes | src/pages/AdminWorkflowMap.jsx
+**2026-04-12 | cc795b7 | NEW** | File changes | src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx, src/components/ipad/WelcomeScreen.jsx, ... (4 total)
+**2026-04-12 | e9c7dad | NEW** | File changes | src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/PremiumCalendar.jsx, ... (4 total)
+**2026-04-12 | dc5b801 | NEW** | File changes | src/components/ipad/WelcomeScreen.jsx, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+**2026-04-11 | 1aec1f9 | NEW** | File changes | tailwind.config.js
+**2026-04-11 | 3f83184 | NEW** | File changes | src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/FloatingDayPanel.jsx, ... (7 total)
+**2026-04-11 | 0e0a4d2 | NEW** | File changes | src/pages/StudioController.jsx
+**2026-04-11 | 7e2cf42 | NEW** | File changes | base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/components/ipad/DemoScreen.jsx, ... (6 total)
+**2026-04-11 | ca56f4c | NEW** | File changes | src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/hooks/useTheme.js
+**2026-04-11 | 7bd3f84 | NEW** | File changes | src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx, src/pages/StudioController.jsx
+**2026-04-11 | 5756d26 | NEW** | File changes | base44/entities/iPadSession.jsonc, src/components/ipad/InSessionScreen.jsx, src/pages/AdminiPadController.jsx
+**2026-04-11 | b3b4a95 | NEW** | File changes | src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/index.css
+**2026-04-11 | 442a4aa | NEW** | File changes | src/components/dashboard/PremiumCalendar.jsx, src/components/ui/FloatingPanel.jsx, src/hooks/useTheme.js, ... (4 total)
+**2026-04-11 | d4df16b | NEW** | File changes | src/components/dashboard/FloatingEventPanel.jsx, src/components/dashboard/PremiumCalendar.jsx
+**2026-04-11 | d37f541 | NEW** | File changes | src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/components/dashboard/PremiumCalendar.jsx, ... (5 total)
+**2026-04-11 | 981bd65 | NEW** | File changes | src/pages/CustomLogin.jsx
+**2026-04-11 | 3a1682a | NEW** | File changes | base44/entities/iPadCommand.jsonc, base44/entities/iPadSession.jsonc, base44/functions/iPadVersionControl/entry.ts, ... (6 total)
+**2026-04-11 | 18612a7 | NEW** | File changes | src/components/dashboard/PremiumCalendar.jsx
+**2026-04-11 | ad879b0 | NEW** | File changes | base44/entities/RoomLightingLayout.jsonc, src/components/dashboard/PremiumCalendar.jsx, src/components/ipad/CircularThermostat.jsx, ... (7 total)
+**2026-04-11 | ae210dd | NEW** | File changes | src/components/Sidebar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx, ... (5 total)
+**2026-04-11 | 1c572b9 | NEW** | File changes | base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/components/ipad/BackgroundLayer.jsx, ... (8 total)
+**2026-04-11 | c2e8650 | NEW** | File changes | src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx, ... (4 total)
+**2026-04-11 | 9098ede | NEW** | File changes | src/components/ipad/InSessionScreen.jsx, src/components/ipad/WelcomeScreen.jsx
+**2026-04-11 | c323e33 | NEW** | File changes | src/components/Sidebar.jsx
+**2026-04-11 | a32f6aa | NEW** | File changes | src/components/Sidebar.jsx
+**2026-04-11 | 405ff26 | NEW** | File changes | src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/components/dashboard/PremiumCalendar.jsx, ... (4 total)
+**2026-04-11 | d6bc2b0 | NEW** | File changes | src/pages/CustomLogin.jsx
+**2026-04-11 | e90d8ad | NEW** | File changes | src/components/Sidebar.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx

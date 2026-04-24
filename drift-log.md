@@ -17071,3 +17071,133 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 - **762ca5e** (2026-04-22) — sync: UI primitives — refined versions from Claude Code
 
 - **47b2dd6** (2026-04-20) — feat: move design site to cloudflare pages
+
+### 47b2dd6 — 2026-04-20
+**Message:** feat: move design site to cloudflare pages
+**Files:** 4 changed (3 NEW, 1 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - package.json (MODIFIED)
+      - project.config.json (NEW)
+      - public/_redirects (NEW)
+      - scripts/deploy-guard.mjs (NEW)
+
+
+### 762ca5e — 2026-04-22
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files:** 10 changed (0 NEW, 10 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - src/components/ui/EmptyState.jsx (MODIFIED)
+      - src/components/ui/FilterPills.jsx (MODIFIED)
+      - src/components/ui/PortalDrawer.jsx (MODIFIED)
+      - src/components/ui/PortalTable.jsx (MODIFIED)
+      - src/components/ui/SearchInput.jsx (MODIFIED)
+      - src/components/ui/SegmentedControl.jsx (MODIFIED)
+      - src/components/ui/SettingCard.jsx (MODIFIED)
+      - src/components/ui/Spinner.jsx (MODIFIED)
+      - src/components/ui/TabBar.jsx (MODIFIED)
+      - src/components/ui/button.jsx (MODIFIED)
+
+
+### 18e25d2 — 2026-04-22
+**Message:** sync: booking components — refined versions from Claude Code
+**Files:** 2 changed (0 NEW, 2 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - src/components/booking/BookingDateTimeStep.jsx (MODIFIED)
+      - src/components/booking/ClientSelectStep.jsx (MODIFIED)
+
+
+### 923b30e — 2026-04-22
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files:** 3 changed (0 NEW, 3 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - src/components/MarketingFooter.jsx (MODIFIED)
+      - src/components/MarketingHeader.jsx (MODIFIED)
+      - src/components/marketing/RoomOperatingHoursDisplay.jsx (MODIFIED)
+
+
+### 3564003 — 2026-04-22
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files:** 2 changed (0 NEW, 2 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - src/components/RoomForm/RoomStudioPreview.jsx (MODIFIED)
+      - src/components/RoomForm/WebsitePreviewCard.jsx (MODIFIED)
+
+
+### 3885333 — 2026-04-22
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files:** 3 changed (0 NEW, 3 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - src/components/dashboard/MonthCalendar.jsx (MODIFIED)
+      - src/components/ipad/FiveMinWarning.jsx (MODIFIED)
+      - src/components/ipad/ThankYouScreen.jsx (MODIFIED)
+
+
+### 22cdea7 — 2026-04-22
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files:** 1 changed (0 NEW, 1 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - src/pages/BookingFlow.jsx (MODIFIED)
+
+
+### f19cdf0 — 2026-04-22
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files:** 4 changed (0 NEW, 4 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - src/pages/Landing.jsx (MODIFIED)
+      - src/pages/RoomProfile.jsx (MODIFIED)
+      - src/pages/Services.jsx (MODIFIED)
+      - src/pages/Studios.jsx (MODIFIED)
+
+
+### aa4661f — 2026-04-22
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files:** 6 changed (0 NEW, 6 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - src/pages/DynamicCreditsPage.jsx (MODIFIED)
+      - src/pages/DynamicMembershipsPage.jsx (MODIFIED)
+      - src/pages/GuestBuyCredits.jsx (MODIFIED)
+      - src/pages/MembershipSignup.jsx (MODIFIED)
+      - src/pages/Register.jsx (MODIFIED)
+      - src/pages/UnifiedCheckout.jsx (MODIFIED)
+
+
+### dcb2a8e — 2026-04-22
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files:** 35 changed (3 NEW, 32 MODIFIED, 0 CONFLICT)
+**Classification:**
+      - package.json (MODIFIED)
+      - project.config.json (NEW)
+      - public/_redirects (NEW)
+      - scripts/deploy-guard.mjs (NEW)
+      - src/components/MarketingFooter.jsx (MODIFIED)
+      - src/components/MarketingHeader.jsx (MODIFIED)
+      - src/components/RoomForm/RoomStudioPreview.jsx (MODIFIED)
+      - src/components/RoomForm/WebsitePreviewCard.jsx (MODIFIED)
+      - src/components/booking/BookingDateTimeStep.jsx (MODIFIED)
+      - src/components/booking/ClientSelectStep.jsx (MODIFIED)
+      - src/components/dashboard/MonthCalendar.jsx (MODIFIED)
+      - src/components/ipad/FiveMinWarning.jsx (MODIFIED)
+      - src/components/ipad/ThankYouScreen.jsx (MODIFIED)
+      - src/components/marketing/RoomOperatingHoursDisplay.jsx (MODIFIED)
+      - src/components/ui/EmptyState.jsx (MODIFIED)
+      - src/components/ui/FilterPills.jsx (MODIFIED)
+      - src/components/ui/PortalDrawer.jsx (MODIFIED)
+      - src/components/ui/PortalTable.jsx (MODIFIED)
+      - src/components/ui/SearchInput.jsx (MODIFIED)
+      - src/components/ui/SegmentedControl.jsx (MODIFIED)
+      - src/components/ui/SettingCard.jsx (MODIFIED)
+      - src/components/ui/Spinner.jsx (MODIFIED)
+      - src/components/ui/TabBar.jsx (MODIFIED)
+      - src/components/ui/button.jsx (MODIFIED)
+      - src/pages/BookingFlow.jsx (MODIFIED)
+      - src/pages/DynamicCreditsPage.jsx (MODIFIED)
+      - src/pages/DynamicMembershipsPage.jsx (MODIFIED)
+      - src/pages/GuestBuyCredits.jsx (MODIFIED)
+      - src/pages/Landing.jsx (MODIFIED)
+      - src/pages/MembershipSignup.jsx (MODIFIED)
+      - src/pages/Register.jsx (MODIFIED)
+      - src/pages/RoomProfile.jsx (MODIFIED)
+      - src/pages/Services.jsx (MODIFIED)
+      - src/pages/Studios.jsx (MODIFIED)
+      - src/pages/UnifiedCheckout.jsx (MODIFIED)
+

@@ -14054,3 +14054,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: marketing components — refined versions from Claude Code
 **Files Changed:** 3
 **Classification:** 0× NEW, 0× MODIFIED, 3× CONFLICT
+
+## 2026-04-22 | 18e25d2
+**Message:** sync: booking components — refined versions from Claude Code
+**Files Changed:** 2
+**Classification:** 0× NEW, 0× MODIFIED, 2× CONFLICT

@@ -12466,11 +12466,13 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-22 05:04 UTC | 22cdea7
-**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+## 2026-04-22 05:04 UTC | 3885333
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
 **Status:** CONFLICT
-**Files:** 1
-  - src/pages/BookingFlow.jsx: CONFLICT
+**Files:** 3
+  - src/components/dashboard/MonthCalendar.jsx: CONFLICT
+  - src/components/ipad/FiveMinWarning.jsx: CONFLICT
+  - src/components/ipad/ThankYouScreen.jsx: CONFLICT
 
 ---
 

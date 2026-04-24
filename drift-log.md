@@ -14029,3 +14029,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: website booking and auth pages — refined versions from Claude Code
 **Files Changed:** 6
 **Classification:** 0× NEW, 0× MODIFIED, 6× CONFLICT
+
+## 2026-04-22 | f19cdf0
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files Changed:** 4
+**Classification:** 0× NEW, 0× MODIFIED, 4× CONFLICT

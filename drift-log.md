@@ -682,3 +682,156 @@
 | 3f83184f | 2026-04-11 | File changes | 7 | 7× MODIFIED |
 | 0e0a4d29 | 2026-04-11 | File changes | 1 | 1× MODIFIED |
 | 7e2cf42d | 2026-04-11 | File changes | 6 | 2× NEW + 4× MODIFIED |
+### 2026-04-20 — 47b2dd66
+
+**Commit:** feat: move design site to cloudflare pages
+
+**Files changed:** 4  
+**Classification:** 3× NEW, 1× MODIFIED
+
+**NEW:** 3 files
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+---
+
+
+### 2026-04-22 — 762ca5e0
+
+**Commit:** sync: UI primitives — refined versions from Claude Code
+
+**Files changed:** 10  
+**Classification:** 10× CONFLICT
+
+**CONFLICT:** 10 files (Claude Code owns these)
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- ... and 7 more
+
+---
+
+
+### 2026-04-22 — 18e25d25
+
+**Commit:** sync: booking components — refined versions from Claude Code
+
+**Files changed:** 2  
+**Classification:** 2× CONFLICT
+
+**CONFLICT:** 2 files (Claude Code owns these)
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+
+---
+
+
+### 2026-04-22 — 923b30e2
+
+**Commit:** sync: marketing components — refined versions from Claude Code
+
+**Files changed:** 3  
+**Classification:** 3× CONFLICT
+
+**CONFLICT:** 3 files (Claude Code owns these)
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---
+
+
+### 2026-04-22 — 3564003b
+
+**Commit:** sync: RoomForm components — refined versions from Claude Code
+
+**Files changed:** 2  
+**Classification:** 2× CONFLICT
+
+**CONFLICT:** 2 files (Claude Code owns these)
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+
+
+### 2026-04-22 — 38853339
+
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files changed:** 3  
+**Classification:** 3× CONFLICT
+
+**CONFLICT:** 3 files (Claude Code owns these)
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+
+---
+
+
+### 2026-04-22 — 22cdea70
+
+**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files changed:** 1  
+**Classification:** 1× CONFLICT
+
+**CONFLICT:** 1 files (Claude Code owns these)
+- src/pages/BookingFlow.jsx
+
+---
+
+
+### 2026-04-22 — f19cdf03
+
+**Commit:** sync: website marketing pages — refined versions from Claude Code
+
+**Files changed:** 4  
+**Classification:** 4× CONFLICT
+
+**CONFLICT:** 4 files (Claude Code owns these)
+- src/pages/Landing.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- ... and 1 more
+
+---
+
+
+### 2026-04-22 — aa4661f4
+
+**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files changed:** 6  
+**Classification:** 6× CONFLICT
+
+**CONFLICT:** 6 files (Claude Code owns these)
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- ... and 3 more
+
+---
+
+
+### 2026-04-22 — dcb2a8e9
+
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files changed:** 35  
+**Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+
+**NEW:** 3 files
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**CONFLICT:** 31 files (Claude Code owns these)
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/RoomForm/RoomStudioPreview.jsx
+- ... and 28 more
+
+---

@@ -13059,3 +13059,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: UI primitives — refined versions from Claude Code
 **Files:** 10 changed | 0× NEW, 0× MODIFIED, 10× CONFLICT
 **CONFLICT:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx (+7 more)
+
+## 2026-04-20 - 47b2dd6
+**Message:** feat: move design site to cloudflare pages
+**Files:** 4 changed | 3× NEW, 1× MODIFIED, 0× CONFLICT
+**NEW:** project.config.json, public/_redirects, scripts/deploy-guard.mjs

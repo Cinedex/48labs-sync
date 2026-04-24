@@ -12466,16 +12466,14 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-22 05:04 UTC | aa4661f
-**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+## 2026-04-22 05:04 UTC | f19cdf0
+**Commit:** sync: website marketing pages — refined versions from Claude Code
 **Status:** CONFLICT
-**Files:** 6
-  - src/pages/DynamicCreditsPage.jsx: CONFLICT
-  - src/pages/DynamicMembershipsPage.jsx: CONFLICT
-  - src/pages/GuestBuyCredits.jsx: CONFLICT
-  - src/pages/MembershipSignup.jsx: CONFLICT
-  - src/pages/Register.jsx: CONFLICT
-  - src/pages/UnifiedCheckout.jsx: CONFLICT
+**Files:** 4
+  - src/pages/Landing.jsx: CONFLICT
+  - src/pages/RoomProfile.jsx: CONFLICT
+  - src/pages/Services.jsx: CONFLICT
+  - src/pages/Studios.jsx: CONFLICT
 
 ---
 

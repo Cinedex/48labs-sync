@@ -1444,3 +1444,122 @@ Tracking file changes from 48labs-design synced to 48labs-sync.
 
 ---
 
+
+## dcb2a8e — 2026-04-22T15:33:13
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files Changed:** 35
+- NEW: 3
+- MODIFIED: 32
+- CONFLICT: 0
+
+**Status:** Logged
+
+
+## aa4661f — 2026-04-22T05:04:47
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files Changed:** 6
+- NEW: 0
+- MODIFIED: 6
+- CONFLICT: 0
+
+**Status:** Logged
+
+
+## f19cdf0 — 2026-04-22T05:04:42
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Files Changed:** 4
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+**Status:** Logged
+
+
+## 22cdea7 — 2026-04-22T05:04:36
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files Changed:** 1
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Status:** Logged
+
+
+## 3885333 — 2026-04-22T05:04:31
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Status:** Logged
+
+
+## 3564003 — 2026-04-22T05:04:23
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Status:** Logged
+
+
+## 923b30e — 2026-04-22T05:04:19
+
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**Files Changed:** 3
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+**Status:** Logged
+
+
+## 18e25d2 — 2026-04-22T05:04:15
+
+**Message:** sync: booking components — refined versions from Claude Code
+
+**Files Changed:** 2
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+**Status:** Logged
+
+
+## 762ca5e — 2026-04-22T05:04:10
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**Files Changed:** 10
+- NEW: 0
+- MODIFIED: 10
+- CONFLICT: 0
+
+**Status:** Logged
+
+
+## 47b2dd6 — 2026-04-20T04:07:52
+
+**Message:** feat: move design site to cloudflare pages
+
+**Files Changed:** 4
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 0
+
+**Status:** Logged

@@ -521,3 +521,303 @@ Tracking file changes from 48labs-design synced to 48labs-sync.
 **Status:** Synced from 48labs-design
 
 ---
+
+## [dcb2a8e] merge: bring staging sync commits into main (Phase 3 design sync)
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 35 (35 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: package.json, project.config.json, public/_redirects, scripts/deploy-guard.mjs, src/components/MarketingFooter.jsx (+30 more)
+
+## [aa4661f] sync: website booking and auth pages — refined versions from Claude Code
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 6 (6 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx (+1 more)
+
+## [f19cdf0] sync: website marketing pages — refined versions from Claude Code
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 4 (4 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+## [22cdea7] sync: BookingFlow.jsx — refined version from Claude Code
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/pages/BookingFlow.jsx
+
+## [3885333] sync: dashboard and iPad components — refined versions from Claude Code
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+## [3564003] sync: RoomForm components — refined versions from Claude Code
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 2 (2 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+## [923b30e] sync: marketing components — refined versions from Claude Code
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+## [18e25d2] sync: booking components — refined versions from Claude Code
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 2 (2 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+## [762ca5e] sync: UI primitives — refined versions from Claude Code
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 10 (10 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)
+
+## [47b2dd6] feat: move design site to cloudflare pages
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 4 (4 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: package.json, project.config.json, public/_redirects, scripts/deploy-guard.mjs
+
+## [5b06f15] Update base44 packages
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: package-lock.json, package.json, src/components/ProtectedRoute.jsx
+
+## [725cf75] Update base44 packages
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 2 (2 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: package-lock.json, package.json
+
+## [fe64f26] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 5 (5 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/database/MIGRATION_REPORT.md, src/database/data-migration-plan.md, src/database/migration-order.json, src/database/supabase/schema.sql, src/database/types/schema.ts
+
+## [62d1e6a] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 2 (2 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/lib/workflow-data.js, src/pages/AdminWorkflowMap.jsx
+
+## [eb00c62] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 4 (4 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+## [fe80272] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 7 (7 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/contracts/schema/enums.json, src/contracts/schema/relationships.json, src/contracts/schema/tables.json, src/database/MIGRATION_REPORT.md, src/database/mappings/base44-map.ts (+2 more)
+
+## [cc98d28] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 6 (6 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: base44/entities/RoomLightingLayout.jsonc, base44/entities/iPadCommand.jsonc, src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx (+1 more)
+
+## [e2e0de2] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/pages/Landing.jsx
+
+## [96400df] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+## [e4b13f4] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/lib/workflow-data.js
+
+## [0a8d94c] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 2 (2 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx
+
+## [0ddc514] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+## [01ef5f4] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/pages/AdminWorkflowMap.jsx
+
+## [cc795b7] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 4 (4 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx, src/components/ipad/WelcomeScreen.jsx, src/pages/StudioController.jsx
+
+## [e9c7dad] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 4 (4 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/PremiumCalendar.jsx, src/pages/AdminDashboard.jsx
+
+## [dc5b801] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/ipad/WelcomeScreen.jsx, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+
+## [1aec1f9] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: tailwind.config.js
+
+## [3f83184] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 7 (7 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/FloatingDayPanel.jsx, src/components/dashboard/SessionTimelineCard.jsx, src/hooks/useTheme.js (+2 more)
+
+## [0e0a4d2] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/pages/StudioController.jsx
+
+## [7e2cf42] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 6 (6 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/components/ipad/DemoScreen.jsx, src/components/ipad/IdleScreen.jsx, src/pages/AdminiPadController.jsx (+1 more)
+
+## [ca56f4c] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/hooks/useTheme.js
+
+## [7bd3f84] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx, src/pages/StudioController.jsx
+
+## [5756d26] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: base44/entities/iPadSession.jsonc, src/components/ipad/InSessionScreen.jsx, src/pages/AdminiPadController.jsx
+
+## [b3b4a95] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/index.css
+
+## [442a4aa] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 4 (4 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/dashboard/PremiumCalendar.jsx, src/components/ui/FloatingPanel.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx
+
+## [d4df16b] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 2 (2 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/dashboard/FloatingEventPanel.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+## [d37f541] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 5 (5 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/components/dashboard/PremiumCalendar.jsx, src/components/ui/FloatingPanel.jsx, src/hooks/useTheme.js
+
+## [981bd65] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/pages/CustomLogin.jsx
+
+## [3a1682a] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 6 (6 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: base44/entities/iPadCommand.jsonc, base44/entities/iPadSession.jsonc, base44/functions/iPadVersionControl/entry.ts, index.html, src/pages/AdminiPadController.jsx (+1 more)
+
+## [18612a7] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/dashboard/PremiumCalendar.jsx
+
+## [ad879b0] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 7 (7 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: base44/entities/RoomLightingLayout.jsonc, src/components/dashboard/PremiumCalendar.jsx, src/components/ipad/CircularThermostat.jsx, src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingCanvas.jsx (+2 more)
+
+## [ae210dd] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 5 (5 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/Sidebar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx, src/components/ui/FloatingPanel.jsx, src/pages/AdminDashboard.jsx
+
+## [1c572b9] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 8 (8 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/components/ipad/BackgroundLayer.jsx, src/components/ipad/CircularThermostat.jsx, src/components/ipad/InSessionScreen.jsx (+3 more)
+
+## [c2e8650] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 4 (4 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx, src/pages/AdminDashboard.jsx
+
+## [9098ede] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 2 (2 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/ipad/InSessionScreen.jsx, src/components/ipad/WelcomeScreen.jsx
+
+## [c323e33] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/Sidebar.jsx
+
+## [a32f6aa] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/Sidebar.jsx
+
+## [405ff26] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 4 (4 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/components/dashboard/PremiumCalendar.jsx, src/hooks/useTheme.js
+
+## [d6bc2b0] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 1 (1 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/pages/CustomLogin.jsx
+
+## [e90d8ad] File changes
+**Date:** 2026-04-24 12:21 UTC  
+**Files changed:** 3 (3 NEW, 0 MODIFIED, 0 CONFLICT)  
+**Details:**
+- NEW: src/components/Sidebar.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx

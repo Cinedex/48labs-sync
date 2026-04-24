@@ -12466,12 +12466,13 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-22 05:04 UTC | 3564003
-**Commit:** sync: RoomForm components — refined versions from Claude Code
+## 2026-04-22 05:04 UTC | 923b30e
+**Commit:** sync: marketing components — refined versions from Claude Code
 **Status:** CONFLICT
-**Files:** 2
-  - src/components/RoomForm/RoomStudioPreview.jsx: CONFLICT
-  - src/components/RoomForm/WebsitePreviewCard.jsx: CONFLICT
+**Files:** 3
+  - src/components/MarketingFooter.jsx: CONFLICT
+  - src/components/MarketingHeader.jsx: CONFLICT
+  - src/components/marketing/RoomOperatingHoursDisplay.jsx: CONFLICT
 
 ---
 

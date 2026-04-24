@@ -13044,3 +13044,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: RoomForm components — refined versions from Claude Code
 **Files:** 2 changed | 0× NEW, 0× MODIFIED, 2× CONFLICT
 **CONFLICT:** src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+## 2026-04-22 - 923b30e
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files:** 3 changed | 0× NEW, 0× MODIFIED, 3× CONFLICT
+**CONFLICT:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx

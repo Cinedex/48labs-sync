@@ -1,3 +1,54 @@
+
+- **2026-04-22** | commit: `dcb2a8e` | 3 new, 32 modified | merge: bring staging sync commits into main (Phase 3 design sync)
+- **2026-04-22** | commit: `aa4661f` | 0 new, 6 modified | sync: website booking and auth pages — refined versions from Claude Code
+- **2026-04-22** | commit: `f19cdf0` | 0 new, 4 modified | sync: website marketing pages — refined versions from Claude Code
+- **2026-04-22** | commit: `22cdea7` | 0 new, 1 modified | sync: BookingFlow.jsx — refined version from Claude Code
+- **2026-04-22** | commit: `3885333` | 0 new, 3 modified | sync: dashboard and iPad components — refined versions from Claude Code
+- **2026-04-22** | commit: `3564003` | 0 new, 2 modified | sync: RoomForm components — refined versions from Claude Code
+- **2026-04-22** | commit: `923b30e` | 0 new, 3 modified | sync: marketing components — refined versions from Claude Code
+- **2026-04-22** | commit: `18e25d2` | 0 new, 2 modified | sync: booking components — refined versions from Claude Code
+- **2026-04-22** | commit: `762ca5e` | 0 new, 10 modified | sync: UI primitives — refined versions from Claude Code
+- **2026-04-20** | commit: `47b2dd6` | 3 new, 1 modified | feat: move design site to cloudflare pages
+- **2026-04-16** | commit: `5b06f15` | 1 new, 2 modified | Update base44 packages
+- **2026-04-12** | commit: `725cf75` | 0 new, 2 modified | Update base44 packages
+- **2026-04-12** | commit: `fe64f26` | 2 new, 3 modified | File changes
+- **2026-04-12** | commit: `62d1e6a` | 0 new, 2 modified | File changes
+- **2026-04-12** | commit: `eb00c62` | 0 new, 4 modified | File changes
+- **2026-04-12** | commit: `fe80272` | 7 new, 0 modified | File changes
+- **2026-04-12** | commit: `cc98d28` | 0 new, 6 modified | File changes
+- **2026-04-12** | commit: `e2e0de2` | 0 new, 1 modified | File changes
+- **2026-04-12** | commit: `96400df` | 0 new, 3 modified | File changes
+- **2026-04-12** | commit: `e4b13f4` | 0 new, 1 modified | File changes
+- **2026-04-12** | commit: `0a8d94c` | 0 new, 2 modified | File changes
+- **2026-04-12** | commit: `0ddc514` | 0 new, 3 modified | File changes
+- **2026-04-12** | commit: `01ef5f4` | 0 new, 1 modified | File changes
+- **2026-04-12** | commit: `cc795b7` | 0 new, 4 modified | File changes
+- **2026-04-12** | commit: `e9c7dad` | 0 new, 4 modified | File changes
+- **2026-04-12** | commit: `dc5b801` | 0 new, 3 modified | File changes
+- **2026-04-11** | commit: `1aec1f9` | 0 new, 1 modified | File changes
+- **2026-04-11** | commit: `3f83184` | 0 new, 7 modified | File changes
+- **2026-04-11** | commit: `0e0a4d2` | 0 new, 1 modified | File changes
+- **2026-04-11** | commit: `7e2cf42` | 2 new, 4 modified | File changes
+- **2026-04-11** | commit: `ca56f4c` | 0 new, 3 modified | File changes
+- **2026-04-11** | commit: `7bd3f84` | 0 new, 3 modified | File changes
+- **2026-04-11** | commit: `5756d26` | 0 new, 3 modified | File changes
+- **2026-04-11** | commit: `b3b4a95` | 0 new, 3 modified | File changes
+- **2026-04-11** | commit: `442a4aa` | 0 new, 4 modified | File changes
+- **2026-04-11** | commit: `d4df16b` | 1 new, 1 modified | File changes
+- **2026-04-11** | commit: `d37f541` | 0 new, 5 modified | File changes
+- **2026-04-11** | commit: `981bd65` | 0 new, 1 modified | File changes
+- **2026-04-11** | commit: `3a1682a` | 2 new, 4 modified | File changes
+- **2026-04-11** | commit: `18612a7` | 0 new, 1 modified | File changes
+- **2026-04-11** | commit: `ad879b0` | 3 new, 4 modified | File changes
+- **2026-04-11** | commit: `ae210dd` | 1 new, 4 modified | File changes
+- **2026-04-11** | commit: `1c572b9` | 2 new, 6 modified | File changes
+- **2026-04-11** | commit: `c2e8650` | 0 new, 4 modified | File changes
+- **2026-04-11** | commit: `9098ede` | 0 new, 2 modified | File changes
+- **2026-04-11** | commit: `c323e33` | 0 new, 1 modified | File changes
+- **2026-04-11** | commit: `a32f6aa` | 0 new, 1 modified | File changes
+- **2026-04-11** | commit: `405ff26` | 0 new, 4 modified | File changes
+- **2026-04-11** | commit: `d6bc2b0` | 0 new, 1 modified | File changes
+- **2026-04-11** | commit: `e90d8ad` | 0 new, 3 modified | File changes
 ## 2026-04-22 | dcb2a8e9
 
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)

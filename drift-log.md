@@ -13203,3 +13203,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** File changes
 **Files:** 5 changed | 0× NEW, 4× MODIFIED, 1× CONFLICT
 **CONFLICT:** src/components/ui/FloatingPanel.jsx
+
+## 2026-04-11 - 1c572b9
+**Message:** File changes
+**Files:** 8 changed | 2× NEW, 6× MODIFIED, 0× CONFLICT
+**NEW:** src/components/ipad/BackgroundLayer.jsx, src/components/ipad/CircularThermostat.jsx

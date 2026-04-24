@@ -14034,3 +14034,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: website marketing pages — refined versions from Claude Code
 **Files Changed:** 4
 **Classification:** 0× NEW, 0× MODIFIED, 4× CONFLICT
+
+## 2026-04-22 | 22cdea7
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files Changed:** 1
+**Classification:** 0× NEW, 0× MODIFIED, 1× CONFLICT

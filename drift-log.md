@@ -15192,3 +15192,53 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 - src/hooks/useTheme.js
 - src/pages/AdminDashboard.jsx
 
+
+### 2026-04-22 | dcb2a8e9
+**Commit:** dcb2a8e911e5ed365732b984c6e920f1ced3d844
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files Changed:** 35 (0× CONFLICT, 35× NEW)
+
+### 2026-04-22 | aa4661f4
+**Commit:** aa4661f4b14bfb0d815b78f4a1206cd07a2810f4
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files Changed:** 6 (0× CONFLICT, 6× NEW)
+
+### 2026-04-22 | f19cdf03
+**Commit:** f19cdf0381be3ceebc40ae98c2bc71f92148d855
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files Changed:** 4 (0× CONFLICT, 4× NEW)
+
+### 2026-04-22 | 22cdea70
+**Commit:** 22cdea70afd9f763b36b3e1941e366c04b97b1e6
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files Changed:** 1 (0× CONFLICT, 1× NEW)
+
+### 2026-04-22 | 38853339
+**Commit:** 38853339f47e5b2ddcd23a205c40cb228fcd8dc1
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files Changed:** 3 (0× CONFLICT, 3× NEW)
+
+### 2026-04-22 | 3564003b
+**Commit:** 3564003baf53a0ced6da5c5c49941f4d09c8082d
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files Changed:** 2 (0× CONFLICT, 2× NEW)
+
+### 2026-04-22 | 923b30e2
+**Commit:** 923b30e2efc07529a161d81258b6bbda8daba496
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files Changed:** 3 (0× CONFLICT, 3× NEW)
+
+### 2026-04-22 | 18e25d25
+**Commit:** 18e25d254af8ee8569479173206fb9ea19d0382c
+**Message:** sync: booking components — refined versions from Claude Code
+**Files Changed:** 2 (0× CONFLICT, 2× NEW)
+
+### 2026-04-22 | 762ca5e0
+**Commit:** 762ca5e09a65dd464932fe352920a4faacbfa0bc
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files Changed:** 10 (0× CONFLICT, 10× NEW)
+
+### 2026-04-20 | 47b2dd66
+**Commit:** 47b2dd66260b5c9585f2b3c5cde7da1a130183f5
+**Message:** feat: move design site to cloudflare pages
+**Files Changed:** 4 (0× CONFLICT, 4× NEW)

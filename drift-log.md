@@ -12466,4 +12466,31 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
+## 2026-04-22 15:33 UTC | dcb2a8e
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Status:** CONFLICT
+**Files:** 35
+  - package.json: MODIFIED
+  - project.config.json: MODIFIED
+  - public/_redirects: MODIFIED
+  - scripts/deploy-guard.mjs: MODIFIED
+  - src/components/MarketingFooter.jsx: CONFLICT
+  - src/components/MarketingHeader.jsx: CONFLICT
+  - src/components/RoomForm/RoomStudioPreview.jsx: CONFLICT
+  - src/components/RoomForm/WebsitePreviewCard.jsx: CONFLICT
+  - src/components/booking/BookingDateTimeStep.jsx: CONFLICT
+  - src/components/booking/ClientSelectStep.jsx: CONFLICT
+  - src/components/dashboard/MonthCalendar.jsx: CONFLICT
+  - src/components/ipad/FiveMinWarning.jsx: CONFLICT
+  - src/components/ipad/ThankYouScreen.jsx: CONFLICT
+  - src/components/marketing/RoomOperatingHoursDisplay.jsx: CONFLICT
+  - src/components/ui/EmptyState.jsx: CONFLICT
+  - src/components/ui/FilterPills.jsx: CONFLICT
+  - src/components/ui/PortalDrawer.jsx: CONFLICT
+  - src/components/ui/PortalTable.jsx: CONFLICT
+  - src/components/ui/SearchInput.jsx: CONFLICT
+  - src/components/ui/SegmentedControl.jsx: CONFLICT
+  ... and 15 more files
+
+---
 

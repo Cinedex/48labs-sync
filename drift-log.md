@@ -12466,11 +12466,16 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-11 16:46 UTC | 981bd65
+## 2026-04-11 16:45 UTC | 3a1682a
 **Commit:** File changes
 **Status:** MODIFIED
-**Files:** 1
-  - src/pages/CustomLogin.jsx: MODIFIED
+**Files:** 6
+  - base44/entities/iPadCommand.jsonc: MODIFIED
+  - base44/entities/iPadSession.jsonc: MODIFIED
+  - base44/functions/iPadVersionControl/entry.ts: MODIFIED
+  - index.html: MODIFIED
+  - src/pages/AdminiPadController.jsx: MODIFIED
+  - src/pages/StudioController.jsx: MODIFIED
 
 ---
 

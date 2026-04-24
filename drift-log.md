@@ -11127,3 +11127,152 @@
 **Classification:** 0× NEW | 3× MODIFIED | 0× CONFLICT
 - **MODIFIED:** src/components/Sidebar.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx
 
+
+### Commit: dcb2a8e
+
+**Date:** 2026-04-22T15:33:13Z
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files Changed:** 35
+**Classification:** 3 new, 1 modified, 31 conflict
+
+---
+
+
+### Commit: aa4661f
+
+**Date:** 2026-04-22T05:04:47Z
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files Changed:** 6
+**Classification:** 0 new, 0 modified, 6 conflict
+
+---
+
+
+### Commit: f19cdf0
+
+**Date:** 2026-04-22T05:04:42Z
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files Changed:** 4
+**Classification:** 0 new, 0 modified, 4 conflict
+
+---
+
+
+### Commit: 22cdea7
+
+**Date:** 2026-04-22T05:04:36Z
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files Changed:** 1
+**Classification:** 0 new, 0 modified, 1 conflict
+
+---
+
+
+### Commit: 3885333
+
+**Date:** 2026-04-22T05:04:31Z
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files Changed:** 3
+**Classification:** 0 new, 0 modified, 3 conflict
+
+---
+
+
+### Commit: 3564003
+
+**Date:** 2026-04-22T05:04:23Z
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files Changed:** 2
+**Classification:** 0 new, 0 modified, 2 conflict
+
+---
+
+
+### Commit: 923b30e
+
+**Date:** 2026-04-22T05:04:19Z
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files Changed:** 3
+**Classification:** 0 new, 0 modified, 3 conflict
+
+---
+
+
+### Commit: 18e25d2
+
+**Date:** 2026-04-22T05:04:15Z
+**Message:** sync: booking components — refined versions from Claude Code
+**Files Changed:** 2
+**Classification:** 0 new, 0 modified, 2 conflict
+
+---
+
+
+### Commit: 762ca5e
+
+**Date:** 2026-04-22T05:04:10Z
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files Changed:** 10
+**Classification:** 0 new, 0 modified, 10 conflict
+
+---
+
+
+### Commit: 47b2dd6
+
+**Date:** 2026-04-20T04:07:52Z
+**Message:** feat: move design site to cloudflare pages
+**Files Changed:** 4
+**Classification:** 3 new, 1 modified, 0 conflict
+
+---
+
+
+### Commit: 5b06f15
+
+**Date:** 2026-04-16T15:28:29Z
+**Message:** Update base44 packages
+**Files Changed:** 3
+**Classification:** 1 new, 2 modified, 0 conflict
+
+---
+
+
+### Commit: 725cf75
+
+**Date:** 2026-04-12T15:14:18Z
+**Message:** Update base44 packages
+**Files Changed:** 2
+**Classification:** 0 new, 2 modified, 0 conflict
+
+---
+
+
+### Commit: fe64f26
+
+**Date:** 2026-04-12T01:46:59Z
+**Message:** File changes
+**Files Changed:** 5
+**Classification:** 2 new, 3 modified, 0 conflict
+
+---
+
+
+### Commit: 62d1e6a
+
+**Date:** 2026-04-12T01:42:54Z
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0 new, 2 modified, 0 conflict
+
+---
+
+
+### Commit: eb00c62
+
+**Date:** 2026-04-12T01:40:38Z
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 0 new, 4 modified, 0 conflict
+
+---

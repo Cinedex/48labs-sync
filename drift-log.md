@@ -14059,3 +14059,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: booking components — refined versions from Claude Code
 **Files Changed:** 2
 **Classification:** 0× NEW, 0× MODIFIED, 2× CONFLICT
+
+## 2026-04-22 | 762ca5e
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files Changed:** 10
+**Classification:** 0× NEW, 0× MODIFIED, 10× CONFLICT

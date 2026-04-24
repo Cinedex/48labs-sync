@@ -13029,3 +13029,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: website marketing pages — refined versions from Claude Code
 **Files:** 4 changed | 0× NEW, 0× MODIFIED, 4× CONFLICT
 **CONFLICT:** src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx (+1 more)
+
+## 2026-04-22 - 22cdea7
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files:** 1 changed | 0× NEW, 0× MODIFIED, 1× CONFLICT
+**CONFLICT:** src/pages/BookingFlow.jsx

@@ -19008,3 +19008,43 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 - `src/hooks/useTheme.js` (MODIFIED)
 - `src/pages/AdminDashboard.jsx` (MODIFIED)
 
+
+### 2026-04-20 | 47b2dd6
+**Message:** feat: move design site to cloudflare pages
+**Files Changed:** 4 (NEW: 0, MODIFIED: 4, CONFLICT: 0)
+
+### 2026-04-22 | 762ca5e
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files Changed:** 10 (NEW: 0, MODIFIED: 10, CONFLICT: 0)
+
+### 2026-04-22 | 18e25d2
+**Message:** sync: booking components — refined versions from Claude Code
+**Files Changed:** 2 (NEW: 0, MODIFIED: 2, CONFLICT: 0)
+
+### 2026-04-22 | 923b30e
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files Changed:** 3 (NEW: 0, MODIFIED: 3, CONFLICT: 0)
+
+### 2026-04-22 | 3564003
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files Changed:** 2 (NEW: 0, MODIFIED: 2, CONFLICT: 0)
+
+### 2026-04-22 | 3885333
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files Changed:** 3 (NEW: 0, MODIFIED: 3, CONFLICT: 0)
+
+### 2026-04-22 | 22cdea7
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files Changed:** 1 (NEW: 0, MODIFIED: 1, CONFLICT: 0)
+
+### 2026-04-22 | f19cdf0
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files Changed:** 4 (NEW: 0, MODIFIED: 4, CONFLICT: 0)
+
+### 2026-04-22 | aa4661f
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files Changed:** 6 (NEW: 0, MODIFIED: 6, CONFLICT: 0)
+
+### 2026-04-22 | dcb2a8e
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files Changed:** 35 (NEW: 0, MODIFIED: 35, CONFLICT: 0)

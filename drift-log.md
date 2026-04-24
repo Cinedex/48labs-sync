@@ -13013,3 +13013,9 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Files changed:** 35
 
 **Classification:** 3× NEW, 8× MODIFIED, 24× CONFLICT
+
+## 2026-04-22 - dcb2a8e
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files:** 35 changed | 3× NEW, 1× MODIFIED, 31× CONFLICT
+**NEW:** project.config.json, public/_redirects, scripts/deploy-guard.mjs
+**CONFLICT:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx (+28 more)

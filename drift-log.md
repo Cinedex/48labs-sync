@@ -12466,17 +12466,16 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-12 01:37 UTC | fe80272
+## 2026-04-12 01:29 UTC | cc98d28
 **Commit:** File changes
 **Status:** MODIFIED
-**Files:** 7
-  - src/contracts/schema/enums.json: MODIFIED
-  - src/contracts/schema/relationships.json: MODIFIED
-  - src/contracts/schema/tables.json: MODIFIED
-  - src/database/MIGRATION_REPORT.md: MODIFIED
-  - src/database/mappings/base44-map.ts: MODIFIED
-  - src/database/supabase/schema.sql: MODIFIED
-  - src/database/types/schema.ts: MODIFIED
+**Files:** 6
+  - base44/entities/RoomLightingLayout.jsonc: MODIFIED
+  - base44/entities/iPadCommand.jsonc: MODIFIED
+  - src/components/ipad/InSessionScreen.jsx: MODIFIED
+  - src/components/ipad/LightingCanvas.jsx: MODIFIED
+  - src/components/ipad/LightingPanel.jsx: MODIFIED
+  - src/components/ipad/MasterIPadView.jsx: MODIFIED
 
 ---
 

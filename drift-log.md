@@ -1,17 +1,15 @@
-
-
 ## 2026-04-22 15:33 UTC — dcb2a8e
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)
 **Files Changed:** 35
 **Classification:** 3× NEW | 32× MODIFIED | 0× CONFLICT
 - **NEW:** project.config.json, public/_redirects, scripts/deploy-guard.mjs
-- **MODIFIED:** package.json, src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx, src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx, src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx, src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx, src/components/ui/SegmentedControl.jsx, src/components/ui/SettingCard.jsx, src/components/ui/Spinner.jsx, src/components/ui/TabBar.jsx, src/components/ui/button.jsx, src/pages/BookingFlow.jsx, src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/Landing.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx, src/pages/UnifiedCheckout.jsx
+- **MODIFIED:** package.json, src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx (+27 more)
 
 ## 2026-04-22 05:04 UTC — aa4661f
 **Message:** sync: website booking and auth pages — refined versions from Claude Code
 **Files Changed:** 6
 **Classification:** 0× NEW | 6× MODIFIED | 0× CONFLICT
-- **MODIFIED:** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx, src/pages/UnifiedCheckout.jsx
+- **MODIFIED:** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx (+1 more)
 
 ## 2026-04-22 05:04 UTC — f19cdf0
 **Message:** sync: website marketing pages — refined versions from Claude Code
@@ -53,7 +51,7 @@
 **Message:** sync: UI primitives — refined versions from Claude Code
 **Files Changed:** 10
 **Classification:** 0× NEW | 10× MODIFIED | 0× CONFLICT
-- **MODIFIED:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx, src/components/ui/SegmentedControl.jsx, src/components/ui/SettingCard.jsx, src/components/ui/Spinner.jsx, src/components/ui/TabBar.jsx, src/components/ui/button.jsx
+- **MODIFIED:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)
 
 ## 2026-04-20 04:07 UTC — 47b2dd6
 **Message:** feat: move design site to cloudflare pages
@@ -98,13 +96,13 @@
 **Message:** File changes
 **Files Changed:** 7
 **Classification:** 7× NEW | 0× MODIFIED | 0× CONFLICT
-- **NEW:** src/contracts/schema/enums.json, src/contracts/schema/relationships.json, src/contracts/schema/tables.json (+4 more)
+- **NEW:** src/contracts/schema/enums.json, src/contracts/schema/relationships.json, src/contracts/schema/tables.json, src/database/MIGRATION_REPORT.md, src/database/mappings/base44-map.ts (+2 more)
 
 ## 2026-04-12 01:29 UTC — cc98d28
 **Message:** File changes
 **Files Changed:** 6
 **Classification:** 0× NEW | 6× MODIFIED | 0× CONFLICT
-- **MODIFIED:** base44/entities/RoomLightingLayout.jsonc, base44/entities/iPadCommand.jsonc, src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx, src/components/ipad/MasterIPadView.jsx
+- **MODIFIED:** base44/entities/RoomLightingLayout.jsonc, base44/entities/iPadCommand.jsonc, src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx (+1 more)
 
 ## 2026-04-12 01:22 UTC — e2e0de2
 **Message:** File changes
@@ -170,7 +168,7 @@
 **Message:** File changes
 **Files Changed:** 7
 **Classification:** 0× NEW | 7× MODIFIED | 0× CONFLICT
-- **MODIFIED:** src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/FloatingDayPanel.jsx, src/components/dashboard/SessionTimelineCard.jsx, src/hooks/useTheme.js, src/index.css, tailwind.config.js
+- **MODIFIED:** src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/FloatingDayPanel.jsx, src/components/dashboard/SessionTimelineCard.jsx, src/hooks/useTheme.js (+2 more)
 
 ## 2026-04-11 23:22 UTC — 0e0a4d2
 **Message:** File changes
@@ -266,7 +264,7 @@
 **Files Changed:** 8
 **Classification:** 2× NEW | 6× MODIFIED | 0× CONFLICT
 - **NEW:** src/components/ipad/BackgroundLayer.jsx, src/components/ipad/CircularThermostat.jsx
-- **MODIFIED:** base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/components/ipad/InSessionScreen.jsx, src/components/ipad/WelcomeScreen.jsx, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+- **MODIFIED:** base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/components/ipad/InSessionScreen.jsx, src/components/ipad/WelcomeScreen.jsx, src/pages/AdminiPadController.jsx (+1 more)
 
 ## 2026-04-11 06:36 UTC — c2e8650
 **Message:** File changes

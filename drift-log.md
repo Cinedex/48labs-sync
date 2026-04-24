@@ -1,3 +1,724 @@
+## 2026-04-04 | abdad2a
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 4 file(s)
+
+**Files Changed (4):**
+- src/components/AdminLayout.jsx (MODIFIED)
+- src/components/PortalTopBar.jsx (MODIFIED)
+- src/pages/AdminAccessControl.jsx (MODIFIED)
+- src/pages/AdminUsers.jsx (MODIFIED)
+
+---
+## 2026-04-06 | 86755ec
+
+**Message:** File changes
+
+**Classification:** NEW: 3 file(s) | MODIFIED: 1 file(s)
+
+**Files Changed (4):**
+- src/components/ipad/ClimateDetailPanel.jsx (ADDED)
+- src/components/ipad/HelpSupportPanel.jsx (ADDED)
+- src/components/ipad/InSessionScreen.jsx (MODIFIED)
+- src/components/ipad/LightingPanel.jsx (ADDED)
+
+---
+## 2026-04-06 | 08460b3
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 2 file(s)
+
+**Files Changed (2):**
+- src/components/ipad/InSessionScreen.jsx (MODIFIED)
+- src/components/ipad/LightingPanel.jsx (MODIFIED)
+
+---
+## 2026-04-06 | 0f0833b
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 4 file(s)
+
+**Files Changed (4):**
+- src/components/PortalTopBar.jsx (MODIFIED)
+- src/pages/AdminBookingsManager.jsx (MODIFIED)
+- src/pages/AdminClients.jsx (MODIFIED)
+- src/pages/AdminPricing.jsx (MODIFIED)
+
+---
+## 2026-04-06 | 9ad09a8
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 9 file(s)
+
+**Files Changed (9):**
+- src/pages/AdminAddOns.jsx (MODIFIED)
+- src/pages/AdminBranding.jsx (MODIFIED)
+- src/pages/AdminDashboard.jsx (MODIFIED)
+- src/pages/AdminEmailDesigns.jsx (MODIFIED)
+- src/pages/AdminInvoices.jsx (MODIFIED)
+- src/pages/AdminPortalSettings.jsx (MODIFIED)
+- src/pages/AdminPricingDashboard.jsx (MODIFIED)
+- src/pages/AdminRooms.jsx (MODIFIED)
+- src/pages/AdminSettings.jsx (MODIFIED)
+
+---
+## 2026-04-06 | 55794f4
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 1 file(s)
+
+**Files Changed (1):**
+- src/pages/AdminBranding.jsx (MODIFIED)
+
+---
+## 2026-04-06 | d4afd2f
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 6 file(s)
+
+**Files Changed (7):**
+- base44/entities/AppSetting.jsonc (MODIFIED)
+- base44/entities/Booking.jsonc (MODIFIED)
+- base44/functions/syncBookingToGoogleCalendar/entry.ts (MODIFIED)
+- base44/functions/syncGoogleCalendarToPortal/entry.ts (MODIFIED)
+- src/components/dashboard/MasterCalendarEmbed.jsx (ADDED)
+- src/pages/AdminBranding.jsx (MODIFIED)
+- src/pages/AdminDashboard.jsx (MODIFIED)
+
+---
+## 2026-04-06 | efc55f0
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 1 file(s)
+
+**Files Changed (1):**
+- src/components/Sidebar.jsx (MODIFIED)
+
+---
+## 2026-04-06 | 8373550
+
+**Message:** File changes
+
+**Classification:** NEW: 6 file(s) | MODIFIED: 6 file(s)
+
+**Files Changed (12):**
+- src/components/ui/EmptyState.jsx (ADDED)
+- src/components/ui/FilterPills.jsx (ADDED)
+- src/components/ui/PortalTable.jsx (MODIFIED)
+- src/components/ui/SearchInput.jsx (ADDED)
+- src/components/ui/SettingCard.jsx (ADDED)
+- src/components/ui/Spinner.jsx (ADDED)
+- src/lib/status-styles.jsx (ADDED)
+- src/pages/AdminBookingsManager.jsx (MODIFIED)
+- src/pages/AdminClients.jsx (MODIFIED)
+- src/pages/AdminFinancialDashboard.jsx (MODIFIED)
+- src/pages/AdminInvoices.jsx (MODIFIED)
+- src/pages/AdminSettings.jsx (MODIFIED)
+
+---
+## 2026-04-06 | d55de2b
+
+**Message:** File changes
+
+**Classification:** NEW: 2 file(s) | MODIFIED: 11 file(s)
+
+**Files Changed (13):**
+- src/components/AdminLayout.jsx (MODIFIED)
+- src/components/AdminSectionNav.jsx (ADDED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/components/dashboard/NativeCalendar.jsx (ADDED)
+- src/pages/AdminAgreements.jsx (MODIFIED)
+- src/pages/AdminBookingsManager.jsx (MODIFIED)
+- src/pages/AdminClients.jsx (MODIFIED)
+- src/pages/AdminDashboard.jsx (MODIFIED)
+- src/pages/AdminFinancialDashboard.jsx (MODIFIED)
+- src/pages/AdminForms.jsx (MODIFIED)
+- src/pages/AdminInvoices.jsx (MODIFIED)
+- src/pages/AdminPricingDashboard.jsx (MODIFIED)
+- src/pages/AdminSettings.jsx (MODIFIED)
+
+---
+## 2026-04-06 | 43b719b
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 8 file(s)
+
+**Files Changed (9):**
+- src/components/AdminLayout.jsx (MODIFIED)
+- src/components/AdminSectionNav.jsx (REMOVED)
+- src/components/PortalTopBar.jsx (MODIFIED)
+- src/components/financial/FinancialTabs.jsx (REMOVED)
+- src/components/ui/SegmentedControl.jsx (ADDED)
+- src/pages/AdminBookingsManager.jsx (MODIFIED)
+- src/pages/AdminFinancialDashboard.jsx (MODIFIED)
+- src/pages/AdminInvoices.jsx (MODIFIED)
+- src/pages/AdminPricingDashboard.jsx (MODIFIED)
+
+---
+## 2026-04-07 | c7f2422
+
+**Message:** File changes
+
+**Classification:** NEW: 2 file(s) | MODIFIED: 9 file(s)
+
+**Files Changed (11):**
+- src/components/Sidebar.jsx (MODIFIED)
+- src/components/booking/ClientSelectStep.jsx (MODIFIED)
+- src/components/dashboard/MonthCalendar.jsx (ADDED)
+- src/components/ui/TabBar.jsx (ADDED)
+- src/pages/AdminBookNewSession.jsx (MODIFIED)
+- src/pages/AdminBookingsManager.jsx (MODIFIED)
+- src/pages/AdminDashboard.jsx (MODIFIED)
+- src/pages/AdminFinancialDashboard.jsx (MODIFIED)
+- src/pages/AdminIntegrations.jsx (MODIFIED)
+- src/pages/AdminInvoices.jsx (MODIFIED)
+- src/pages/AdminPricingDashboard.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 72c94f4
+
+**Message:** File changes
+
+**Classification:** NEW: 4 file(s) | MODIFIED: 6 file(s)
+
+**Files Changed (10):**
+- base44/entities/Booking.jsonc (MODIFIED)
+- base44/entities/Room.jsonc (MODIFIED)
+- src/components/AdminRoomEditor.jsx (MODIFIED)
+- src/components/BookingFlowSteps.jsx (MODIFIED)
+- src/components/RoomForm/PricingAdvisorPanel.jsx (ADDED)
+- src/components/RoomForm/PricingSection.jsx (MODIFIED)
+- src/components/booking/BookingDateTimeStep.jsx (ADDED)
+- src/components/booking/MultiDayRangePicker.jsx (ADDED)
+- src/lib/multi-day-pricing.js (ADDED)
+- src/pages/AdminBookNewSession.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 0aa884a
+
+**Message:** File changes
+
+**Classification:** NEW: 4 file(s) | MODIFIED: 6 file(s)
+
+**Files Changed (10):**
+- base44/entities/MarketingMedia.jsonc (ADDED)
+- src/App.jsx (MODIFIED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/components/marketing/StudioTourCTA.jsx (ADDED)
+- src/hooks/useMarketingMedia.js (ADDED)
+- src/pages/About.jsx (REMOVED)
+- src/pages/AdminMarketingMedia.jsx (ADDED)
+- src/pages/Contact.jsx (REMOVED)
+- src/pages/Landing.jsx (MODIFIED)
+- src/pages/Studios.jsx (REMOVED)
+
+---
+## 2026-04-07 | e174e92
+
+**Message:** File changes
+
+**Classification:** NEW: 5 file(s) | MODIFIED: 4 file(s)
+
+**Files Changed (9):**
+- base44/entities/EmailCampaign.jsonc (ADDED)
+- src/App.jsx (MODIFIED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/pages/About.jsx (ADDED)
+- src/pages/AdminAgreements.jsx (MODIFIED)
+- src/pages/AdminCampaigns.jsx (ADDED)
+- src/pages/AdminEmailDesigns.jsx (MODIFIED)
+- src/pages/Contact.jsx (ADDED)
+- src/pages/Studios.jsx (ADDED)
+
+---
+## 2026-04-07 | 0fcbeb0
+
+**Message:** File changes
+
+**Classification:** NEW: 4 file(s) | MODIFIED: 5 file(s)
+
+**Files Changed (9):**
+- base44/entities/SyncReviewItem.jsonc (ADDED)
+- base44/functions/approveSyncItem/entry.ts (ADDED)
+- base44/functions/processGoogleSyncEvents/entry.ts (ADDED)
+- base44/functions/syncBookingToGoogleCalendar/entry.ts (MODIFIED)
+- base44/functions/syncGoogleCalendarToPortal/entry.ts (MODIFIED)
+- src/App.jsx (MODIFIED)
+- src/components/BookingDetailDrawer.jsx (MODIFIED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/pages/AdminSyncQueue.jsx (ADDED)
+
+---
+## 2026-04-07 | 2263821
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 5 file(s)
+
+**Files Changed (6):**
+- base44/entities/OperatingHours.jsonc (MODIFIED)
+- src/App.jsx (MODIFIED)
+- src/components/admin/OperatingHoursGrid.jsx (ADDED)
+- src/pages/AdminBranding.jsx (MODIFIED)
+- src/pages/AdminEmailDesigns.jsx (MODIFIED)
+- src/pages/AdminOperatingHours.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 0208c32
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 7 file(s)
+
+**Files Changed (8):**
+- base44/entities/AppSetting.jsonc (MODIFIED)
+- src/App.jsx (MODIFIED)
+- src/components/MarketingFooter.jsx (MODIFIED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/pages/About.jsx (MODIFIED)
+- src/pages/AdminSocialLinks.jsx (ADDED)
+- src/pages/DynamicCreditsPage.jsx (MODIFIED)
+- src/pages/DynamicMembershipsPage.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 56830b4
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 2 file(s)
+
+**Files Changed (2):**
+- src/components/AdminLayout.jsx (MODIFIED)
+- src/pages/AdminMarketingMedia.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 61e218e
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 1 file(s)
+
+**Files Changed (1):**
+- src/pages/AdminMarketingMedia.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 313aca7
+
+**Message:** File changes
+
+**Classification:** NEW: 3 file(s) | MODIFIED: 2 file(s)
+
+**Files Changed (5):**
+- src/App.jsx (MODIFIED)
+- src/components/agreements/AICreationModal.jsx (ADDED)
+- src/components/agreements/AgreementEditor.jsx (ADDED)
+- src/components/agreements/AgreementList.jsx (ADDED)
+- src/pages/AdminAgreements.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 1862d0c
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 2 file(s)
+
+**Files Changed (2):**
+- src/components/admin/OperatingHoursGrid.jsx (MODIFIED)
+- src/pages/AdminOperatingHours.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 676dc16
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 4 file(s)
+
+**Files Changed (5):**
+- src/components/AdminRoomEditor.jsx (MODIFIED)
+- src/components/RoomForm/AddOnsSection.jsx (MODIFIED)
+- src/components/RoomForm/PricingAdvisorPanel.jsx (MODIFIED)
+- src/components/RoomForm/RoomHoursSection.jsx (ADDED)
+- src/components/RoomForm/WebsitePreviewCard.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 636761a
+
+**Message:** File changes
+
+**Classification:** NEW: 5 file(s) | MODIFIED: 3 file(s)
+
+**Files Changed (8):**
+- base44/entities/BookingGuestList.jsonc (ADDED)
+- base44/entities/ClientComplianceRecord.jsonc (ADDED)
+- base44/functions/parseDocumentPDF/entry.ts (ADDED)
+- src/components/client/CompliancePanel.jsx (ADDED)
+- src/components/client/GuestListPanel.jsx (ADDED)
+- src/pages/AdminClientProfile.jsx (MODIFIED)
+- src/pages/ClientBookingHistory.jsx (MODIFIED)
+- src/pages/ClientDashboard.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 6325a20
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 7 file(s)
+
+**Files Changed (8):**
+- base44/entities/Client.jsonc (MODIFIED)
+- base44/functions/sendClientInvite/entry.ts (MODIFIED)
+- src/App.jsx (MODIFIED)
+- src/components/admin/InviteStatusPanel.jsx (ADDED)
+- src/pages/AdminClientProfile.jsx (MODIFIED)
+- src/pages/AdminClients.jsx (MODIFIED)
+- src/pages/EmailVerification.jsx (MODIFIED)
+- src/pages/Register.jsx (REMOVED)
+
+---
+## 2026-04-07 | 56404a8
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 5 file(s)
+
+**Files Changed (6):**
+- base44/entities/Invite.jsonc (MODIFIED)
+- base44/functions/sendClientInvite/entry.ts (MODIFIED)
+- src/App.jsx (MODIFIED)
+- src/components/InviteDrawer.jsx (MODIFIED)
+- src/pages/EmailVerification.jsx (REMOVED)
+- src/pages/Register.jsx (ADDED)
+
+---
+## 2026-04-07 | 2313cac
+
+**Message:** File changes
+
+**Classification:** NEW: 2 file(s) | MODIFIED: 3 file(s)
+
+**Files Changed (5):**
+- src/components/AdminRoomEditor.jsx (MODIFIED)
+- src/components/RoomForm/AddOnsSection.jsx (MODIFIED)
+- src/components/RoomForm/BasicInfoSection.jsx (MODIFIED)
+- src/components/RoomForm/SettingsSection.jsx (ADDED)
+- src/pages/EmailVerification.jsx (ADDED)
+
+---
+## 2026-04-07 | 5e843f1
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 1 file(s)
+
+**Files Changed (1):**
+- src/App.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 252350b
+
+**Message:** File changes
+
+**Classification:** NEW: 11 file(s) | MODIFIED: 1 file(s)
+
+**Files Changed (12):**
+- base44/functions/auditClientAuthFlow/entry.ts (ADDED)
+- base44/functions/getClientAuthStatus/entry.ts (ADDED)
+- base44/functions/manageInvites/entry.ts (ADDED)
+- base44/functions/sendVerificationEmail/entry.ts (MODIFIED)
+- src/AUTH_QA_TEST_REPORT.md (ADDED)
+- src/COMPLETE_AUTH_SYSTEM_SUMMARY.md (ADDED)
+- src/DEPLOYMENT_CHECKLIST.md (ADDED)
+- src/IMPLEMENTATION_SUMMARY.md (ADDED)
+- src/QA_TEST_SCENARIOS.md (ADDED)
+- src/SYSTEM_ARCHITECTURE.md (ADDED)
+- src/components/EnhancedInviteDrawer.jsx (ADDED)
+- src/components/admin/InviteManagementPanel.jsx (ADDED)
+
+---
+## 2026-04-07 | f0d8bd5
+
+**Message:** File changes
+
+**Classification:** NEW: 2 file(s) | MODIFIED: 5 file(s)
+
+**Files Changed (7):**
+- src/STUDIO_EDIT_REDESIGN_REPORT.md (ADDED)
+- src/components/AdminRoomEditor.jsx (MODIFIED)
+- src/components/RoomForm/AddOnsSection.jsx (MODIFIED)
+- src/components/RoomForm/BasicInfoSection.jsx (MODIFIED)
+- src/components/RoomForm/PricingSection.jsx (MODIFIED)
+- src/components/RoomForm/RoomStudioPreview.jsx (ADDED)
+- src/components/RoomForm/SettingsSection.jsx (MODIFIED)
+
+---
+## 2026-04-07 | 6667830
+
+**Message:** File changes
+
+**Classification:** NEW: 3 file(s) | MODIFIED: 3 file(s)
+
+**Files Changed (6):**
+- base44/functions/getRoomAvailability/entry.ts (MODIFIED)
+- src/BOOKING_AVAILABILITY_FIX_QA.md (ADDED)
+- src/BOOKING_AVAILABILITY_FIX_SUMMARY.md (ADDED)
+- src/components/booking/BookingDateTimeStep.jsx (MODIFIED)
+- src/components/booking/UnifiedBookingDateTime.jsx (MODIFIED)
+- src/lib/availability-validation.js (ADDED)
+
+---
+## 2026-04-07 | d34c095
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 1 file(s)
+
+**Files Changed (2):**
+- base44/functions/getRoomAvailability/entry.ts (MODIFIED)
+- src/QA_BOOKING_AUDIT_REAL.md (ADDED)
+
+---
+## 2026-04-08 | 2b9498c
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 5 file(s)
+
+**Files Changed (6):**
+- src/components/AdminRoomEditor.jsx (MODIFIED)
+- src/components/marketing/RoomOperatingHoursDisplay.jsx (ADDED)
+- src/lib/multi-day-pricing.js (MODIFIED)
+- src/pages/AdminBookNewSession.jsx (MODIFIED)
+- src/pages/AdminOperatingHours.jsx (MODIFIED)
+- src/pages/RoomProfile.jsx (MODIFIED)
+
+---
+## 2026-04-08 | 8935efc
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 4 file(s)
+
+**Files Changed (4):**
+- src/components/AdminRoomEditor.jsx (MODIFIED)
+- src/components/RoomForm/AddOnsSection.jsx (MODIFIED)
+- src/components/RoomForm/SettingsSection.jsx (MODIFIED)
+- src/pages/AdminRooms.jsx (MODIFIED)
+
+---
+## 2026-04-08 | 7430e45
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 4 file(s)
+
+**Files Changed (5):**
+- src/App.jsx (MODIFIED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/components/bookings/BookingsCalendarView.jsx (MODIFIED)
+- src/pages/AdminBookingsManager.jsx (MODIFIED)
+- src/pages/AdminCalendarSync.jsx (ADDED)
+
+---
+## 2026-04-09 | 1e437a1
+
+**Message:** File changes
+
+**Classification:** NEW: 2 file(s) | MODIFIED: 3 file(s)
+
+**Files Changed (5):**
+- base44/entities/Booking.jsonc (MODIFIED)
+- src/components/booking/BookingStepFooter.jsx (ADDED)
+- src/components/booking/MultiDayPricingEditor.jsx (ADDED)
+- src/components/booking/MultiDayRangePicker.jsx (MODIFIED)
+- src/pages/AdminBookNewSession.jsx (MODIFIED)
+
+---
+## 2026-04-09 | eb1d245
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 3 file(s)
+
+**Files Changed (3):**
+- src/components/booking/BookingDateTimeStep.jsx (MODIFIED)
+- src/lib/multi-day-pricing.js (MODIFIED)
+- src/pages/AdminBookNewSession.jsx (MODIFIED)
+
+---
+## 2026-04-09 | ef48c13
+
+**Message:** File changes
+
+**Classification:** NEW: 4 file(s) | MODIFIED: 2 file(s)
+
+**Files Changed (6):**
+- base44/entities/SharedCalendarToken.jsonc (ADDED)
+- src/App.jsx (MODIFIED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/components/shared-calendar/EventModal.jsx (ADDED)
+- src/pages/AdminSharedCalendarSettings.jsx (ADDED)
+- src/pages/SharedCalendar.jsx (ADDED)
+
+---
+## 2026-04-09 | 03b26f0
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 2 file(s)
+
+**Files Changed (2):**
+- src/components/booking/MultiDayRangePicker.jsx (MODIFIED)
+- src/pages/AdminBookNewSession.jsx (MODIFIED)
+
+---
+## 2026-04-09 | bdaef47
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 4 file(s)
+
+**Files Changed (4):**
+- base44/entities/Invoice.jsonc (MODIFIED)
+- base44/functions/syncBookingToGoogleCalendar/entry.ts (MODIFIED)
+- base44/functions/updateInvoice/entry.ts (MODIFIED)
+- src/components/invoicing/InvoiceDrawer.jsx (MODIFIED)
+
+---
+## 2026-04-09 | af66b4d
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 5 file(s)
+
+**Files Changed (5):**
+- base44/functions/googleCalendarManager/entry.ts (MODIFIED)
+- base44/functions/listCalendarEvents/entry.ts (MODIFIED)
+- base44/functions/onBookingConfirmed/entry.ts (MODIFIED)
+- base44/functions/syncBookingToGoogleCalendar/entry.ts (MODIFIED)
+- base44/functions/syncGoogleCalendarToPortal/entry.ts (MODIFIED)
+
+---
+## 2026-04-10 | b46081c
+
+**Message:** File changes
+
+**Classification:** NEW: 1 file(s) | MODIFIED: 2 file(s)
+
+**Files Changed (3):**
+- src/components/dashboard/CalendarEventDrawer.jsx (ADDED)
+- src/components/dashboard/MonthCalendar.jsx (MODIFIED)
+- src/pages/AdminDashboard.jsx (MODIFIED)
+
+---
+## 2026-04-11 | 7ee5ce4
+
+**Message:** File changes
+
+**Classification:** NEW: 2 file(s) | MODIFIED: 2 file(s)
+
+**Files Changed (4):**
+- src/App.jsx (MODIFIED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/lib/workflow-data.js (ADDED)
+- src/pages/AdminWorkflowMap.jsx (ADDED)
+
+---
+## 2026-04-11 | 8f1d175
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 1 file(s)
+
+**Files Changed (1):**
+- src/components/dashboard/MonthCalendar.jsx (MODIFIED)
+
+---
+## 2026-04-11 | ab283f4
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 2 file(s)
+
+**Files Changed (2):**
+- src/lib/workflow-data.js (MODIFIED)
+- src/pages/AdminWorkflowMap.jsx (MODIFIED)
+
+---
+## 2026-04-11 | b639797
+
+**Message:** File changes
+
+**Classification:** NEW: 2 file(s) | MODIFIED: 4 file(s)
+
+**Files Changed (6):**
+- base44/functions/updateiPadStates/entry.ts (MODIFIED)
+- src/App.jsx (MODIFIED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/hooks/useTheme.js (ADDED)
+- src/pages/AdminNotifications.jsx (ADDED)
+- src/pages/AdminiPadController.jsx (MODIFIED)
+
+---
+## 2026-04-11 | b70252c
+
+**Message:** File changes
+
+**Classification:** NEW: 6 file(s) | MODIFIED: 1 file(s)
+
+**Files Changed (7):**
+- src/components/dashboard/DashboardMetricCard.jsx (ADDED)
+- src/components/dashboard/DashboardSectionCard.jsx (ADDED)
+- src/components/dashboard/FloatingDayPanel.jsx (ADDED)
+- src/components/dashboard/PremiumCalendar.jsx (ADDED)
+- src/components/dashboard/QuickActionButton.jsx (ADDED)
+- src/components/dashboard/SessionTimelineCard.jsx (ADDED)
+- src/pages/AdminDashboard.jsx (MODIFIED)
+
+---
+## 2026-04-11 | 45df480
+
+**Message:** File changes
+
+**Classification:** NEW: 2 file(s) | MODIFIED: 4 file(s)
+
+**Files Changed (6):**
+- src/components/AdminLayout.jsx (MODIFIED)
+- src/components/Sidebar.jsx (MODIFIED)
+- src/components/admin/AdminTopbar.jsx (ADDED)
+- src/components/admin/QuickActionsDropdown.jsx (ADDED)
+- src/hooks/useTheme.js (MODIFIED)
+- src/pages/AdminDashboard.jsx (MODIFIED)
+
+---
+## 2026-04-11 | 133e1a4
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 1 file(s)
+
+**Files Changed (1):**
+- src/pages/AdminWorkflowMap.jsx (MODIFIED)
+
+---
+## 2026-04-11 | eaa2d60
+
+**Message:** File changes
+
+**Classification:** MODIFIED: 2 file(s)
+
+**Files Changed (2):**
+- base44/functions/updateiPadStates/entry.ts (MODIFIED)
+- src/components/ipad/InSessionScreen.jsx (MODIFIED)
+
+---
 - **2026-04-11** | commit: `eaa2d60` | 2 new, 0 modified | File changes
 - **2026-04-11** | commit: `133e1a4` | 1 new, 0 modified | File changes
 - **2026-04-11** | commit: `45df480` | 6 new, 0 modified | File changes

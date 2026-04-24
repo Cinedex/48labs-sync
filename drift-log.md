@@ -348,3 +348,248 @@
 **2026-04-11 | 405ff26 | NEW** | File changes | src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/components/dashboard/PremiumCalendar.jsx, ... (4 total)
 **2026-04-11 | d6bc2b0 | NEW** | File changes | src/pages/CustomLogin.jsx
 **2026-04-11 | e90d8ad | NEW** | File changes | src/components/Sidebar.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx
+
+### dcb2a8e | 2026-04-22T15:33:13Z
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files Changed:** 35
+**Classification:** 3× NEW, 32× MODIFIED, 0× CONFLICT
+
+### aa4661f | 2026-04-22T05:04:47Z
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files Changed:** 6
+**Classification:** 0× NEW, 6× MODIFIED, 0× CONFLICT
+
+### f19cdf0 | 2026-04-22T05:04:42Z
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files Changed:** 4
+**Classification:** 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+### 22cdea7 | 2026-04-22T05:04:36Z
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 3885333 | 2026-04-22T05:04:31Z
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 3564003 | 2026-04-22T05:04:23Z
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files Changed:** 2
+**Classification:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### 923b30e | 2026-04-22T05:04:19Z
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 18e25d2 | 2026-04-22T05:04:15Z
+**Message:** sync: booking components — refined versions from Claude Code
+**Files Changed:** 2
+**Classification:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### 762ca5e | 2026-04-22T05:04:10Z
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files Changed:** 10
+**Classification:** 0× NEW, 10× MODIFIED, 0× CONFLICT
+
+### 47b2dd6 | 2026-04-20T04:07:52Z
+**Message:** feat: move design site to cloudflare pages
+**Files Changed:** 4
+**Classification:** 3× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 725cf75 | 2026-04-12T15:14:18Z
+**Message:** Update base44 packages
+**Files Changed:** 2
+**Classification:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### fe64f26 | 2026-04-12T01:46:59Z
+**Message:** File changes
+**Files Changed:** 5
+**Classification:** 2× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 62d1e6a | 2026-04-12T01:42:54Z
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### eb00c62 | 2026-04-12T01:40:38Z
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+### fe80272 | 2026-04-12T01:37:07Z
+**Message:** File changes
+**Files Changed:** 7
+**Classification:** 7× NEW, 0× MODIFIED, 0× CONFLICT
+
+### cc98d28 | 2026-04-12T01:29:03Z
+**Message:** File changes
+**Files Changed:** 6
+**Classification:** 0× NEW, 6× MODIFIED, 0× CONFLICT
+
+### e2e0de2 | 2026-04-12T01:22:17Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 96400df | 2026-04-12T00:52:59Z
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### e4b13f4 | 2026-04-12T00:49:05Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 0a8d94c | 2026-04-12T00:43:22Z
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### 0ddc514 | 2026-04-12T00:39:19Z
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 01ef5f4 | 2026-04-12T00:30:30Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### cc795b7 | 2026-04-12T00:23:25Z
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+### e9c7dad | 2026-04-12T00:20:40Z
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+### dc5b801 | 2026-04-12T00:03:02Z
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 1aec1f9 | 2026-04-11T23:54:19Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 3f83184 | 2026-04-11T23:52:52Z
+**Message:** File changes
+**Files Changed:** 7
+**Classification:** 0× NEW, 7× MODIFIED, 0× CONFLICT
+
+### 0e0a4d2 | 2026-04-11T23:22:13Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 7e2cf42 | 2026-04-11T21:26:07Z
+**Message:** File changes
+**Files Changed:** 6
+**Classification:** 2× NEW, 4× MODIFIED, 0× CONFLICT
+
+### ca56f4c | 2026-04-11T21:23:51Z
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 7bd3f84 | 2026-04-11T17:53:09Z
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 5756d26 | 2026-04-11T17:33:38Z
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### b3b4a95 | 2026-04-11T17:21:37Z
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT
+
+### 442a4aa | 2026-04-11T17:07:18Z
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+### d4df16b | 2026-04-11T16:54:44Z
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 1× NEW, 1× MODIFIED, 0× CONFLICT
+
+### d37f541 | 2026-04-11T16:49:42Z
+**Message:** File changes
+**Files Changed:** 5
+**Classification:** 0× NEW, 5× MODIFIED, 0× CONFLICT
+
+### 981bd65 | 2026-04-11T16:46:39Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 3a1682a | 2026-04-11T16:45:25Z
+**Message:** File changes
+**Files Changed:** 6
+**Classification:** 2× NEW, 4× MODIFIED, 0× CONFLICT
+
+### 18612a7 | 2026-04-11T16:40:47Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### ad879b0 | 2026-04-11T16:39:39Z
+**Message:** File changes
+**Files Changed:** 7
+**Classification:** 3× NEW, 4× MODIFIED, 0× CONFLICT
+
+### ae210dd | 2026-04-11T16:36:30Z
+**Message:** File changes
+**Files Changed:** 5
+**Classification:** 1× NEW, 4× MODIFIED, 0× CONFLICT
+
+### 1c572b9 | 2026-04-11T06:41:13Z
+**Message:** File changes
+**Files Changed:** 8
+**Classification:** 2× NEW, 6× MODIFIED, 0× CONFLICT
+
+### c2e8650 | 2026-04-11T06:36:48Z
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+### 9098ede | 2026-04-11T06:28:01Z
+**Message:** File changes
+**Files Changed:** 2
+**Classification:** 0× NEW, 2× MODIFIED, 0× CONFLICT
+
+### c323e33 | 2026-04-11T06:23:32Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### a32f6aa | 2026-04-11T06:22:32Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### 405ff26 | 2026-04-11T06:14:43Z
+**Message:** File changes
+**Files Changed:** 4
+**Classification:** 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+### d6bc2b0 | 2026-04-11T06:05:34Z
+**Message:** File changes
+**Files Changed:** 1
+**Classification:** 0× NEW, 1× MODIFIED, 0× CONFLICT
+
+### e90d8ad | 2026-04-11T06:00:19Z
+**Message:** File changes
+**Files Changed:** 3
+**Classification:** 0× NEW, 3× MODIFIED, 0× CONFLICT

@@ -12466,20 +12466,14 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-22 05:04 UTC | 762ca5e
-**Commit:** sync: UI primitives — refined versions from Claude Code
-**Status:** CONFLICT
-**Files:** 10
-  - src/components/ui/EmptyState.jsx: CONFLICT
-  - src/components/ui/FilterPills.jsx: CONFLICT
-  - src/components/ui/PortalDrawer.jsx: CONFLICT
-  - src/components/ui/PortalTable.jsx: CONFLICT
-  - src/components/ui/SearchInput.jsx: CONFLICT
-  - src/components/ui/SegmentedControl.jsx: CONFLICT
-  - src/components/ui/SettingCard.jsx: CONFLICT
-  - src/components/ui/Spinner.jsx: CONFLICT
-  - src/components/ui/TabBar.jsx: CONFLICT
-  - src/components/ui/button.jsx: CONFLICT
+## 2026-04-20 04:07 UTC | 47b2dd6
+**Commit:** feat: move design site to cloudflare pages
+**Status:** MODIFIED
+**Files:** 4
+  - package.json: MODIFIED
+  - project.config.json: MODIFIED
+  - public/_redirects: MODIFIED
+  - scripts/deploy-guard.mjs: MODIFIED
 
 ---
 

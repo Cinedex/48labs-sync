@@ -16407,3 +16407,23 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 - project.config.json
 - public/_redirects
 - scripts/deploy-guard.mjs
+
+- **dcb2a8e** (2026-04-22) — merge: bring staging sync commits into main (Phase 3 design sync)
+
+- **aa4661f** (2026-04-22) — sync: website booking and auth pages — refined versions from Claude Code
+
+- **f19cdf0** (2026-04-22) — sync: website marketing pages — refined versions from Claude Code
+
+- **22cdea7** (2026-04-22) — sync: BookingFlow.jsx — refined version from Claude Code
+
+- **3885333** (2026-04-22) — sync: dashboard and iPad components — refined versions from Claude Code
+
+- **3564003** (2026-04-22) — sync: RoomForm components — refined versions from Claude Code
+
+- **923b30e** (2026-04-22) — sync: marketing components — refined versions from Claude Code
+
+- **18e25d2** (2026-04-22) — sync: booking components — refined versions from Claude Code
+
+- **762ca5e** (2026-04-22) — sync: UI primitives — refined versions from Claude Code
+
+- **47b2dd6** (2026-04-20) — feat: move design site to cloudflare pages

@@ -12466,11 +12466,14 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-12 00:30 UTC | 01ef5f4
+## 2026-04-12 00:23 UTC | cc795b7
 **Commit:** File changes
 **Status:** MODIFIED
-**Files:** 1
-  - src/pages/AdminWorkflowMap.jsx: MODIFIED
+**Files:** 4
+  - src/components/ipad/LightingCanvas.jsx: MODIFIED
+  - src/components/ipad/MasterIPadView.jsx: MODIFIED
+  - src/components/ipad/WelcomeScreen.jsx: MODIFIED
+  - src/pages/StudioController.jsx: MODIFIED
 
 ---
 

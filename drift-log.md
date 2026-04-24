@@ -14024,3 +14024,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)
 **Files Changed:** 35
 **Classification:** 3× NEW, 1× MODIFIED, 31× CONFLICT
+
+## 2026-04-22 | aa4661f
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files Changed:** 6
+**Classification:** 0× NEW, 0× MODIFIED, 6× CONFLICT

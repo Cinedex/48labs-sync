@@ -1,3 +1,23 @@
+- **2026-04-11** | commit: `eaa2d60` | 2 new, 0 modified | File changes
+- **2026-04-11** | commit: `133e1a4` | 1 new, 0 modified | File changes
+- **2026-04-11** | commit: `45df480` | 6 new, 0 modified | File changes
+- **2026-04-11** | commit: `b70252c` | 7 new, 0 modified | File changes
+- **2026-04-11** | commit: `b639797` | 6 new, 0 modified | File changes
+- **2026-04-11** | commit: `ab283f4` | 2 new, 0 modified | File changes
+- **2026-04-11** | commit: `8f1d175` | 1 new, 0 modified | File changes
+- **2026-04-11** | commit: `7ee5ce4` | 4 new, 0 modified | File changes
+- **2026-04-10** | commit: `b46081c` | 3 new, 0 modified | File changes
+- **2026-04-09** | commit: `af66b4d` | 5 new, 0 modified | File changes
+- **2026-04-09** | commit: `bdaef47` | 4 new, 0 modified | File changes
+- **2026-04-09** | commit: `03b26f0` | 2 new, 0 modified | File changes
+- **2026-04-09** | commit: `ef48c13` | 6 new, 0 modified | File changes
+- **2026-04-09** | commit: `eb1d245` | 3 new, 0 modified | File changes
+- **2026-04-09** | commit: `1e437a1` | 5 new, 0 modified | File changes
+- **2026-04-08** | commit: `7430e45` | 5 new, 0 modified | File changes
+- **2026-04-08** | commit: `8935efc` | 4 new, 0 modified | File changes
+- **2026-04-08** | commit: `2b9498c` | 6 new, 0 modified | File changes
+- **2026-04-07** | commit: `d34c095` | 2 new, 0 modified | File changes
+- **2026-04-07** | commit: `6667830` | 6 new, 0 modified | File changes
 
 - **2026-04-22** | commit: `dcb2a8e` | 3 new, 32 modified | merge: bring staging sync commits into main (Phase 3 design sync)
 - **2026-04-22** | commit: `aa4661f` | 0 new, 6 modified | sync: website booking and auth pages — refined versions from Claude Code

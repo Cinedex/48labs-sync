@@ -20,6 +20,26 @@
 ---
 ## 2026-04-22 dcb2a8e9
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files changed:** 35 files (3× NEW | 32× MODIFIED | 0× CONFLICT)
+---
+## 2026-04-22 aa4661f4
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files changed:** 6 files (0× NEW | 6× MODIFIED | 0× CONFLICT)
+---
+## 2026-04-22 f19cdf03
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files changed:** 4 files (0× NEW | 4× MODIFIED | 0× CONFLICT)
+---
+## 2026-04-22 22cdea70
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files changed:** 1 files (0× NEW | 1× MODIFIED | 0× CONFLICT)
+---
+## 2026-04-22 38853339
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files changed:** 3 files (0× NEW | 3× MODIFIED | 0× CONFLICT)
+---
+## 2026-04-22 dcb2a8e9
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
 **Files changed:** 35 (3× NEW | 32× MODIFIED)
 
 **NEW:**

@@ -12934,3 +12934,82 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 - **Date:** 2026-04-20T04:07:52Z
 - **Files changed:** 4
 - **Classification:** 3× NEW, 1× MODIFIED, 0× CONFLICT
+## 2026-04-20 04:07 UTC | 47b2dd6
+
+**Commit:** feat: move design site to cloudflare pages
+
+**Files changed:** 4
+
+**Classification:** 3× NEW, 1× MODIFIED
+
+## 2026-04-22 05:04 UTC | 762ca5e
+
+**Commit:** sync: UI primitives — refined versions from Claude Code
+
+**Files changed:** 10
+
+**Classification:** 10× CONFLICT
+
+## 2026-04-22 05:04 UTC | 18e25d2
+
+**Commit:** sync: booking components — refined versions from Claude Code
+
+**Files changed:** 2
+
+**Classification:** 2× CONFLICT
+
+## 2026-04-22 05:04 UTC | 923b30e
+
+**Commit:** sync: marketing components — refined versions from Claude Code
+
+**Files changed:** 3
+
+**Classification:** 3× CONFLICT
+
+## 2026-04-22 05:04 UTC | 3564003
+
+**Commit:** sync: RoomForm components — refined versions from Claude Code
+
+**Files changed:** 2
+
+**Classification:** 2× CONFLICT
+
+## 2026-04-22 05:04 UTC | 3885333
+
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files changed:** 3
+
+**Classification:** 3× CONFLICT
+
+## 2026-04-22 05:04 UTC | 22cdea7
+
+**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files changed:** 1
+
+**Classification:** 1× MODIFIED
+
+## 2026-04-22 05:04 UTC | f19cdf0
+
+**Commit:** sync: website marketing pages — refined versions from Claude Code
+
+**Files changed:** 4
+
+**Classification:** 4× CONFLICT
+
+## 2026-04-22 05:04 UTC | aa4661f
+
+**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files changed:** 6
+
+**Classification:** 6× MODIFIED
+
+## 2026-04-22 15:33 UTC | dcb2a8e
+
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files changed:** 35
+
+**Classification:** 3× NEW, 8× MODIFIED, 24× CONFLICT

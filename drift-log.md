@@ -12466,11 +12466,17 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-11 16:40 UTC | 18612a7
+## 2026-04-11 16:39 UTC | ad879b0
 **Commit:** File changes
 **Status:** MODIFIED
-**Files:** 1
+**Files:** 7
+  - base44/entities/RoomLightingLayout.jsonc: MODIFIED
   - src/components/dashboard/PremiumCalendar.jsx: MODIFIED
+  - src/components/ipad/CircularThermostat.jsx: MODIFIED
+  - src/components/ipad/InSessionScreen.jsx: MODIFIED
+  - src/components/ipad/LightingCanvas.jsx: MODIFIED
+  - src/components/ipad/MasterIPadView.jsx: MODIFIED
+  - src/pages/StudioController.jsx: MODIFIED
 
 ---
 

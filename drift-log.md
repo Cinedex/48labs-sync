@@ -1563,3 +1563,73 @@ Tracking file changes from 48labs-design synced to 48labs-sync.
 - CONFLICT: 0
 
 **Status:** Logged
+
+## dcb2a8e9 — 2026-04-22 15:33 UTC
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files:** 35 changed (3× NEW | 32× MODIFIED)
+
+
+## aa4661f4 — 2026-04-22 05:04 UTC
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files:** 6 changed (6× MODIFIED)
+
+
+## f19cdf03 — 2026-04-22 05:04 UTC
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Files:** 4 changed (4× MODIFIED)
+
+
+## 22cdea70 — 2026-04-22 05:04 UTC
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files:** 1 changed (1× MODIFIED)
+
+
+## 38853339 — 2026-04-22 05:04 UTC
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files:** 3 changed (3× MODIFIED)
+
+
+## 3564003b — 2026-04-22 05:04 UTC
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**Files:** 2 changed (2× MODIFIED)
+
+
+## 923b30e2 — 2026-04-22 05:04 UTC
+
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**Files:** 3 changed (3× MODIFIED)
+
+
+## 18e25d25 — 2026-04-22 05:04 UTC
+
+**Message:** sync: booking components — refined versions from Claude Code
+
+**Files:** 2 changed (2× MODIFIED)
+
+
+## 762ca5e0 — 2026-04-22 05:04 UTC
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**Files:** 10 changed (10× MODIFIED)
+
+
+## 47b2dd66 — 2026-04-20 04:07 UTC
+
+**Message:** feat: move design site to cloudflare pages
+
+**Files:** 4 changed (3× NEW | 1× MODIFIED)
+

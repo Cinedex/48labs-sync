@@ -1,3 +1,539 @@
+## 2026-04-11 e90d8ade
+**Message:** File changes
+**Files changed:** 3 (0× NEW | 3× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/Sidebar.jsx`
+- `src/hooks/useTheme.js`
+- `src/pages/AdminDashboard.jsx`
+
+---
+## 2026-04-11 d6bc2b03
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/pages/CustomLogin.jsx`
+
+---
+## 2026-04-11 405ff264
+**Message:** File changes
+**Files changed:** 4 (0× NEW | 4× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/AdminLayout.jsx`
+- `src/components/Sidebar.jsx`
+- `src/components/dashboard/PremiumCalendar.jsx`
+- `src/hooks/useTheme.js`
+
+---
+## 2026-04-11 a32f6aaf
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/Sidebar.jsx`
+
+---
+## 2026-04-11 c323e33f
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/Sidebar.jsx`
+
+---
+## 2026-04-11 9098ede4
+**Message:** File changes
+**Files changed:** 2 (0× NEW | 2× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/ipad/InSessionScreen.jsx`
+- `src/components/ipad/WelcomeScreen.jsx`
+
+---
+## 2026-04-11 c2e86504
+**Message:** File changes
+**Files changed:** 4 (0× NEW | 4× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/admin/AdminTopbar.jsx`
+- `src/components/admin/QuickActionsDropdown.jsx`
+- `src/components/dashboard/PremiumCalendar.jsx`
+- `src/pages/AdminDashboard.jsx`
+
+---
+## 2026-04-11 1c572b9d
+**Message:** File changes
+**Files changed:** 8 (2× NEW | 6× MODIFIED | 0× CONFLICT)
+
+**NEW:**
+- `src/components/ipad/BackgroundLayer.jsx`
+- `src/components/ipad/CircularThermostat.jsx`
+
+**MODIFIED:**
+- `base44/entities/iPadSession.jsonc`
+- `base44/functions/getIPadSession/entry.ts`
+- `src/components/ipad/InSessionScreen.jsx`
+- `src/components/ipad/WelcomeScreen.jsx`
+- `src/pages/AdminiPadController.jsx`
+- ... and 1 more
+
+---
+## 2026-04-11 ae210dd2
+**Message:** File changes
+**Files changed:** 5 (0× NEW | 4× MODIFIED | 1× CONFLICT)
+
+**MODIFIED:**
+- `src/components/Sidebar.jsx`
+- `src/components/admin/QuickActionsDropdown.jsx`
+- `src/components/dashboard/PremiumCalendar.jsx`
+- `src/pages/AdminDashboard.jsx`
+
+**CONFLICT:**
+- `src/components/ui/FloatingPanel.jsx`
+
+---
+## 2026-04-11 ad879b0b
+**Message:** File changes
+**Files changed:** 7 (3× NEW | 4× MODIFIED | 0× CONFLICT)
+
+**NEW:**
+- `base44/entities/RoomLightingLayout.jsonc`
+- `src/components/ipad/LightingCanvas.jsx`
+- `src/components/ipad/MasterIPadView.jsx`
+
+**MODIFIED:**
+- `src/components/dashboard/PremiumCalendar.jsx`
+- `src/components/ipad/CircularThermostat.jsx`
+- `src/components/ipad/InSessionScreen.jsx`
+- `src/pages/StudioController.jsx`
+
+---
+## 2026-04-11 18612a7d
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/dashboard/PremiumCalendar.jsx`
+
+---
+## 2026-04-11 3a1682a1
+**Message:** File changes
+**Files changed:** 6 (2× NEW | 4× MODIFIED | 0× CONFLICT)
+
+**NEW:**
+- `base44/entities/iPadCommand.jsonc`
+- `base44/functions/iPadVersionControl/entry.ts`
+
+**MODIFIED:**
+- `base44/entities/iPadSession.jsonc`
+- `index.html`
+- `src/pages/AdminiPadController.jsx`
+- `src/pages/StudioController.jsx`
+
+---
+## 2026-04-11 981bd655
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/pages/CustomLogin.jsx`
+
+---
+## 2026-04-11 d37f5413
+**Message:** File changes
+**Files changed:** 5 (0× NEW | 4× MODIFIED | 1× CONFLICT)
+
+**MODIFIED:**
+- `src/components/AdminLayout.jsx`
+- `src/components/Sidebar.jsx`
+- `src/components/dashboard/PremiumCalendar.jsx`
+- `src/hooks/useTheme.js`
+
+**CONFLICT:**
+- `src/components/ui/FloatingPanel.jsx`
+
+---
+## 2026-04-11 d4df16bd
+**Message:** File changes
+**Files changed:** 2 (1× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**NEW:**
+- `src/components/dashboard/FloatingEventPanel.jsx`
+
+**MODIFIED:**
+- `src/components/dashboard/PremiumCalendar.jsx`
+
+---
+## 2026-04-11 442a4aa6
+**Message:** File changes
+**Files changed:** 4 (0× NEW | 3× MODIFIED | 1× CONFLICT)
+
+**MODIFIED:**
+- `src/components/dashboard/PremiumCalendar.jsx`
+- `src/hooks/useTheme.js`
+- `src/pages/AdminDashboard.jsx`
+
+**CONFLICT:**
+- `src/components/ui/FloatingPanel.jsx`
+
+---
+## 2026-04-11 b3b4a959
+**Message:** File changes
+**Files changed:** 3 (0× NEW | 3× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/AdminLayout.jsx`
+- `src/components/Sidebar.jsx`
+- `src/index.css`
+
+---
+## 2026-04-11 5756d26d
+**Message:** File changes
+**Files changed:** 3 (0× NEW | 3× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `base44/entities/iPadSession.jsonc`
+- `src/components/ipad/InSessionScreen.jsx`
+- `src/pages/AdminiPadController.jsx`
+
+---
+## 2026-04-11 7bd3f848
+**Message:** File changes
+**Files changed:** 3 (0× NEW | 3× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/ipad/LightingCanvas.jsx`
+- `src/components/ipad/LightingPanel.jsx`
+- `src/pages/StudioController.jsx`
+
+---
+## 2026-04-11 ca56f4c8
+**Message:** File changes
+**Files changed:** 3 (0× NEW | 3× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/Sidebar.jsx`
+- `src/components/dashboard/DashboardMetricCard.jsx`
+- `src/hooks/useTheme.js`
+
+---
+## 2026-04-11 7e2cf42d
+**Message:** File changes
+**Files changed:** 6 (2× NEW | 4× MODIFIED | 0× CONFLICT)
+
+**NEW:**
+- `src/components/ipad/DemoScreen.jsx`
+- `src/components/ipad/IdleScreen.jsx`
+
+**MODIFIED:**
+- `base44/entities/iPadSession.jsonc`
+- `base44/functions/getIPadSession/entry.ts`
+- `src/pages/AdminiPadController.jsx`
+- `src/pages/StudioController.jsx`
+
+---
+## 2026-04-11 0e0a4d29
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/pages/StudioController.jsx`
+
+---
+## 2026-04-11 3f83184f
+**Message:** File changes
+**Files changed:** 7 (0× NEW | 7× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/Sidebar.jsx`
+- `src/components/dashboard/DashboardMetricCard.jsx`
+- `src/components/dashboard/FloatingDayPanel.jsx`
+- `src/components/dashboard/SessionTimelineCard.jsx`
+- `src/hooks/useTheme.js`
+- ... and 2 more
+
+---
+## 2026-04-11 1aec1f99
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `tailwind.config.js`
+
+---
+## 2026-04-12 dc5b801f
+**Message:** File changes
+**Files changed:** 3 (0× NEW | 3× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/ipad/WelcomeScreen.jsx`
+- `src/pages/AdminiPadController.jsx`
+- `src/pages/StudioController.jsx`
+
+---
+## 2026-04-12 e9c7dad7
+**Message:** File changes
+**Files changed:** 4 (0× NEW | 4× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/admin/QuickActionsDropdown.jsx`
+- `src/components/dashboard/DashboardMetricCard.jsx`
+- `src/components/dashboard/PremiumCalendar.jsx`
+- `src/pages/AdminDashboard.jsx`
+
+---
+## 2026-04-12 cc795b75
+**Message:** File changes
+**Files changed:** 4 (0× NEW | 4× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/ipad/LightingCanvas.jsx`
+- `src/components/ipad/MasterIPadView.jsx`
+- `src/components/ipad/WelcomeScreen.jsx`
+- `src/pages/StudioController.jsx`
+
+---
+## 2026-04-12 01ef5f43
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/pages/AdminWorkflowMap.jsx`
+
+---
+## 2026-04-12 0ddc5140
+**Message:** File changes
+**Files changed:** 3 (0× NEW | 3× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/Sidebar.jsx`
+- `src/components/admin/AdminTopbar.jsx`
+- `src/components/dashboard/PremiumCalendar.jsx`
+
+---
+## 2026-04-12 0a8d94c4
+**Message:** File changes
+**Files changed:** 2 (0× NEW | 2× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/ipad/LightingCanvas.jsx`
+- `src/components/ipad/MasterIPadView.jsx`
+
+---
+## 2026-04-12 e4b13f4b
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/lib/workflow-data.js`
+
+---
+## 2026-04-12 96400df4
+**Message:** File changes
+**Files changed:** 3 (0× NEW | 3× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/Sidebar.jsx`
+- `src/components/admin/AdminTopbar.jsx`
+- `src/components/dashboard/PremiumCalendar.jsx`
+
+---
+## 2026-04-12 e2e0de2e
+**Message:** File changes
+**Files changed:** 1 (0× NEW | 0× MODIFIED | 1× CONFLICT)
+
+**CONFLICT:**
+- `src/pages/Landing.jsx`
+
+---
+## 2026-04-12 cc98d284
+**Message:** File changes
+**Files changed:** 6 (0× NEW | 6× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `base44/entities/RoomLightingLayout.jsonc`
+- `base44/entities/iPadCommand.jsonc`
+- `src/components/ipad/InSessionScreen.jsx`
+- `src/components/ipad/LightingCanvas.jsx`
+- `src/components/ipad/LightingPanel.jsx`
+- ... and 1 more
+
+---
+## 2026-04-12 fe80272b
+**Message:** File changes
+**Files changed:** 7 (7× NEW | 0× MODIFIED | 0× CONFLICT)
+
+**NEW:**
+- `src/contracts/schema/enums.json`
+- `src/contracts/schema/relationships.json`
+- `src/contracts/schema/tables.json`
+- `src/database/MIGRATION_REPORT.md`
+- `src/database/mappings/base44-map.ts`
+- ... and 2 more
+
+---
+## 2026-04-12 eb00c62f
+**Message:** File changes
+**Files changed:** 4 (0× NEW | 4× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/components/Sidebar.jsx`
+- `src/components/admin/AdminTopbar.jsx`
+- `src/components/admin/QuickActionsDropdown.jsx`
+- `src/components/dashboard/PremiumCalendar.jsx`
+
+---
+## 2026-04-12 62d1e6a5
+**Message:** File changes
+**Files changed:** 2 (0× NEW | 2× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `src/lib/workflow-data.js`
+- `src/pages/AdminWorkflowMap.jsx`
+
+---
+## 2026-04-12 fe64f268
+**Message:** File changes
+**Files changed:** 5 (2× NEW | 3× MODIFIED | 0× CONFLICT)
+
+**NEW:**
+- `src/database/data-migration-plan.md`
+- `src/database/migration-order.json`
+
+**MODIFIED:**
+- `src/database/MIGRATION_REPORT.md`
+- `src/database/supabase/schema.sql`
+- `src/database/types/schema.ts`
+
+---
+## 2026-04-12 725cf756
+**Message:** Update base44 packages
+**Files changed:** 2 (0× NEW | 2× MODIFIED | 0× CONFLICT)
+
+**MODIFIED:**
+- `package-lock.json`
+- `package.json`
+
+---
+## 2026-04-20 47b2dd66
+**Message:** feat: move design site to cloudflare pages
+**Files changed:** 4 (3× NEW | 1× MODIFIED | 0× CONFLICT)
+
+**NEW:**
+- `project.config.json`
+- `public/_redirects`
+- `scripts/deploy-guard.mjs`
+
+**MODIFIED:**
+- `package.json`
+
+---
+## 2026-04-22 762ca5e0
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files changed:** 10 (0× NEW | 0× MODIFIED | 10× CONFLICT)
+
+**CONFLICT:**
+- `src/components/ui/EmptyState.jsx`
+- `src/components/ui/FilterPills.jsx`
+- `src/components/ui/PortalDrawer.jsx`
+- `src/components/ui/PortalTable.jsx`
+- `src/components/ui/SearchInput.jsx`
+- ... and 5 more
+
+---
+## 2026-04-22 18e25d25
+**Message:** sync: booking components — refined versions from Claude Code
+**Files changed:** 2 (0× NEW | 0× MODIFIED | 2× CONFLICT)
+
+**CONFLICT:**
+- `src/components/booking/BookingDateTimeStep.jsx`
+- `src/components/booking/ClientSelectStep.jsx`
+
+---
+## 2026-04-22 923b30e2
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files changed:** 3 (0× NEW | 0× MODIFIED | 3× CONFLICT)
+
+**CONFLICT:**
+- `src/components/MarketingFooter.jsx`
+- `src/components/MarketingHeader.jsx`
+- `src/components/marketing/RoomOperatingHoursDisplay.jsx`
+
+---
+## 2026-04-22 3564003b
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files changed:** 2 (0× NEW | 0× MODIFIED | 2× CONFLICT)
+
+**CONFLICT:**
+- `src/components/RoomForm/RoomStudioPreview.jsx`
+- `src/components/RoomForm/WebsitePreviewCard.jsx`
+
+---
+## 2026-04-22 38853339
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files changed:** 3 (0× NEW | 0× MODIFIED | 3× CONFLICT)
+
+**CONFLICT:**
+- `src/components/dashboard/MonthCalendar.jsx`
+- `src/components/ipad/FiveMinWarning.jsx`
+- `src/components/ipad/ThankYouScreen.jsx`
+
+---
+## 2026-04-22 22cdea70
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files changed:** 1 (0× NEW | 0× MODIFIED | 1× CONFLICT)
+
+**CONFLICT:**
+- `src/pages/BookingFlow.jsx`
+
+---
+## 2026-04-22 f19cdf03
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files changed:** 4 (0× NEW | 0× MODIFIED | 4× CONFLICT)
+
+**CONFLICT:**
+- `src/pages/Landing.jsx`
+- `src/pages/RoomProfile.jsx`
+- `src/pages/Services.jsx`
+- `src/pages/Studios.jsx`
+
+---
+## 2026-04-22 aa4661f4
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files changed:** 6 (0× NEW | 0× MODIFIED | 6× CONFLICT)
+
+**CONFLICT:**
+- `src/pages/DynamicCreditsPage.jsx`
+- `src/pages/DynamicMembershipsPage.jsx`
+- `src/pages/GuestBuyCredits.jsx`
+- `src/pages/MembershipSignup.jsx`
+- `src/pages/Register.jsx`
+- ... and 1 more
+
+---
+## 2026-04-22 dcb2a8e9
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files changed:** 35 (3× NEW | 1× MODIFIED | 31× CONFLICT)
+
+**NEW:**
+- `project.config.json`
+- `public/_redirects`
+- `scripts/deploy-guard.mjs`
+
+**MODIFIED:**
+- `package.json`
+
+**CONFLICT:**
+- `src/components/MarketingFooter.jsx`
+- `src/components/MarketingHeader.jsx`
+- `src/components/RoomForm/RoomStudioPreview.jsx`
+- `src/components/RoomForm/WebsitePreviewCard.jsx`
+- `src/components/booking/BookingDateTimeStep.jsx`
+- ... and 26 more
+
+---
 ## 2026-04-22 dcb2a8e9
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)
 **Files changed:** 35 (3× NEW | 1× MODIFIED | 31× CONFLICT)

@@ -12466,15 +12466,18 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 2026-04-22 | dcb2a8e9 | merge: bring staging sync commits into main (Phase 3 design sync) | 35 files | CONFLICT:31 | NEW:3 | MODIFIED:1### 0a8d94c - File changes
 **Date:** 2026-04-12T00:43:22Z
 **Files:** 2 | NEW:0 MOD:2 CONFLICT:0
-## 2026-04-11 16:36 UTC | ae210dd
+## 2026-04-11 06:41 UTC | 1c572b9
 **Commit:** File changes
-**Status:** CONFLICT
-**Files:** 5
-  - src/components/Sidebar.jsx: MODIFIED
-  - src/components/admin/QuickActionsDropdown.jsx: MODIFIED
-  - src/components/dashboard/PremiumCalendar.jsx: MODIFIED
-  - src/components/ui/FloatingPanel.jsx: CONFLICT
-  - src/pages/AdminDashboard.jsx: MODIFIED
+**Status:** MODIFIED
+**Files:** 8
+  - base44/entities/iPadSession.jsonc: MODIFIED
+  - base44/functions/getIPadSession/entry.ts: MODIFIED
+  - src/components/ipad/BackgroundLayer.jsx: MODIFIED
+  - src/components/ipad/CircularThermostat.jsx: MODIFIED
+  - src/components/ipad/InSessionScreen.jsx: MODIFIED
+  - src/components/ipad/WelcomeScreen.jsx: MODIFIED
+  - src/pages/AdminiPadController.jsx: MODIFIED
+  - src/pages/StudioController.jsx: MODIFIED
 
 ---
 

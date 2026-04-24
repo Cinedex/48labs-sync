@@ -13039,3 +13039,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** sync: dashboard and iPad components — refined versions from Claude Code
 **Files:** 3 changed | 0× NEW, 0× MODIFIED, 3× CONFLICT
 **CONFLICT:** src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+## 2026-04-22 - 3564003
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files:** 2 changed | 0× NEW, 0× MODIFIED, 2× CONFLICT
+**CONFLICT:** src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx

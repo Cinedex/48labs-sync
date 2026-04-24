@@ -2262,3 +2262,455 @@ Tracking sync state between 48labs-design, 48labs-website, and 48labs-portal.
 - `src/components/Sidebar.jsx` — NEW
 - `src/hooks/useTheme.js` — NEW
 - `src/pages/AdminDashboard.jsx` — NEW
+- **2026-04-22 | dcb2a8e** (35 files changed)
+  - Message: merge: bring staging sync commits into main (Phase 3 design sync)
+  - Commit: https://github.com/Cinedex/48labs-design/commit/dcb2a8e911e5ed365732b984c6e920f1ced3d844
+  - Files:
+  - package.json [MODIFIED]
+  - project.config.json [MODIFIED]
+  - public/_redirects [MODIFIED]
+  - scripts/deploy-guard.mjs [MODIFIED]
+  - src/components/MarketingFooter.jsx [MODIFIED]
+  - src/components/MarketingHeader.jsx [MODIFIED]
+  - src/components/RoomForm/RoomStudioPreview.jsx [MODIFIED]
+  - src/components/RoomForm/WebsitePreviewCard.jsx [MODIFIED]
+  - src/components/booking/BookingDateTimeStep.jsx [MODIFIED]
+  - src/components/booking/ClientSelectStep.jsx [MODIFIED]
+  - src/components/dashboard/MonthCalendar.jsx [MODIFIED]
+  - src/components/ipad/FiveMinWarning.jsx [MODIFIED]
+  - src/components/ipad/ThankYouScreen.jsx [MODIFIED]
+  - src/components/marketing/RoomOperatingHoursDisplay.jsx [MODIFIED]
+  - src/components/ui/EmptyState.jsx [MODIFIED]
+  - src/components/ui/FilterPills.jsx [MODIFIED]
+  - src/components/ui/PortalDrawer.jsx [MODIFIED]
+  - src/components/ui/PortalTable.jsx [MODIFIED]
+  - src/components/ui/SearchInput.jsx [MODIFIED]
+  - src/components/ui/SegmentedControl.jsx [MODIFIED]
+  - src/components/ui/SettingCard.jsx [MODIFIED]
+  - src/components/ui/Spinner.jsx [MODIFIED]
+  - src/components/ui/TabBar.jsx [MODIFIED]
+  - src/components/ui/button.jsx [MODIFIED]
+  - src/pages/BookingFlow.jsx [MODIFIED]
+  - src/pages/DynamicCreditsPage.jsx [MODIFIED]
+  - src/pages/DynamicMembershipsPage.jsx [MODIFIED]
+  - src/pages/GuestBuyCredits.jsx [MODIFIED]
+  - src/pages/Landing.jsx [MODIFIED]
+  - src/pages/MembershipSignup.jsx [MODIFIED]
+  - src/pages/Register.jsx [MODIFIED]
+  - src/pages/RoomProfile.jsx [MODIFIED]
+  - src/pages/Services.jsx [MODIFIED]
+  - src/pages/Studios.jsx [MODIFIED]
+  - src/pages/UnifiedCheckout.jsx [MODIFIED]
+
+- **2026-04-22 | aa4661f** (6 files changed)
+  - Message: sync: website booking and auth pages — refined versions from Claude Code
+  - Commit: https://github.com/Cinedex/48labs-design/commit/aa4661f4b14bfb0d815b78f4a1206cd07a2810f4
+  - Files:
+  - src/pages/DynamicCreditsPage.jsx [MODIFIED]
+  - src/pages/DynamicMembershipsPage.jsx [MODIFIED]
+  - src/pages/GuestBuyCredits.jsx [MODIFIED]
+  - src/pages/MembershipSignup.jsx [MODIFIED]
+  - src/pages/Register.jsx [MODIFIED]
+  - src/pages/UnifiedCheckout.jsx [MODIFIED]
+
+- **2026-04-22 | f19cdf0** (4 files changed)
+  - Message: sync: website marketing pages — refined versions from Claude Code
+  - Commit: https://github.com/Cinedex/48labs-design/commit/f19cdf0381be3ceebc40ae98c2bc71f92148d855
+  - Files:
+  - src/pages/Landing.jsx [MODIFIED]
+  - src/pages/RoomProfile.jsx [MODIFIED]
+  - src/pages/Services.jsx [MODIFIED]
+  - src/pages/Studios.jsx [MODIFIED]
+
+- **2026-04-22 | 22cdea7** (1 files changed)
+  - Message: sync: BookingFlow.jsx — refined version from Claude Code
+  - Commit: https://github.com/Cinedex/48labs-design/commit/22cdea70afd9f763b36b3e1941e366c04b97b1e6
+  - Files:
+  - src/pages/BookingFlow.jsx [MODIFIED]
+
+- **2026-04-22 | 3885333** (3 files changed)
+  - Message: sync: dashboard and iPad components — refined versions from Claude Code
+  - Commit: https://github.com/Cinedex/48labs-design/commit/38853339f47e5b2ddcd23a205c40cb228fcd8dc1
+  - Files:
+  - src/components/dashboard/MonthCalendar.jsx [MODIFIED]
+  - src/components/ipad/FiveMinWarning.jsx [MODIFIED]
+  - src/components/ipad/ThankYouScreen.jsx [MODIFIED]
+
+- **2026-04-22 | 3564003** (2 files changed)
+  - Message: sync: RoomForm components — refined versions from Claude Code
+  - Commit: https://github.com/Cinedex/48labs-design/commit/3564003baf53a0ced6da5c5c49941f4d09c8082d
+  - Files:
+  - src/components/RoomForm/RoomStudioPreview.jsx [MODIFIED]
+  - src/components/RoomForm/WebsitePreviewCard.jsx [MODIFIED]
+
+- **2026-04-22 | 923b30e** (3 files changed)
+  - Message: sync: marketing components — refined versions from Claude Code
+  - Commit: https://github.com/Cinedex/48labs-design/commit/923b30e2efc07529a161d81258b6bbda8daba496
+  - Files:
+  - src/components/MarketingFooter.jsx [MODIFIED]
+  - src/components/MarketingHeader.jsx [MODIFIED]
+  - src/components/marketing/RoomOperatingHoursDisplay.jsx [MODIFIED]
+
+- **2026-04-22 | 18e25d2** (2 files changed)
+  - Message: sync: booking components — refined versions from Claude Code
+  - Commit: https://github.com/Cinedex/48labs-design/commit/18e25d254af8ee8569479173206fb9ea19d0382c
+  - Files:
+  - src/components/booking/BookingDateTimeStep.jsx [MODIFIED]
+  - src/components/booking/ClientSelectStep.jsx [MODIFIED]
+
+- **2026-04-22 | 762ca5e** (10 files changed)
+  - Message: sync: UI primitives — refined versions from Claude Code
+  - Commit: https://github.com/Cinedex/48labs-design/commit/762ca5e09a65dd464932fe352920a4faacbfa0bc
+  - Files:
+  - src/components/ui/EmptyState.jsx [MODIFIED]
+  - src/components/ui/FilterPills.jsx [MODIFIED]
+  - src/components/ui/PortalDrawer.jsx [MODIFIED]
+  - src/components/ui/PortalTable.jsx [MODIFIED]
+  - src/components/ui/SearchInput.jsx [MODIFIED]
+  - src/components/ui/SegmentedControl.jsx [MODIFIED]
+  - src/components/ui/SettingCard.jsx [MODIFIED]
+  - src/components/ui/Spinner.jsx [MODIFIED]
+  - src/components/ui/TabBar.jsx [MODIFIED]
+  - src/components/ui/button.jsx [MODIFIED]
+
+- **2026-04-20 | 47b2dd6** (4 files changed)
+  - Message: feat: move design site to cloudflare pages
+  - Commit: https://github.com/Cinedex/48labs-design/commit/47b2dd66260b5c9585f2b3c5cde7da1a130183f5
+  - Files:
+  - package.json [MODIFIED]
+  - project.config.json [MODIFIED]
+  - public/_redirects [MODIFIED]
+  - scripts/deploy-guard.mjs [MODIFIED]
+
+- **2026-04-16 | 5b06f15** (3 files changed)
+  - Message: Update base44 packages
+  - Commit: https://github.com/Cinedex/48labs-design/commit/5b06f15999046b2df212649b4e5f540e9bc0d1c2
+  - Files:
+  - package-lock.json [MODIFIED]
+  - package.json [MODIFIED]
+  - src/components/ProtectedRoute.jsx [MODIFIED]
+
+- **2026-04-12 | 725cf75** (2 files changed)
+  - Message: Update base44 packages
+  - Commit: https://github.com/Cinedex/48labs-design/commit/725cf75610745a0dcb530f28afef0174826e5d44
+  - Files:
+  - package-lock.json [MODIFIED]
+  - package.json [MODIFIED]
+
+- **2026-04-12 | fe64f26** (5 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/fe64f268e2f246d72f201c0adac867d790e898e8
+  - Files:
+  - src/database/MIGRATION_REPORT.md [MODIFIED]
+  - src/database/data-migration-plan.md [MODIFIED]
+  - src/database/migration-order.json [MODIFIED]
+  - src/database/supabase/schema.sql [MODIFIED]
+  - src/database/types/schema.ts [MODIFIED]
+
+- **2026-04-12 | 62d1e6a** (2 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/62d1e6a5edcaf41329af9b5f5a8662f0fb92c7a1
+  - Files:
+  - src/lib/workflow-data.js [MODIFIED]
+  - src/pages/AdminWorkflowMap.jsx [MODIFIED]
+
+- **2026-04-12 | eb00c62** (4 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/eb00c62f1af37502b179c033273c902adccd4c7a
+  - Files:
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/components/admin/AdminTopbar.jsx [MODIFIED]
+  - src/components/admin/QuickActionsDropdown.jsx [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+
+- **2026-04-12 | fe80272** (7 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/fe80272bfb6055d2e1026886589661cc83769a3f
+  - Files:
+  - src/contracts/schema/enums.json [MODIFIED]
+  - src/contracts/schema/relationships.json [MODIFIED]
+  - src/contracts/schema/tables.json [MODIFIED]
+  - src/database/MIGRATION_REPORT.md [MODIFIED]
+  - src/database/mappings/base44-map.ts [MODIFIED]
+  - src/database/supabase/schema.sql [MODIFIED]
+  - src/database/types/schema.ts [MODIFIED]
+
+- **2026-04-12 | cc98d28** (6 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/cc98d2849c95fef0146959877abacb2938c2ef5d
+  - Files:
+  - base44/entities/RoomLightingLayout.jsonc [MODIFIED]
+  - base44/entities/iPadCommand.jsonc [MODIFIED]
+  - src/components/ipad/InSessionScreen.jsx [MODIFIED]
+  - src/components/ipad/LightingCanvas.jsx [MODIFIED]
+  - src/components/ipad/LightingPanel.jsx [MODIFIED]
+  - src/components/ipad/MasterIPadView.jsx [MODIFIED]
+
+- **2026-04-12 | e2e0de2** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/e2e0de2e9943d041f64e0079bcb70868de708445
+  - Files:
+  - src/pages/Landing.jsx [MODIFIED]
+
+- **2026-04-12 | 96400df** (3 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/96400df49aa564844fdc690640b9581b15bdd6ff
+  - Files:
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/components/admin/AdminTopbar.jsx [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+
+- **2026-04-12 | e4b13f4** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/e4b13f4b4ffa56a6aa10c1852acc02ba5fe125c3
+  - Files:
+  - src/lib/workflow-data.js [MODIFIED]
+
+- **2026-04-12 | 0a8d94c** (2 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/0a8d94c46d2c2daa6e99dd163e9afe0e38dc7fad
+  - Files:
+  - src/components/ipad/LightingCanvas.jsx [MODIFIED]
+  - src/components/ipad/MasterIPadView.jsx [MODIFIED]
+
+- **2026-04-12 | 0ddc514** (3 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/0ddc514060a5e7529847ccfc6e7470fc54e090cd
+  - Files:
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/components/admin/AdminTopbar.jsx [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+
+- **2026-04-12 | 01ef5f4** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/01ef5f4337520e76403439b54f416474113f54df
+  - Files:
+  - src/pages/AdminWorkflowMap.jsx [MODIFIED]
+
+- **2026-04-12 | cc795b7** (4 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/cc795b75b80fce9ec723d7af1b51fe1d89bf0403
+  - Files:
+  - src/components/ipad/LightingCanvas.jsx [MODIFIED]
+  - src/components/ipad/MasterIPadView.jsx [MODIFIED]
+  - src/components/ipad/WelcomeScreen.jsx [MODIFIED]
+  - src/pages/StudioController.jsx [MODIFIED]
+
+- **2026-04-12 | e9c7dad** (4 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/e9c7dad7b6382d255dcaa79c6864ada1af6cff31
+  - Files:
+  - src/components/admin/QuickActionsDropdown.jsx [MODIFIED]
+  - src/components/dashboard/DashboardMetricCard.jsx [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+  - src/pages/AdminDashboard.jsx [MODIFIED]
+
+- **2026-04-12 | dc5b801** (3 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/dc5b801f9bbc0f3ad91f970ce659b8a8a5aa569c
+  - Files:
+  - src/components/ipad/WelcomeScreen.jsx [MODIFIED]
+  - src/pages/AdminiPadController.jsx [MODIFIED]
+  - src/pages/StudioController.jsx [MODIFIED]
+
+- **2026-04-11 | 1aec1f9** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/1aec1f99b66b04ecd17059309161e45bf7e777a7
+  - Files:
+  - tailwind.config.js [MODIFIED]
+
+- **2026-04-11 | 3f83184** (7 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/3f83184f91b4ab6e852e2bcc4b9237b86a3a172c
+  - Files:
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/components/dashboard/DashboardMetricCard.jsx [MODIFIED]
+  - src/components/dashboard/FloatingDayPanel.jsx [MODIFIED]
+  - src/components/dashboard/SessionTimelineCard.jsx [MODIFIED]
+  - src/hooks/useTheme.js [MODIFIED]
+  - src/index.css [MODIFIED]
+  - tailwind.config.js [MODIFIED]
+
+- **2026-04-11 | 0e0a4d2** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/0e0a4d2977b02b9e0e2b7703a6fa5d216172ef53
+  - Files:
+  - src/pages/StudioController.jsx [MODIFIED]
+
+- **2026-04-11 | 7e2cf42** (6 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/7e2cf42d2b848cc0701c27b5bf19bca5f023ace5
+  - Files:
+  - base44/entities/iPadSession.jsonc [MODIFIED]
+  - base44/functions/getIPadSession/entry.ts [MODIFIED]
+  - src/components/ipad/DemoScreen.jsx [MODIFIED]
+  - src/components/ipad/IdleScreen.jsx [MODIFIED]
+  - src/pages/AdminiPadController.jsx [MODIFIED]
+  - src/pages/StudioController.jsx [MODIFIED]
+
+- **2026-04-11 | ca56f4c** (3 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/ca56f4c8408cc98b7f351cf33a29d0ccb11fd51a
+  - Files:
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/components/dashboard/DashboardMetricCard.jsx [MODIFIED]
+  - src/hooks/useTheme.js [MODIFIED]
+
+- **2026-04-11 | 7bd3f84** (3 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/7bd3f84826df6d0d27d9e3453556763266f6145e
+  - Files:
+  - src/components/ipad/LightingCanvas.jsx [MODIFIED]
+  - src/components/ipad/LightingPanel.jsx [MODIFIED]
+  - src/pages/StudioController.jsx [MODIFIED]
+
+- **2026-04-11 | 5756d26** (3 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/5756d26deafaed42b9568bf9599c2041cf8bde44
+  - Files:
+  - base44/entities/iPadSession.jsonc [MODIFIED]
+  - src/components/ipad/InSessionScreen.jsx [MODIFIED]
+  - src/pages/AdminiPadController.jsx [MODIFIED]
+
+- **2026-04-11 | b3b4a95** (3 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/b3b4a959f93f24b22ff5570d22bfd34f7cf5a7bf
+  - Files:
+  - src/components/AdminLayout.jsx [MODIFIED]
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/index.css [MODIFIED]
+
+- **2026-04-11 | 442a4aa** (4 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/442a4aa6fd20a437134e2c4efd820733ff556cb2
+  - Files:
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+  - src/components/ui/FloatingPanel.jsx [MODIFIED]
+  - src/hooks/useTheme.js [MODIFIED]
+  - src/pages/AdminDashboard.jsx [MODIFIED]
+
+- **2026-04-11 | d4df16b** (2 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/d4df16bd215b222c929d234467a3dbefbe039f07
+  - Files:
+  - src/components/dashboard/FloatingEventPanel.jsx [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+
+- **2026-04-11 | d37f541** (5 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/d37f5413563affbbed94992addb58b64125adcb0
+  - Files:
+  - src/components/AdminLayout.jsx [MODIFIED]
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+  - src/components/ui/FloatingPanel.jsx [MODIFIED]
+  - src/hooks/useTheme.js [MODIFIED]
+
+- **2026-04-11 | 981bd65** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/981bd65522efbfc84fbdcf1941d47c18993becc6
+  - Files:
+  - src/pages/CustomLogin.jsx [MODIFIED]
+
+- **2026-04-11 | 3a1682a** (6 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/3a1682a1fefffdc5826186363751d43dfa46464d
+  - Files:
+  - base44/entities/iPadCommand.jsonc [MODIFIED]
+  - base44/entities/iPadSession.jsonc [MODIFIED]
+  - base44/functions/iPadVersionControl/entry.ts [MODIFIED]
+  - index.html [MODIFIED]
+  - src/pages/AdminiPadController.jsx [MODIFIED]
+  - src/pages/StudioController.jsx [MODIFIED]
+
+- **2026-04-11 | 18612a7** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/18612a7d50b178d093fa8126aef26915702c760a
+  - Files:
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+
+- **2026-04-11 | ad879b0** (7 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/ad879b0b49a934ac4115c07661c78b8fe3ba6cc3
+  - Files:
+  - base44/entities/RoomLightingLayout.jsonc [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+  - src/components/ipad/CircularThermostat.jsx [MODIFIED]
+  - src/components/ipad/InSessionScreen.jsx [MODIFIED]
+  - src/components/ipad/LightingCanvas.jsx [MODIFIED]
+  - src/components/ipad/MasterIPadView.jsx [MODIFIED]
+  - src/pages/StudioController.jsx [MODIFIED]
+
+- **2026-04-11 | ae210dd** (5 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/ae210dd267db37ea0eb18787277cd0b8726c153b
+  - Files:
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/components/admin/QuickActionsDropdown.jsx [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+  - src/components/ui/FloatingPanel.jsx [MODIFIED]
+  - src/pages/AdminDashboard.jsx [MODIFIED]
+
+- **2026-04-11 | 1c572b9** (8 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/1c572b9df1e37f5a5fc5d80a96f6d81e9fdfd6dc
+  - Files:
+  - base44/entities/iPadSession.jsonc [MODIFIED]
+  - base44/functions/getIPadSession/entry.ts [MODIFIED]
+  - src/components/ipad/BackgroundLayer.jsx [MODIFIED]
+  - src/components/ipad/CircularThermostat.jsx [MODIFIED]
+  - src/components/ipad/InSessionScreen.jsx [MODIFIED]
+  - src/components/ipad/WelcomeScreen.jsx [MODIFIED]
+  - src/pages/AdminiPadController.jsx [MODIFIED]
+  - src/pages/StudioController.jsx [MODIFIED]
+
+- **2026-04-11 | c2e8650** (4 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/c2e8650418eebbc1a50d5c2ebb6839ce2adeed49
+  - Files:
+  - src/components/admin/AdminTopbar.jsx [MODIFIED]
+  - src/components/admin/QuickActionsDropdown.jsx [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+  - src/pages/AdminDashboard.jsx [MODIFIED]
+
+- **2026-04-11 | 9098ede** (2 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/9098ede4984a7a07e7d8e0cfd8577d4a7008ee96
+  - Files:
+  - src/components/ipad/InSessionScreen.jsx [MODIFIED]
+  - src/components/ipad/WelcomeScreen.jsx [MODIFIED]
+
+- **2026-04-11 | c323e33** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/c323e33f986baffd4591304bb829aa07780e3cf1
+  - Files:
+  - src/components/Sidebar.jsx [MODIFIED]
+
+- **2026-04-11 | a32f6aa** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/a32f6aaf5c651c5fb4e0a9cfd0da3d058e619456
+  - Files:
+  - src/components/Sidebar.jsx [MODIFIED]
+
+- **2026-04-11 | 405ff26** (4 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/405ff2645dfa9116f45a10604c94db9f9720ab3c
+  - Files:
+  - src/components/AdminLayout.jsx [MODIFIED]
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/components/dashboard/PremiumCalendar.jsx [MODIFIED]
+  - src/hooks/useTheme.js [MODIFIED]
+
+- **2026-04-11 | d6bc2b0** (1 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/d6bc2b0353bf18864fc557c5844b5929794e7a66
+  - Files:
+  - src/pages/CustomLogin.jsx [MODIFIED]
+
+- **2026-04-11 | e90d8ad** (3 files changed)
+  - Message: File changes
+  - Commit: https://github.com/Cinedex/48labs-design/commit/e90d8ade0095f11aab3906ad29ec3d354bda70ff
+  - Files:
+  - src/components/Sidebar.jsx [MODIFIED]
+  - src/hooks/useTheme.js [MODIFIED]
+  - src/pages/AdminDashboard.jsx [MODIFIED]

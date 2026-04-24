@@ -1,4 +1,104 @@
 
+### 2026-04-22 | dcb2a8e
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files Changed:** 35 total
+- NEW: 3
+- MODIFIED: 32
+- CONFLICT: 0
+
+**NEW files:**
+  - project.config.json
+  - public/_redirects
+  - scripts/deploy-guard.mjs
+
+
+### 2026-04-22 | aa4661f
+**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files Changed:** 6 total
+- NEW: 0
+- MODIFIED: 6
+- CONFLICT: 0
+
+
+### 2026-04-22 | f19cdf0
+**Commit:** sync: website marketing pages — refined versions from Claude Code
+
+**Files Changed:** 4 total
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+
+### 2026-04-22 | 22cdea7
+**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files Changed:** 1 total
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+
+### 2026-04-22 | 3885333
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files Changed:** 3 total
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+
+### 2026-04-22 | 3564003
+**Commit:** sync: RoomForm components — refined versions from Claude Code
+
+**Files Changed:** 2 total
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+
+### 2026-04-22 | 923b30e
+**Commit:** sync: marketing components — refined versions from Claude Code
+
+**Files Changed:** 3 total
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+
+### 2026-04-22 | 18e25d2
+**Commit:** sync: booking components — refined versions from Claude Code
+
+**Files Changed:** 2 total
+- NEW: 0
+- MODIFIED: 2
+- CONFLICT: 0
+
+
+### 2026-04-22 | 762ca5e
+**Commit:** sync: UI primitives — refined versions from Claude Code
+
+**Files Changed:** 10 total
+- NEW: 0
+- MODIFIED: 10
+- CONFLICT: 0
+
+
+### 2026-04-20 | 47b2dd6
+**Commit:** feat: move design site to cloudflare pages
+
+**Files Changed:** 4 total
+- NEW: 3
+- MODIFIED: 1
+- CONFLICT: 0
+
+**NEW files:**
+  - project.config.json
+  - public/_redirects
+  - scripts/deploy-guard.mjs
+
+
 ## 2026-04-20 04:07 UTC — 47b2dd66
 **Message:** feat: move design site to cloudflare pages
 **Files Changed:** 4

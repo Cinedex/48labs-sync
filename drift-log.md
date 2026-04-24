@@ -13198,3 +13198,8 @@ _Files: 35 changed (3× NEW, 1× MODIFIED, 31× CONFLICT)_
 **Message:** File changes
 **Files:** 7 changed | 3× NEW, 4× MODIFIED, 0× CONFLICT
 **NEW:** base44/entities/RoomLightingLayout.jsonc, src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx
+
+## 2026-04-11 - ae210dd
+**Message:** File changes
+**Files:** 5 changed | 0× NEW, 4× MODIFIED, 1× CONFLICT
+**CONFLICT:** src/components/ui/FloatingPanel.jsx

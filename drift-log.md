@@ -1,6 +1,6 @@
-## 2026-04-25 3564003b
-**Message:** sync: RoomForm components — refined versions from Claude Code
-**Files changed:** 2 files (0× NEW | 1× MODIFIED | 1× CONFLICT)
+## 2026-04-25 923b30e2
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files changed:** 3 files (0× NEW | 3× MODIFIED | 0× CONFLICT)
 ---
 
 ## 2026-04-22 dcb2a8e9

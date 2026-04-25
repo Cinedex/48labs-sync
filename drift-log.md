@@ -1,6 +1,6 @@
-## 2026-04-25 762ca5e0
-**Message:** sync: UI primitives — refined versions from Claude Code
-**Files changed:** 10 files (0× NEW | 8× MODIFIED | 2× CONFLICT)
+## 2026-04-25 47b2dd66
+**Message:** feat: move design site to cloudflare pages
+**Files changed:** 4 files (3× NEW | 1× MODIFIED | 0× CONFLICT)
 ---
 
 ## 2026-04-22 dcb2a8e9

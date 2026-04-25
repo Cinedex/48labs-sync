@@ -1,6 +1,6 @@
-## 2026-04-25 18e25d25
-**Message:** sync: booking components — refined versions from Claude Code
-**Files changed:** 2 files (0× NEW | 2× MODIFIED | 0× CONFLICT)
+## 2026-04-25 762ca5e0
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files changed:** 10 files (0× NEW | 8× MODIFIED | 2× CONFLICT)
 ---
 
 ## 2026-04-22 dcb2a8e9

@@ -4518,3 +4518,352 @@ feat: move design site to cloudflare pages
 **Files:** 3 changed (NEW: 3)
 **Commit:** https://github.com/Cinedex/48labs-design/commit/e90d8ade0095f11aab3906ad29ec3d354bda70ff
 
+## 2026-04-22 dcb2a8e9
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files:** 35 changed (NEW: 35)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/dcb2a8e911e5ed365732b984c6e920f1ced3d844
+
+
+## 2026-04-22 aa4661f4
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files:** 6 changed (NEW: 6)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/aa4661f4b14bfb0d815b78f4a1206cd07a2810f4
+
+
+## 2026-04-22 f19cdf03
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files:** 4 changed (NEW: 4)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/f19cdf0381be3ceebc40ae98c2bc71f92148d855
+
+
+## 2026-04-22 22cdea70
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/22cdea70afd9f763b36b3e1941e366c04b97b1e6
+
+
+## 2026-04-22 38853339
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/38853339f47e5b2ddcd23a205c40cb228fcd8dc1
+
+
+## 2026-04-22 3564003b
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files:** 2 changed (NEW: 2)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/3564003baf53a0ced6da5c5c49941f4d09c8082d
+
+
+## 2026-04-22 923b30e2
+
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/923b30e2efc07529a161d81258b6bbda8daba496
+
+
+## 2026-04-22 18e25d25
+
+**Message:** sync: booking components — refined versions from Claude Code
+**Files:** 2 changed (NEW: 2)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/18e25d254af8ee8569479173206fb9ea19d0382c
+
+
+## 2026-04-22 762ca5e0
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files:** 10 changed (NEW: 10)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/762ca5e09a65dd464932fe352920a4faacbfa0bc
+
+
+## 2026-04-20 47b2dd66
+
+**Message:** feat: move design site to cloudflare pages
+**Files:** 4 changed (NEW: 4)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/47b2dd66260b5c9585f2b3c5cde7da1a130183f5
+
+
+## 2026-04-16 5b06f159
+
+**Message:** Update base44 packages
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/5b06f15999046b2df212649b4e5f540e9bc0d1c2
+
+
+## 2026-04-12 725cf756
+
+**Message:** Update base44 packages
+**Files:** 2 changed (NEW: 2)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/725cf75610745a0dcb530f28afef0174826e5d44
+
+
+## 2026-04-12 fe64f268
+
+**Message:** File changes
+**Files:** 5 changed (NEW: 5)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/fe64f268e2f246d72f201c0adac867d790e898e8
+
+
+## 2026-04-12 62d1e6a5
+
+**Message:** File changes
+**Files:** 2 changed (NEW: 2)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/62d1e6a5edcaf41329af9b5f5a8662f0fb92c7a1
+
+
+## 2026-04-12 eb00c62f
+
+**Message:** File changes
+**Files:** 4 changed (NEW: 4)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/eb00c62f1af37502b179c033273c902adccd4c7a
+
+
+## 2026-04-12 fe80272b
+
+**Message:** File changes
+**Files:** 7 changed (NEW: 7)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/fe80272bfb6055d2e1026886589661cc83769a3f
+
+
+## 2026-04-12 cc98d284
+
+**Message:** File changes
+**Files:** 6 changed (NEW: 6)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/cc98d2849c95fef0146959877abacb2938c2ef5d
+
+
+## 2026-04-12 e2e0de2e
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/e2e0de2e9943d041f64e0079bcb70868de708445
+
+
+## 2026-04-12 96400df4
+
+**Message:** File changes
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/96400df49aa564844fdc690640b9581b15bdd6ff
+
+
+## 2026-04-12 e4b13f4b
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/e4b13f4b4ffa56a6aa10c1852acc02ba5fe125c3
+
+
+## 2026-04-12 0a8d94c4
+
+**Message:** File changes
+**Files:** 2 changed (NEW: 2)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/0a8d94c46d2c2daa6e99dd163e9afe0e38dc7fad
+
+
+## 2026-04-12 0ddc5140
+
+**Message:** File changes
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/0ddc514060a5e7529847ccfc6e7470fc54e090cd
+
+
+## 2026-04-12 01ef5f43
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/01ef5f4337520e76403439b54f416474113f54df
+
+
+## 2026-04-12 cc795b75
+
+**Message:** File changes
+**Files:** 4 changed (NEW: 4)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/cc795b75b80fce9ec723d7af1b51fe1d89bf0403
+
+
+## 2026-04-12 e9c7dad7
+
+**Message:** File changes
+**Files:** 4 changed (NEW: 4)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/e9c7dad7b6382d255dcaa79c6864ada1af6cff31
+
+
+## 2026-04-12 dc5b801f
+
+**Message:** File changes
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/dc5b801f9bbc0f3ad91f970ce659b8a8a5aa569c
+
+
+## 2026-04-11 1aec1f99
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/1aec1f99b66b04ecd17059309161e45bf7e777a7
+
+
+## 2026-04-11 3f83184f
+
+**Message:** File changes
+**Files:** 7 changed (NEW: 7)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/3f83184f91b4ab6e852e2bcc4b9237b86a3a172c
+
+
+## 2026-04-11 0e0a4d29
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/0e0a4d2977b02b9e0e2b7703a6fa5d216172ef53
+
+
+## 2026-04-11 7e2cf42d
+
+**Message:** File changes
+**Files:** 6 changed (NEW: 6)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/7e2cf42d2b848cc0701c27b5bf19bca5f023ace5
+
+
+## 2026-04-11 ca56f4c8
+
+**Message:** File changes
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/ca56f4c8408cc98b7f351cf33a29d0ccb11fd51a
+
+
+## 2026-04-11 7bd3f848
+
+**Message:** File changes
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/7bd3f84826df6d0d27d9e3453556763266f6145e
+
+
+## 2026-04-11 5756d26d
+
+**Message:** File changes
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/5756d26deafaed42b9568bf9599c2041cf8bde44
+
+
+## 2026-04-11 b3b4a959
+
+**Message:** File changes
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/b3b4a959f93f24b22ff5570d22bfd34f7cf5a7bf
+
+
+## 2026-04-11 442a4aa6
+
+**Message:** File changes
+**Files:** 4 changed (NEW: 4)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/442a4aa6fd20a437134e2c4efd820733ff556cb2
+
+
+## 2026-04-11 d4df16bd
+
+**Message:** File changes
+**Files:** 2 changed (NEW: 2)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/d4df16bd215b222c929d234467a3dbefbe039f07
+
+
+## 2026-04-11 d37f5413
+
+**Message:** File changes
+**Files:** 5 changed (NEW: 5)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/d37f5413563affbbed94992addb58b64125adcb0
+
+
+## 2026-04-11 981bd655
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/981bd65522efbfc84fbdcf1941d47c18993becc6
+
+
+## 2026-04-11 3a1682a1
+
+**Message:** File changes
+**Files:** 6 changed (NEW: 6)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/3a1682a1fefffdc5826186363751d43dfa46464d
+
+
+## 2026-04-11 18612a7d
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/18612a7d50b178d093fa8126aef26915702c760a
+
+
+## 2026-04-11 ad879b0b
+
+**Message:** File changes
+**Files:** 7 changed (NEW: 7)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/ad879b0b49a934ac4115c07661c78b8fe3ba6cc3
+
+
+## 2026-04-11 ae210dd2
+
+**Message:** File changes
+**Files:** 5 changed (NEW: 5)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/ae210dd267db37ea0eb18787277cd0b8726c153b
+
+
+## 2026-04-11 1c572b9d
+
+**Message:** File changes
+**Files:** 8 changed (NEW: 8)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/1c572b9df1e37f5a5fc5d80a96f6d81e9fdfd6dc
+
+
+## 2026-04-11 c2e86504
+
+**Message:** File changes
+**Files:** 4 changed (NEW: 4)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/c2e8650418eebbc1a50d5c2ebb6839ce2adeed49
+
+
+## 2026-04-11 9098ede4
+
+**Message:** File changes
+**Files:** 2 changed (NEW: 2)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/9098ede4984a7a07e7d8e0cfd8577d4a7008ee96
+
+
+## 2026-04-11 c323e33f
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/c323e33f986baffd4591304bb829aa07780e3cf1
+
+
+## 2026-04-11 a32f6aaf
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/a32f6aaf5c651c5fb4e0a9cfd0da3d058e619456
+
+
+## 2026-04-11 405ff264
+
+**Message:** File changes
+**Files:** 4 changed (NEW: 4)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/405ff2645dfa9116f45a10604c94db9f9720ab3c
+
+
+## 2026-04-11 d6bc2b03
+
+**Message:** File changes
+**Files:** 1 changed (NEW: 1)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/d6bc2b0353bf18864fc557c5844b5929794e7a66
+
+
+## 2026-04-11 e90d8ade
+
+**Message:** File changes
+**Files:** 3 changed (NEW: 3)
+**Commit:** https://github.com/Cinedex/48labs-design/commit/e90d8ade0095f11aab3906ad29ec3d354bda70ff
+

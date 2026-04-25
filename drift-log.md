@@ -1,3 +1,21 @@
+## 2026-04-22 dcb2a8e9
+
+**Summary:** 6× NEW, 64× MODIFIED
+
+**Commits:**
+- `dcb2a8e9` merge: bring staging sync commits into main (Phase 3 design 
+- `aa4661f4` sync: website booking and auth pages — refined versions from
+- `f19cdf03` sync: website marketing pages — refined versions from Claude
+- `22cdea70` sync: BookingFlow.jsx — refined version from Claude Code
+- `38853339` sync: dashboard and iPad components — refined versions from 
+- `3564003b` sync: RoomForm components — refined versions from Claude Cod
+- `923b30e2` sync: marketing components — refined versions from Claude Co
+- `18e25d25` sync: booking components — refined versions from Claude Code
+- `762ca5e0` sync: UI primitives — refined versions from Claude Code
+- `47b2dd66` feat: move design site to cloudflare pages
+
+---
+
 # Drift Log — 48Labs Design
 ## Commit tracking across 48labs-design
 Categorization: NEW (added files) | MODIFIED (changed files) | CONFLICT (Claude Code owned files touched)

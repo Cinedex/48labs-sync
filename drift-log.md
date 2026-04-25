@@ -3161,4 +3161,57 @@ sync: UI primitives — refined versions from Claude Code
 ## 2026-04-20 47b2dd66
 feat: move design site to cloudflare pages
 
-3 NEW, 1 MODIFIED, 0 CONFLICT (4 files)
+3 NEW, 1 MODIFIED, 0 CONFLICT (4 files)## 2026-04-22 dcb2a8e9
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files Changed:** 35 total
+- NEW: 3
+- MODIFIED: 32
+- CONFLICT: 0
+
+---
+
+## 2026-04-22 aa4661f4
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files Changed:** 6 total
+- NEW: 0
+- MODIFIED: 6
+- CONFLICT: 0
+
+---
+
+## 2026-04-22 f19cdf03
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Files Changed:** 4 total
+- NEW: 0
+- MODIFIED: 4
+- CONFLICT: 0
+
+---
+
+## 2026-04-22 22cdea70
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files Changed:** 1 total
+- NEW: 0
+- MODIFIED: 1
+- CONFLICT: 0
+
+---
+
+## 2026-04-22 38853339
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files Changed:** 3 total
+- NEW: 0
+- MODIFIED: 3
+- CONFLICT: 0
+
+---

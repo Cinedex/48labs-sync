@@ -877,3 +877,9 @@ Categorization: NEW (added files) | MODIFIED (changed files) | CONFLICT (Claude 
 **Files:** 4
 **Classification:** NEW: 4
 
+
+## 2026-04-22 22cdea70
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files:** 1
+**Classification:** NEW: 1
+

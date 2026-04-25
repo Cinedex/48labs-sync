@@ -1,6 +1,6 @@
-## 2026-04-25 aa4661f4
-**Message:** sync: website booking and auth pages — refined versions from Claude Code
-**Files changed:** 6 files (0× NEW | 6× MODIFIED | 0× CONFLICT)
+## 2026-04-25 f19cdf03
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files changed:** 4 files (0× NEW | 4× MODIFIED | 0× CONFLICT)
 ---
 
 ## 2026-04-22 dcb2a8e9

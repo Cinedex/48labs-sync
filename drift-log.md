@@ -895,3 +895,9 @@ Categorization: NEW (added files) | MODIFIED (changed files) | CONFLICT (Claude 
 **Files:** 2
 **Classification:** NEW: 2
 
+
+## 2026-04-22 923b30e2
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files:** 3
+**Classification:** NEW: 3
+

@@ -7904,3 +7904,65 @@ File changes
 **Message:** feat: move design site to cloudflare pages
 **Files changed:** 2
 **Classification:** 2× MODIFIED
+
+## 2026-04-22 dcb2a8e9
+**Files:** 35 total
+- **3× NEW** (unintegrated)
+- **32× MODIFIED**
+
+Phase 3 merge: design system sync
+
+## 2026-04-22 aa4661f4
+**Files:** 6 total
+- **6× MODIFIED**
+
+website booking and auth pages
+
+## 2026-04-22 f19cdf03
+**Files:** 4 total
+- **4× MODIFIED**
+
+website marketing pages
+
+## 2026-04-22 22cdea70
+**Files:** 1 total
+- **1× MODIFIED**
+
+BookingFlow page
+
+## 2026-04-22 38853339
+**Files:** 3 total
+- **3× MODIFIED**
+
+dashboard and iPad components
+
+## 2026-04-22 3564003b
+**Files:** 2 total
+- **2× MODIFIED**
+
+RoomForm components
+
+## 2026-04-22 923b30e2
+**Files:** 3 total
+- **3× MODIFIED**
+
+marketing components
+
+## 2026-04-22 18e25d25
+**Files:** 2 total
+- **2× MODIFIED**
+
+booking components
+
+## 2026-04-22 762ca5e0
+**Files:** 10 total
+- **10× MODIFIED**
+
+UI primitives
+
+## 2026-04-20 47b2dd66
+**Files:** 4 total
+- **3× NEW** (unintegrated)
+- **1× MODIFIED**
+
+move to Cloudflare Pages

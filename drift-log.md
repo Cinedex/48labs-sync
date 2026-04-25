@@ -901,3 +901,9 @@ Categorization: NEW (added files) | MODIFIED (changed files) | CONFLICT (Claude 
 **Files:** 3
 **Classification:** NEW: 3
 
+
+## 2026-04-22 18e25d25
+**Message:** sync: booking components — refined versions from Claude Code
+**Files:** 2
+**Classification:** NEW: 2
+

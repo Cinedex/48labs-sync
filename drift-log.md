@@ -913,3 +913,9 @@ Categorization: NEW (added files) | MODIFIED (changed files) | CONFLICT (Claude 
 **Files:** 10
 **Classification:** NEW: 10
 
+
+## 2026-04-20 47b2dd66
+**Message:** feat: move design site to cloudflare pages
+**Files:** 4
+**Classification:** NEW: 4
+

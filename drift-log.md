@@ -1,6 +1,6 @@
-## 2026-04-25 923b30e2
-**Message:** sync: marketing components — refined versions from Claude Code
-**Files changed:** 3 files (0× NEW | 3× MODIFIED | 0× CONFLICT)
+## 2026-04-25 18e25d25
+**Message:** sync: booking components — refined versions from Claude Code
+**Files changed:** 2 files (0× NEW | 2× MODIFIED | 0× CONFLICT)
 ---
 
 ## 2026-04-22 dcb2a8e9

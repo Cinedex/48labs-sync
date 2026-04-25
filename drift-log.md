@@ -871,3 +871,9 @@ Categorization: NEW (added files) | MODIFIED (changed files) | CONFLICT (Claude 
 **Files:** 6
 **Classification:** NEW: 6
 
+
+## 2026-04-22 f19cdf03
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files:** 4
+**Classification:** NEW: 4
+

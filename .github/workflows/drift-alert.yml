@@ -1,91 +1,127 @@
-name: Drift Alert
+name: Drift Alert (Daily Digest)
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - drift-log.md
+  schedule:
+    - cron: '0 9 * * *'   # daily at 9am UTC
+  workflow_dispatch:        # allow manual trigger for testing
 
 jobs:
-  create-drift-issue:
+  drift-digest:
     runs-on: ubuntu-latest
     permissions:
       issues: write
+      contents: read
 
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 2   # need HEAD and HEAD~1 for the diff
+          fetch-depth: 0   # full history needed to inspect yesterday's commits
 
-      - name: Extract newly added drift entry
-        id: extract
+      - name: Collect drift entries added in last 24 hours
+        id: collect
         run: |
           python3 << 'PYEOF'
-          import re, subprocess, sys, os
+          import re, subprocess, sys, os, json
+          from datetime import datetime, timezone, timedelta
 
-          # ── Step 1: find headings ADDED in this specific commit ──────────────
-          diff = subprocess.run(
-              ['git', 'diff', 'HEAD~1', 'HEAD', '--', 'drift-log.md'],
+          cutoff = datetime.now(timezone.utc) - timedelta(hours=24)
+          cutoff_str = cutoff.strftime('%Y-%m-%dT%H:%M:%SZ')
+
+          # All commits to drift-log.md in the last 24h
+          log = subprocess.run(
+              ['git', 'log', f'--after={cutoff_str}', '--format=%H', '--', 'drift-log.md'],
               capture_output=True, text=True
-          ).stdout
+          ).stdout.strip()
 
-          # Lines that start with "+## " are newly added headings
-          added = re.findall(r'^\+## (.+)', diff, re.MULTILINE)
+          commits = [c for c in log.splitlines() if c]
+          print(f'Commits to drift-log.md in last 24h: {len(commits)}')
 
-          # Exclude the template placeholder and any artifact of the code fence
-          added = [
-              h for h in added
-              if not h.startswith('Template')
-              and not re.match(r'YYYY-MM-DD', h)
-          ]
-
-          if not added:
-              print('No new drift headings in this commit — skipping issue creation')
-              # Signal the next step to skip
+          if not commits:
+              print('No new drift entries — skipping')
               with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
                   f.write('skip=true\n')
               sys.exit(0)
 
-          new_heading = added[0]   # first newly added heading
-          print(f'New heading: {new_heading}')
+          # Collect all new headings across all commits
+          all_entries = []
+          seen_headings = set()
 
-          # ── Step 2: extract the full section from the file ───────────────────
-          with open('drift-log.md', 'r') as f:
-              content = f.read()
+          for sha in commits:
+              diff = subprocess.run(
+                  ['git', 'diff', f'{sha}~1', sha, '--', 'drift-log.md'],
+                  capture_output=True, text=True
+              ).stdout
 
-          # Strip code fences to prevent template code block from leaking
-          stripped = re.sub(r'```[\s\S]*?```', '[code block]', content)
+              added_headings = re.findall(r'^\+## (.+)', diff, re.MULTILINE)
+              added_headings = [
+                  h for h in added_headings
+                  if not h.startswith('Template')
+                  and not re.match(r'YYYY-MM-DD', h)
+                  and h not in seen_headings
+              ]
 
-          # Find the section starting at our heading and ending at the next ##
-          pattern = r'(## ' + re.escape(new_heading) + r'[\s\S]*?)(?=\n## |\Z)'
-          m = re.search(pattern, stripped)
-          entry_body = m.group(1).strip() if m else f'## {new_heading}\n\n(full entry could not be extracted — check drift-log.md)'
+              if not added_headings:
+                  continue
 
-          with open('drift_entry.md', 'w') as f:
-              f.write(entry_body)
-          with open('drift_heading.txt', 'w') as f:
-              f.write(new_heading)
+              # Read the current drift-log.md to extract full section bodies
+              with open('drift-log.md', 'r') as f:
+                  content = f.read()
+              stripped = re.sub(r'```[\s\S]*?```', '[code block]', content)
+
+              for heading in added_headings:
+                  seen_headings.add(heading)
+                  pattern = r'(## ' + re.escape(heading) + r'[\s\S]*?)(?=\n## |\Z)'
+                  m = re.search(pattern, stripped)
+                  body = m.group(1).strip() if m else f'## {heading}\n\n(body not extractable — check drift-log.md)'
+                  all_entries.append({'heading': heading, 'body': body})
+
+          if not all_entries:
+              print('Commits found but no new headings — skipping')
+              with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+                  f.write('skip=true\n')
+              sys.exit(0)
+
+          print(f'New drift entries: {len(all_entries)}')
+
+          with open('drift_entries.json', 'w') as f:
+              json.dump(all_entries, f)
 
           with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
               f.write('skip=false\n')
-
-          print(f'Extracted {len(entry_body)} chars for issue body')
+              f.write(f'count={len(all_entries)}\n')
           PYEOF
 
-      - name: Create issue and ensure labels exist
-        if: steps.extract.outputs.skip != 'true' && hashFiles('drift_heading.txt') != ''
+      - name: Create single digest issue
+        if: steps.collect.outputs.skip != 'true'
         uses: actions/github-script@v6
         with:
           script: |
             const fs = require('fs');
 
-            if (!fs.existsSync('drift_heading.txt')) {
-              console.log('No drift_heading.txt — skipping');
+            if (!fs.existsSync('drift_entries.json')) {
+              console.log('No drift_entries.json — skipping');
               return;
             }
 
-            const heading = fs.readFileSync('drift_heading.txt', 'utf8').trim();
-            const entryBody = fs.readFileSync('drift_entry.md', 'utf8').trim();
+            const entries = JSON.parse(fs.readFileSync('drift_entries.json', 'utf8'));
+            const today = new Date().toISOString().slice(0, 10);
+
+            // Dedupe: skip if a drift digest issue already exists for today
+            const { data: existing } = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo:  context.repo.repo,
+              state: 'open',
+              labels: 'drift',
+            });
+
+            const alreadyToday = existing.some(i =>
+              i.title.includes(today) || i.created_at.startsWith(today)
+            );
+
+            if (alreadyToday) {
+              console.log('Drift digest issue already created today — skipping');
+              return;
+            }
 
             // Ensure labels exist
             const labels = [
@@ -95,32 +131,35 @@ jobs:
             for (const label of labels) {
               try {
                 await github.rest.issues.createLabel({
-                  owner: context.repo.owner,
-                  repo:  context.repo.repo,
-                  ...label,
+                  owner: context.repo.owner, repo: context.repo.repo, ...label,
                 });
               } catch (e) {
-                if (e.status !== 422) throw e;  // 422 = already exists
+                if (e.status !== 422) throw e;
               }
             }
 
+            const sections = entries.map(e => e.body).join('\n\n---\n\n');
+            const plural = entries.length === 1 ? '1 entry' : `${entries.length} entries`;
+
             const body = [
-              `**New entry logged in [drift-log.md](https://github.com/${context.repo.owner}/${context.repo.repo}/blob/main/drift-log.md)**`,
+              `**Daily drift digest — ${today}** (${plural})`,
+              '',
+              `See [drift-log.md](https://github.com/${context.repo.owner}/${context.repo.repo}/blob/main/drift-log.md) for the full log.`,
               '',
               '---',
               '',
-              entryBody,
+              sections,
               '',
               '---',
-              `_Triggered by commit \`${context.sha.slice(0, 7)}\` pushed by @${context.actor}_`,
+              `_Automated daily digest — runs at 09:00 UTC_`,
             ].join('\n');
 
             await github.rest.issues.create({
               owner:  context.repo.owner,
               repo:   context.repo.repo,
-              title:  `Drift detected — ${heading}`,
+              title:  `Drift digest — ${today} (${plural})`,
               body,
               labels: ['drift', 'needs-review'],
             });
 
-            console.log(`Issue created for: ${heading}`);
+            console.log(`Digest issue created for ${today} with ${entries.length} entries`);

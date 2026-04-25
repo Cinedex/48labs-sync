@@ -1,4 +1,128 @@
 ## 2026-04-22 dcb2a8e9
+
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Author:** Levi Elizaga
+**Summary:** 3× NEW, 32× MODIFIED
+
+### NEW (3)
+- `project.config.json`
+- `public/_redirects`
+- `scripts/deploy-guard.mjs`
+
+### MODIFIED (32)
+- `package.json`
+- `src/components/MarketingFooter.jsx`
+- `src/components/MarketingHeader.jsx`
+- `src/components/RoomForm/RoomStudioPreview.jsx`
+- `src/components/RoomForm/WebsitePreviewCard.jsx`
+- ... and 27 more
+
+## 2026-04-22 aa4661f4
+
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Author:** Levi Elizaga
+**Summary:** 6× MODIFIED
+
+### MODIFIED (6)
+- `src/pages/DynamicCreditsPage.jsx`
+- `src/pages/DynamicMembershipsPage.jsx`
+- `src/pages/GuestBuyCredits.jsx`
+- `src/pages/MembershipSignup.jsx`
+- `src/pages/Register.jsx`
+- ... and 1 more
+
+## 2026-04-22 f19cdf03
+
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Author:** Levi Elizaga
+**Summary:** 4× MODIFIED
+
+### MODIFIED (4)
+- `src/pages/Landing.jsx`
+- `src/pages/RoomProfile.jsx`
+- `src/pages/Services.jsx`
+- `src/pages/Studios.jsx`
+
+## 2026-04-22 22cdea70
+
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Author:** Levi Elizaga
+**Summary:** 1× MODIFIED
+
+### MODIFIED (1)
+- `src/pages/BookingFlow.jsx`
+
+## 2026-04-22 38853339
+
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Author:** Levi Elizaga
+**Summary:** 3× MODIFIED
+
+### MODIFIED (3)
+- `src/components/dashboard/MonthCalendar.jsx`
+- `src/components/ipad/FiveMinWarning.jsx`
+- `src/components/ipad/ThankYouScreen.jsx`
+
+## 2026-04-22 3564003b
+
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Author:** Levi Elizaga
+**Summary:** 2× MODIFIED
+
+### MODIFIED (2)
+- `src/components/RoomForm/RoomStudioPreview.jsx`
+- `src/components/RoomForm/WebsitePreviewCard.jsx`
+
+## 2026-04-22 923b30e2
+
+**Message:** sync: marketing components — refined versions from Claude Code
+**Author:** Levi Elizaga
+**Summary:** 3× MODIFIED
+
+### MODIFIED (3)
+- `src/components/MarketingFooter.jsx`
+- `src/components/MarketingHeader.jsx`
+- `src/components/marketing/RoomOperatingHoursDisplay.jsx`
+
+## 2026-04-22 18e25d25
+
+**Message:** sync: booking components — refined versions from Claude Code
+**Author:** Levi Elizaga
+**Summary:** 2× MODIFIED
+
+### MODIFIED (2)
+- `src/components/booking/BookingDateTimeStep.jsx`
+- `src/components/booking/ClientSelectStep.jsx`
+
+## 2026-04-22 762ca5e0
+
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Author:** Levi Elizaga
+**Summary:** 10× MODIFIED
+
+### MODIFIED (10)
+- `src/components/ui/EmptyState.jsx`
+- `src/components/ui/FilterPills.jsx`
+- `src/components/ui/PortalDrawer.jsx`
+- `src/components/ui/PortalTable.jsx`
+- `src/components/ui/SearchInput.jsx`
+- ... and 5 more
+
+## 2026-04-20 47b2dd66
+
+**Message:** feat: move design site to cloudflare pages
+**Author:** Levi Elizaga
+**Summary:** 3× NEW, 1× MODIFIED
+
+### NEW (3)
+- `project.config.json`
+- `public/_redirects`
+- `scripts/deploy-guard.mjs`
+
+### MODIFIED (1)
+- `package.json`
+
+## 2026-04-22 dcb2a8e9
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)
 **Files changed:** 35 files (3× NEW | 32× MODIFIED)
 ---

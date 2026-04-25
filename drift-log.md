@@ -1,3 +1,299 @@
+## 2026-04-11 e90d8ade
+
+**File changes**
+
+Files: 3 total (3× MODIFIED)
+
+## 2026-04-11 d6bc2b03
+
+**File changes**
+
+Files: 1 total (1× MODIFIED)
+
+## 2026-04-11 405ff264
+
+**File changes**
+
+Files: 4 total (4× MODIFIED)
+
+## 2026-04-11 a32f6aaf
+
+**File changes**
+
+Files: 1 total (1× MODIFIED)
+
+## 2026-04-11 c323e33f
+
+**File changes**
+
+Files: 1 total (1× MODIFIED)
+
+## 2026-04-11 9098ede4
+
+**File changes**
+
+Files: 2 total (2× MODIFIED)
+
+## 2026-04-11 c2e86504
+
+**File changes**
+
+Files: 4 total (4× MODIFIED)
+
+## 2026-04-11 1c572b9d
+
+**File changes**
+
+Files: 8 total (2× NEW, 6× MODIFIED)
+
+## 2026-04-11 ae210dd2
+
+**File changes**
+
+Files: 5 total (1× NEW, 4× MODIFIED)
+
+## 2026-04-11 ad879b0b
+
+**File changes**
+
+Files: 7 total (3× NEW, 4× MODIFIED)
+
+## 2026-04-11 18612a7d
+
+**File changes**
+
+Files: 1 total (1× MODIFIED)
+
+## 2026-04-11 3a1682a1
+
+**File changes**
+
+Files: 6 total (2× NEW, 4× MODIFIED)
+
+## 2026-04-11 981bd655
+
+**File changes**
+
+Files: 1 total (1× MODIFIED)
+
+## 2026-04-11 d37f5413
+
+**File changes**
+
+Files: 5 total (4× MODIFIED, 1× CONFLICT)
+
+## 2026-04-11 d4df16bd
+
+**File changes**
+
+Files: 2 total (1× NEW, 1× MODIFIED)
+
+## 2026-04-11 442a4aa6
+
+**File changes**
+
+Files: 4 total (3× MODIFIED, 1× CONFLICT)
+
+## 2026-04-11 b3b4a959
+
+**File changes**
+
+Files: 3 total (3× MODIFIED)
+
+## 2026-04-11 5756d26d
+
+**File changes**
+
+Files: 3 total (3× MODIFIED)
+
+## 2026-04-11 7bd3f848
+
+**File changes**
+
+Files: 3 total (3× MODIFIED)
+
+## 2026-04-11 ca56f4c8
+
+**File changes**
+
+Files: 3 total (3× MODIFIED)
+
+## 2026-04-11 7e2cf42d
+
+**File changes**
+
+Files: 6 total (2× NEW, 4× MODIFIED)
+
+## 2026-04-11 0e0a4d29
+
+**File changes**
+
+Files: 1 total (1× MODIFIED)
+
+## 2026-04-11 3f83184f
+
+**File changes**
+
+Files: 7 total (7× MODIFIED)
+
+## 2026-04-11 1aec1f99
+
+**File changes**
+
+Files: 1 total (1× MODIFIED)
+
+## 2026-04-12 dc5b801f
+
+**File changes**
+
+Files: 3 total (3× MODIFIED)
+
+## 2026-04-12 e9c7dad7
+
+**File changes**
+
+Files: 4 total (4× MODIFIED)
+
+## 2026-04-12 cc795b75
+
+**File changes**
+
+Files: 4 total (4× MODIFIED)
+
+## 2026-04-12 01ef5f43
+
+**File changes**
+
+Files: 1 total (1× MODIFIED)
+
+## 2026-04-12 0ddc5140
+
+**File changes**
+
+Files: 3 total (3× MODIFIED)
+
+## 2026-04-12 0a8d94c4
+
+**File changes**
+
+Files: 2 total (2× MODIFIED)
+
+## 2026-04-12 e4b13f4b
+
+**File changes**
+
+Files: 1 total (1× MODIFIED)
+
+## 2026-04-12 96400df4
+
+**File changes**
+
+Files: 3 total (3× MODIFIED)
+
+## 2026-04-12 e2e0de2e
+
+**File changes**
+
+Files: 1 total (1× CONFLICT)
+
+## 2026-04-12 cc98d284
+
+**File changes**
+
+Files: 6 total (6× MODIFIED)
+
+## 2026-04-12 fe80272b
+
+**File changes**
+
+Files: 7 total (7× NEW)
+
+## 2026-04-12 eb00c62f
+
+**File changes**
+
+Files: 4 total (4× MODIFIED)
+
+## 2026-04-12 62d1e6a5
+
+**File changes**
+
+Files: 2 total (2× MODIFIED)
+
+## 2026-04-12 fe64f268
+
+**File changes**
+
+Files: 5 total (2× NEW, 3× MODIFIED)
+
+## 2026-04-12 725cf756
+
+**Update base44 packages**
+
+Files: 2 total (2× MODIFIED)
+
+## 2026-04-20 47b2dd66
+
+**feat: move design site to cloudflare pages**
+
+Files: 4 total (3× NEW, 1× MODIFIED)
+
+## 2026-04-22 762ca5e0
+
+**sync: UI primitives — refined versions from Claude Code**
+
+Files: 10 total (10× CONFLICT)
+
+## 2026-04-22 18e25d25
+
+**sync: booking components — refined versions from Claude Code**
+
+Files: 2 total (2× CONFLICT)
+
+## 2026-04-22 923b30e2
+
+**sync: marketing components — refined versions from Claude Code**
+
+Files: 3 total (3× CONFLICT)
+
+## 2026-04-22 3564003b
+
+**sync: RoomForm components — refined versions from Claude Code**
+
+Files: 2 total (2× CONFLICT)
+
+## 2026-04-22 38853339
+
+**sync: dashboard and iPad components — refined versions from Claude Code**
+
+Files: 3 total (3× CONFLICT)
+
+## 2026-04-22 22cdea70
+
+**sync: BookingFlow.jsx — refined version from Claude Code**
+
+Files: 1 total (1× CONFLICT)
+
+## 2026-04-22 f19cdf03
+
+**sync: website marketing pages — refined versions from Claude Code**
+
+Files: 4 total (4× CONFLICT)
+
+## 2026-04-22 aa4661f4
+
+**sync: website booking and auth pages — refined versions from Claude Code**
+
+Files: 6 total (6× CONFLICT)
+
+## 2026-04-22 dcb2a8e9
+
+**merge: bring staging sync commits into main (Phase 3 design sync)**
+
+Files: 35 total (3× NEW, 1× MODIFIED, 31× CONFLICT)
+
+---
+
 ## 2026-04-22 dcb2a8e9
 
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)

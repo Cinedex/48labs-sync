@@ -907,3 +907,9 @@ Categorization: NEW (added files) | MODIFIED (changed files) | CONFLICT (Claude 
 **Files:** 2
 **Classification:** NEW: 2
 
+
+## 2026-04-22 762ca5e0
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files:** 10
+**Classification:** NEW: 10
+

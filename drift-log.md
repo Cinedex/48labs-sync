@@ -1,6 +1,6 @@
-## 2026-04-22 762ca5e0
-**Message:** sync: UI primitives — refined versions from Claude Code
-**Files changed:** 10 files (0× NEW | 10× MODIFIED | 0× CONFLICT)
+## 2026-04-20 47b2dd66
+**Message:** feat: move design site to cloudflare pages
+**Files changed:** 4 files (0× NEW | 4× MODIFIED | 0× CONFLICT)
 ---
 ## 2026-04-25 dcb2a8e9
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)

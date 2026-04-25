@@ -1,6 +1,6 @@
-## 2026-04-22 38853339
-**Message:** sync: dashboard and iPad components — refined versions from Claude Code
-**Files changed:** 3 files (0× NEW | 3× MODIFIED | 0× CONFLICT)
+## 2026-04-22 3564003b
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files changed:** 2 files (0× NEW | 2× MODIFIED | 0× CONFLICT)
 ---
 ## 2026-04-25 dcb2a8e9
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)

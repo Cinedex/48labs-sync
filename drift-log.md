@@ -865,3 +865,9 @@ Categorization: NEW (added files) | MODIFIED (changed files) | CONFLICT (Claude 
 **Files:** 35
 **Classification:** NEW: 35
 
+
+## 2026-04-22 aa4661f4
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files:** 6
+**Classification:** NEW: 6
+

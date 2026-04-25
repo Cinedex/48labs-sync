@@ -7522,3 +7522,163 @@ File changes
 - src/hooks/useTheme.js
 - src/pages/AdminDashboard.jsx
 
+
+## 2026-04-12 e4b13f4b
+
+**Commit:** e4b13f4b4ffa56a6aa10c1852acc02ba5fe125c3
+**Date:** 2026-04-12T00:49:05Z
+**Message:** File changes
+
+**Files:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+## 2026-04-12 96400df4
+
+**Commit:** 96400df49aa564844fdc690640b9581b15bdd6ff
+**Date:** 2026-04-12T00:52:59Z
+**Message:** File changes
+
+**Files:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+## 2026-04-12 e2e0de2e
+
+**Commit:** e2e0de2e9943d041f64e0079bcb70868de708445
+**Date:** 2026-04-12T01:22:17Z
+**Message:** File changes
+
+**Files:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+## 2026-04-12 cc98d284
+
+**Commit:** cc98d2849c95fef0146959877abacb2938c2ef5d
+**Date:** 2026-04-12T01:29:03Z
+**Message:** File changes
+
+**Files:** 0 NEW, 6 MODIFIED, 0 CONFLICT
+
+## 2026-04-12 fe80272b
+
+**Commit:** fe80272bfb6055d2e1026886589661cc83769a3f
+**Date:** 2026-04-12T01:37:07Z
+**Message:** File changes
+
+**Files:** 7 NEW, 0 MODIFIED, 0 CONFLICT
+
+## 2026-04-12 eb00c62f
+
+**Commit:** eb00c62f1af37502b179c033273c902adccd4c7a
+**Date:** 2026-04-12T01:40:38Z
+**Message:** File changes
+
+**Files:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+## 2026-04-12 62d1e6a5
+
+**Commit:** 62d1e6a5edcaf41329af9b5f5a8662f0fb92c7a1
+**Date:** 2026-04-12T01:42:54Z
+**Message:** File changes
+
+**Files:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+## 2026-04-12 fe64f268
+
+**Commit:** fe64f268e2f246d72f201c0adac867d790e898e8
+**Date:** 2026-04-12T01:46:59Z
+**Message:** File changes
+
+**Files:** 2 NEW, 3 MODIFIED, 0 CONFLICT
+
+## 2026-04-12 725cf756
+
+**Commit:** 725cf75610745a0dcb530f28afef0174826e5d44
+**Date:** 2026-04-12T15:14:18Z
+**Message:** Update base44 packages
+
+**Files:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+## 2026-04-16 5b06f159
+
+**Commit:** 5b06f15999046b2df212649b4e5f540e9bc0d1c2
+**Date:** 2026-04-16T15:28:29Z
+**Message:** Update base44 packages
+
+**Files:** 1 NEW, 2 MODIFIED, 0 CONFLICT
+
+## 2026-04-20 47b2dd66
+
+**Commit:** 47b2dd66260b5c9585f2b3c5cde7da1a130183f5
+**Date:** 2026-04-20T04:07:52Z
+**Message:** feat: move design site to cloudflare pages
+
+**Files:** 3 NEW, 1 MODIFIED, 0 CONFLICT
+
+## 2026-04-22 762ca5e0
+
+**Commit:** 762ca5e09a65dd464932fe352920a4faacbfa0bc
+**Date:** 2026-04-22T05:04:10Z
+**Message:** sync: UI primitives — refined versions from Claude Code
+
+**Files:** 0 NEW, 10 MODIFIED, 0 CONFLICT
+
+## 2026-04-22 18e25d25
+
+**Commit:** 18e25d254af8ee8569479173206fb9ea19d0382c
+**Date:** 2026-04-22T05:04:15Z
+**Message:** sync: booking components — refined versions from Claude Code
+
+**Files:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+## 2026-04-22 923b30e2
+
+**Commit:** 923b30e2efc07529a161d81258b6bbda8daba496
+**Date:** 2026-04-22T05:04:19Z
+**Message:** sync: marketing components — refined versions from Claude Code
+
+**Files:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+## 2026-04-22 3564003b
+
+**Commit:** 3564003baf53a0ced6da5c5c49941f4d09c8082d
+**Date:** 2026-04-22T05:04:23Z
+**Message:** sync: RoomForm components — refined versions from Claude Code
+
+**Files:** 0 NEW, 2 MODIFIED, 0 CONFLICT
+
+## 2026-04-22 38853339
+
+**Commit:** 38853339f47e5b2ddcd23a205c40cb228fcd8dc1
+**Date:** 2026-04-22T05:04:31Z
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files:** 0 NEW, 3 MODIFIED, 0 CONFLICT
+
+## 2026-04-22 22cdea70
+
+**Commit:** 22cdea70afd9f763b36b3e1941e366c04b97b1e6
+**Date:** 2026-04-22T05:04:36Z
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files:** 0 NEW, 1 MODIFIED, 0 CONFLICT
+
+## 2026-04-22 f19cdf03
+
+**Commit:** f19cdf0381be3ceebc40ae98c2bc71f92148d855
+**Date:** 2026-04-22T05:04:42Z
+**Message:** sync: website marketing pages — refined versions from Claude Code
+
+**Files:** 0 NEW, 4 MODIFIED, 0 CONFLICT
+
+## 2026-04-22 aa4661f4
+
+**Commit:** aa4661f4b14bfb0d815b78f4a1206cd07a2810f4
+**Date:** 2026-04-22T05:04:47Z
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+
+**Files:** 0 NEW, 6 MODIFIED, 0 CONFLICT
+
+## 2026-04-22 dcb2a8e9
+
+**Commit:** dcb2a8e911e5ed365732b984c6e920f1ced3d844
+**Date:** 2026-04-22T15:33:13Z
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files:** 3 NEW, 32 MODIFIED, 0 CONFLICT

@@ -1,6 +1,6 @@
-## 2026-04-22 dcb2a8e9
-**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
-**Files changed:** 35 files (0× NEW | 35× MODIFIED | 0× CONFLICT)
+## 2026-04-22 aa4661f4
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files changed:** 6 files (0× NEW | 6× MODIFIED | 0× CONFLICT)
 ---
 ## 2026-04-25 dcb2a8e9
 **Message:** merge: bring staging sync commits into main (Phase 3 design sync)

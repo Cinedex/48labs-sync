@@ -10628,3 +10628,13 @@ File changes
 - src/components/invoicing/InvoiceDrawer.jsx
 
 ---
+
+## 2026-04-09 03b26f03
+**Commit:** File changes
+**Files changed:** 2
+
+**MODIFIED (2):**
+- src/components/booking/MultiDayRangePicker.jsx
+- src/pages/AdminBookNewSession.jsx
+
+---

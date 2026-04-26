@@ -10848,3 +10848,21 @@ File changes
 - src/pages/Register.jsx
 
 ---
+
+## 2026-04-07 636761a9
+**Commit:** File changes
+**Files changed:** 8
+
+**NEW (5):**
+- base44/entities/BookingGuestList.jsonc
+- base44/entities/ClientComplianceRecord.jsonc
+- base44/functions/parseDocumentPDF/entry.ts
+- src/components/client/CompliancePanel.jsx
+- src/components/client/GuestListPanel.jsx
+
+**MODIFIED (3):**
+- src/pages/AdminClientProfile.jsx
+- src/pages/ClientBookingHistory.jsx
+- src/pages/ClientDashboard.jsx
+
+---

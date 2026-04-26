@@ -1,3 +1,603 @@
+## 2026-04-22 dcb2a8e9
+
+merge: bring staging sync commits into main (Phase 3 design sync)
+
+Files: NEW: 35
+
+## 2026-04-22 aa4661f4
+
+sync: website booking and auth pages — refined versions from Claude Code
+
+Files: NEW: 6
+
+## 2026-04-22 f19cdf03
+
+sync: website marketing pages — refined versions from Claude Code
+
+Files: NEW: 4
+
+## 2026-04-22 22cdea70
+
+sync: BookingFlow.jsx — refined version from Claude Code
+
+Files: NEW: 1
+
+## 2026-04-22 38853339
+
+sync: dashboard and iPad components — refined versions from Claude Code
+
+Files: NEW: 3
+
+## 2026-04-22 3564003b
+
+sync: RoomForm components — refined versions from Claude Code
+
+Files: NEW: 2
+
+## 2026-04-22 923b30e2
+
+sync: marketing components — refined versions from Claude Code
+
+Files: NEW: 3
+
+## 2026-04-22 18e25d25
+
+sync: booking components — refined versions from Claude Code
+
+Files: NEW: 2
+
+## 2026-04-22 762ca5e0
+
+sync: UI primitives — refined versions from Claude Code
+
+Files: NEW: 10
+
+## 2026-04-20 47b2dd66
+
+feat: move design site to cloudflare pages
+
+Files: NEW: 4
+
+## 2026-04-16 5b06f159
+
+Update base44 packages
+
+Files: NEW: 3
+
+## 2026-04-12 725cf756
+
+Update base44 packages
+
+Files: NEW: 2
+
+## 2026-04-12 fe64f268
+
+File changes
+
+Files: NEW: 5
+
+## 2026-04-12 62d1e6a5
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-12 eb00c62f
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-12 fe80272b
+
+File changes
+
+Files: NEW: 7
+
+## 2026-04-12 cc98d284
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-12 e2e0de2e
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-12 96400df4
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-12 e4b13f4b
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-12 0a8d94c4
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-12 0ddc5140
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-12 01ef5f43
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-12 cc795b75
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-12 e9c7dad7
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-12 dc5b801f
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-11 1aec1f99
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-11 3f83184f
+
+File changes
+
+Files: NEW: 7
+
+## 2026-04-11 0e0a4d29
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-11 7e2cf42d
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-11 ca56f4c8
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-11 7bd3f848
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-11 5756d26d
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-11 b3b4a959
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-11 442a4aa6
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-11 d4df16bd
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-11 d37f5413
+
+File changes
+
+Files: NEW: 5
+
+## 2026-04-11 981bd655
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-11 3a1682a1
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-11 18612a7d
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-11 ad879b0b
+
+File changes
+
+Files: NEW: 7
+
+## 2026-04-11 ae210dd2
+
+File changes
+
+Files: NEW: 5
+
+## 2026-04-11 1c572b9d
+
+File changes
+
+Files: NEW: 8
+
+## 2026-04-11 c2e86504
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-11 9098ede4
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-11 c323e33f
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-11 a32f6aaf
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-11 405ff264
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-11 d6bc2b03
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-11 e90d8ade
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-11 eaa2d605
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-11 133e1a47
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-11 45df4805
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-11 b70252c3
+
+File changes
+
+Files: NEW: 7
+
+## 2026-04-11 b639797b
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-11 ab283f49
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-11 8f1d1755
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-11 7ee5ce48
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-10 b46081c2
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-09 af66b4d8
+
+File changes
+
+Files: NEW: 5
+
+## 2026-04-09 bdaef470
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-09 03b26f03
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-09 ef48c131
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-09 eb1d245d
+
+File changes
+
+Files: NEW: 3
+
+## 2026-04-09 1e437a1c
+
+File changes
+
+Files: NEW: 5
+
+## 2026-04-08 7430e452
+
+File changes
+
+Files: NEW: 5
+
+## 2026-04-08 8935efc2
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-08 2b9498c0
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-07 d34c0954
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-07 6667830e
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-07 f0d8bd50
+
+File changes
+
+Files: NEW: 7
+
+## 2026-04-07 252350b4
+
+File changes
+
+Files: NEW: 12
+
+## 2026-04-07 5e843f15
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-07 2313cac0
+
+File changes
+
+Files: NEW: 5
+
+## 2026-04-07 56404a84
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-07 6325a206
+
+File changes
+
+Files: NEW: 8
+
+## 2026-04-07 636761a9
+
+File changes
+
+Files: NEW: 8
+
+## 2026-04-07 676dc161
+
+File changes
+
+Files: NEW: 5
+
+## 2026-04-07 1862d0c7
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-07 313aca7f
+
+File changes
+
+Files: NEW: 5
+
+## 2026-04-07 61e218eb
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-07 56830b4d
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-07 0208c32e
+
+File changes
+
+Files: NEW: 8
+
+## 2026-04-07 2263821f
+
+File changes
+
+Files: NEW: 6
+
+## 2026-04-07 0fcbeb00
+
+File changes
+
+Files: NEW: 9
+
+## 2026-04-07 e174e925
+
+File changes
+
+Files: NEW: 9
+
+## 2026-04-07 0aa884ad
+
+File changes
+
+Files: NEW: 10
+
+## 2026-04-07 72c94f41
+
+File changes
+
+Files: NEW: 10
+
+## 2026-04-07 c7f24226
+
+File changes
+
+Files: NEW: 11
+
+## 2026-04-06 43b719b7
+
+File changes
+
+Files: NEW: 9
+
+## 2026-04-06 d55de2be
+
+File changes
+
+Files: NEW: 13
+
+## 2026-04-06 8373550c
+
+File changes
+
+Files: NEW: 12
+
+## 2026-04-06 efc55f0b
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-06 d4afd2f3
+
+File changes
+
+Files: NEW: 7
+
+## 2026-04-06 55794f47
+
+File changes
+
+Files: NEW: 1
+
+## 2026-04-06 9ad09a8d
+
+File changes
+
+Files: NEW: 9
+
+## 2026-04-06 0f0833bf
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-06 08460b39
+
+File changes
+
+Files: NEW: 2
+
+## 2026-04-06 86755ec2
+
+File changes
+
+Files: NEW: 4
+
+## 2026-04-04 abdad2a2
+
+File changes
+
+Files: NEW: 4
+
 ## 2026-04-04 abdad2a2
 
 **Message:** File changes

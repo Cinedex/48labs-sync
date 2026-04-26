@@ -10001,3 +10001,21 @@ File changes
 - src/components/booking/ClientSelectStep.jsx
 
 ---
+
+## 2026-04-22 762ca5e0
+**Commit:** sync: UI primitives — refined versions from Claude Code
+**Files changed:** 10
+
+**MODIFIED (10):**
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/PortalDrawer.jsx
+- src/components/ui/PortalTable.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SegmentedControl.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/components/ui/TabBar.jsx
+- src/components/ui/button.jsx
+
+---

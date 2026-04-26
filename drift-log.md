@@ -9970,3 +9970,13 @@ File changes
 - src/components/ipad/ThankYouScreen.jsx
 
 ---
+
+## 2026-04-22 3564003b
+**Commit:** sync: RoomForm components — refined versions from Claude Code
+**Files changed:** 2
+
+**MODIFIED (2):**
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+---

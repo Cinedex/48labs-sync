@@ -10866,3 +10866,18 @@ File changes
 - src/pages/ClientDashboard.jsx
 
 ---
+
+## 2026-04-07 676dc161
+**Commit:** File changes
+**Files changed:** 5
+
+**NEW (1):**
+- src/components/RoomForm/RoomHoursSection.jsx
+
+**MODIFIED (4):**
+- src/components/AdminRoomEditor.jsx
+- src/components/RoomForm/AddOnsSection.jsx
+- src/components/RoomForm/PricingAdvisorPanel.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+
+---

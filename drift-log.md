@@ -11131,3 +11131,20 @@ File changes
 - src/components/Sidebar.jsx
 
 ---
+
+## 2026-04-06 d4afd2f3
+**Commit:** File changes
+**Files changed:** 7
+
+**NEW (1):**
+- src/components/dashboard/MasterCalendarEmbed.jsx
+
+**MODIFIED (6):**
+- base44/entities/AppSetting.jsonc
+- base44/entities/Booking.jsonc
+- base44/functions/syncBookingToGoogleCalendar/entry.ts
+- base44/functions/syncGoogleCalendarToPortal/entry.ts
+- src/pages/AdminBranding.jsx
+- src/pages/AdminDashboard.jsx
+
+---

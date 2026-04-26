@@ -11186,3 +11186,13 @@ File changes
 - src/pages/AdminPricing.jsx
 
 ---
+
+## 2026-04-06 08460b39
+**Commit:** File changes
+**Files changed:** 2
+
+**MODIFIED (2):**
+- src/components/ipad/InSessionScreen.jsx
+- src/components/ipad/LightingPanel.jsx
+
+---

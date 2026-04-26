@@ -10399,3 +10399,21 @@ File changes
 - src/pages/AdminDashboard.jsx
 
 ---
+
+## 2026-04-11 1c572b9d
+**Commit:** File changes
+**Files changed:** 8
+
+**NEW (2):**
+- src/components/ipad/BackgroundLayer.jsx
+- src/components/ipad/CircularThermostat.jsx
+
+**MODIFIED (6):**
+- base44/entities/iPadSession.jsonc
+- base44/functions/getIPadSession/entry.ts
+- src/components/ipad/InSessionScreen.jsx
+- src/components/ipad/WelcomeScreen.jsx
+- src/pages/AdminiPadController.jsx
+- src/pages/StudioController.jsx
+
+---

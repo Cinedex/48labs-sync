@@ -10814,3 +10814,19 @@ File changes
 - src/components/RoomForm/BasicInfoSection.jsx
 
 ---
+
+## 2026-04-07 56404a84
+**Commit:** File changes
+**Files changed:** 6
+
+**NEW (1):**
+- src/pages/Register.jsx
+
+**MODIFIED (5):**
+- base44/entities/Invite.jsonc
+- base44/functions/sendClientInvite/entry.ts
+- src/App.jsx
+- src/components/InviteDrawer.jsx
+- src/pages/EmailVerification.jsx
+
+---

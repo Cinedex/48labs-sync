@@ -10830,3 +10830,21 @@ File changes
 - src/pages/EmailVerification.jsx
 
 ---
+
+## 2026-04-07 6325a206
+**Commit:** File changes
+**Files changed:** 8
+
+**NEW (1):**
+- src/components/admin/InviteStatusPanel.jsx
+
+**MODIFIED (7):**
+- base44/entities/Client.jsonc
+- base44/functions/sendClientInvite/entry.ts
+- src/App.jsx
+- src/pages/AdminClientProfile.jsx
+- src/pages/AdminClients.jsx
+- src/pages/EmailVerification.jsx
+- src/pages/Register.jsx
+
+---

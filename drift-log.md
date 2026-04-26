@@ -10019,3 +10019,17 @@ File changes
 - src/components/ui/button.jsx
 
 ---
+
+## 2026-04-20 47b2dd66
+**Commit:** feat: move design site to cloudflare pages
+**Files changed:** 4
+
+**NEW (3):**
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED (1):**
+- package.json
+
+---

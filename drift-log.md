@@ -10590,3 +10590,16 @@ File changes
 - src/components/Sidebar.jsx
 
 ---
+
+## 2026-04-10 b46081c2
+**Commit:** File changes
+**Files changed:** 3
+
+**NEW (1):**
+- src/components/dashboard/CalendarEventDrawer.jsx
+
+**MODIFIED (2):**
+- src/components/dashboard/MonthCalendar.jsx
+- src/pages/AdminDashboard.jsx
+
+---

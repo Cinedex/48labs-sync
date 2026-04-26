@@ -10429,3 +10429,13 @@ File changes
 - src/pages/AdminDashboard.jsx
 
 ---
+
+## 2026-04-11 9098ede4
+**Commit:** File changes
+**Files changed:** 2
+
+**MODIFIED (2):**
+- src/components/ipad/InSessionScreen.jsx
+- src/components/ipad/WelcomeScreen.jsx
+
+---

@@ -10638,3 +10638,19 @@ File changes
 - src/pages/AdminBookNewSession.jsx
 
 ---
+
+## 2026-04-09 ef48c131
+**Commit:** File changes
+**Files changed:** 6
+
+**NEW (4):**
+- base44/entities/SharedCalendarToken.jsonc
+- src/components/shared-calendar/EventModal.jsx
+- src/pages/AdminSharedCalendarSettings.jsx
+- src/pages/SharedCalendar.jsx
+
+**MODIFIED (2):**
+- src/App.jsx
+- src/components/Sidebar.jsx
+
+---

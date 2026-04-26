@@ -10576,3 +10576,17 @@ File changes
 - src/components/dashboard/MonthCalendar.jsx
 
 ---
+
+## 2026-04-11 7ee5ce48
+**Commit:** File changes
+**Files changed:** 4
+
+**NEW (2):**
+- src/lib/workflow-data.js
+- src/pages/AdminWorkflowMap.jsx
+
+**MODIFIED (2):**
+- src/App.jsx
+- src/components/Sidebar.jsx
+
+---

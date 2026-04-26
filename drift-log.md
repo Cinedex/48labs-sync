@@ -9900,3 +9900,27 @@ File changes
 File changes
 
 4 files: 0× NEW, 4× MODIFIED, 0× CONFLICT
+
+## 2026-04-22 dcb2a8e9
+**Commit:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files changed:** 35
+
+**NEW (3):**
+- project.config.json
+- public/_redirects
+- scripts/deploy-guard.mjs
+
+**MODIFIED (32):**
+- package.json
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/RoomForm/RoomStudioPreview.jsx
+- src/components/RoomForm/WebsitePreviewCard.jsx
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+- ... and 22 more
+
+---

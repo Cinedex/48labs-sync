@@ -10603,3 +10603,16 @@ File changes
 - src/pages/AdminDashboard.jsx
 
 ---
+
+## 2026-04-09 af66b4d8
+**Commit:** File changes
+**Files changed:** 5
+
+**MODIFIED (5):**
+- base44/functions/googleCalendarManager/entry.ts
+- base44/functions/listCalendarEvents/entry.ts
+- base44/functions/onBookingConfirmed/entry.ts
+- base44/functions/syncBookingToGoogleCalendar/entry.ts
+- base44/functions/syncGoogleCalendarToPortal/entry.ts
+
+---

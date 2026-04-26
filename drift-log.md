@@ -10891,3 +10891,18 @@ File changes
 - src/pages/AdminOperatingHours.jsx
 
 ---
+
+## 2026-04-07 313aca7f
+**Commit:** File changes
+**Files changed:** 5
+
+**NEW (3):**
+- src/components/agreements/AICreationModal.jsx
+- src/components/agreements/AgreementEditor.jsx
+- src/components/agreements/AgreementList.jsx
+
+**MODIFIED (2):**
+- src/App.jsx
+- src/pages/AdminAgreements.jsx
+
+---

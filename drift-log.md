@@ -10925,3 +10925,21 @@ File changes
 - src/pages/AdminMarketingMedia.jsx
 
 ---
+
+## 2026-04-07 0208c32e
+**Commit:** File changes
+**Files changed:** 8
+
+**NEW (1):**
+- src/pages/AdminSocialLinks.jsx
+
+**MODIFIED (7):**
+- base44/entities/AppSetting.jsonc
+- src/App.jsx
+- src/components/MarketingFooter.jsx
+- src/components/Sidebar.jsx
+- src/pages/About.jsx
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+
+---

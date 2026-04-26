@@ -10881,3 +10881,13 @@ File changes
 - src/components/RoomForm/WebsitePreviewCard.jsx
 
 ---
+
+## 2026-04-07 1862d0c7
+**Commit:** File changes
+**Files changed:** 2
+
+**MODIFIED (2):**
+- src/components/admin/OperatingHoursGrid.jsx
+- src/pages/AdminOperatingHours.jsx
+
+---

@@ -9924,3 +9924,17 @@ File changes
 - ... and 22 more
 
 ---
+
+## 2026-04-22 aa4661f4
+**Commit:** sync: website booking and auth pages — refined versions from Claude Code
+**Files changed:** 6
+
+**MODIFIED (6):**
+- src/pages/DynamicCreditsPage.jsx
+- src/pages/DynamicMembershipsPage.jsx
+- src/pages/GuestBuyCredits.jsx
+- src/pages/MembershipSignup.jsx
+- src/pages/Register.jsx
+- src/pages/UnifiedCheckout.jsx
+
+---

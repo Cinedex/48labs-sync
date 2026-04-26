@@ -11210,3 +11210,15 @@ File changes
 - src/components/ipad/InSessionScreen.jsx
 
 ---
+
+## 2026-04-04 abdad2a2
+**Commit:** File changes
+**Files changed:** 4
+
+**MODIFIED (4):**
+- src/components/AdminLayout.jsx
+- src/components/PortalTopBar.jsx
+- src/pages/AdminAccessControl.jsx
+- src/pages/AdminUsers.jsx
+
+---

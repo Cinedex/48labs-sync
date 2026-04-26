@@ -10997,3 +10997,23 @@ File changes
 - src/pages/AdminEmailDesigns.jsx
 
 ---
+
+## 2026-04-07 0aa884ad
+**Commit:** File changes
+**Files changed:** 10
+
+**NEW (4):**
+- base44/entities/MarketingMedia.jsonc
+- src/components/marketing/StudioTourCTA.jsx
+- src/hooks/useMarketingMedia.js
+- src/pages/AdminMarketingMedia.jsx
+
+**MODIFIED (6):**
+- src/App.jsx
+- src/components/Sidebar.jsx
+- src/pages/About.jsx
+- src/pages/Contact.jsx
+- src/pages/Landing.jsx
+- src/pages/Studios.jsx
+
+---

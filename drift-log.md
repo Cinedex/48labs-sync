@@ -11196,3 +11196,17 @@ File changes
 - src/components/ipad/LightingPanel.jsx
 
 ---
+
+## 2026-04-06 86755ec2
+**Commit:** File changes
+**Files changed:** 4
+
+**NEW (3):**
+- src/components/ipad/ClimateDetailPanel.jsx
+- src/components/ipad/HelpSupportPanel.jsx
+- src/components/ipad/LightingPanel.jsx
+
+**MODIFIED (1):**
+- src/components/ipad/InSessionScreen.jsx
+
+---

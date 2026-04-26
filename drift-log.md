@@ -10236,3 +10236,19 @@ File changes
 - src/pages/StudioController.jsx
 
 ---
+
+## 2026-04-11 7e2cf42d
+**Commit:** File changes
+**Files changed:** 6
+
+**NEW (2):**
+- src/components/ipad/DemoScreen.jsx
+- src/components/ipad/IdleScreen.jsx
+
+**MODIFIED (4):**
+- base44/entities/iPadSession.jsonc
+- base44/functions/getIPadSession/entry.ts
+- src/pages/AdminiPadController.jsx
+- src/pages/StudioController.jsx
+
+---

@@ -10616,3 +10616,15 @@ File changes
 - base44/functions/syncGoogleCalendarToPortal/entry.ts
 
 ---
+
+## 2026-04-09 bdaef470
+**Commit:** File changes
+**Files changed:** 4
+
+**MODIFIED (4):**
+- base44/entities/Invoice.jsonc
+- base44/functions/syncBookingToGoogleCalendar/entry.ts
+- base44/functions/updateInvoice/entry.ts
+- src/components/invoicing/InvoiceDrawer.jsx
+
+---

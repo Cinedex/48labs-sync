@@ -10308,3 +10308,15 @@ File changes
 - src/pages/AdminDashboard.jsx
 
 ---
+
+## 2026-04-11 d4df16bd
+**Commit:** File changes
+**Files changed:** 2
+
+**NEW (1):**
+- src/components/dashboard/FloatingEventPanel.jsx
+
+**MODIFIED (1):**
+- src/components/dashboard/PremiumCalendar.jsx
+
+---

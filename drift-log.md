@@ -10978,3 +10978,22 @@ File changes
 - src/components/Sidebar.jsx
 
 ---
+
+## 2026-04-07 e174e925
+**Commit:** File changes
+**Files changed:** 9
+
+**NEW (5):**
+- base44/entities/EmailCampaign.jsonc
+- src/pages/About.jsx
+- src/pages/AdminCampaigns.jsx
+- src/pages/Contact.jsx
+- src/pages/Studios.jsx
+
+**MODIFIED (4):**
+- src/App.jsx
+- src/components/Sidebar.jsx
+- src/pages/AdminAgreements.jsx
+- src/pages/AdminEmailDesigns.jsx
+
+---

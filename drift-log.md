@@ -10654,3 +10654,14 @@ File changes
 - src/components/Sidebar.jsx
 
 ---
+
+## 2026-04-09 eb1d245d
+**Commit:** File changes
+**Files changed:** 3
+
+**MODIFIED (3):**
+- src/components/booking/BookingDateTimeStep.jsx
+- src/lib/multi-day-pricing.js
+- src/pages/AdminBookNewSession.jsx
+
+---

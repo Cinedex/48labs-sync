@@ -10138,3 +10138,13 @@ File changes
 - src/lib/workflow-data.js
 
 ---
+
+## 2026-04-12 0a8d94c4
+**Commit:** File changes
+**Files changed:** 2
+
+**MODIFIED (2):**
+- src/components/ipad/LightingCanvas.jsx
+- src/components/ipad/MasterIPadView.jsx
+
+---

@@ -11174,3 +11174,15 @@ File changes
 - src/pages/AdminSettings.jsx
 
 ---
+
+## 2026-04-06 0f0833bf
+**Commit:** File changes
+**Files changed:** 4
+
+**MODIFIED (4):**
+- src/components/PortalTopBar.jsx
+- src/pages/AdminBookingsManager.jsx
+- src/pages/AdminClients.jsx
+- src/pages/AdminPricing.jsx
+
+---

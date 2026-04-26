@@ -10707,3 +10707,19 @@ File changes
 - src/pages/AdminRooms.jsx
 
 ---
+
+## 2026-04-08 2b9498c0
+**Commit:** File changes
+**Files changed:** 6
+
+**NEW (1):**
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+**MODIFIED (5):**
+- src/components/AdminRoomEditor.jsx
+- src/lib/multi-day-pricing.js
+- src/pages/AdminBookNewSession.jsx
+- src/pages/AdminOperatingHours.jsx
+- src/pages/RoomProfile.jsx
+
+---

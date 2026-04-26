@@ -12896,3 +12896,203 @@ sync: UI primitives — refined versions from Claude Code
 **Message:** File changes
 **Files changed:** 3
 - NEW: 3
+## 2026-04-22 dcb2a8e9
+merge: bring staging sync commits into main (Phase 3 design sync)
+NEW: 35 | Total: 35
+
+## 2026-04-22 aa4661f4
+sync: website booking and auth pages — refined versions from Claude Code
+NEW: 6 | Total: 6
+
+## 2026-04-22 f19cdf03
+sync: website marketing pages — refined versions from Claude Code
+NEW: 4 | Total: 4
+
+## 2026-04-22 22cdea70
+sync: BookingFlow.jsx — refined version from Claude Code
+NEW: 1 | Total: 1
+
+## 2026-04-22 38853339
+sync: dashboard and iPad components — refined versions from Claude Code
+NEW: 3 | Total: 3
+
+## 2026-04-22 3564003b
+sync: RoomForm components — refined versions from Claude Code
+NEW: 2 | Total: 2
+
+## 2026-04-22 923b30e2
+sync: marketing components — refined versions from Claude Code
+NEW: 3 | Total: 3
+
+## 2026-04-22 18e25d25
+sync: booking components — refined versions from Claude Code
+NEW: 2 | Total: 2
+
+## 2026-04-22 762ca5e0
+sync: UI primitives — refined versions from Claude Code
+NEW: 10 | Total: 10
+
+## 2026-04-20 47b2dd66
+feat: move design site to cloudflare pages
+NEW: 4 | Total: 4
+
+## 2026-04-16 5b06f159
+Update base44 packages
+NEW: 3 | Total: 3
+
+## 2026-04-12 725cf756
+Update base44 packages
+NEW: 2 | Total: 2
+
+## 2026-04-12 fe64f268
+File changes
+NEW: 5 | Total: 5
+
+## 2026-04-12 62d1e6a5
+File changes
+NEW: 2 | Total: 2
+
+## 2026-04-12 eb00c62f
+File changes
+NEW: 4 | Total: 4
+
+## 2026-04-12 fe80272b
+File changes
+NEW: 7 | Total: 7
+
+## 2026-04-12 cc98d284
+File changes
+NEW: 6 | Total: 6
+
+## 2026-04-12 e2e0de2e
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-12 96400df4
+File changes
+NEW: 3 | Total: 3
+
+## 2026-04-12 e4b13f4b
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-12 0a8d94c4
+File changes
+NEW: 2 | Total: 2
+
+## 2026-04-12 0ddc5140
+File changes
+NEW: 3 | Total: 3
+
+## 2026-04-12 01ef5f43
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-12 cc795b75
+File changes
+NEW: 4 | Total: 4
+
+## 2026-04-12 e9c7dad7
+File changes
+NEW: 4 | Total: 4
+
+## 2026-04-12 dc5b801f
+File changes
+NEW: 3 | Total: 3
+
+## 2026-04-11 1aec1f99
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-11 3f83184f
+File changes
+NEW: 7 | Total: 7
+
+## 2026-04-11 0e0a4d29
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-11 7e2cf42d
+File changes
+NEW: 6 | Total: 6
+
+## 2026-04-11 ca56f4c8
+File changes
+NEW: 3 | Total: 3
+
+## 2026-04-11 7bd3f848
+File changes
+NEW: 3 | Total: 3
+
+## 2026-04-11 5756d26d
+File changes
+NEW: 3 | Total: 3
+
+## 2026-04-11 b3b4a959
+File changes
+NEW: 3 | Total: 3
+
+## 2026-04-11 442a4aa6
+File changes
+NEW: 4 | Total: 4
+
+## 2026-04-11 d4df16bd
+File changes
+NEW: 2 | Total: 2
+
+## 2026-04-11 d37f5413
+File changes
+NEW: 5 | Total: 5
+
+## 2026-04-11 981bd655
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-11 3a1682a1
+File changes
+NEW: 6 | Total: 6
+
+## 2026-04-11 18612a7d
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-11 ad879b0b
+File changes
+NEW: 7 | Total: 7
+
+## 2026-04-11 ae210dd2
+File changes
+NEW: 5 | Total: 5
+
+## 2026-04-11 1c572b9d
+File changes
+NEW: 8 | Total: 8
+
+## 2026-04-11 c2e86504
+File changes
+NEW: 4 | Total: 4
+
+## 2026-04-11 9098ede4
+File changes
+NEW: 2 | Total: 2
+
+## 2026-04-11 c323e33f
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-11 a32f6aaf
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-11 405ff264
+File changes
+NEW: 4 | Total: 4
+
+## 2026-04-11 d6bc2b03
+File changes
+NEW: 1 | Total: 1
+
+## 2026-04-11 e90d8ade
+File changes
+NEW: 3 | Total: 3
+

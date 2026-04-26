@@ -10665,3 +10665,18 @@ File changes
 - src/pages/AdminBookNewSession.jsx
 
 ---
+
+## 2026-04-09 1e437a1c
+**Commit:** File changes
+**Files changed:** 5
+
+**NEW (2):**
+- src/components/booking/BookingStepFooter.jsx
+- src/components/booking/MultiDayPricingEditor.jsx
+
+**MODIFIED (3):**
+- base44/entities/Booking.jsonc
+- src/components/booking/MultiDayRangePicker.jsx
+- src/pages/AdminBookNewSession.jsx
+
+---

@@ -11077,3 +11077,26 @@ File changes
 - src/pages/AdminPricingDashboard.jsx
 
 ---
+
+## 2026-04-06 d55de2be
+**Commit:** File changes
+**Files changed:** 13
+
+**NEW (2):**
+- src/components/AdminSectionNav.jsx
+- src/components/dashboard/NativeCalendar.jsx
+
+**MODIFIED (11):**
+- src/components/AdminLayout.jsx
+- src/components/Sidebar.jsx
+- src/pages/AdminAgreements.jsx
+- src/pages/AdminBookingsManager.jsx
+- src/pages/AdminClients.jsx
+- src/pages/AdminDashboard.jsx
+- src/pages/AdminFinancialDashboard.jsx
+- src/pages/AdminForms.jsx
+- src/pages/AdminInvoices.jsx
+- src/pages/AdminPricingDashboard.jsx
+- ... and 1 more
+
+---

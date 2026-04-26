@@ -11017,3 +11017,23 @@ File changes
 - src/pages/Studios.jsx
 
 ---
+
+## 2026-04-07 72c94f41
+**Commit:** File changes
+**Files changed:** 10
+
+**NEW (4):**
+- src/components/RoomForm/PricingAdvisorPanel.jsx
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/MultiDayRangePicker.jsx
+- src/lib/multi-day-pricing.js
+
+**MODIFIED (6):**
+- base44/entities/Booking.jsonc
+- base44/entities/Room.jsonc
+- src/components/AdminRoomEditor.jsx
+- src/components/BookingFlowSteps.jsx
+- src/components/RoomForm/PricingSection.jsx
+- src/pages/AdminBookNewSession.jsx
+
+---

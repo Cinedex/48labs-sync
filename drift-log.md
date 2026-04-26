@@ -10695,3 +10695,15 @@ File changes
 - src/pages/AdminBookingsManager.jsx
 
 ---
+
+## 2026-04-08 8935efc2
+**Commit:** File changes
+**Files changed:** 4
+
+**MODIFIED (4):**
+- src/components/AdminRoomEditor.jsx
+- src/components/RoomForm/AddOnsSection.jsx
+- src/components/RoomForm/SettingsSection.jsx
+- src/pages/AdminRooms.jsx
+
+---

@@ -12295,3 +12295,304 @@ sync: UI primitives — refined versions from Claude Code
 
 **Classification:** 3× NEW
 
+## 2026-04-22 dcb2a8e9
+**Message:** merge: bring staging sync commits into main (Phase 3 design sync)
+**Files:** 35 changed (NEW: 35, MODIFIED: 0, CONFLICT: 0)
+**NEW:** package.json, project.config.json, public/_redirects, scripts/deploy-guard.mjs, src/components/MarketingFooter.jsx (+30 more)
+
+---
+## 2026-04-22 aa4661f4
+**Message:** sync: website booking and auth pages — refined versions from Claude Code
+**Files:** 6 changed (NEW: 6, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/pages/DynamicCreditsPage.jsx, src/pages/DynamicMembershipsPage.jsx, src/pages/GuestBuyCredits.jsx, src/pages/MembershipSignup.jsx, src/pages/Register.jsx (+1 more)
+
+---
+## 2026-04-22 f19cdf03
+**Message:** sync: website marketing pages — refined versions from Claude Code
+**Files:** 4 changed (NEW: 4, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/pages/Landing.jsx, src/pages/RoomProfile.jsx, src/pages/Services.jsx, src/pages/Studios.jsx
+
+---
+## 2026-04-22 22cdea70
+**Message:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/pages/BookingFlow.jsx
+
+---
+## 2026-04-22 38853339
+**Message:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/dashboard/MonthCalendar.jsx, src/components/ipad/FiveMinWarning.jsx, src/components/ipad/ThankYouScreen.jsx
+
+---
+## 2026-04-22 3564003b
+**Message:** sync: RoomForm components — refined versions from Claude Code
+**Files:** 2 changed (NEW: 2, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/RoomForm/RoomStudioPreview.jsx, src/components/RoomForm/WebsitePreviewCard.jsx
+
+---
+## 2026-04-22 923b30e2
+**Message:** sync: marketing components — refined versions from Claude Code
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/MarketingFooter.jsx, src/components/MarketingHeader.jsx, src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---
+## 2026-04-22 18e25d25
+**Message:** sync: booking components — refined versions from Claude Code
+**Files:** 2 changed (NEW: 2, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/booking/BookingDateTimeStep.jsx, src/components/booking/ClientSelectStep.jsx
+
+---
+## 2026-04-22 762ca5e0
+**Message:** sync: UI primitives — refined versions from Claude Code
+**Files:** 10 changed (NEW: 10, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/ui/EmptyState.jsx, src/components/ui/FilterPills.jsx, src/components/ui/PortalDrawer.jsx, src/components/ui/PortalTable.jsx, src/components/ui/SearchInput.jsx (+5 more)
+
+---
+## 2026-04-20 47b2dd66
+**Message:** feat: move design site to cloudflare pages
+**Files:** 4 changed (NEW: 4, MODIFIED: 0, CONFLICT: 0)
+**NEW:** package.json, project.config.json, public/_redirects, scripts/deploy-guard.mjs
+
+---
+## 2026-04-16 5b06f159
+**Message:** Update base44 packages
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** package-lock.json, package.json, src/components/ProtectedRoute.jsx
+
+---
+## 2026-04-12 725cf756
+**Message:** Update base44 packages
+**Files:** 2 changed (NEW: 2, MODIFIED: 0, CONFLICT: 0)
+**NEW:** package-lock.json, package.json
+
+---
+## 2026-04-12 fe64f268
+**Message:** File changes
+**Files:** 5 changed (NEW: 5, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/database/MIGRATION_REPORT.md, src/database/data-migration-plan.md, src/database/migration-order.json, src/database/supabase/schema.sql, src/database/types/schema.ts
+
+---
+## 2026-04-12 62d1e6a5
+**Message:** File changes
+**Files:** 2 changed (NEW: 2, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/lib/workflow-data.js, src/pages/AdminWorkflowMap.jsx
+
+---
+## 2026-04-12 eb00c62f
+**Message:** File changes
+**Files:** 4 changed (NEW: 4, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+---
+## 2026-04-12 fe80272b
+**Message:** File changes
+**Files:** 7 changed (NEW: 7, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/contracts/schema/enums.json, src/contracts/schema/relationships.json, src/contracts/schema/tables.json, src/database/MIGRATION_REPORT.md, src/database/mappings/base44-map.ts (+2 more)
+
+---
+## 2026-04-12 cc98d284
+**Message:** File changes
+**Files:** 6 changed (NEW: 6, MODIFIED: 0, CONFLICT: 0)
+**NEW:** base44/entities/RoomLightingLayout.jsonc, base44/entities/iPadCommand.jsonc, src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx (+1 more)
+
+---
+## 2026-04-12 e2e0de2e
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/pages/Landing.jsx
+
+---
+## 2026-04-12 96400df4
+**Message:** File changes
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+---
+## 2026-04-12 e4b13f4b
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/lib/workflow-data.js
+
+---
+## 2026-04-12 0a8d94c4
+**Message:** File changes
+**Files:** 2 changed (NEW: 2, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx
+
+---
+## 2026-04-12 0ddc5140
+**Message:** File changes
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/Sidebar.jsx, src/components/admin/AdminTopbar.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+---
+## 2026-04-12 01ef5f43
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/pages/AdminWorkflowMap.jsx
+
+---
+## 2026-04-12 cc795b75
+**Message:** File changes
+**Files:** 4 changed (NEW: 4, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/ipad/LightingCanvas.jsx, src/components/ipad/MasterIPadView.jsx, src/components/ipad/WelcomeScreen.jsx, src/pages/StudioController.jsx
+
+---
+## 2026-04-12 e9c7dad7
+**Message:** File changes
+**Files:** 4 changed (NEW: 4, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/PremiumCalendar.jsx, src/pages/AdminDashboard.jsx
+
+---
+## 2026-04-12 dc5b801f
+**Message:** File changes
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/ipad/WelcomeScreen.jsx, src/pages/AdminiPadController.jsx, src/pages/StudioController.jsx
+
+---
+## 2026-04-11 1aec1f99
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** tailwind.config.js
+
+---
+## 2026-04-11 3f83184f
+**Message:** File changes
+**Files:** 7 changed (NEW: 7, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/components/dashboard/FloatingDayPanel.jsx, src/components/dashboard/SessionTimelineCard.jsx, src/hooks/useTheme.js (+2 more)
+
+---
+## 2026-04-11 0e0a4d29
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/pages/StudioController.jsx
+
+---
+## 2026-04-11 7e2cf42d
+**Message:** File changes
+**Files:** 6 changed (NEW: 6, MODIFIED: 0, CONFLICT: 0)
+**NEW:** base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/components/ipad/DemoScreen.jsx, src/components/ipad/IdleScreen.jsx, src/pages/AdminiPadController.jsx (+1 more)
+
+---
+## 2026-04-11 ca56f4c8
+**Message:** File changes
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/Sidebar.jsx, src/components/dashboard/DashboardMetricCard.jsx, src/hooks/useTheme.js
+
+---
+## 2026-04-11 7bd3f848
+**Message:** File changes
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/ipad/LightingCanvas.jsx, src/components/ipad/LightingPanel.jsx, src/pages/StudioController.jsx
+
+---
+## 2026-04-11 5756d26d
+**Message:** File changes
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** base44/entities/iPadSession.jsonc, src/components/ipad/InSessionScreen.jsx, src/pages/AdminiPadController.jsx
+
+---
+## 2026-04-11 b3b4a959
+**Message:** File changes
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/index.css
+
+---
+## 2026-04-11 442a4aa6
+**Message:** File changes
+**Files:** 4 changed (NEW: 4, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/dashboard/PremiumCalendar.jsx, src/components/ui/FloatingPanel.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx
+
+---
+## 2026-04-11 d4df16bd
+**Message:** File changes
+**Files:** 2 changed (NEW: 2, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/dashboard/FloatingEventPanel.jsx, src/components/dashboard/PremiumCalendar.jsx
+
+---
+## 2026-04-11 d37f5413
+**Message:** File changes
+**Files:** 5 changed (NEW: 5, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/components/dashboard/PremiumCalendar.jsx, src/components/ui/FloatingPanel.jsx, src/hooks/useTheme.js
+
+---
+## 2026-04-11 981bd655
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/pages/CustomLogin.jsx
+
+---
+## 2026-04-11 3a1682a1
+**Message:** File changes
+**Files:** 6 changed (NEW: 6, MODIFIED: 0, CONFLICT: 0)
+**NEW:** base44/entities/iPadCommand.jsonc, base44/entities/iPadSession.jsonc, base44/functions/iPadVersionControl/entry.ts, index.html, src/pages/AdminiPadController.jsx (+1 more)
+
+---
+## 2026-04-11 18612a7d
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/dashboard/PremiumCalendar.jsx
+
+---
+## 2026-04-11 ad879b0b
+**Message:** File changes
+**Files:** 7 changed (NEW: 7, MODIFIED: 0, CONFLICT: 0)
+**NEW:** base44/entities/RoomLightingLayout.jsonc, src/components/dashboard/PremiumCalendar.jsx, src/components/ipad/CircularThermostat.jsx, src/components/ipad/InSessionScreen.jsx, src/components/ipad/LightingCanvas.jsx (+2 more)
+
+---
+## 2026-04-11 ae210dd2
+**Message:** File changes
+**Files:** 5 changed (NEW: 5, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/Sidebar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx, src/components/ui/FloatingPanel.jsx, src/pages/AdminDashboard.jsx
+
+---
+## 2026-04-11 1c572b9d
+**Message:** File changes
+**Files:** 8 changed (NEW: 8, MODIFIED: 0, CONFLICT: 0)
+**NEW:** base44/entities/iPadSession.jsonc, base44/functions/getIPadSession/entry.ts, src/components/ipad/BackgroundLayer.jsx, src/components/ipad/CircularThermostat.jsx, src/components/ipad/InSessionScreen.jsx (+3 more)
+
+---
+## 2026-04-11 c2e86504
+**Message:** File changes
+**Files:** 4 changed (NEW: 4, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/admin/AdminTopbar.jsx, src/components/admin/QuickActionsDropdown.jsx, src/components/dashboard/PremiumCalendar.jsx, src/pages/AdminDashboard.jsx
+
+---
+## 2026-04-11 9098ede4
+**Message:** File changes
+**Files:** 2 changed (NEW: 2, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/ipad/InSessionScreen.jsx, src/components/ipad/WelcomeScreen.jsx
+
+---
+## 2026-04-11 c323e33f
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/Sidebar.jsx
+
+---
+## 2026-04-11 a32f6aaf
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/Sidebar.jsx
+
+---
+## 2026-04-11 405ff264
+**Message:** File changes
+**Files:** 4 changed (NEW: 4, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/AdminLayout.jsx, src/components/Sidebar.jsx, src/components/dashboard/PremiumCalendar.jsx, src/hooks/useTheme.js
+
+---
+## 2026-04-11 d6bc2b03
+**Message:** File changes
+**Files:** 1 changed (NEW: 1, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/pages/CustomLogin.jsx
+
+---
+## 2026-04-11 e90d8ade
+**Message:** File changes
+**Files:** 3 changed (NEW: 3, MODIFIED: 0, CONFLICT: 0)
+**NEW:** src/components/Sidebar.jsx, src/hooks/useTheme.js, src/pages/AdminDashboard.jsx
+
+---
+

@@ -13337,3 +13337,94 @@ Files: 6 | NEW=6
 
 **Message:** feat: move design site to cloudflare pages
 **Files:** 4 changed (4× NEW)
+
+## 2026-04-22 dcb2a8e9
+merge: bring staging sync commits into main (Phase 3 design sync)
+Files: 35 | NEW=35
+## 2026-04-22 aa4661f4
+sync: website booking and auth pages — refined versions from Claude Code
+Files: 6 | NEW=6
+## 2026-04-22 f19cdf03
+sync: website marketing pages — refined versions from Claude Code
+Files: 4 | NEW=4
+## 2026-04-22 22cdea70
+sync: BookingFlow.jsx — refined version from Claude Code
+Files: 1 | NEW=1
+## 2026-04-22 38853339
+sync: dashboard and iPad components — refined versions from Claude Code
+Files: 3 | NEW=3
+## 2026-04-22 3564003b
+sync: RoomForm components — refined versions from Claude Code
+Files: 2 | NEW=2
+## 2026-04-22 923b30e2
+sync: marketing components — refined versions from Claude Code
+Files: 3 | NEW=3
+## 2026-04-22 18e25d25
+sync: booking components — refined versions from Claude Code
+Files: 2 | NEW=2
+## 2026-04-22 762ca5e0
+sync: UI primitives — refined versions from Claude Code
+Files: 10 | NEW=10
+## 2026-04-20 47b2dd66
+feat: move design site to cloudflare pages
+Files: 4 | NEW=4
+## 2026-04-16 5b06f159
+Update base44 packages
+Files: 3 | NEW=3
+## 2026-04-12 725cf756
+Update base44 packages
+Files: 2 | NEW=2
+## 2026-04-12 fe64f268
+File changes
+Files: 5 | NEW=5
+## 2026-04-12 62d1e6a5
+File changes
+Files: 2 | NEW=2
+## 2026-04-12 eb00c62f
+File changes
+Files: 4 | NEW=4
+## 2026-04-12 fe80272b
+File changes
+Files: 7 | NEW=7
+## 2026-04-12 cc98d284
+File changes
+Files: 6 | NEW=6
+## 2026-04-12 e2e0de2e
+File changes
+Files: 1 | NEW=1
+## 2026-04-12 96400df4
+File changes
+Files: 3 | NEW=3
+## 2026-04-12 e4b13f4b
+File changes
+Files: 1 | NEW=1
+## 2026-04-12 0a8d94c4
+File changes
+Files: 2 | NEW=2
+## 2026-04-12 0ddc5140
+File changes
+Files: 3 | NEW=3
+## 2026-04-12 01ef5f43
+File changes
+Files: 1 | NEW=1
+## 2026-04-12 cc795b75
+File changes
+Files: 4 | NEW=4
+## 2026-04-12 e9c7dad7
+File changes
+Files: 4 | NEW=4
+## 2026-04-12 dc5b801f
+File changes
+Files: 3 | NEW=3
+## 2026-04-11 1aec1f99
+File changes
+Files: 1 | NEW=1
+## 2026-04-11 3f83184f
+File changes
+Files: 7 | NEW=7
+## 2026-04-11 0e0a4d29
+File changes
+Files: 1 | NEW=1
+## 2026-04-11 7e2cf42d
+File changes
+Files: 6 | NEW=6

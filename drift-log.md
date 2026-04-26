@@ -10735,3 +10735,19 @@ File changes
 - base44/functions/getRoomAvailability/entry.ts
 
 ---
+
+## 2026-04-07 6667830e
+**Commit:** File changes
+**Files changed:** 6
+
+**NEW (3):**
+- src/BOOKING_AVAILABILITY_FIX_QA.md
+- src/BOOKING_AVAILABILITY_FIX_SUMMARY.md
+- src/lib/availability-validation.js
+
+**MODIFIED (3):**
+- base44/functions/getRoomAvailability/entry.ts
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/UnifiedBookingDateTime.jsx
+
+---

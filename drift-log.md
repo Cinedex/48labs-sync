@@ -9938,3 +9938,15 @@ File changes
 - src/pages/UnifiedCheckout.jsx
 
 ---
+
+## 2026-04-22 f19cdf03
+**Commit:** sync: website marketing pages — refined versions from Claude Code
+**Files changed:** 4
+
+**MODIFIED (4):**
+- src/pages/Landing.jsx
+- src/pages/RoomProfile.jsx
+- src/pages/Services.jsx
+- src/pages/Studios.jsx
+
+---

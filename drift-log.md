@@ -10959,3 +10959,22 @@ File changes
 - src/pages/AdminOperatingHours.jsx
 
 ---
+
+## 2026-04-07 0fcbeb00
+**Commit:** File changes
+**Files changed:** 9
+
+**NEW (4):**
+- base44/entities/SyncReviewItem.jsonc
+- base44/functions/approveSyncItem/entry.ts
+- base44/functions/processGoogleSyncEvents/entry.ts
+- src/pages/AdminSyncQueue.jsx
+
+**MODIFIED (5):**
+- base44/functions/syncBookingToGoogleCalendar/entry.ts
+- base44/functions/syncGoogleCalendarToPortal/entry.ts
+- src/App.jsx
+- src/components/BookingDetailDrawer.jsx
+- src/components/Sidebar.jsx
+
+---

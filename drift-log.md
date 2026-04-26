@@ -11058,3 +11058,22 @@ File changes
 - src/pages/AdminPricingDashboard.jsx
 
 ---
+
+## 2026-04-06 43b719b7
+**Commit:** File changes
+**Files changed:** 9
+
+**NEW (1):**
+- src/components/ui/SegmentedControl.jsx
+
+**MODIFIED (8):**
+- src/components/AdminLayout.jsx
+- src/components/AdminSectionNav.jsx
+- src/components/PortalTopBar.jsx
+- src/components/financial/FinancialTabs.jsx
+- src/pages/AdminBookingsManager.jsx
+- src/pages/AdminFinancialDashboard.jsx
+- src/pages/AdminInvoices.jsx
+- src/pages/AdminPricingDashboard.jsx
+
+---

@@ -9980,3 +9980,14 @@ File changes
 - src/components/RoomForm/WebsitePreviewCard.jsx
 
 ---
+
+## 2026-04-22 923b30e2
+**Commit:** sync: marketing components — refined versions from Claude Code
+**Files changed:** 3
+
+**MODIFIED (3):**
+- src/components/MarketingFooter.jsx
+- src/components/MarketingHeader.jsx
+- src/components/marketing/RoomOperatingHoursDisplay.jsx
+
+---

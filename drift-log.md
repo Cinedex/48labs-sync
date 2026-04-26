@@ -7966,3 +7966,34 @@ UI primitives
 - **1× MODIFIED**
 
 move to Cloudflare Pages
+
+## 2026-04-22 38853339
+**Files:** 3 total
+- **3× MODIFIED**
+
+sync: dashboard and iPad components — refined versions from Claude Code
+
+## 2026-04-22 22cdea70
+**Files:** 1 total
+- **1× MODIFIED**
+
+sync: BookingFlow.jsx — refined version from Claude Code
+
+## 2026-04-22 f19cdf03
+**Files:** 4 total
+- **4× MODIFIED**
+
+sync: website marketing pages — refined versions from Claude Code
+
+## 2026-04-22 aa4661f4
+**Files:** 6 total
+- **6× MODIFIED**
+
+sync: website booking and auth pages — refined versions from Claude Code
+
+## 2026-04-22 dcb2a8e9
+**Files:** 35 total
+- **3× NEW** (unintegrated)
+- **32× MODIFIED**
+
+merge: bring staging sync commits into main (Phase 3 design sync)

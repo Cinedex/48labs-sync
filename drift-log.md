@@ -11037,3 +11037,24 @@ File changes
 - src/pages/AdminBookNewSession.jsx
 
 ---
+
+## 2026-04-07 c7f24226
+**Commit:** File changes
+**Files changed:** 11
+
+**NEW (2):**
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ui/TabBar.jsx
+
+**MODIFIED (9):**
+- src/components/Sidebar.jsx
+- src/components/booking/ClientSelectStep.jsx
+- src/pages/AdminBookNewSession.jsx
+- src/pages/AdminBookingsManager.jsx
+- src/pages/AdminDashboard.jsx
+- src/pages/AdminFinancialDashboard.jsx
+- src/pages/AdminIntegrations.jsx
+- src/pages/AdminInvoices.jsx
+- src/pages/AdminPricingDashboard.jsx
+
+---

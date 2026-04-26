@@ -10915,3 +10915,13 @@ File changes
 - src/pages/AdminMarketingMedia.jsx
 
 ---
+
+## 2026-04-07 56830b4d
+**Commit:** File changes
+**Files changed:** 2
+
+**MODIFIED (2):**
+- src/components/AdminLayout.jsx
+- src/pages/AdminMarketingMedia.jsx
+
+---

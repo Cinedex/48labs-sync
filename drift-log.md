@@ -10439,3 +10439,12 @@ File changes
 - src/components/ipad/WelcomeScreen.jsx
 
 ---
+
+## 2026-04-11 c323e33f
+**Commit:** File changes
+**Files changed:** 1
+
+**MODIFIED (1):**
+- src/components/Sidebar.jsx
+
+---

@@ -11100,3 +11100,25 @@ File changes
 - ... and 1 more
 
 ---
+
+## 2026-04-06 8373550c
+**Commit:** File changes
+**Files changed:** 12
+
+**NEW (6):**
+- src/components/ui/EmptyState.jsx
+- src/components/ui/FilterPills.jsx
+- src/components/ui/SearchInput.jsx
+- src/components/ui/SettingCard.jsx
+- src/components/ui/Spinner.jsx
+- src/lib/status-styles.jsx
+
+**MODIFIED (6):**
+- src/components/ui/PortalTable.jsx
+- src/pages/AdminBookingsManager.jsx
+- src/pages/AdminClients.jsx
+- src/pages/AdminFinancialDashboard.jsx
+- src/pages/AdminInvoices.jsx
+- src/pages/AdminSettings.jsx
+
+---

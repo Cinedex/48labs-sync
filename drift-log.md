@@ -11222,3 +11222,57 @@ File changes
 - src/pages/AdminUsers.jsx
 
 ---
+
+## 2026-04-22 dcb2a8e9
+
+merge: bring staging sync commits into main (Phase 3 design sync)
+
+**Files:** 35 — 35× NEW
+
+## 2026-04-22 aa4661f4
+
+sync: website booking and auth pages — refined versions from Claude Code
+
+**Files:** 6 — 6× NEW
+
+## 2026-04-22 f19cdf03
+
+sync: website marketing pages — refined versions from Claude Code
+
+**Files:** 4 — 4× NEW
+
+## 2026-04-22 22cdea70
+
+sync: BookingFlow.jsx — refined version from Claude Code
+
+**Files:** 1 — 1× NEW
+
+## 2026-04-22 38853339
+
+sync: dashboard and iPad components — refined versions from Claude Code
+
+**Files:** 3 — 3× NEW
+
+## 2026-04-22 3564003b
+
+sync: RoomForm components — refined versions from Claude Code
+
+**Files:** 2 — 2× NEW
+
+## 2026-04-22 923b30e2
+
+sync: marketing components — refined versions from Claude Code
+
+**Files:** 3 — 3× NEW
+
+## 2026-04-22 18e25d25
+
+sync: booking components — refined versions from Claude Code
+
+**Files:** 2 — 2× NEW
+
+## 2026-04-22 762ca5e0
+
+sync: UI primitives — refined versions from Claude Code
+
+**Files:** 10 — 10× NEW

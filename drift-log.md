@@ -10263,3 +10263,14 @@ File changes
 - src/hooks/useTheme.js
 
 ---
+
+## 2026-04-11 7bd3f848
+**Commit:** File changes
+**Files changed:** 3
+
+**MODIFIED (3):**
+- src/components/ipad/LightingCanvas.jsx
+- src/components/ipad/LightingPanel.jsx
+- src/pages/StudioController.jsx
+
+---

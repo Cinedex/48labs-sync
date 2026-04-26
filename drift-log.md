@@ -10723,3 +10723,15 @@ File changes
 - src/pages/RoomProfile.jsx
 
 ---
+
+## 2026-04-07 d34c0954
+**Commit:** File changes
+**Files changed:** 2
+
+**NEW (1):**
+- src/QA_BOOKING_AUDIT_REAL.md
+
+**MODIFIED (1):**
+- base44/functions/getRoomAvailability/entry.ts
+
+---

@@ -9950,3 +9950,12 @@ File changes
 - src/pages/Studios.jsx
 
 ---
+
+## 2026-04-22 22cdea70
+**Commit:** sync: BookingFlow.jsx — refined version from Claude Code
+**Files changed:** 1
+
+**MODIFIED (1):**
+- src/pages/BookingFlow.jsx
+
+---

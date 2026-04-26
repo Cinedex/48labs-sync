@@ -10095,3 +10095,17 @@ File changes
 - src/database/types/schema.ts
 
 ---
+
+## 2026-04-12 cc98d284
+**Commit:** File changes
+**Files changed:** 6
+
+**MODIFIED (6):**
+- base44/entities/RoomLightingLayout.jsonc
+- base44/entities/iPadCommand.jsonc
+- src/components/ipad/InSessionScreen.jsx
+- src/components/ipad/LightingCanvas.jsx
+- src/components/ipad/LightingPanel.jsx
+- src/components/ipad/MasterIPadView.jsx
+
+---

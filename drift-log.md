@@ -10680,3 +10680,18 @@ File changes
 - src/pages/AdminBookNewSession.jsx
 
 ---
+
+## 2026-04-08 7430e452
+**Commit:** File changes
+**Files changed:** 5
+
+**NEW (1):**
+- src/pages/AdminCalendarSync.jsx
+
+**MODIFIED (4):**
+- src/App.jsx
+- src/components/Sidebar.jsx
+- src/components/bookings/BookingsCalendarView.jsx
+- src/pages/AdminBookingsManager.jsx
+
+---

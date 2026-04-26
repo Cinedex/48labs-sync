@@ -9991,3 +9991,13 @@ File changes
 - src/components/marketing/RoomOperatingHoursDisplay.jsx
 
 ---
+
+## 2026-04-22 18e25d25
+**Commit:** sync: booking components — refined versions from Claude Code
+**Files changed:** 2
+
+**MODIFIED (2):**
+- src/components/booking/BookingDateTimeStep.jsx
+- src/components/booking/ClientSelectStep.jsx
+
+---

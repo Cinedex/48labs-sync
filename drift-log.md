@@ -9959,3 +9959,14 @@ File changes
 - src/pages/BookingFlow.jsx
 
 ---
+
+## 2026-04-22 38853339
+**Commit:** sync: dashboard and iPad components — refined versions from Claude Code
+**Files changed:** 3
+
+**MODIFIED (3):**
+- src/components/dashboard/MonthCalendar.jsx
+- src/components/ipad/FiveMinWarning.jsx
+- src/components/ipad/ThankYouScreen.jsx
+
+---
